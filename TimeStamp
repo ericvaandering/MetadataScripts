@@ -1,0 +1,168 @@
+#! /usr/bin/env python
+# -*- coding: utf-8 -*-
+
+import commands
+import os
+import sys
+import optparse
+import re
+import time
+
+outMap = {'xmp': 'x', 'jpg': 'j', 'cr2': 'c', 'crw': 'w', 'mov': 'm', 'tif': 't', 'png': 'p', 'pcd': 'k',
+          'mpg': 'm', 'cbz2': 'b', 'dng': 'd', 'ojpg': 'o', 'ufraw': 'u', 'avi': 'a'}
+
+parser = optparse.OptionParser(usage="usage: %prog [options]")
+
+parser.add_option(
+        "-n",
+        action="store_true", dest="test",
+        help="Don't change any files, print what would happen")
+
+parser.add_option("-j", "--jpeg",
+                  action="store_true", dest="jpeg",
+                  help="Stamp JPG and MOV files instead of RAW")
+
+parser.add_option("-b", "--backup",
+                  action="store_true", dest="backup",
+                  help="Create a backup copy of the JPEG designated with '-b'")
+
+args = sys.argv
+(options, args) = parser.parse_args(args)
+
+filenames = []
+# Patterns for RAW files and already re-stamped RAW files
+rawFile = re.compile('[ \w\-]+\.(cr2|crw|CR2|CRW|tif|TIF|DNG)')
+stampedRaw = re.compile('([0-9a-f]){8}\.(cr2|crw|CR2|CRW|tif|TIF|DNG)')
+if options.jpeg:
+    print "Doing jpeg files instead"
+    #continue
+    rawFile = re.compile('\w+\.(jpg|JPG|MOV|mov|mpg|MPG|avi|AVI)$')
+    stampedRaw = re.compile('([1-9a-f][0-9a-f]{7})\.(jpg|JPG|MOV|mov|mpg|MPG|avi|AVI)')
+
+
+def exivTS(fileName):
+    seconds = 0
+    cmd =  'exiv2 pr "%s" | grep --binary-files=text "Image timestamp"' % (fileName)
+    try:
+        status,output = commands.getstatusoutput(cmd)
+        for line in output.split('\n'):
+            if line.find("Image timestamp") > -1:
+                timeString = line.split(' : ')[1]
+                #print "Time is ",timeString
+                dt = time.strptime(timeString, '%Y:%m:%d %H:%M:%S')
+                seconds = int(time.mktime(dt))
+    except:
+        pass
+    return seconds
+
+def exivAll(fileName):
+    seconds = 0
+    cmd =  'exiv2 pr -P EIX "%s" | grep -i time' % (fileName)
+    try:
+        status,output = commands.getstatusoutput(cmd)
+        for line in output.split('\n'):
+            if line.find("Exif.Image.DateTime") > -1:
+                timeString = line.split()[3] + ' ' + line.split()[4]
+                dt = time.strptime(timeString, '%Y:%m:%d %H:%M:%S')
+                seconds = int(time.mktime(dt))
+    except:
+        pass
+    return seconds
+
+
+existingTimes = {}
+
+# Collect and categorize filenames
+for fileName in os.listdir('.'):
+    if not rawFile.match(fileName):
+        continue
+    if stampedRaw.match(fileName):
+        existingTimes[int(fileName.split('.')[0], 16)] = True
+        continue
+    filenames.append(fileName)
+    
+bumpedShots = 0
+for infile in sorted(filenames):
+    bumped = False
+    seconds = 0
+    #inString = ''
+    outString = ''
+    outList = []
+
+    inString, extension = infile.split('.')
+
+    # Find time from XMP
+    testFileName = inString + '.xmp'
+    seconds = exivTS(testFileName)
+    if seconds:
+        timeSource = 'X'
+
+    # Find time from CR2/CRW
+    if not seconds:
+        seconds = exivTS(infile)
+        if seconds:
+            timeSource = 'R'
+
+    # Find time from TIF
+    if not seconds:
+      testFileName = inString + '.TIF'
+      seconds = exivAll(testFileName)
+      if seconds:
+	  timeSource = 'T'
+
+    # Find time from JPG
+    # Take timestamp of CR2/CRW
+    if not seconds:
+        seconds = int(os.path.getmtime(infile))
+        timeSource = 't'
+
+    while seconds in existingTimes:
+        bumped = True
+        seconds += 1
+    existingTimes[seconds] = True
+    if bumped:
+        bumpedShots += 1
+
+    newFilename = ("%x.%s" % (seconds,extension)).lower()
+    outString = "%x" % seconds
+    outList.append(outMap[extension.lower()])
+
+    if options.test:
+        pass
+    else:
+        cmd = 'mv -n "%s" %s' % (infile, newFilename)
+        status,output = commands.getstatusoutput(cmd)
+        if status:
+            sys.exit()
+    sideExts = []
+    if not options.jpeg:
+        sideExts = ['xmp', 'jpg', 'JPG', 'png', 'PNG', 'cbz2', 'ojpg', 'ufraw', 'pcd']
+    fullExt = '.' + extension
+    for ext in sideExts:
+        # This may be too risky (screwed up once already) Try with part/ext directly?
+        #newExt = '.' + ext
+        #print "Constructing",infile,newFilename,fullExt,newExt
+        oldXMP = inString  + '.' + ext
+        newXMP = outString + '.' + ext.lower()
+#        print "Checking for ",oldXMP
+        if os.path.exists(oldXMP):
+            outList.append(outMap[ext.lower()])
+            if options.test:
+                pass
+                #print "Rename %s to %s" % (oldXMP, newXMP)
+            else:
+                cmd =  'mv -n "%s" %s' % (oldXMP, newXMP)
+                status,output = commands.getstatusoutput(cmd)
+                if status:
+                    sys.exit()
+                if options.backup and ext in ['jpg','JPG']:
+                    backup = outString + '-b.' + ext.lower()
+                    cmd =  'cp -n "%s" %s' % (newXMP, backup)
+                    status,output = commands.getstatusoutput(cmd)
+
+    print inString,outString,timeSource,''.join(outList) #,seconds
+print "Number of photos:             ",len(filenames)
+print "Total number of shots bumped: ",bumpedShots
+
+exit
+
