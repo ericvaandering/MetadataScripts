@@ -1,0 +1,145 @@
+#! /usr/bin/env python 
+# -*- coding: utf-8 -*-
+
+import commands
+import copy
+import os
+import sys
+
+from lxml import objectify
+from lxml import etree
+
+def xmlSearch(element, searchTree, position):
+    """
+    Recusive search to find an elements in the searchTree
+    """
+    myString = None
+    searchEl = searchTree[position]
+    for el in element.iterchildren():
+        if el.tag == searchEl:
+            if position+1 == len(searchTree):
+                myString = str(el)
+            else:
+                myString = xmlSearch(el, searchTree, position+1)
+            
+            if myString:
+                return myString
+
+    return myString
+    
+
+def xmlSet(element, searchTree, position, value):
+    """
+    Recusive search to find and set elements in the searchTree
+    """
+    
+    hasSet = False
+    searchEl = searchTree[position]
+    for el in element.iterchildren():
+        if el.tag == searchEl:
+            if position+1 == len(searchTree):
+                el._setText(value)
+                hasSet = True
+            else:
+                hasSet = xmlSet(el, searchTree, position+1, value)
+            
+            if hasSet:
+                return hasSet
+
+    return hasSet
+
+captionTree = ["{http://www.w3.org/1999/02/22-rdf-syntax-ns#}RDF",
+               "{http://www.w3.org/1999/02/22-rdf-syntax-ns#}Description",
+               "{http://purl.org/dc/elements/1.1/}description",
+               "{http://www.w3.org/1999/02/22-rdf-syntax-ns#}Alt",
+               "{http://www.w3.org/1999/02/22-rdf-syntax-ns#}li"
+              ]
+titleTree = ["{http://www.w3.org/1999/02/22-rdf-syntax-ns#}RDF",
+               "{http://www.w3.org/1999/02/22-rdf-syntax-ns#}Description",
+               "{http://purl.org/dc/elements/1.1/}title",
+               "{http://www.w3.org/1999/02/22-rdf-syntax-ns#}Alt",
+               "{http://www.w3.org/1999/02/22-rdf-syntax-ns#}li"
+              ]
+
+
+
+fileName = sys.argv[1]
+baseParts = fileName.split('.')[:-1]
+extension = fileName.split('.')[-1]
+baseName = '.'.join(baseParts)
+
+msg = fileName + ': '
+bakName = ''
+tmpName = ''
+if extension == 'xmp':    
+    xmpName = fileName
+    bakName = fileName + '.bak'
+elif extension in ['tif','TIF']:
+    xmpName = 'temp.xmp'
+    tmpName = 'temp.tif'
+elif extension in ['jpg','JPG']:
+    xmpName = 'temp.xmp'
+    tmpName = 'temp.jpg'
+elif extension in ['dng','DNG']:
+    xmpName = 'temp.xmp'
+    tmpName = 'temp.dng'
+else:
+    print "Unknown extension"
+    sys.exit()
+
+if tmpName:
+    status,output = commands.getstatusoutput('rm temp.*; cp %s %s' % (fileName, tmpName))
+    if status:
+        sys.exit()
+        
+    status,output = commands.getstatusoutput('exiv2 -e X %s' % tmpName)
+    if status:
+        sys.exit()
+    
+if not os.path.exists(xmpName):
+    msg += " XMP file does not exist."
+    sys.exit()
+
+lrFile = open(xmpName)   
+lrTree = objectify.parse(lrFile)
+lrRoot = lrTree.getroot()
+
+caption = xmlSearch(lrRoot, captionTree, 0)
+title = xmlSearch(lrRoot, titleTree, 0)
+
+didSet = False
+if caption and title == 'xyzzy':
+    if len(caption) > 50: 
+        msg +=  'too long %s' % caption
+    else:
+        didSet = xmlSet(lrRoot, titleTree, 0, caption)
+    if didSet:
+        if bakName:
+            status,output = commands.getstatusoutput('cp %s %s' % (xmpName, bakName))
+            if status:
+                sys.exit()
+
+        newXmp = open(xmpName, 'w')
+        newXmp.write(etree.tostring(lrRoot, pretty_print=True))
+        newXmp.close()
+        msg += 'set to   %s' % (caption)
+elif not caption:
+    msg += 'no caption set'
+elif not title:
+    msg += 'no title set'
+else:
+    msg += 'already  %s' % title
+
+if tmpName and didSet:    
+    status,output = commands.getstatusoutput('exiv2 -i X %s' % tmpName)
+    if status:
+        sys.exit()
+    
+
+    status,output = commands.getstatusoutput('mv %s %s; rm temp.*' % (tmpName, fileName))
+    if status:
+        sys.exit()
+        
+
+print msg
+sys.exit()
