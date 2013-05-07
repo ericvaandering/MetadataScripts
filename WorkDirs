@@ -1,0 +1,41 @@
+#!/usr/bin/env python
+
+"""
+Create directories for the next 60 days
+Erase empty directories more than 30 days old
+"""
+
+import datetime
+import os
+import errno
+
+START_PATH = os.path.join(os.environ['HOME'], 'data/LRWork')
+
+def mkdir_p(path):
+    try:
+        os.makedirs(path)
+    except OSError as exc: # Python >2.5
+        if exc.errno == errno.EEXIST:
+            pass
+        else: raise
+
+today = datetime.date.today()
+earlyDate = today - datetime.timedelta(365)
+startDate = today - datetime.timedelta(15)
+endDate = today + datetime.timedelta(30)
+
+day = today
+while day <= endDate:
+    path = os.path.join(START_PATH, str(day.year), str(day))
+    mkdir_p(path)
+    day += datetime.timedelta(1)
+
+day = earlyDate
+while day <= startDate:
+    path = os.path.join(START_PATH, str(day.year), str(day))
+    try:
+        os.rmdir(path)
+    except OSError:
+        pass
+    day += datetime.timedelta(1)
+
