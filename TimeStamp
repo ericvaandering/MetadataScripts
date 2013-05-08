@@ -31,20 +31,20 @@ args = sys.argv
 
 filenames = []
 # Patterns for RAW files and already re-stamped RAW files
-rawFile = re.compile('[ \w\-]+\.(cr2|crw|CR2|CRW|tif|TIF|DNG)')
-stampedRaw = re.compile('([0-9a-f]){8}\.(cr2|crw|CR2|CRW|tif|TIF|DNG)')
+rawFile = re.compile(r'[ \w\-]+\.(cr2|crw|CR2|CRW|tif|TIF|DNG)')
+stampedRaw = re.compile(r'([0-9a-f]){8}\.(cr2|crw|CR2|CRW|tif|TIF|DNG)')
 if options.jpeg:
     print "Doing jpeg files instead"
     #continue
-    rawFile = re.compile('\w+\.(jpg|JPG|MOV|mov|mpg|MPG|avi|AVI)$')
-    stampedRaw = re.compile('([1-9a-f][0-9a-f]{7})\.(jpg|JPG|MOV|mov|mpg|MPG|avi|AVI)')
+    rawFile = re.compile(r'\w+\.(jpg|JPG|MOV|mov|mpg|MPG|avi|AVI)$')
+    stampedRaw = re.compile(r'([1-9a-f][0-9a-f]{7})\.(jpg|JPG|MOV|mov|mpg|MPG|avi|AVI)')
 
 
 def exivTS(fileName):
     seconds = 0
     cmd =  'exiv2 pr "%s" | grep --binary-files=text "Image timestamp"' % (fileName)
     try:
-        status,output = commands.getstatusoutput(cmd)
+        status, output = commands.getstatusoutput(cmd)
         for line in output.split('\n'):
             if line.find("Image timestamp") > -1:
                 timeString = line.split(' : ')[1]
@@ -59,7 +59,7 @@ def exivAll(fileName):
     seconds = 0
     cmd =  'exiv2 pr -P EIX "%s" | grep -i time' % (fileName)
     try:
-        status,output = commands.getstatusoutput(cmd)
+        status, output = commands.getstatusoutput(cmd)
         for line in output.split('\n'):
             if line.find("Exif.Image.DateTime") > -1:
                 timeString = line.split()[3] + ' ' + line.split()[4]
@@ -80,7 +80,7 @@ for fileName in os.listdir('.'):
         existingTimes[int(fileName.split('.')[0], 16)] = True
         continue
     filenames.append(fileName)
-    
+
 bumpedShots = 0
 for infile in sorted(filenames):
     bumped = False
@@ -105,10 +105,10 @@ for infile in sorted(filenames):
 
     # Find time from TIF
     if not seconds:
-      testFileName = inString + '.TIF'
-      seconds = exivAll(testFileName)
-      if seconds:
-	  timeSource = 'T'
+        testFileName = inString + '.TIF'
+        seconds = exivAll(testFileName)
+        if seconds:
+            timeSource = 'T'
 
     # Find time from JPG
     # Take timestamp of CR2/CRW
@@ -123,7 +123,7 @@ for infile in sorted(filenames):
     if bumped:
         bumpedShots += 1
 
-    newFilename = ("%x.%s" % (seconds,extension)).lower()
+    newFilename = ("%x.%s" % (seconds, extension)).lower()
     outString = "%x" % seconds
     outList.append(outMap[extension.lower()])
 
@@ -131,7 +131,7 @@ for infile in sorted(filenames):
         pass
     else:
         cmd = 'mv -n "%s" %s' % (infile, newFilename)
-        status,output = commands.getstatusoutput(cmd)
+        status, output = commands.getstatusoutput(cmd)
         if status:
             sys.exit()
     sideExts = []
@@ -152,17 +152,17 @@ for infile in sorted(filenames):
                 #print "Rename %s to %s" % (oldXMP, newXMP)
             else:
                 cmd =  'mv -n "%s" %s' % (oldXMP, newXMP)
-                status,output = commands.getstatusoutput(cmd)
+                status, output = commands.getstatusoutput(cmd)
                 if status:
                     sys.exit()
                 if options.backup and ext in ['jpg','JPG']:
                     backup = outString + '-b.' + ext.lower()
                     cmd =  'cp -n "%s" %s' % (newXMP, backup)
-                    status,output = commands.getstatusoutput(cmd)
+                    status, output = commands.getstatusoutput(cmd)
 
-    print inString,outString,timeSource,''.join(outList) #,seconds
-print "Number of photos:             ",len(filenames)
-print "Total number of shots bumped: ",bumpedShots
+    print inString, outString, timeSource, ''.join(outList) #,seconds
+print "Number of photos:             ", len(filenames)
+print "Total number of shots bumped: ", bumpedShots
 
 exit
 
