@@ -9,12 +9,15 @@ flacPath = '/Volumes/data-vondo/CDs/flac/'
 alacPath = '/Users/ewv/data/CDs/alac/'
 xld = '/Users/ewv/bin/xld'	
 
+# TODO: Bidirectional
+# TODO: Detect timestamps, touch original file as well to match timestamps
+# TODO: Command line params for matching
+# TODO: Break out as functions as needed
+
 
 if __name__ == "__main__":
 	
 	for root, dirs, files in os.walk(flacPath):
-#		print root, dirs, files
-#		print string.find(root, 'U2')
  		if string.find(root, 'Lovett') == -1:
  			continue	
 
@@ -24,14 +27,12 @@ if __name__ == "__main__":
 				
 				alacBase = re.sub('^%s' % flacPath, alacPath, root)		
 				
-
 				alacShort = 	re.sub('%s$' % 'flac', 'm4a', file)	
  				alacFile = os.path.join(alacBase, alacShort)
  				if not os.path.exists(alacBase):
  					os.makedirs(alacBase)
- 				print "Converting", flacFile
  				if not os.path.exists(alacFile):
- 					pass
+ 					print "Converting", flacFile
+
  					subprocess.call([xld, '-f', 'alac', '-o', alacFile, flacFile])
-# 					print flacFile, 'to', alacFile
  					
