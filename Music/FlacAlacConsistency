@@ -18,21 +18,21 @@ xld = '/Users/ewv/bin/xld'
 if __name__ == "__main__":
 	
 	for root, dirs, files in os.walk(flacPath):
- 		if string.find(root, 'Lovett') == -1:
- 			continue	
+ 		if string.find(root, 'Various Artists') != -1:
+ 			pass
+# 			continue	
 
 		for file in files:
 			if file.endswith('.flac'):
 				flacFile = os.path.join(root, file)
 				
 				alacBase = re.sub('^%s' % flacPath, alacPath, root)		
-				
-				alacShort = 	re.sub('%s$' % 'flac', 'm4a', file)	
+				alacShort = re.sub('%s$' % 'flac', 'm4a', file)	
  				alacFile = os.path.join(alacBase, alacShort)
+ 				
  				if not os.path.exists(alacBase):
  					os.makedirs(alacBase)
  				if not os.path.exists(alacFile):
- 					print "Converting", flacFile
-
+ 					print "Converting", flacFile, 'to m4a'
  					subprocess.call([xld, '-f', 'alac', '-o', alacFile, flacFile])
  					

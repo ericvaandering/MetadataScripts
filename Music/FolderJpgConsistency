@@ -1,0 +1,46 @@
+#! /usr/bin/env python
+
+import os
+import re
+import shutil
+#import subprocess
+#import string
+
+flacPath = '/Volumes/data-vondo/CDs/flac/'
+alacPath = '/Users/ewv/data/CDs/alac/'
+
+jpgPath = '/Users/ewv/data/graphics/CD Covers/'
+
+# TODO: Bidirectional
+# TODO: Detect timestamps, touch original file as well to match timestamps
+# TODO: Command line params for matching
+# TODO: Break out as functions as needed
+
+
+if __name__ == "__main__":
+	
+	for root, dirs, files in os.walk(flacPath):
+		for file in files:
+			if file.endswith('folder.jpg'):
+				folderJPG = os.path.join(root, file)
+				
+				dummy, album = os.path.split(root)
+				dummy, artist = os.path.split(dummy)
+				
+				jpgFile = os.path.join(jpgPath, '%s-%s.jpg' % (artist, album))
+				if not os.path.exists(jpgFile):
+				    print "Found a new folder.jpg", folderJPG, 'to copy to', jpgFile				
+				    shutil.copy2(folderJPG, jpgFile)
+
+	for root, dirs, files in os.walk(alacPath):
+		folderJPG = os.path.join(root, 'folder.jpg')
+		if not os.path.exists(folderJPG):
+			try:
+				dummy, album = os.path.split(root)
+				dummy, artist = os.path.split(dummy)
+				jpgFile = os.path.join(jpgPath, '%s-%s.jpg' % (artist, album))
+				if os.path.exists(jpgFile):
+				    print "Found a new JPG", jpgFile, 'to copy to', root				
+				    shutil.copy2(jpgFile, folderJPG)
+			except:
+				print "Problem parsing", root
