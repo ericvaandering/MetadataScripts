@@ -1,0 +1,39 @@
+#! /usr/bin/env python
+
+import os
+import re
+import subprocess
+import string
+
+aacPath = '/Volumes/Archive/CDs-aac/'
+alacPath = '/Users/ewv/data/CDs-alac/'
+xld = '/Users/ewv/bin/xld'	
+
+# TODO: Bidirectional
+# TODO: Detect timestamps, touch original file as well to match timestamps
+# TODO: Command line params for matching
+# TODO: Break out as functions as needed
+
+
+if __name__ == "__main__":
+	
+	for root, dirs, files in os.walk(alacPath):
+ 		if string.find(root, 'Various Artists') != -1:
+ 			pass
+# 			continue	
+
+		for file in files:
+			if file.endswith('.m4a'):
+				alacFile = os.path.join(root, file)
+				
+				aacBase = re.sub('^%s' % alacPath, aacPath, root)		
+				aacShort = file #re.sub('%s$' % 'flac', 'm4a', file)	
+ 				aacFile = os.path.join(aacBase, aacShort)
+ 			#	print "looking for ",aacFile
+ 			#	continue
+ 				if not os.path.exists(aacBase):
+ 					os.makedirs(aacBase)
+ 				if not os.path.exists(aacFile):
+ 					print "Converting", alacFile, 'to aac'
+ 					subprocess.call([xld, '-f', 'aac', '-o', aacFile, alacFile])
+ 					
