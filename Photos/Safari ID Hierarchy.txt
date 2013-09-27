@@ -1,0 +1,14 @@
+ID-Bird
+	ID-Dove
+	ID-Duck
+	ID-Heron
+	ID-Ibis
+	ID-Pelican
+	ID-Raptor
+	ID-Vulture
+ID-Known
+ID-Mammal
+	ID-Mongoose
+ID-NotNeeded
+ID-People
+ID-Reptile

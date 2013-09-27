@@ -1,0 +1,72 @@
+ID-Algae
+ID-Fish
+	ID-Barracuda
+	ID-Bass-Grouper
+		ID-Anthias
+	ID-Butterfly-Angel
+	ID-Cardinal
+	ID-Catfish
+	ID-Damsel
+		ID-AnemoneFish
+	ID-Eel
+	ID-Flounder-Sole
+	ID-Goatfish
+	ID-Goby-Blennie
+		ID-Blenny
+		ID-Goby
+		ID-Jawfish
+		ID-ShrimpGoby
+	ID-GruntSweetlips
+	ID-Hawkfish
+	ID-Jack
+	ID-Lizardfish
+	ID-Parrot
+	ID-Puffer
+		ID-BoxCow
+	ID-Razorfish
+	ID-Scorp
+		ID-Frogfish
+		ID-Lionfish
+		ID-Waspfish
+	ID-Seahorse
+	ID-Shark Ray
+	ID-ShrimpFish
+	ID-Squirrelfish
+	ID-Trigger
+	ID-Wrasse
+ID-Huh
+ID-Invert
+	ID-Anemone
+	ID-Coral
+		ID-Black Coral
+		ID-Gorgonian
+		ID-Soft Coral
+		ID-Sponge
+		ID-Stony Coral
+	ID-Crustacean
+		ID-Amphipod
+		ID-Crab
+		ID-Mantis
+		ID-Shrimp
+		ID-SlipperLobster
+		ID-Squat
+	ID-Echinoderm
+		ID-BasketStar
+		ID-BrittleStar
+		ID-Crinoid
+		ID-SeaCucumber
+		ID-SeaStar
+		ID-Urchin
+	ID-Jelly
+	ID-Mollusc
+		ID-Bivalve
+		ID-Cephelopod
+		ID-Slug-Nudi
+		ID-Snail
+	ID-Tunicate
+	ID-Worm
+ID-Known
+ID-More
+ID-NotNeeded
+ID-People
+ID-Reptile
