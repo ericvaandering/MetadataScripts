@@ -19,6 +19,7 @@ Activities & Events
 	Celebrations
 		Backyard
 		Birthday
+		Fireworks
 	Concert
 	Culture
 	Dance
@@ -63,15 +64,12 @@ Activities & Events
 		High Energy Physics
 	Sports
 		Boating
-		Hiking
 		Horseback Riding
 		Individual
 			Mountaineering
 			Skiing
 		Kayaking
 		Team
-		White Water Rafting
-		Ziplining
 	Technology
 	Tourism
 	Wedding
@@ -80,9 +78,6 @@ Animals
 		Frogs
 			Bullfrog
 				{Rana catesbeiana}
-			Green and Black Poison Dart Frog
-				{Dendrobates auratus}
-			Strawberry Poison-dart Frog
 		Toads
 	Birds
 		Cranes & Coots & Rails
@@ -249,6 +244,9 @@ Animals
 			Kinglets
 				Golden-crowned Kinglet
 			Northern Cardinal
+			Oxpeckers
+				Yellow-billed Oxpecker
+					{Buphagus africanus}
 			Shrikes
 				Common Fiscal
 					{Lanius collaris}
@@ -513,9 +511,9 @@ Animals
 					{Abudefduf sexfasciatus}
 				Sergeant Major
 				Sulphur Damsel
-				Threespot Damselfish
 				Three-spot Dascyllus
 					{Dascyllus trimiculatus}
+				Threespot Damselfish
 				Yellowtail Damselfish
 			Dartfishes
 				Blackfin Dartfish
@@ -803,11 +801,11 @@ Animals
 					{Scorpaenopsis diabolus}
 				Lionfishes
 					Clearfin Lionfish
-					Common Lionfish
+					Indian Lionfish
 						{Pterois miles}
-					Red Lionfish
 					Shortfin Dwarf Lionfish
 						{Dendrochirus brachypterus}
+					Volitans (Red) Lionfish
 				Madeira rockfish
 				Rainbow Scorpionfish
 				Reef Scorpionfish
@@ -846,10 +844,10 @@ Animals
 					{Hippocampus suezensis}
 				Harlequin Pipefish
 				Lined Seahorse
-				Longsnout Seahorse
-					{Hippocampus Reidi}
 				Long-snouted Seahorse
 					{Hippocampus Hippocampus}
+				Longsnout Seahorse
+					{Hippocampus Reidi}
 				Network Pipefish
 				Red Sea Pipefish
 				Shortfin Pipefish
@@ -875,9 +873,9 @@ Animals
 					Decorator Crab
 					Hairy Clinging Crab
 					Nimble Spray Crab
+					Red-spotted Guard Crab
 					Redeye Sponge Crab
 					Redhair Swimming Crab
-					Red-spotted Guard Crab
 					Rough Box Crab
 					Sheep Crab
 					Spider Crabs
@@ -1133,7 +1131,7 @@ Animals
 			Octopuses
 				Atlantic Pygmy Octopus
 				Common Octopus
-				Reef Octopus
+				Reef Octopus - cyanea is correct - day octopus
 					{Octopus cyaneus}
 			Pharao Cuttlefish
 		Segmented Worms
@@ -1282,7 +1280,6 @@ Animals
 				Giant Hog
 				Warthog
 					{Phacochoerus africanus}
-		Hoffman's Two-toed Sloth
 		Odd Toed Ungulates
 			Horses & Asses
 				Common Zebra
@@ -1339,14 +1336,11 @@ Animals
 			Zero
 	Reptiles
 		Crocodilians
-			American Crocodile
-				{Crocodylus acutus}
 			Caiman
 			Nile Crocodile
 		Lizards
 			Agama Agama
 			Brown basilisk
-			Green Iguana
 			Rock Monitor
 				{Varanus albigularis}
 		Snakes
@@ -1463,9 +1457,11 @@ Dive Sites
 		Buccaneer
 		Car Ferry #2
 		Fin Seeker
+		George W Morley
 		Illinois Dredge & Holly Barge
 		Lady Elgin
 		Louisville
+		Mahoning
 		Material Service Barge
 		Milwaukee Car Ferry
 		Niagara
@@ -1520,6 +1516,8 @@ Dive Sites
 		Umm Erug (St.  Johns)
 		Umm Hararim
 		Zabargad SW/E?
+Industrial Building
+Obelisk
 People
 	Candid
 	CMS Collaborators
@@ -1539,6 +1537,7 @@ People
 		Simon Metson
 		Steve Foulkes
 		Stuart Wakefield
+		Sudhir Malik
 	Crowd
 	Descriptors
 		Adults
@@ -1611,10 +1610,12 @@ People
 		Turkana
 	Me
 	Role
+		Diners
 		Models
 		Officials
 			Police
 			Soldiers
+		Performance Artists
 		Professionals
 			Journalist
 		Religious
@@ -1641,7 +1642,6 @@ People
 		Bahamas 2006 Companions
 		Bahamas 2008 Companions
 		Belize
-		Costa Rica Companions
 		Golden Dolphin Companions
 			Daniele Hazard
 		SCUBA Divers
@@ -1766,7 +1766,6 @@ Styles
 		Meadow
 		Natural pools
 		Ocean
-		Rainforest
 		River
 		Rock Formations
 			Arch
@@ -1774,7 +1773,6 @@ Styles
 		Shore
 		Snow
 		Stream
-		Volcano
 		Waves
 	Nautical
 	News
@@ -1820,6 +1818,7 @@ Technical Specs
 	Process Tags
 		Check location
 		Edit in LR
+			Object clone with feather
 			Radial filter
 		Editing in LR
 		Exposure bad?
@@ -1828,11 +1827,12 @@ Technical Specs
 		More WB correction
 		Needs ID
 		Point curve develop
-		Redo GPS
 		Re-export in LR
+		Redo GPS
 		Relocate
 		Rename
 		Reorg parent topic
+			Duplicated Keyword
 		Set Date
 		Stitch
 		UFRaw
@@ -1844,22 +1844,27 @@ Technical Specs
 Things & Objects
 	Art
 		Ancient Manuscript
-		Cave Painting
+		Fine art
+		Modern Art
 		Painting
+			Cave Painting
+			Mural
 		Sculpture
+		Stained Glass
 	Bell
 	Bird nest
 	Bones
 	Camera
 	Clock
-	Fine art
 	Flag
 	Food
 	Footprints
 	Homes
+	Scientific Instrument
 	SCUBA gear
 	Shipwreck
 	Signs
+		Announcement
 		Humorous
 		Informative
 		Neon Sign
@@ -1895,6 +1900,7 @@ Things & Objects
 			My House
 			Office
 			Palace
+			Public Transit
 			Residential Building
 			Resort
 			Restaurant
@@ -1946,6 +1952,7 @@ Things & Objects
 		Fire truck
 		Gondola
 		Helicopter
+		Human Powered
 		Motorcycle
 		Ship
 		Spacecraft
