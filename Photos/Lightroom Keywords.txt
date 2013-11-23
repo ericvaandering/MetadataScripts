@@ -293,7 +293,6 @@ Animals
 		Pelicaniformes
 			African Spoonbill
 				{Platalea alba}
-			Anhinga
 			Boobies
 				Red-footed Booby
 			Cormorants
@@ -301,9 +300,10 @@ Animals
 				Long-tailed Cormorant
 				Reed Cormorant
 					{Microcarbo africanus}
-			Darters XXX add Anhinga
+			Darters
 				African Darter
 					{Anhinga rufa}
+				Anhinga
 			Frigate Birds
 				Magnificent Frigate Bird
 			Herons
