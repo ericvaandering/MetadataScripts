@@ -7,11 +7,14 @@ Activities & Events
 		Drinking
 		Feeding
 		Flying
+		Grooming
 		Hunting
+		Kills
 		Mother animal & child
 		Nursing
 		Running
 		Scratching
+		Swimming
 	Artist
 	Arts
 		Music
@@ -64,6 +67,7 @@ Activities & Events
 		High Energy Physics
 	Sports
 		Boating
+		Camping
 		Horseback Riding
 		Individual
 			Mountaineering
@@ -174,6 +178,8 @@ Animals
 				Bateleur
 				Martial Eagle
 					{Polemaetus bellicosus}
+				Steppe Eagle
+					{Aquila nipalensis}
 				Tawny Eagle
 					{Aquila rapax}
 			Hawks
@@ -195,6 +201,9 @@ Animals
 				Rueppel's Vulture
 		Kingfishers and relatives
 			{Coraciiformes}
+			Bee-eaters
+				Southern Carmine Bee-eater
+					{Merops nubicoides}
 			Hornbills
 				Bradfield's Hornbill
 					{Tockus bradfieldi}
@@ -221,6 +230,8 @@ Animals
 				{Megascops asio}
 			Great Horned Owl
 				{Bubo virgianus}
+			Pearl-spotted Owlet
+				{Glaucidium perlatum}
 			Verreaux's Eagle Owl
 		Parrots
 			{Psittaciformes}
@@ -264,6 +275,8 @@ Animals
 			Swallows
 				Barn Swallow
 				Tree Swallow
+				Wire-tailed Swallow
+					{Hirundo smithii}
 			Thrashers & Mockingbirds
 				{Mimidae}
 				Brown Thrasher
@@ -278,18 +291,29 @@ Animals
 			Weavers
 				Golden-backed Weaver
 		Pelicaniformes
+			African Spoonbill
+				{Platalea alba}
 			Anhinga
 			Boobies
 				Red-footed Booby
 			Cormorants
 				Double-Crested Cormorant
 				Long-tailed Cormorant
+				Reed Cormorant
+					{Microcarbo africanus}
+			Darters XXX add Anhinga
+				African Darter
+					{Anhinga rufa}
 			Frigate Birds
 				Magnificent Frigate Bird
 			Herons
 				African Sacred Ibis
 					{Threskiornis aethiopicus}
 				Black-headed Heron
+				Cattle Egret
+					{Bubulcus ibis}
+				Glossy Ibis
+					{Plegadis falcinellus}
 				Goliath Heron
 				Great Blue Heron
 				Great Egret
@@ -318,6 +342,8 @@ Animals
 				{Pterocles burchelli}
 		Shorebirds and relatives
 			{Order Charadriiformes}
+			African Skimmer
+				{Rynchops flavirostris}
 			Avocets and Stilts
 				{Recurvirostridae}
 				Black-winged Stilt
@@ -325,6 +351,8 @@ Animals
 			Gulls
 				Black Skimmer
 					{Rynchops niger}
+				Grey-headed Gull
+					{Chroicophalus cirrocephalus}
 				Laughing Gull
 				Lesser Black-backed Gull
 			Jacanas
@@ -339,9 +367,13 @@ Animals
 				Crowned Lapwing
 					{Vanellus coronatus}
 				Killdeer
+				Long-toed Lapwing
+					{Vanellus crassirostris}
 		Storks and relatives
 			{Ciconiiformes}
 			Storks
+				African Openbill
+					{Anastomus lamelligerus}
 				Hamerkop
 					{Scopus umbretta}
 				Jabiru Stork
@@ -380,6 +412,9 @@ Animals
 		Clingfishes
 			{Gobiesociformes}
 			Red Clingfish
+		Damselfishes
+			Anemonefishes
+				Red Sea Anemonefish
 		Eels & Morays
 			{Anguilliformes}
 			Conger Eels
@@ -413,6 +448,8 @@ Animals
 			Peacock Flounder
 			Spiny Flounder
 			Wide-eyed Flounder
+		Gobies
+			Round Goby (FW)
 		Grinners
 			{Aulopiformes}
 			Lizardfishes
@@ -836,6 +873,8 @@ Animals
 			{Gasterosteiformes}
 			Short Dragonfish
 				{Eurypegasus draconis}
+		Surgeonfishes & Tangs & Unicornfishes
+			Doctorfish
 		Syngnathiformes
 			Pipefishes & Seahorses
 				Broadnosed Pipefish
@@ -858,6 +897,8 @@ Animals
 		Toadfishes
 			{Batrachoidiformes}
 			Splendid Toadfish
+		Wrasses
+			Spanish Hogfish
 	Invertebrates
 		Arthropods
 			Arachnids
@@ -1263,6 +1304,8 @@ Animals
 							{Kobus leche}
 					Roan Antelope
 						{Hippotragus equinus}
+					Sable Antelope
+						{Hippotragus niger}
 					Springbok
 						{Antidorcas marsupialis}
 					Waterbuck
@@ -1341,10 +1384,16 @@ Animals
 		Lizards
 			Agama Agama
 			Brown basilisk
+			Ground Agama
+				{Agama aculeata}
+			Nile Monitor
+				{Varanus niloticus}
 			Rock Monitor
 				{Varanus albigularis}
 		Snakes
 			Coral Snake (Micrurus sp.)
+			Striped Belly Sand Snake
+				{Psammophis subtaeniatus}
 			Urutu Pit Viper
 		Turtles and Tortoises
 			Common Map Turtle
@@ -1692,6 +1741,7 @@ Plants
 	Grasses
 	Mushrooms
 	Trees and Bushes
+		Stump
 	Water Plants
 	Wild Fruit
 Styles
@@ -1844,6 +1894,7 @@ Technical Specs
 Things & Objects
 	Art
 		Ancient Manuscript
+		Drawing
 		Fine art
 		Modern Art
 		Painting
