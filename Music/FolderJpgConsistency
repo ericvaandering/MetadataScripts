@@ -40,7 +40,7 @@ if __name__ == "__main__":
         	for album in dirs:
         		CopyToMusic(artist, album, aacPath)
 
-    exit
+#    exit
 
 
     for root, dirs, files in os.walk(flacPath):
@@ -58,6 +58,7 @@ if __name__ == "__main__":
 
     for root, dirs, files in os.walk(alacPath):
         folderJPG = os.path.join(root, 'folder.jpg')
+        print "Looking for ", folderJPG
         if not os.path.exists(folderJPG):
             try:
                 dummy, album = os.path.split(root)
