@@ -1,0 +1,91 @@
+#! /usr/bin/env python
+# -*- coding: utf-8 -*-
+
+import argparse
+import copy
+import sys
+
+def read_keywords(input):
+
+    """
+    Translate keyword file into a nested structure with children (recursive)
+    and synonyms.
+    """
+
+    keywords = {}
+    keyword_stack = []
+    empty_keyword = {'children' : {}, 'synonyms' : [], }
+
+    last_level = 0
+    for raw_line in input:
+        line = raw_line.rstrip()
+        keyword = line.lstrip()
+        level = len(line)-len(keyword)
+
+        if (len(keyword) == 0) :
+            continue
+        if level == 0:
+            keywords[keyword] = copy.deepcopy(empty_keyword)
+            keyword_stack.append(keywords[keyword])
+            last_level = level
+        elif level > last_level:
+            if keyword.startswith('{'):
+                synonym = keyword.strip('{}')
+                keyword_stack[-1]['synonyms'].append(synonym)
+            else:
+                keyword_stack[-1]['children'].update({keyword : copy.deepcopy(empty_keyword)})
+                keyword_stack.append(keyword_stack[-1]['children'][keyword])
+                last_level = level
+        elif level <= last_level:
+            for i in range(0, last_level-level+1):
+                keyword_stack.pop()
+
+            keyword_stack[-1]['children'].update({keyword : copy.deepcopy(empty_keyword)})
+            keyword_stack.append(keyword_stack[-1]['children'][keyword])
+            last_level = level
+
+    return keywords
+
+def write_keywords(output, keywords):
+    """
+    Write a nested structure with children (recursive)
+    and synonyms back out into the Adobe Lightroom formatted file.
+    """
+
+    def print_keyword(name, keyword, depth):
+        padding = '\t' * depth
+        output.write(padding + name + '\n')
+        for synonym in sorted(keyword['synonyms']):
+            padding = '\t' * (depth+1)
+            output.write(padding + '{' + synonym + '}\n')
+
+        for child in sorted(keyword['children'].iterkeys()):
+            print_keyword(child, keyword['children'][child], depth + 1)
+
+    for keyword in sorted(keywords.iterkeys()):
+        print_keyword(keyword, keywords[keyword], 0)
+
+
+if __name__ == "__main__":
+
+    """
+    Convert keywords to/from Lightroom Keyword Project format from/to my format
+    """
+
+    parser = argparse.ArgumentParser(description='Convert keywords between Lightroom Keyword Project format and my format')
+    parser.add_argument('input_file')
+    parser.add_argument('output_file')
+#    parser.add_argument('-r', '--repo', help='Github repository name')
+    args = parser.parse_args()
+
+    input_file = vars(args)['input_file']
+    output_file = vars(args)['output_file']
+
+    input = open(input_file, 'r')
+    output = open(output_file, 'w')
+
+    keywords = read_keywords(input)
+    write_keywords(output, keywords)
+
+
+
