@@ -1,0 +1,288 @@
+[COLOUR #]
+	shade of blue
+		air force blue
+		air superiority blue
+		alice blue
+		azure
+		baby blue
+		bleu de france
+		blue
+		blue-gray
+		bondi blue
+		brandeis blue
+		cambridge blue
+		carolina blue
+		cobalt blue
+		columbia blue
+		cornflower blue
+		dark blue
+		deep sky blue
+		dodger blue
+		duke blue
+		egyptian blue
+		electric blue
+		electric indigo
+		eton blue
+		federal blue
+		glaucous
+		international klein blue
+		iris
+		light blue
+		majorelle blue
+		maya blue
+		midnight blue
+		navy blue
+		non-photo blue
+		oxford blue
+		palatinate blue
+		periwinkle
+		persian blue
+		phthalo blue
+		powder blue
+		prussian blue
+		royal blue
+		sapphire
+		sky blue
+		steel blue
+		tiffany blue
+		tufts blue
+		ultramarine
+		yale blue
+		zaffre
+	shade of brown
+		auburn
+		beaver
+		beige
+		bistre
+		bole
+		bronze
+		brown
+		burgundy
+		burnt sienna
+		burnt umber
+		camel
+		chamoisee
+		chestnut
+		chocolate
+		citrine
+		coffee
+		copper
+		cordovan
+		desert sand
+		earth yellow
+		ecru
+		fallow
+		fawn
+		field drab
+		fulvous
+		lion
+		liver
+		mahogany
+		maroon
+		ochre
+		raw umber
+		redwood
+		rufous
+		russet
+		sand
+		sandy brown
+		seal brown
+		sepia
+		sienna
+		sinopia
+		tan
+		tawny
+		umber
+		wenge
+		wheat
+	shade of cyan
+		aqua
+		aquamarine
+		celeste
+		cerulean
+		cyan
+		magic mint
+		robin egg blue
+		skobeloff
+		teal
+		turquoise
+	shade of gray
+		ash gray
+		battleship gray
+		black
+		cadet gray
+		charcoal
+		cool gray
+		davy's gray
+		gray
+		gunmetal
+		medium taupe
+		payne's gray
+		purple taupe
+		rose quartz
+		silver
+		slate gray
+		taupe
+		taupe gray
+		timberwolf
+		white
+	shade of green
+		apple green
+		asparagus
+		bright green
+		cal poly
+		chartreuse
+		dark olive green
+		dark spring green
+		dartmouth green
+		fern green
+		forest green
+		green
+		harlequin
+		honeydew
+		hunter green
+		india green
+		islamic green
+		jungle green
+		lawn green
+		lime
+		lime green
+		mantis
+		mint
+		mint cream
+		office green
+		olive
+		olive drab
+		pakistan green
+		paris green
+		persian green
+		phthalo green
+		pigment green
+		pine green
+		pistachio
+		sea green
+		shamrock green
+		spring bud
+		spring green
+		yellow-green
+	shade of orange
+		amber
+		atomic tangerine
+		bittersweet
+		burnt orange
+		carrot orange
+		champagne
+		coral
+		dark salmon
+		deep carrot orange
+		flame
+		gamboge
+		international orange
+		old gold
+		orange
+		orange peel
+		orange-red
+		papaya whip
+		peach
+		peach-orange
+		peach-yellow
+		persian orange
+		portland orange
+		princeton orange
+		pumpkin
+		rust
+		safety orange
+		salmon
+		satin sheen gold
+		sunset
+		tangelo
+		tangerine
+		tea rose
+		tenne
+		tomato
+		vermilion
+	shade of pink
+		amaranth
+		amaranth pink
+		brink pink
+		carnation pink
+		cerise
+		coral pink
+		deep carmine
+		deep pink
+		french rose
+		hollywood cerise
+		hot magenta
+		hot pink
+		lavender pink
+		persian rose
+		pink
+		puce
+		rose pink
+		ruby
+		salmon pink
+		shocking pink
+		thulian pink
+		ultra pink
+	shade of red
+		cardinal
+		carmine
+		crimson
+		dark red
+		electric crimson
+		fire brick
+		folly
+		lust
+		raspberry
+		red
+		rosewood
+		scarlet
+		terra cotta
+		tuscan red
+		wine
+	shade of violet
+		amethyst
+		byzantium
+		eggplant
+		fandango
+		fuchsia
+		heliotrope
+		indigo
+		lavender blush
+		lavender floral
+		magenta
+		orchid
+		plum
+		purple
+		red-violet
+		rose
+		thistle
+		violet
+		violet-blue
+		wisteria
+	shade of yellow
+		amber
+		apricot
+		buff
+		cream
+		dark goldenrod
+		gold
+		gold metallic
+		goldenrod
+		green-yellow
+		jasmine
+		jonquil
+		khaki
+		lemon chiffon
+		light yellow
+		maize
+		mikado yellow
+		naples yellow
+		navajo white
+		saffron
+		school bus yellow
+		selective yellow
+		stil de grain yellow
+		sunglow
+		vanilla
+		yellow

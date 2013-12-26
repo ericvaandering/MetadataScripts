@@ -1,0 +1,237 @@
+feline
+	{felid}
+	African Golden Cat
+		{Profelis aurata}
+	Andean Mountain Cat
+		{Leopardus jacobita}
+	Asian Golden Cat
+		{Pardofelis temminckii}
+		{Catopuma temminckii}
+		{Temminck's Cat}
+	Bay Cat
+		{Pardofelis badia}
+		{Bornean Cat}
+		{Bornean Marbled Cat}
+	Black-footed Cat
+		{Felis nigripes}
+	Bobcat
+		{Lynx rufus}
+	Canadian Lynx
+		{Lynx canadensis}
+	Caracal
+		{Caracal caracal}
+	cat
+		{domestic cat}
+		{Felis catus}
+		{Felis silvestris catus}
+		Abyssinian Cat
+		Aegean Cat
+		American Bobtail Cat
+		American Curl  Cat
+		American Longhair  Cat
+			{Maine Coon Cat}
+		American Shorthair Cat
+		American Wirehair  Cat
+		Arabian Mau  Cat
+		Asian  Cat
+			{Malayan Cat}
+		Asian Semi-Longhair Cat
+		Australian Mist  Cat
+		Balinese  Cat
+		Bambino  Cat
+		Bengal  Cat
+		Birman  Cat
+			{Sacred Cat of Burma}
+		Bombay Cat
+		Brazilian Shorthair Cat
+		British Longhair Cat
+		British Shorthair Cat
+		Burmese Cat
+		Burmilla Cat
+		Calico Cat
+		California Spangled Cat
+		Chartreux Cat
+		Chausie Cat
+		Cheetoh Cat
+		Colorpoint Shorthair Cat
+		Cornish Rex Cat
+		Cymric Cat
+		Devon Rex Cat
+		Domestic Shorthair Cat
+		Donskoy Cat
+		Dragon Li Cat
+		Egyptian Mau Cat
+		European Shorthair Cat
+		Exotic Shorthair Cat
+		German Rex Cat
+		Havana Brown Cat
+		Himalayan Cat
+		Japanese Bobtail Cat
+		Javanese Cat
+		Korat Cat
+		Kurilian Bobtail Cat
+		Laperm Cat
+		Manx Cat
+		Minskin Cat
+		Munchkin Cat
+		Nebelung Cat
+		Norwegian Forest Cat
+		Ocicat Cat
+		Ojos Azules Cat
+		Oregon Rex Cat
+		Oriental Bicolor Cat
+		Oriental Longhair Cat
+			{British Angora}
+		Oriental Shorthair Cat
+		Persian Cat
+		Peterbald Cat
+		Pixie-Bob Cat
+		Ragamuffin Cat
+		Ragdoll Cat
+		Russian Blue Cat
+		Savannah Cat
+		Scottish Fold Cat
+		Selkirk Rex Cat
+		Serengeti Cat
+		Siamese Cat
+		Siberian Cat
+		Singapura Cat
+		Snowshoe Cat
+		Sokoke Cat
+		Somali Cat
+		Sphynx Cat
+		Thai Cat
+		Tonkinese Cat
+		Toyger Cat
+		Turkish Angora Cat
+		Turkish Van Cat
+		Ukrainian Levkoy Cat
+		Ussuri Cat
+		York Chocolate Cat
+	Cheetah
+		{Acinonyx jubatus}
+	Chinese Mountain Cat
+		{Felis bieti}
+		{Chinese Desert Cat}
+		{Chinese Steppe Cat}
+	Clouded Leopard
+		{Neofelis nebulosa}
+	Colocolo
+		{Leopardus colocolo}
+	Cougar
+		{Puma concolor}
+		{Puma}
+		{Mountain lion}
+		{catamount}
+	Eurasian Lynx
+		{Lynx lynx}
+	Fishing Cat
+		{Prionailurus viverrinus}
+	Flat-headed Cat
+		{Prionailurus planiceps}
+	Geoffroy's Cat
+		{Leopardus geoffroyi}
+	Iberian Lynx
+		{Lynx pardinus}
+	Iriomote Cat
+		{Prionailurus bengalensis iriomotensis}
+	Jaguar
+		{Panthera onca}
+	Jaguarundi
+		{Puma yagouaroundi}
+	Jungle Cat
+		{Felis chaus}
+	Kodkod
+		{Leopardus guigna}
+	leopard
+		African Leopard
+			{P. p. pardus}
+		Amur Leopard
+			{P. p. orientalis}
+		Anatolian Leopard
+			{P. p. tulliana}
+		Arabian Leopard
+			{P. p. nimr}
+		Balochistan Leopard
+			{P. p. sindica}
+		Indian Leopard
+			{P. p. fusca}
+		Indochinese Leopard
+			{P. p. delacouri}
+		Javan Leopard
+			{P. p. melas}
+		North Chinese Leopard
+			{P. p. japonensis}
+		Persian Leopard
+			{P. p. saxicolor}
+		Sri Lankan Leopard
+			{P. p. kotiya}
+	Leopard Cat
+		{Prionailurus bengalensis}
+	lion
+		Asiatic Lion
+			{P. l. persica}
+			{South Asian Lion}
+			{Persian Lion}
+			{Indian Lion}
+		Congo Lion
+			{P. l. azandica}
+		Katanga Lion
+			{P. l. bleyenberghi}
+		Masai Lion
+			{P. l. nubica}
+		Transvaal Lion
+			{P. l. krugeri}
+		West African Lion
+			{P. l. senegalensis}
+	Marbled Cat
+		{Pardofelis marmorata}
+	Margay
+		{Leopardus wiedii}
+	Ocelot
+		{Leopardus pardalis}
+		{Dwarf leopard}
+	Oncilla
+		{Leopardus tigrinus}
+		{Tiger Cat}
+	Pallas's Cat
+		{Otocolobus manul}
+	Pampas Cat
+		{Leopardus pajeros}
+	Pantanal Cat
+		{Leopardus braccatus}
+	Rusty-spotted Cat
+		{Prionailurus rubiginosus}
+	Sand Cat
+		{Felis margarita}
+	Serval
+		{Leptailurus serval}
+	Snow Leopard
+		{Panthera uncia}
+		{Uncia uncia}
+	Sunda Clouded Leopard
+		{Sundaland Clouded Leopard}
+		{Neofelis diardi}
+	tiger
+		Bengal Tiger
+			{Panthera tigris tigris}
+			{Indian Tiger}
+		Golden Tiger
+		Indochinese Tiger
+			{Panthera tigris corbetti}
+			{Corbett's Tiger}
+		Malayan Tiger
+			{Panthera tigris jacksoni}
+		Siberian Tiger
+			{Panthera tigris altaica}
+			{Amur Tiger}
+		South China Tiger
+			{Panthera tigris amoyensis}
+			{Amoy Tiger}
+			{Xiamen Tiger}
+		Sumatran Tiger
+			{Panthera tigris sumatrae}
+		White Tiger
+			{Chinchilla albinistic}
+	Wildcat
+		{Felis silvestris}

@@ -1,0 +1,81 @@
+[BODY PARTS #]
+	ankle
+	anther
+	antler
+	arm
+	beak
+	bone
+	brain
+	branch
+	breast
+	cheek
+	chest
+	claw
+	ear
+	earlobe
+	elbow
+	elephant trunk
+		{trunk}
+		{proboscis}
+	eye
+	eyebrow
+	eyelash
+	fang
+	feather
+	fin
+	finger
+		index finger
+		little finger
+		middle finger
+		ring finger
+		thumb
+	fingernail
+		{nail}
+	flower bud
+	foot
+	fruit
+	fur
+	hair
+	hand
+	head
+	heart
+	hoof
+	horn
+	leaf
+	leaf bud
+	leg
+	lips
+	mane
+	mouth
+	neck
+	nipple
+	nose
+	nostril
+	paw
+	petal
+	pistil
+	root
+	seed
+	sepal
+	shell
+	skeleton
+	skull
+	snout
+	stamen
+	stem
+	stemen
+	stigma
+	sting
+	tail
+	tentacle
+	thorn
+	toe
+	toenail
+		{nail}
+	tongue
+	tooth
+	tree trunk
+		{trunk}
+	tusk
+	whisker
+	wing
