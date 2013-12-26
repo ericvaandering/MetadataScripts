@@ -1,0 +1,1594 @@
+﻿!!!colour list -  IMPORT HERE
+!!!location list  -  IMPORT HERE
+!!!plant list -  IMPORT HERE
+[#Client Name #]
+	name
+[#Needs Keywords #]
+[ACTION #]
+	balancing
+	bathing
+	betting
+	blowing
+	burning
+	chopping
+	climbing
+	crying
+	cutting
+	drinking
+	driving
+	eating
+	fighting
+	gambling
+	grabing
+	hammering
+	hitting
+	holding
+	hugging
+	jumping
+	kicking
+	kissing
+	laughing
+	lifting
+	listening
+	playing
+	punching
+	raising
+	reading
+	riding
+	running
+	sawing
+	sewing
+	shaving
+	showering
+	sleeping
+	smiling
+	smoking
+	soldering
+	studying
+	travelling
+	typing
+	voting
+	waking up
+	walking
+	welding
+	working
+	writing
+[AGE #]
+	adult
+	baby
+	[baby animal #]
+		calf
+		chick
+		chrysalis
+		colt
+		duckling
+		filly
+		fingerling
+		foal
+		fry
+		joey
+		kitten
+		larva
+		nymph
+		piglet
+		puppy
+			{pup}
+		squab
+		tadpole
+	boy
+	child
+		{kid}
+	elder
+	girl
+	man
+	newborn
+	senior
+	teenager
+	toddler
+	woman
+	young
+[ANIMAL #]
+	!!!birds list -  IMPORT HERE
+	!!!reptile -  IMPORT HERE
+	mammal
+		!!!felidae list -  IMPORT HERE
+[ART #]
+	mosaic
+	ornament
+	painting
+	pottery
+	sculpture
+	stained glass
+	statue
+	wallpaper
+[CELESTIAL BODY #]
+	comet
+	constellation
+	galaxy
+	meteor
+		meteor shower
+	moon
+	nebula
+	planet
+	star
+	sun
+[CONCEPT #]
+	animal
+	armed forces
+		airforce
+		army
+		navy
+	birth
+	body building
+	body piercing
+	broken heart
+	business
+	captivity
+	color
+		{colour}
+	dark
+	death
+	derelict
+	disaster
+	education
+	faith
+	freedom
+	friendship
+	hard
+	hate
+	healthcare
+	heaven
+	hell
+	help
+	homeless
+	industrial
+	law enforcement
+		police
+	life
+	light
+	loneliness
+	love
+	luck
+	motion
+	number
+	paradise
+	peace
+	people
+	photography
+	religion
+	romance
+	sacred
+	shadows
+	smooth
+	soft
+	speed
+	stillness
+	structure
+	tatoo
+	tension
+	time
+	tranquility
+	transportation
+	travel
+	vacation
+	war
+	work
+[ELEMENT #]
+	air
+	ash
+	dirt
+	dust
+	earth
+	fire
+	lava
+	liquid
+	mud
+	sky
+	smoke
+	tephra
+		{volcanic ash}
+	water
+[EVENT #]
+	birthday
+	celebration
+	christening
+	concert
+	conference
+	exhibition
+	fair
+	feast
+	festival
+	gig
+	graduation
+	halloween
+	happening
+	honeymoon
+	marriage
+	party
+	reunion
+	symposium
+[GENDER #]
+	female
+	male
+[LAND #]
+	arete
+	beach
+	canyon
+		{gorge}
+	cave
+		{cavern}
+	cliff
+	coast
+		{coastline}
+		{seashore}
+	desert
+		dune
+		oasis
+		sandhill
+	dry lake
+		{alkali flat}
+		mudflat
+		salt pan
+			{salt flat}
+	esker
+	farm
+	field
+	fjord
+	floodplain
+	forest
+		{woods}
+	glacier
+	hill
+	island
+	isthmus
+	levee
+		{dike}
+		{floodbank}
+		{embankment}
+	meadow
+		{prairie}
+	mountain
+	plain
+	plateau
+	riverbank
+	savanna
+	shore
+		{shoreline}
+	steppe
+	tundra
+	valley
+	veld
+	vineyard
+	volcano
+		caldera
+		geyser
+		volcanic crater
+		volcanic plug
+[MATERIAL #]
+	adobe
+	asphalt
+	bamboo
+	brick
+	cement
+	ceramic
+	clay
+	cloth
+	concrete
+	cotton
+	fabric
+	felt
+	gemstone
+		{gem}
+		alexandrite
+		andalusite
+		aquamarine
+		axinite
+		benitoite
+		bixbite
+			{red beryl}
+		cassiterite
+		chrysocolla
+		chrysoprase
+		clinohumite
+		danburite
+		diamond
+		diopside
+		dioptase
+		dumortierite
+		emerald
+		feldspar
+		garnet
+		hambergite
+		hematite
+		iolite
+		jade
+			jadeite
+			nephrite
+		jasper
+		kornerupine
+		kunzite
+		lapis lazuli
+		malachite
+		natural moissanite
+		obsidian
+		olivine
+			{peridot}
+		opal
+			{girasol}
+		pyrite
+		quartz
+			agate
+			amethyst
+				{cardinal gem}
+			chalcedony (bloodstone)
+			citrine
+			onyx
+			tiger's-eye
+		ruby
+		sapphire
+		spinel
+		sugilite
+		tanzanite
+		topaz
+		tourmaline
+		turquoise
+		variscite
+		zeolite
+		zircon
+	glass
+	granite
+	gravel
+	marble
+	metal
+		aluminium
+		copper
+			brass
+			bronze
+		gold
+			rhodite
+			rose gold
+			white gold
+		iron
+			stainless steel
+				{inox}
+			steel
+		lead
+		mercury
+		nickel
+		silver
+		tin
+		titanium
+		zinc
+	paper
+	plaster
+	plastic
+		nylon
+		polystyrene
+		rubber
+		vinyl
+			{pvc}
+	sand
+	stone
+		{rock}
+	velvet
+	wax
+	wood
+	wool
+[NATURAL PHENOMENON #]
+	aurora
+		aurora australis
+			{southern lights}
+		aurora borealis
+			{northern lights}
+	avalanche
+		{snowslide}
+		{snowslip}
+	earthquake
+		{quake}
+	flood
+	landslide
+	sinkhole
+		{swallet}
+		{swallow hole}
+	tsunami
+	volcanic eruption
+	vortex
+	weather
+		blizzard
+		cloud
+		cyclone
+		drought
+		fog
+		hailstorm
+			hail
+			hailstone
+		haze
+		mist
+		overcast
+		rain
+		snow
+		storm
+		sunny
+		thunderstorm
+			{lightning storm}
+		tornado
+			{twister}
+		windy
+	whirlpool
+	wildfire
+[NUMBER #]
+	four people
+	group of animals
+		clowder
+		flock
+		herd
+		pack
+		shoal
+	group of objects
+	group of people
+		gang
+		mob
+		squad
+		team
+	one animal
+	one person
+	three animals
+	three people
+	two animals
+	two people
+[OBJECT #]
+	aiguillette
+		{aiglet}
+	air condition
+	axle
+	bag
+		bin bag
+			{garbage bag}
+			{trash bag}
+		diplomatic bag
+			{diplomatic pouch}
+		duffel bag
+			{gym bag}
+		handbag
+		messenger bag
+			{sack}
+		paper bag
+		plastic bag
+		purse
+		satchel
+		shopping bag
+		sling bag
+		suitcase
+			{luggage}
+			{travel bag}
+		thermal bag
+	bearing
+	belt
+	board game
+		backgammon
+		card
+		chess
+			bishop
+			chess board
+			king
+			knight
+			pawn
+			queen
+			rook
+		dice
+		gameboard
+			{board}
+		gamepiece
+			{game piece}
+	bottle
+	boutonniere
+	bow tie
+	box
+	cane
+	carpet
+	casino token
+		{chip}
+		{checks}
+		{cheques}
+	chain
+	cigarette case
+	cleaning tool
+		broom
+		brush
+		bucket
+		feather dust
+		floor buffer
+		mop
+		sponge
+		vacuum cleaner
+	clock
+		alarm clock
+		analog clock
+		cuckoo clock
+		digital clock
+		hourglass
+	clothes dryer
+	clothing
+		button
+		costume
+		dress
+		jeans
+		robe
+		shirt
+		shorts
+		skirt
+		sock
+		sweater
+		trouser
+		t-shirt
+		uniform
+		vest
+	coffeemaker
+	collar pin
+	computing
+		computer
+			{pc}
+		desktop
+		floppy drive
+		hard drive
+		laptop
+		memory card
+		modem
+		monitor
+		mouse keyboard
+		mousepad
+		tablet
+		thumb drive
+	cooking plate
+	cookware
+		baking pan
+		beanpot
+		casserole pan
+		chip pan
+		cookie sheet
+		cooking pot
+		crepe pan
+		double boiler
+		frying pan
+			{skillet}
+		griddle
+		karahi
+		kettle
+		pressure cooker
+		ramekin
+		roasting pan
+		saucepan
+		saucier
+		saute pan
+		springform pan
+		stockpot
+		tajine
+		wok
+	corsage
+	coupling
+	credit card
+	cuff link
+	cummerbund
+	curtain
+	dental braces
+		{braces}
+	dishwasher
+	doorbell
+	drive belt
+	drive chain
+		{roller chain}
+	dvd player
+	epaulette
+	eyewear
+		3D glasses
+		blindfold
+		contact lenses
+		eyeglasses
+			{spectacles}
+			{specs}
+		monocle
+		safety glasses
+			{goggles}
+		sunglasses
+	fastener
+		bolt
+		nail
+		rivet
+		screw
+		split pin
+	feather boa
+	firework
+	fishing rod
+		{fishing pole}
+	freezer
+	furniture
+		bean bag
+			{beanbag}
+		bed
+		bench
+		bookcase
+			{bookshelf}
+		cabinet
+		chair
+			rocking chair
+				{rocker}
+		chaise longue
+		chest
+		chest of drawers
+			{dresser}
+		closet
+		couch
+			{sofa}
+		desk
+		drawing board
+		hutch
+		nightstand
+			{bedside table}
+		picnic table
+		pouffe
+			{hassock}
+			{tuffet}
+		stool
+			bar stool
+			footstool
+				{footrest}
+		table
+			coffee table
+		wardrobe
+		workbench
+	garter
+	gear
+	gear box
+	glassware
+		beaker
+		beer stein
+		coffee cup
+		cup
+		mug
+		paper cup
+		quaich
+		sake cup
+		stemware
+			chalice
+			champagne coupe
+			champagne flute
+			coctail glass
+			goblet
+			rummer
+			wine glass
+		tankard
+		teacup
+		tumbler
+			shot glass
+			water glass
+	glove
+	hair pin
+		{hair stick}
+		bobby pin
+	hairnet
+		{caul}
+	handkerchief
+	hi-fi
+		{hifi}
+	home cinema
+	jewellery
+		anklet
+			{ankle chain}
+		armlet
+		body piercing jewellery
+		bracelet
+		brooch
+		crown
+		earring
+		necklace
+		ring
+		tiara
+		waist chain
+			{belly chain}
+	key
+		card key
+	kitchen stove
+		{stove}
+		{oven}
+	kitchen utensil
+		biscuit cutter
+		chopstick
+		drinking straw
+		fork
+		funnel
+		grater
+		knife
+		lemon squeezer
+		nutcracker
+		scoop
+		sieve
+		skewer
+		spatula
+		spoon
+		tin opener
+			{can opener}
+		toothpick
+	kitchenware
+	knob
+	lapel pin
+	lever
+	lighting
+		blacklight
+		candle
+		chandelier
+		headlamp
+		lamp
+		luminaire
+			{light fixture}
+			{light fitting}
+		nightlight
+		recessed light
+		sconce
+		street light
+		strobe light
+		table lamp
+		torch lamp
+		traffic light
+	lock
+		combination lock
+		padlock
+	machine
+	microphone
+	microwave oven
+	mirror
+	money
+		banknote
+			{bill}
+		coin
+	money pin
+	mp3 player
+	musical instrument
+		accordion
+		bagpipe
+		banjo
+		bass drum
+		bouzouki
+		cello
+		clarinet
+		cornett
+			{cornetto}
+		drum kit
+		flute
+		gaida
+		guitar
+			acoustic guitar
+			bass guitar
+			classical guitar
+			electric guitar
+		guitar pick
+		harmonica
+		harp
+		lyra
+		mandolin
+		oboe
+		ocarina
+		pan flute
+			{pan pipe}
+		piano
+			grand piano
+			upright piano
+		pipe organ
+		saxophone
+		sitar
+		steel drum
+		tabla
+		triangle
+		trumpet
+		ukulele
+		violin
+		whistle
+		xylophone
+	photo gear
+		filter
+		flash
+		lens cap
+		lens hood
+		still camera
+			analog camera
+			box camera
+			compact camera
+				{point and shoot camera}
+			digital camera
+			disposable camera
+			field camera
+			pinhole camera
+			polaroid
+				{instant camera}
+			single lens reflex camera
+				{slr}
+			twin lens reflex camera
+			view camera
+		tripod
+	pin
+	playing card
+		{card}
+		deck of cards
+	pulley
+	push button
+		{button}
+	push pin
+	razor
+	refrigerator
+	rim
+	roulette
+	safety belt
+	safety pin
+	shaft
+	shampoo
+	shoe
+		athletic
+		ballet flat
+		boot
+		casual shoe
+		clog
+		dress shoe
+		high heel
+		mule
+		sandal
+			{flip flop}
+		slipper
+		sneaker
+		stilletto heel
+	soap
+	speaker
+	stationery
+		binder clip
+		brass fastener
+			{split pin}
+		business card
+		clipboard
+		correction fluid
+		crayon
+		diary
+		envelope
+		eraser
+		file folder
+		highlighter
+		letter
+		marker
+			{marker pen}
+			{felt-tip pen}
+		notebook
+		paper
+		paper cutter
+		pen
+		pencil
+		postal stationery
+		post-it note
+		ruler
+		sheet of paper
+		spindle
+		stapler
+	steering wheel
+	suspender
+	sword
+	tableware
+		bowl
+		coffeepot
+		jug
+		pitcher
+		plate
+		platter
+		saucer
+		teapot
+		tureen
+	taser
+	telephone
+		{phone}
+		answering machine
+		cell phone
+			{mobile phone}
+		landline
+	television
+		{tv}
+	thumbtack
+		{drawing pin}
+	tie
+	tool
+		anvil
+		axe
+		blow torch
+		chisel
+		compass
+		crowbar
+		drill
+		flashlight
+		garden fork
+			{spading fork}
+			{graip}
+			{digging fork}
+		hammer
+		ladder
+		lawn mower
+		leaf blower
+		paintbrush
+		sandpaper
+		saw
+			chainsaw
+			hand saw
+		scalpel
+		scissor
+		screwdriver
+		sledgehammer
+		spirit level
+		tape measure
+		toolbox
+		weighing scale
+		wrench
+	towel
+		bath towel
+		beach towel
+		flannel
+		foot towel
+		hand towel
+		paper towel
+		tea towel
+	toy
+		action figure
+		doll
+		puppet
+	tyre
+	umbrella
+	video camera
+		{camcorder}
+	wallet
+	washing machine
+	watch
+	water heater
+	weapon
+		cannon
+		grenade
+		gun
+		handgun
+		machine gun
+		musket
+		paintball gun
+		pistol
+		revolver
+		rifle
+		shotgun
+	wedge
+	wheel
+	wire rope
+[PEOPLE #]
+	[name #]
+		names
+	[relationship #]
+		aunt
+		brother
+		businnes relationship
+		colleague
+		cousin
+		family
+		father
+			{dad}
+		friend
+		grandfather
+			{grandad}
+		grandmother
+			{grandma}
+		mother
+			{mum}
+		other
+		sister
+		uncle
+[PHOTOGRAPHY #]
+	[angle of view #]
+		back view
+		front view
+		profile
+		side view
+	[effect #]
+		bokeh
+		lens zoom
+		light trail
+		long exposure
+		panning
+		panorama
+		reflection
+		silhouette
+		star trail
+		vignette
+	[framing #]
+		close-up
+		environmental
+		full body
+		headshot
+		upper body
+	[orientation #]
+		landscape
+		portrait
+	[setting #]
+		exterior
+		in-car
+		interior
+		studio
+	[treatment #]
+		black and white
+			{b&w}
+		color image
+			{colour image}
+		daguerreotype
+		duotone
+			{split toning}
+		monotone
+		platinotype
+		selenium toning
+		sepia toning
+	[type of photography #]
+		abstract photography
+		architectural detail
+		architecture photography
+		astrophotography
+		candid shot
+		food photography
+		glamour photography
+		landscape photography
+		macro photography
+		pet photography
+		portrait photography
+		rural photography
+		sport photography
+		still life photography
+		street photography
+		urban photgraphy
+		wildlife photography
+[PROFESSION #]
+	accountant
+	architect
+	artist
+	athlete
+		boxer
+		golfer
+		player
+		runner
+		skier
+	baker
+	barber
+	doctor
+		dentist
+		surgeon
+		veterinarian
+	driver
+		chauffeur
+		racing driver
+	engineer
+	firefighter
+		{fireman}
+	journastist
+	lawyer
+	military officer
+	nurse
+	pharmacist
+	photographer
+	pilot
+	police officer
+		{policeman}
+	professor
+	psychologist
+	scientist
+	soldier
+	teacher
+	worker
+	writer
+[SPORT #]
+	aerobatics
+	archery
+	badminton
+	baseball
+	basketball
+	beach volleyball
+	bicycle racing
+	bowling
+	boxing
+		{boxing}
+	canoeing
+	cricket
+	cycling
+	diving
+	football
+	golf
+	gymnastics
+		artistic gymnastics
+			balance beam
+			horizontal bar
+				{high bar}
+			parallel bar
+			pommel horse
+			rings
+				{steady rings}
+			uneven bars
+			vault
+		rythmic gymnastics
+		trampoline
+	handball
+	hiking
+	hockey
+		ice hockey
+		street hockey
+	horse racing
+	hurdles
+	kayaking
+	marathon
+	martial art
+	motorsport
+		drag racing
+		drifting
+		formula racing
+		kart racing
+		motocross
+		rally racing
+		touring car racing
+	parkour
+	ping pong
+		{table tennis}
+	polo
+	pool billiard
+		{pocket billiard}
+	rafting
+	rock climbing
+	rowing
+	sailing
+	skating
+		figure skating
+		roller skating
+		skateboarding
+		speed skating
+	skiing
+	snooker
+	snowboarding
+	soccer
+	softball
+	sprint
+	squash
+	swimming
+		back crawl
+		breaststroke
+		butterfly
+		freestyle
+		synchronized swimming
+	tennis
+	track and field
+	underwater diving
+		{diving}
+		freediving
+		snorkeling
+	volleyball
+	water polo
+	weightlifting
+[STRUCTURES & ARCHITECTURE #]
+	architectural element
+		aisle
+		antefix
+		arcade
+		arch
+		atrium
+		balcony
+		bird bath
+		chimney
+		church bell
+		colomnade
+		column
+			{pillar}
+		cornerstone
+			{foundation stone}
+		cornice
+		cupola
+		dome
+		door
+			door knob
+				{door handle}
+		eaves
+		epistlye
+			{architrave}
+		escalator
+		facade
+		fountain
+		garden
+		gargoyle
+		gate
+		gutter
+		handrail
+		minaret
+		oculus
+		pedestal
+		pediment
+		pend
+		pergola
+			{arbor}
+			{arbour}
+		pinnacle
+		porch
+		pylon
+		spire
+		stair
+			{stairway}
+			{staircase}
+		steeple
+		stoa
+		swimming pool
+		templon
+		terrace
+		turet
+		window
+	[place #]
+		cemetery
+			{graveyard}
+		courtyard
+			{patio}
+		park
+		playground
+		schoolyard
+		town square
+	room
+		aerary
+		attic
+		ballroom
+		basement
+		bathroom
+		bedroom
+		cellar
+			root cellar
+			storm cellar
+			wine cellar
+		classroom
+			{class}
+		darkroom
+		hallway
+		kitchen
+		living room
+		lobby
+		office
+		pantry
+		suite
+	[structure #]
+		amphitheater
+		apartment block
+		arena
+		art gallery
+		asylum
+		bakery
+		bank
+		bar
+		barn
+		barrack
+		basilica
+		bathhouse
+		blockhouse
+		bookstore
+		brewery
+		bridge
+		bunker
+		capitol
+		casino
+		castle
+		cathedral
+		chapel
+		chicken coop
+		church
+		cinema
+		citadel
+		city hall
+		clinic
+		coffee house
+		college
+		community center
+		concert hall
+		consulate
+		convention center
+		courthouse
+		defensive wall
+		department store
+		dormitory
+			{dorm}
+		eatery
+		embassy
+		factory
+		farmhouse
+		fast-food restaurant
+		fence
+		fire station
+		florist shop
+		food court
+		fort
+		foundry
+		fusegate
+		gas station
+		granary
+		greenhouse
+		grocery store
+		gurdwara
+		gymnasium
+		hospital
+		hostel
+		hotel
+		hut
+		hypermarket
+		jazz club
+		kiosk
+		library
+		market house
+		martyrium
+		mausoleum
+		mill
+			horse mill
+			tide mill
+			watermill
+			wind mill
+		monastery
+		mosque
+		motel
+		museum
+		nightclub
+		nursing home
+			{rest home}
+		office building
+		oil rig
+		opera house
+		oratory
+		pagoda
+		palace
+		parliament
+		pigsty
+			{sty}
+			{pigpen}
+		plant nursery
+		police station
+		post office
+		power plant
+		prison
+		pub
+		pyramid
+		refinery
+		restaurant
+		retail store
+		school
+		shed
+		shop
+		shopping mall
+		shrine
+		silo
+		skyscraper
+		spa
+		stable
+		stadium
+		stall
+		stock exchange
+		supermarket
+		synagogue
+		tavern
+		temple
+		theater
+		tomb
+		tower
+		university
+		villa
+		warehouse
+		workshop
+	transit station
+		airport
+			airport terminal
+			control tower
+			hangar
+			runway
+		bus station
+		harbor
+			{harbour}
+			{haven}
+		heliport
+		marina
+		metro station
+		port
+		train station
+			{railroad station}
+			{railway station}
+	[type of structure #]
+		agricultural structure
+		commercial structure
+		educational structure
+		government structure
+		industrial structure
+		military structure
+		monument
+		religious structure
+		residential structure
+[THOROUGHFARE #]
+	avenue
+	bikeway
+	boulevard
+	bridle path
+		{bridleway}
+		{bridle road}
+	dead end
+		{cul-de-sac}
+	dirt road
+	driveway
+	highway
+	lane
+	path
+	pedestrian street
+	railway
+	road
+	sidewalk
+		{pavement}
+	street
+	trail
+[TIME #]
+	[season #]
+		Autumn
+			{Fall}
+		Spring
+		Summer
+		Winter
+	[time of day #]
+		afternoon
+		daytime
+		evening
+		morning
+		night
+		noon
+		sunrise
+			{dawn}
+		sunset
+			{dusk}
+[TRANSPORTATION #]
+	[by air #]
+		aircraft
+			airplane
+				{aeroplane}
+				{plane}
+				bomber
+				fighter
+				jet aircraft
+				propeler plane
+			glider
+			helicopter
+				{chopper}
+			seaplane
+				{hydroplane}
+		airship
+		hot air balloon
+	[by land #]
+		ambulance
+		bicycle
+			{bike}
+			bmx bicycle
+			cruiser bicycle
+			hybrid bicycle
+			mountain bicycle
+			tandem bicycle
+			touring bicycle
+			utility bicycle
+		car
+			{automobile}
+			bubble car
+			city car
+			convertible
+			executive car
+			grand tourer
+			large family car
+			luxury car
+			multi purpose vehicle
+			off road
+			pickup
+			roadster
+			small family car
+			sports car
+			super mini
+			supercar
+		firetruck
+		motorcycle
+			{motorbike}
+			{bike}
+			off road motorcycle
+				enduro
+				motocross
+			street motorcycle
+				bobber
+				chopper
+				cruiser
+				naked bike
+				scooter
+				sport bike
+				sport touring
+				touring
+		police car
+		subway
+			{metro}
+		train
+			freight train
+			locomotive
+			passenger train
+		tram
+		truck
+			ballast tracktor
+			box truck
+			concrete trasport track
+			crane truck
+			dump truck
+			flatbed truck
+			garbage truck
+			log carrier
+			platform truck
+			refrigerator truck
+			semi trailer truck
+			tank truck
+			van
+		unicycle
+	[by water #]
+		barge
+		boat
+		bulk carrier
+		canoe
+		catamaran
+		catboat
+		container ship
+		cruise ship
+		cutter
+		dhoni
+		dinghy
+		dry cargo
+			{freighter}
+		ferry
+		fishing boat
+		fractional rig sloop
+		gondola
+		hovercraft
+		kayak
+		ketch
+		motorboat
+		naval vessel
+			aircraft carrier
+			corvette
+			cruiser
+			destroyer
+			frigate
+			minesweeper
+			patrol vessel
+			submarine
+		passenger ship
+		pirogue
+		punt
+		raft
+		riverboat
+		sail ship
+			{sailing ship}
+		sailboat
+			{sailing boat}
+		schooner
+		ship
+		sloop
+		tanker
+		yacht
+		yawl
+[WATER #]
+	bayou
+	billabong
+	breaking wave
+	canal
+		{channel}
+	cove
+	lagoon
+	lake
+	marsh
+	ocean
+	pond
+	puddle
+	river
+	sea
+	spring
+	strait
+	stream
+		{brook}
+		{creek}
+		{rivulet}
+	swamp
+	tarn
+		{corrie loch}
+	waterfall
+	wave

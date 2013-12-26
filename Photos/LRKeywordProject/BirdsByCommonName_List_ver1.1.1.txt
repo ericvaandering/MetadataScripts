@@ -1,0 +1,3783 @@
+bird
+	[non-passerine #]
+		albatross
+			Great Albatross
+				Amsterdam Albatross
+				Antipodean Albatross
+				Northern Royal Albatross
+				Southern Royal Albatross
+				Tristan Albatross
+				Wandering Albatross
+			Mollymawk
+				Atlantic Yellow-nosed Albatross
+				Black-browed Albatross
+				Buller's Albatross
+				Campbell Albatross
+				Chatham Albatross
+				Grey-headed Albatross
+				Indian Yellow-nosed Albatross
+				Salvin's Albatross
+				Shy Albatross
+				White-capped Albatross
+			North Pacific albatross
+				Black-footed Albatross
+				Laysan Albatross
+				Short-tailed Albatross
+				Waved Albatross
+			Sooty albatross
+				Light-mantled Albatross
+				Sooty Albatross
+		Anhinga
+		auk
+			Ancient Murrelet
+			Atlantic Puffin
+			Black Guillemot
+			Brunnich's Guillemot
+			Cassin's Auklet
+			Common Guillemot
+			Craveri's Murrelet
+			Crested Auklet
+			Horned Puffin
+			Japanese Murrelet
+			Kittlitz's Murrelet
+			Kurile Guillemot
+			Least Auklet
+			Little Auk
+			Long-billed Murrelet
+			Marbled Murrelet
+			Parakeet Auklet
+			Pigeon Guillemot
+			Razorbill
+			Rhinoceros Auklet
+			Spectacled Guillemot
+			Tufted Puffin
+			Whiskered Auklet
+			Xantus's Murrelet
+		avocet
+			American Avocet
+			Andean Avocet
+			Pied Avocet
+			Red-necked Avocet
+		bustard
+			Arabian Bustard
+			Australian Bustard
+			Bengal Florican
+			Black-bellied Bustard
+			Blue Korhaan
+			Buff-crested Bustard
+			Canarian Houbara
+			Denham's Bustard
+			Great Bustard
+			Great Indian Bustard
+			Hartlaub's Bustard
+			Heuglin's Bustard
+			Houbara Bustard
+			Karoo Korhaan
+			Kori Bustard
+			Lesser Florican
+			Little Brown Bustard
+			Little Bustard
+			Ludwig's Bustard
+			Macqueen's Bustard
+			Northern Black Korhaan
+			Nubian Bustard
+			Red-crested Korhaan
+			Ruppell's Korhaan
+			Savile's Bustard
+			Southern Black Korhaan
+			White-bellied Bustard
+		buttonquail
+			Barred Buttonquail
+			Black-breasted Buttonquail
+			Black-rumped Buttonquail
+			Buff-breasted Buttonquail
+			Chestnut-backed Buttonquail
+			Little Buttonquail
+			Madagascar Buttonquail
+			Painted Buttonquail
+			Quail-plover
+			Red-backed Buttonquail
+			Red-chested Buttonquail
+			Small Buttonquail
+			Spotted Buttonquail
+			Sumba Buttonquail
+			Worcester's Buttonquail
+			Yellow-legged Buttonquail
+		calidrid
+			Great Knot
+			Red Knot
+		caracara
+			Black Caracara
+			Carunculated Caracara
+			Chimango Caracara
+			Mountain Caracara
+			Northern Crested Caracara
+			Red-throated Caracara
+			Southern Crested Caracara
+			Striated Caracara
+			White-throated Caracara
+			Yellow-headed Caracara
+		cassowary
+			Dwarf Cassowary
+			Southern Cassowary
+		cormorant
+			Antarctic Shag
+			Auckland Shag
+			Australian Pied Cormorant
+			Bank Cormorant
+			Black-faced Cormorant
+			Bounty Shag
+			Brandt's Cormorant
+			Bronze Shag
+			Campbell Shag
+			Cape Cormorant
+			Chatham Shag
+			Crowned Cormorant
+			Crozet Shag
+			Double-crested Cormorant
+			European Shag
+			Flightless Cormorant
+			Great Cormorant
+			Guanay Cormorant
+			Heard Island Shag
+			Imperial Shag
+			Indian Cormorant
+			Japanese Cormorant
+			Kerguelen Shag
+			Little Black Cormorant
+			Little Cormorant
+			Little Pied Cormorant
+			Macquarie Shag
+			Neotropic Cormorant
+			Pelagic Cormorant
+			Pitt Cormorant
+			Pygmy Cormorant
+			Red-faced Cormorant
+			Red-legged Cormorant
+			Reed Cormorant
+			Rock Shag
+			Rough-faced Shag
+			Socotra Cormorant
+			South Georgia Shag
+			Spectacled Cormorant
+			Spotted Shag
+			White-bellied Shag
+			White-breasted Cormorant
+		crane
+			Black Crowned Crane
+			Black-necked Crane
+			Blue Crane
+			Brolga
+			Demoiselle Crane
+			Eurasian Crane
+			Grey Crowned Crane
+			Hooded Crane
+			Japanese Crane
+			Sandhill Crane
+			Sarus Crane
+			Siberian Crane
+			Wattled Crane
+			White-naped Crane
+			Whooping Crane
+		cuckoo
+			African Cuckoo
+			African Emerald Cuckoo
+			Andaman Coucal
+			Ash-colored Cuckoo
+			Asian Drongo-Cuckoo
+			Asian Emerald Cuckoo
+			Asian Koel
+			Assumption Island Coucal
+			Australian Koel
+			Banded Bay Cuckoo
+			Banded Ground Cuckoo
+			Barred Long-tailed Cuckoo
+			Bay Coucal
+			Bay-breasted Cuckoo
+			Biak Coucal
+			Black Coucal
+			Black Cuckoo
+			Black-bellied Cuckoo
+			Black-bellied Malkoha
+			Black-billed Coucal
+			Black-billed Cuckoo
+			Black-billed Koel
+			Black-eared Cuckoo
+			Black-faced Coucal
+			Black-hooded Coucal
+			Black-throated Coucal
+			Blue Coua
+			Blue-faced Malkoha
+			Blue-headed Coucal
+			Bornean Ground Cuckoo
+			Brush Cuckoo
+			Buff-headed Coucal
+			Burchell's Coucal
+			Channel-billed Cuckoo
+			Chestnut-bellied Cuckoo
+			Chestnut-bellied Malkoha
+			Chestnut-breasted Cuckoo
+			Chestnut-breasted Malkoha
+			Chestnut-winged Cuckoo
+			Cocos Cuckoo
+			Common Cuckoo
+			Common Hawk-Cuckoo
+			Coppery-tailed Coucal
+			Coquerel's Coua
+			Coral-billed Ground Cuckoo
+			Crested Coua
+			Dark Hawk-Cuckoo
+			Dark-billed Cuckoo
+			Dideric Cuckoo
+			Dusky Long-tailed Cuckoo
+			Dwarf Cuckoo
+			Dwarf Koel
+			Fan-tailed Cuckoo
+			Gabon Coucal
+			Giant Coua
+			Goliath Coucal
+			Gould's Bronze Cuckoo
+			Gray-capped Cuckoo
+			Great Lizard Cuckoo
+			Great Spotted Cuckoo
+			Greater Ani
+			Greater Coucal
+			Greater Roadrunner
+			Green-billed Coucal
+			Green-billed Malkoha
+			Grey-bellied Cuckoo
+			Groove-billed Ani
+			Guira Cuckoo
+			Himalayan Cuckoo
+			Hispaniolan Lizard Cuckoo
+			Hodgson's Hawk-Cuckoo
+			Horsfield's Bronze Cuckoo
+			Indian Cuckoo
+			Ivory-billed Coucal
+			Jacobin Cuckoo
+			Jamaican Lizard Cuckoo
+			Kai Coucal
+			Klaas's Cuckoo
+			Large Hawk-Cuckoo
+			Lesser Coucal
+			Lesser Cuckoo
+			Lesser Ground Cuckoo
+			Lesser Roadrunner
+			Levaillant's Cuckoo
+			Little Bronze Cuckoo
+			Little Cuckoo
+			Long-billed Cuckoo
+			Long-tailed Koel
+			Madagascar Cuckoo
+			Malagasy Coucal
+			Malaysian Hawk-Cuckoo
+			Mangrove Cuckoo
+			Moluccan Cuckoo
+			Moustached Hawk-Cuckoo
+			Olive Long-tailed Cuckoo
+			Oriental Cuckoo
+			Pacific Koel
+			Pallid Cuckoo
+			Pavonine Cuckoo
+			Pearly-breasted Cuckoo
+			Pheasant Coucal
+			Pheasant Cuckoo
+			Philippine Coucal
+			Philippine Drongo-Cuckoo
+			Philippine Hawk-Cuckoo
+			Pied Bronze Cuckoo
+			Plaintive Cuckoo
+			Puerto Rican Lizard Cuckoo
+			Red-billed Ground Cuckoo
+			Red-billed Malkoha
+			Red-breasted Coua
+			Red-capped Coua
+			Red-chested Cuckoo
+			Red-faced Malkoha
+			Red-fronted Coua
+			Rough-crested Malkoha
+			Rufous Coucal
+			Rufous Hawk-Cuckoo
+			Rufous-throated Bronze Cuckoo
+			Rufous-vented Ground Cuckoo
+			Rufous-winged Ground Cuckoo
+			Running Coua
+			Rusty-breasted Cuckoo
+			Scaled Ground Cuckoo
+			Scale-feathered Malkoha
+			Senegal Coucal
+			Shining Bronze Cuckoo
+			Short-toed Coucal
+			Sirkeer Malkoha
+			Smooth-billed Ani
+			Squirrel Cuckoo
+			Striped Cuckoo
+			Sulawesi Cuckoo
+			Sumatran Ground Cuckoo
+			Sunda Coucal
+			Sunda Cuckoo
+			Thick-billed Cuckoo
+			Verreaux's Coua
+			Violaceous Coucal
+			Violet Cuckoo
+			White-browed Coucal
+			White-crowned Koel
+			White-eared Bronze Cuckoo
+			White-necked Coucal
+			Yellowbill
+			Yellow-billed Cuckoo
+			Yellow-billed Malkoha
+			Yellow-throated Cuckoo
+		diver
+			Black-throated Diver
+			Great Northern Diver
+				{Common Loon}
+			Red-throated Diver
+				{Red-throated Loon}
+		dowitcher
+			Asiatic Dowitcher
+			Long-billed Dowitcher
+			Short-billed Dowitcher
+		eagle
+			African Fish Eagle
+			African Hawk-Eagle
+			Andaman Serpent Eagle
+			Ayres' Hawk-eagle
+			Bald Eagle
+			Bateleur
+			Black Eagle
+			Black Hawk-Eagle
+			Black-and-chestnut Eagle
+			Black-and-white Hawk-Eagle
+			Black-chested Snake Eagle
+			Blyth's Hawk-Eagle
+			Bonelli's Eagle
+			Booted Eagle
+			Brown Snake Eagle
+			Cassin's Hawk-Eagle
+			Crested Eagle
+			Crested Hawk-Eagle
+			Crested Serpent Eagle
+			Crowned Eagle
+			Crowned Solitary Eagle
+			Eastern Imperial Eagle
+			Fasciated Snake Eagle
+			Golden Eagle
+			Great Nicobar Serpent Eagle
+			Greater Spotted Eagle
+			Grey-headed Fish Eagle
+			Gurney's Eagle
+			Harpy Eagle
+			Indian Spotted Eagle
+			Javan Hawk-Eagle
+			Lesser Fish Eagle
+			Lesser Spotted Eagle
+			Little Eagle
+			Long-crested Eagle
+			Madagascar Fish Eagle
+			Madagascar Serpent Eagle
+			Martial Eagle
+			Montane Solitary Eagle
+			Mountain Hawk-Eagle
+			Mountain Serpent Eagle
+			Ornate Hawk-Eagle
+			Pallas' Sea Eagle
+			Papuan Eagle
+			Philippine Eagle
+			Philippine Hawk-Eagle
+			Philippine Serpent Eagle
+			Pygmy Eagle
+			Rufous-bellied Hawk-Eagle
+			Sanford's Sea Eagle
+			Short-toed Snake Eagle
+			Spanish Imperial Eagle
+			Steller's Sea Eagle
+			Steppe Eagle
+			Sulawesi Hawk-Eagle
+			Sulawesi Serpent Eagle
+			Tawny Eagle
+			Verreaux's Eagle
+			Wahlberg's Eagle
+			Wallace's Hawk-Eagle
+			Wedge-tailed Eagle
+			Western Banded Snake Eagle
+			White-bellied Sea Eagle
+			White-tailed Eagle
+		Emu
+		falcon
+			African Hobby
+			African Red-necked Falcon
+			American Kestrel
+			Amur Falcon
+			Aplomado Falcon
+			Australian Hobby
+			Australian Kestrel
+			Banded Kestrel
+			Barbary Falcon
+			Bat Falcon
+			Black Falcon
+			Brown Falcon
+			Common Kestrel
+			Dickinson's Kestrel
+			Eleonora's Falcon
+			Eurasian Hobby
+			Eurasian Merlin
+			Fox Kestrel
+			Greater Kestrel
+			Grey Falcon
+			Grey Kestrel
+			Gyrfalcon
+			Laggar Falcon
+			Lanner Falcon
+			Lesser Kestrel
+			Malagasy Kestrel
+			Mauritius Kestrel
+			Merlin
+			New Zealand Falcon
+			Orange-breasted Falcon
+			Oriental Hobby
+			Pallid Falcon
+			Peale's Falcon
+			Peregrine Falcon
+			Prairie Falcon
+			Red-footed Falcon
+			Red-necked Falcon
+			Rock Kestrel
+			Saker Falcon
+			Seychelles Kestrel
+			Sooty Falcon
+			Spotted Kestrel
+			Taita Falcon
+		finfoot
+			African Finfoot
+			Masked Finfoot
+			Sungrebe
+		flamingo
+			Andean Flamingo
+			Chilean Flamingo
+			Greater Flamingo
+			Lesser Flamingo
+		frigatebird
+			Ascension Frigatebird
+			Christmas Frigatebird
+			Great Frigatebird
+			Lesser Frigatebird
+			Magnificent Frigatebird
+		frogmouth
+			Blyth's Frogmouth
+			Bornean Frogmouth
+			Dulit Frogmouth
+			Gould's Frogmouth
+			Hodgson's Frogmouth
+			Javan Frogmouth
+			Large Frogmouth
+			Marbled Frogmouth
+			Papuan Frogmouth
+			Philippine Frogmouth
+			Short-tailed Frogmouth
+			Solomons Frogmouth
+			Sri Lanka Frogmouth
+			Sunda Frogmouth
+			Tawny Frogmouth
+		gamebird
+			Australian Brush-turkey
+			Blood Pheasant
+			Blyth's Tragopan
+			California Quail
+			Cape Spurfowl
+			Ceylon Junglefowl
+			Chicken
+			Chukar Partridge
+			Common Pheasant
+			Common Quail
+			Congo Peafowl
+			Crested Guan
+			Crested Partridge
+			Dusky-legged Guan
+			Elliot's Pheasant
+			Golden Pheasant
+			Great Argus
+			Green Junglefowl
+			Grey Partridge
+			Hazel Grouse
+			Helmeted Guineafowl
+			Hill Partridge
+			Himalayan Monal
+			Himalayan Snowcock
+			Horned Guan
+			Indian Peafowl
+				{Indian Peacock}
+			Jungle Bush Quail
+			Maleo
+			Malleefowl
+			Montezuma Quail
+			Northern Bobwhite
+			Palawan Peacock-pheasant
+			Plain Chachalaca
+			Red Junglefowl
+			Rock Ptarmigan
+			Ruffed Grouse
+			Sage-grouse
+			Satyr Tragopan
+			Spruce Grouse
+			Temminck's Tragopan
+			Vulturine Guineafowl
+			Western Capercaillie
+			Wild Turkey
+			Willow Ptarmigan
+			Yellow-knobbed Curassow
+		gannet
+			Australasian Gannet
+			Cape Gannet
+			Northern Gannet
+		goshawk
+			African Goshawk
+			Black-mantled Goshawk
+			Brown Goshawk
+			Chestnut-shouldered Goshawk
+			Christmas Goshawk
+			Crested Goshawk
+			Dark Chanting Goshawk
+			Doria's Goshawk
+			Eastern Chanting Goshawk
+			Fiji Goshawk
+			Gabar Goshawk
+			Gracile Goshawk
+			Grey Goshawk
+			Grey-headed Goshawk
+			Henst's Goshawk
+			Imitator Goshawk
+			Meyer's Goshawk
+			Moluccan Goshawk
+			New Britain Goshawk
+			Northern Goshawk
+			Pale Chanting Goshawk
+			Pied Goshawk
+			Powerful Goshawk
+			Red Goshawk
+			Red-chested Goshawk
+			Shikra
+			Slaty-mantled Goshawk
+			Sulawesi Goshawk
+			White-bellied Goshawk
+		grebe
+			Australasian Grebe
+			Clark's Grebe
+			Great Crested Grebe
+			Hoary-headed Grebe
+			Little Grebe
+			White-tufted Grebe
+		gull
+			{seagull}
+			American Herring Gull
+			Andean Gull
+			Armenian Gull
+			Audouin's Gull
+			Belcher's Gull
+			Black-billed Gull
+			Black-headed Gull
+			Black-legged Kittiwake
+			Black-tailed Gull
+			Bonaparte's Gull
+			Brown-headed Gull
+			Brown-hooded Gull
+			California Gull
+			Cape Gull
+			Caspian Gull
+			Common Gull
+			Dolphin Gull
+			East Siberian Herring Gull
+			European Herring Gull
+			Franklin's Gull
+			Glaucous Gull
+			Glaucous-winged Gull
+			Gray Gull
+			Gray-hooded Gull
+			Great Black-backed Gull
+			Great Black-headed Gull
+			Hartlaub's Gull
+			Heermann's Gull
+			Heuglin's Gull
+			Iceland Gull
+			Ivory Gull
+			Kelp Gull
+			Kumlien's Gull
+			Laughing Gull
+			Lava Gull
+			Lesser Black-backed Gull
+			Little Gull
+			Mediterranean Gull
+			Olrog's Gull
+			Pacific Gull
+			Red-billed Gull
+			Red-legged Kittiwake
+			Relict Gull
+			Ring-billed Gull
+			Ross's Gull
+			Sabine's Gull
+			Saunders's Gull
+			Silver Gull
+			Slaty-backed Gull
+			Slender-billed Gull
+			Sooty Gull
+			Swallow-tailed Gull
+			Thayer's Gull
+			Western Gull
+			White-eyed Gull
+			Yellow-footed Gull
+			Yellow-legged Gull
+		Hammerkop
+		harrier
+			African Harrier-Hawk
+			African Marsh Harrier
+			Black Harrier
+			Cinereous Harrier
+			Crane Hawk
+			Eastern Marsh Harrier
+			Long-winged Harrier
+			Madagascar Harrier-Hawk
+			Malagasy Harrier
+			Montagu's Harrier
+			Northern Harrier
+			Pallid Harrier
+			Papuan Harrier
+			Pied Harrier
+			Reunion Harrier
+			Spotted Harrier
+			Swamp Harrier
+			Western Marsh Harrier
+		hawk
+			{Buzzard}
+			Archer's Buzzard
+			Augur Buzzard
+			Barred Honey-buzzard
+			Black Honey-buzzard
+			Black-breasted Buzzard
+			Black-chested Buzzard-eagle
+			Broad-winged Hawk
+			Common Buzzard
+			Eurasian Honey Buzzard
+			Ferruginous Hawk
+			Galapagos Hawk
+			Grasshopper Buzzard
+			Gray Hawk
+			Grey-faced Buzzard
+			Hawaiian Hawk
+			Jackal Buzzard
+			Lizard Buzzard
+			Long-legged Buzzard
+			Madagascar Buzzard
+			Mountain Buzzard
+			Oriental Honey Buzzard
+			Puna Hawk
+			Red-backed Hawk
+			Red-necked Buzzard
+			Red-shouldered Hawk
+			Red-tailed Hawk
+			Ridgway's Hawk
+			Roadside Hawk
+			Rough-legged Buzzard
+			Rufous-tailed Hawk
+			Rufous-winged Buzzard
+			Short-tailed Hawk
+			Swainson's Hawk
+			The honey-buzzards
+			Upland Buzzard
+			White-eyed Buzzard
+			White-rumped Hawk
+			White-tailed Hawk
+			White-throated Hawk
+			Zone-tailed Hawk
+		heron
+			Agami Heron
+			American Bittern
+			Australasian Bittern
+			Bare-throated Tiger Heron
+			Black Bittern
+			Black Heron
+			Black-backed Bittern
+			Black-crowned Night Heron
+			Black-headed Heron
+			Boat-billed Heron
+			Capped Heron
+			Cattle Egret
+			Chinese Egret
+			Chinese Pond Heron
+			Cinnamon Bittern
+			Cocoi Heron
+			Dimorphic Egret
+			Dwarf Bittern
+			Eastern Great Egret
+			Eurasian Bittern
+			Fasciated Tiger Heron
+			Forest Bittern
+			Goliath Heron
+			Great Blue Heron
+			Great Egret
+			Great-billed Heron
+			Green Heron
+			Grey Heron
+			Humblot's Heron
+			Indian Pond Heron
+			Intermediate Egret
+			Japanese Night Heron
+			Javan Pond Heron
+			Lava Heron
+			Least Bittern
+			Little Bittern
+			Little Blue Heron
+			Little Egret
+			Malagasy Pond Heron
+			Malayan Night Heron
+			Pacific Heron
+			Pacific Reef Heron
+			Pied Heron
+			Purple Heron
+			Reddish Egret
+			Rufescent Tiger Heron
+			Rufous-bellied Heron
+			Slaty Egret
+			Snowy Egret
+			South American Bittern
+			Squacco Heron
+			Striated Heron
+			Stripe-backed Bittern
+			Tricolored Heron
+			Von Schrenck's Bittern
+			Western Reef Heron
+			Whistling Heron
+			White-backed Night Heron
+			White-bellied Heron
+			White-crested Tiger Heron
+			White-eared Night Heron
+			White-faced Heron
+			Yellow Bittern
+			Yellow-crowned Night Heron
+			Zigzag Heron
+		hummingbird
+			Allen's Hummingbird
+			Amazilia Hummingbird
+			Amethyst Woodstar
+			Amethyst-throated Hummingbird
+			Amethyst-throated Sunangel
+			Andean Emerald
+			Andean Hillstar
+			Anna's Hummingbird
+			Antillean Crested Hummingbird
+			Antillean Mango
+			Azure-crowned Hummingbird
+			Bahama Woodstar
+			Band-tailed Barbthroat
+			Bearded Helmetcrest
+			Bearded Mountaineer
+			Beautiful Hummingbird
+			Bee Hummingbird
+			Berylline Hummingbird
+			Black Inca
+			Black Jacobin
+			Black Metaltail
+			Black-backed Thornbill
+			Black-bellied Hummingbird
+			Black-bellied Thorntail
+			Black-billed Streamertail
+			Black-breasted Hillstar
+			Black-breasted Puffleg
+			Black-chinned Hummingbird
+			Black-crested Coquette
+			Black-eared Fairy
+			Black-hooded Sunbeam
+			Black-tailed Trainbearer
+			Black-thighed Puffleg
+			Black-throated Brilliant
+			Black-throated Hermit
+			Black-throated Mango
+			Blossomcrown
+			Blue-capped Hummingbird
+			Blue-capped Puffleg
+			Blue-chested Hummingbird
+			Blue-chinned Sapphire
+			Blue-fronted Lancebill
+			Blue-headed Hummingbird
+			Blue-headed Sapphire
+			Blue-mantled Thornbill
+			Blue-tailed Emerald
+			Blue-tailed Hummingbird
+			Blue-throated Goldentail
+			Blue-throated Hummingbird
+			Blue-throated Starfrontlet
+			Blue-tufted Starthroat
+			Booted Racket-tail
+			Brazilian Ruby
+			Broad-billed Hummingbird
+			Broad-tailed Hummingbird
+			Broad-tipped Hermit
+			Bronze-tailed Barbthroat
+			Bronze-tailed Comet
+			Bronze-tailed Plumeleteer
+			Bronze-tailed Thornbill
+			Bronzy Hermit
+			Bronzy Inca
+			Brown Inca
+			Brown Violet-ear
+			Buff-bellied Hermit
+			Buff-bellied Hummingbird
+			Buff-breasted Sabrewing
+			Buff-tailed Coronet
+			Buff-tailed Sicklebill
+			Buff-thighed Puffleg
+			Buff-winged Starfrontlet
+			Buffy Hummingbird
+			Bumblebee Hummingbird
+			Calliope Hummingbird
+			Canivet's Emerald
+			Charming Hummingbird
+			Chestnut-bellied Hummingbird
+			Chestnut-breasted Coronet
+			Chilean Woodstar
+			Chimborazo Hillstar
+			Chiribiquete Emerald
+			Cinnamon Hummingbird
+			Cinnamon-throated Hermit
+			Collared Inca
+			Colorful Puffleg
+			Copper-rumped Hummingbird
+			Copper-tailed Hummingbird
+			Coppery Emerald
+			Coppery Metaltail
+			Coppery Thorntail
+			Coppery-bellied Puffleg
+			Coppery-headed Emerald
+			Coppery-naped Puffleg
+			Costa's Hummingbird
+			Cozumel Emerald
+			Crimson Topaz
+			Cuban Emerald
+			Dot-eared Coquette
+			Dusky Hummingbird
+			Dusky-throated Hermit
+			Ecuadorian Piedtail
+			Emerald-bellied Puffleg
+			Emerald-chinned Hummingbird
+			Empress Brilliant
+			Esmeraldas Woodstar
+			Fawn-breasted Brilliant
+			Festive Coquette
+			Fiery Topaz
+			Fiery-tailed Awlbill
+			Fiery-throated Hummingbird
+			Fire-throated Metaltail
+			Fork-tailed Woodnymph
+			Frilled Coquette
+			Garden Emerald
+			Garnet-throated Hummingbird
+			Giant Hummingbird
+			Gilded Sapphire
+			Glittering-bellied Emerald
+			Glittering-throated Emerald
+			Glowing Puffleg
+			Glow-throated Hummingbird
+			Golden Starfrontlet
+			Golden-bellied Starfrontlet
+			Golden-breasted Puffleg
+			Golden-crowned Emerald
+			Golden-tailed Sapphire
+			Gorgeted Puffleg
+			Gorgeted Sunangel
+			Gorgeted Woodstar
+			Gould's Inca
+			Gould's Jewelfront
+			Gray-bellied Comet
+			Gray-breasted Sabrewing
+			Gray-chinned Hermit
+			Gray-tailed Mountain-gem
+			Great Sapphirewing
+			Great-billed Hermit
+			Green Hermit
+			Green Mango
+			Green Thorntail
+			Green Violet-ear
+			Green-and-white Hummingbird
+			Green-backed Firecrown
+			Green-bellied Hummingbird
+			Green-breasted Mango
+			Green-breasted Mountain-gem
+			Green-crowned Brilliant
+			Green-crowned Woodnymph
+			Green-fronted Hummingbird
+			Green-fronted Lancebill
+			Green-headed Hillstar
+			Greenish Puffleg
+			Green-tailed Emerald
+			Green-tailed Goldenthroat
+			Green-tailed Trainbearer
+			Green-throated Carib
+			Green-throated Mango
+			Green-throated Mountain-gem
+			Hispaniolan Emerald
+			Hoary Puffleg
+			Honduran Emerald
+			Hooded Visorbearer
+			Hook-billed Hermit
+			Horned Sungem
+			Hyacinth Visorbearer
+			Indigo-capped Hummingbird
+			Jamaican Mango
+			Juan Fernandez Firecrown
+			Koepcke's Hermit
+			Lazuline Sabrewing
+			Little Hermit
+			Little Sunangel
+			Little Woodstar
+			Loja Hummingbird
+			Long-billed Hermit
+			Long-billed Starthroat
+			Long-tailed Hermit
+			Long-tailed Sabrewing
+			Long-tailed Sylph
+			Long-tailed Woodnymph
+			Longuemare's Sunangel
+			Lucifer Hummingbird
+			Magenta-throated Woodstar
+			Magnificent Hummingbird
+			Mangrove Hummingbird
+			Many-spotted Hummingbird
+			Maranhao Hermit
+			Marvellous Spatuletail
+			Mexican Sheartail
+			Mexican Woodnymph
+			Minute Hermit
+			Mountain Avocetbill
+			Mountain Velvetbreast
+			Napo Sabrewing
+			Narrow-tailed Emerald
+			Neblina Metaltail
+			Needle-billed Hermit
+			Oasis Hummingbird
+			Olivaceous Thornbill
+			Olive-spotted Hummingbird
+			Orange-throated Sunangel
+			Pale-bellied Hermit
+			Pale-tailed Barbthroat
+			Peacock Coquette
+			Perija Metaltail
+			Peruvian Piedtail
+			Peruvian Sheartail
+			Pink-throated Brilliant
+			Plain-bellied Emerald
+			Plain-capped Starthroat
+			Planalto Hermit
+			Plovercrest
+			Puerto Rican Emerald
+			Purple-backed Sunbeam
+			Purple-backed Thornbill
+			Purple-bibbed Whitetip
+			Purple-chested Hummingbird
+			Purple-collared Woodstar
+			Purple-crowned Fairy
+			Purple-throated Carib
+			Purple-throated Mountain-gem
+			Purple-throated Sunangel
+			Purple-throated Woodstar
+			Racket-tailed Coquette
+			Rainbow Starfrontlet
+			Rainbow-bearded Thornbill
+			Red-billed Streamertail
+			Reddish Hermit
+			Red-tailed Comet
+			Rondonia Emerald
+			Royal Sunangel
+			Ruby-throated Hummingbird
+			Ruby-topaz Hummingbird
+			Rufous Hummingbird
+			Rufous Sabrewing
+			Rufous-breasted Hermit
+			Rufous-breasted Sabrewing
+			Rufous-capped Thornbill
+			Rufous-cheeked Hummingbird
+			Rufous-crested Coquette
+			Rufous-shafted Woodstar
+			Rufous-tailed Hummingbird
+			Rufous-throated Sapphire
+			Rufous-vented Whitetip
+			Rufous-webbed Brilliant
+			Santa Marta Sabrewing
+			Santa Marta Woodstar
+			Sapphire-bellied Hummingbird
+			Sapphire-spangled Emerald
+			Sapphire-throated Hummingbird
+			Sapphire-vented Puffleg
+			Saw-billed Hermit
+			Scaled Metaltail
+			Scale-throated Hermit
+			Scaly-breasted Hummingbird
+			Scintillant Hummingbird
+			Scissor-tailed Hummingbird
+			Shining Sunbeam
+			Shining-green Hummingbird
+			Short-crested Coquette
+			Short-tailed Emerald
+			Short-tailed Woodstar
+			Slender Sheartail
+			Slender-tailed Woodstar
+			Snowcap
+			Snowy-bellied Hummingbird
+			Sombre Hummingbird
+			Sooty Barbthroat
+			Sooty-capped Hermit
+			Spangled Coquette
+			Sparkling Violet-ear
+			Sparkling-tailed Hummingbird
+			Speckled Hummingbird
+			Spot-throated Hummingbird
+			Steely-vented Hummingbird
+			Straight-billed Hermit
+			Streak-throated Hermit
+			Stripe-breasted Starthroat
+			Stripe-tailed Hummingbird
+			Stripe-throated Hermit
+			Swallow-tailed Hummingbird
+			Sword-billed Hummingbird
+			Tapajos Hermit
+			Tawny-bellied Hermit
+			Tepui Goldenthroat
+			Tooth-billed Hummingbird
+			Tourmaline Sunangel
+			Tufted Coquette
+			Tumbes Hummingbird
+			Turquoise-throated Puffleg
+			Tyrian Metaltail
+			Velvet-browed Brilliant
+			Velvet-purple Coronet
+			Venezuelan Sylph
+			Veraguan Mango
+			Versicolored Emerald
+			Vervain Hummingbird
+			Violet Sabrewing
+			Violet-bellied Hummingbird
+			Violet-capped Hummingbird
+			Violet-capped Woodnymph
+			Violet-chested Hummingbird
+			Violet-crowned Hummingbird
+			Violet-crowned Woodnymph
+			Violet-fronted Brilliant
+			Violet-headed Hummingbird
+			Violet-tailed Sylph
+			Violet-throated Metaltail
+			Violet-throated Starfrontlet
+			Viridian Metaltail
+			Volcano Hummingbird
+			Wedge-billed Hummingbird
+			Wedge-tailed Hillstar
+			Wedge-tailed Sabrewing
+			White-bearded Hermit
+			White-bellied Emerald
+			White-bellied Hummingbird
+			White-bellied Mountain-gem
+			White-bellied Woodstar
+			White-browed Hermit
+			White-chested Emerald
+			White-chinned Sapphire
+			White-crested Coquette
+			White-eared Hummingbird
+			White-necked Jacobin
+			White-sided Hillstar
+			White-tailed Emerald
+			White-tailed Goldenthroat
+			White-tailed Hillstar
+			White-tailed Hummingbird
+			White-tailed Sabrewing
+			White-tailed Starfrontlet
+			White-throated Hummingbird
+			White-throated Mountain-gem
+			White-tipped Sicklebill
+			White-tufted Sunbeam
+			White-vented Plumeleteer
+			White-vented Violet-ear
+			White-whiskered Hermit
+			Wine-throated Hummingbird
+			Wire-crested Thorntail
+			Xantus's Hummingbird
+		Ibisbill
+		jacana
+			African Jacana
+			Bronze-winged Jacana
+			Comb-crested Jacana
+			Lesser Jacana
+			Madagascar Jacana
+			Northern Jacana
+			Pheasant-tailed Jacana
+			Wattled Jacana
+		kite
+			Bat Hawk
+			Black Kite
+			Black-eared Kite
+			Black-shouldered Kite
+			Black-winged Kite
+			Brahminy Kite
+			Double-toothed Kite
+			Grey-headed Kite
+			Hook-billed Kite
+			Letter-winged Kite
+			Mississippi Kite
+			Pearl Kite
+			Plumbeous Kite
+			Red Kite
+			Rufous-thighed Kite
+			Scissor-tailed Kite
+			Slender-billed Kite
+			Snail Kite
+			Square-tailed Kite
+			Swallow-tailed Kite
+			Whistling Kite
+			White-collared Kite
+			White-tailed Kite
+			Yellow-billed Kite
+		kiwi
+			Brown Kiwi
+			Little Spotted Kiwi
+		lapwing
+			African Wattled Lapwing
+			Andean Lapwing
+			Banded Lapwing
+			Black-headed Lapwing
+			Blacksmith Lapwing
+			Black-winged Lapwing
+			Brown-chested Lapwing
+			Crowned Lapwing
+			Grey-headed Lapwing
+			Javanese Wattled Lapwing
+			Long-toed Lapwing
+			Masked Lapwing
+			Northern Lapwing
+			Pied Lapwing
+			Red-wattled Lapwing
+			River Lapwing
+			Senegal Lapwing
+			Sociable Lapwing
+			Southern Lapwing
+			Spot-breasted Lapwing
+			Spur-winged Lapwing
+			White-headed Plover
+			White-tailed Lapwing
+			Yellow-wattled Lapwing
+		Magellanic Plover
+		mesite
+			Brown Mesite
+			Subdesert Mesite
+			White-breasted Mesite
+		mousebird
+			Blue-naped Mousebird
+			Speckled Mousebird
+		nightjar
+			Andaman Nightjar
+			Anthony's Nightjar
+			Antillean Nighthawk
+			Band-tailed Nighthawk
+			Band-winged Nightjar
+			Bates's Nightjar
+			Blackish Nightjar
+			Black-shouldered Nightjar
+			Bonaparte's Nightjar
+			Brown Nightjar
+			Buff-collared Nightjar
+			Cayenne Nightjar
+			Choco Poorwill
+			Chuck-will's-widow
+			Collared Nightjar
+			Common Nighthawk
+			Common Poorwill
+			Donaldson Smith's Nightjar
+			Dusky Nightjar
+			Eared Poorwill
+			Eastern Whip-poor-will
+			Egyptian Nightjar
+			European Nightjar
+			Fiery-necked Nightjar
+			Freckled Nightjar
+			Golden Nightjar
+			Greater Antillean Nightjar
+			Grey Nightjar
+			Hispaniolan Nightjar
+			Indian Nightjar
+			Jerdon's Nightjar
+			Jungle Nightjar
+			Ladder-tailed Nightjar
+			Large-tailed Nightjar
+			Least Nighthawk
+			Least Pauraque
+			Lesser Nighthawk
+			Little Nightjar
+			Long-tailed Nightjar
+			Long-trained Nightjar
+			Lyre-tailed Nightjar
+			Madagascar Nightjar
+			Mees's Nightjar
+			Mexican Whip-poor-will
+			Montane Nightjar
+			Nacunda Nighthawk
+			Nechisar Nightjar
+			Nubian Nightjar
+			Ocellated Poorwill
+			Pauraque
+			Pennant-winged Nightjar
+			Philippine Nightjar
+			Plain Nightjar
+			Plain-tailed Nighthawk
+			Prigogine's Nightjar
+			Puerto Rican Nightjar
+			Pygmy Nightjar
+			Red-necked Nightjar
+			Roraiman Nightjar
+			Rufous Nightjar
+			Rufous-bellied Nighthawk
+			Rufous-cheeked Nightjar
+			Ruwenzori Nightjar
+			Salvadori's Nightjar
+			Sand-coloured Nighthawk
+			Savanna Nightjar
+			Scissor-tailed Nightjar
+			Short-tailed Nighthawk
+			Sickle-winged Nightjar
+			Silky-tailed Nightjar
+			Slender-tailed Nightjar
+			Sombre Nightjar
+			Spot-tailed Nightjar
+			Standard-winged Nightjar
+			Star-spotted Nightjar
+			Sulawesi Nightjar
+			Swallow-tailed Nightjar
+			Swamp Nightjar
+			Sykes's Nightjar
+			Tawny-collared Nightjar
+			Todd's Nightjar
+			Vaurie's Nightjar
+			White-tailed Nightjar
+			White-winged Nightjar
+			Yucatan Nightjar
+			Yucatan Poorwill
+		ostrich
+			Common Ostrich
+			Greater Rhea
+		owl
+			African Barred Owlet
+			Australian Masked Owl
+			Barn Owl
+			Barred Owl
+			Blakiston's Fish-owl
+			Burrowing Owl
+			Crested Owl
+			Eastern Screech Owl
+			Elf Owl
+			Eurasian Eagle-owl
+			Eurasian Scops-owl
+			Ferruginous Pygmy-owl
+			Great Grey Owl
+			Great Horned Owl
+			Jamaican Owl
+			Little Owl
+			Long-eared Owl
+			Long-whiskered Owlet
+			Northern Hawk Owl
+			Northern Pygmy-owl
+			Northern Saw-whet Owl
+			Papuan Hawk Owl
+			Pel's Fishing-owl
+			Scops Owl
+			Short-eared Owl
+			Snowy Owl
+			Sokoke Scops Owl
+			Southern Boobook
+			Southern White-faced Owl
+			Spectacled Owl
+			Tawny Owl
+			Ural Owl
+			Verreaux's Eagle-owl
+		oystercatcher
+			African Oystercatcher
+			American Oystercatcher
+			Black Oystercatcher
+			Blackish Oystercatcher
+			Canarian Oystercatcher
+			Chatham Oystercatcher
+			Eurasian Oystercatcher
+			Magellanic Oystercatcher
+			Pied Oystercatcher
+			Sooty Oystercatcher
+			South Island Oystercatcher
+			Variable Oystercatcher
+		painted-snipe
+			Australian Painted-snipe
+			Greater Painted-snipe
+			South American Painted-snipe
+		parrot
+			Australian King Parrot
+			Blue-and-yellow Macaw
+			Bluebonnet
+			Blue-crowned Parakeet
+			Blue-crowned Racquet-tail
+			Blue-headed Parrot
+			Blue-naped Parrot
+			Blue-rumped Parrot
+			Blue-winged Macaw
+			Blue-winged Parrotlet
+			Budgerigar
+			Burrowing Parakeet
+			Cockatiel
+			Crimson Rosella
+			Cuban Amazon
+			Double-eyed Fig-parrot
+			Eclectus Parrot
+			Galah
+			Gang-gang Cockatoo
+			Greater Vasa Parrot
+			Grey Parrot
+			Grey-headed Lovebird
+			Hyacinth Macaw
+			Kakapo
+			Kea
+			Little Corella
+			Monk Parakeet
+			Mulga Parrot
+			Musk Lorikeet
+			Palm Cockatoo
+			Papuan Lorikeet
+			Peach-fronted Parakeet
+			Plum-headed Parakeet
+			Rainbow Lorikeet
+			Red Lory
+			Red-and-green Macaw
+			Red-capped Parrot
+			Red-crowned Parakeet
+			Reddish-bellied Parakeet
+			Red-fan Parrot
+			Red-rumped Parrot
+			Red-shouldered Macaw
+			Red-tailed Black Cockatoo
+			Red-winged Parrot
+			Regent Parrot
+			Rock Parrot
+			Rose-ringed Parakeet
+			Rosy-faced Lovebird
+			Ruppell's Parrot
+			Sapphire-rumped Parrotlet
+			Scarlet Macaw
+			Spix's Macaw
+			Sulphur-crested Cockatoo
+			Superb Parrot
+			Turquoise-fronted Amazon
+			Varied Lorikeet
+			Vernal Hanging Parrot
+			Vulturine Parrot
+			Yellow-chevroned Parakeet
+			Yellow-crowned Amazon
+		pelican
+			American White Pelican
+			Australian Pelican
+			Brown Pelican
+			Dalmatian Pelican
+			Great White Pelican
+			Peruvian Pelican
+			Pink-backed Pelican
+			Spot-billed Pelican
+		penguin
+			Adelie Penguin
+			African Penguin
+			Emperor Penguin
+			Fairy Penguin
+			Galapagos Penguin
+			Gentoo Penguin
+			King Penguin
+			Macaroni Penguin
+			Magellanic Penguin
+			Rockhopper penguin
+			Yellow-eyed Penguin
+		petrel
+			Antarctic Petrel
+			Beck's Petrel
+			Black Petrel
+			Bulwer's Petrel
+			Cape Petrel
+			Fiji Petrel
+			Fulmar Petrel
+				Northern Fulmar
+				Southern Fulmar
+			Giant Petrel
+				Northern Giant Petrel
+				southern Giant Petrel
+			Grey Petrel
+			Kerguelen Petrel
+			Mascarene Petrel
+			Snow Petrel
+			Spectacled Petrel
+			Tahiti Petrel
+			Westland Petrel
+			White-chinned Petrel
+		phalarope
+			Red Phalarope
+			Red-necked Phalarope
+			Wilson's Phalarope
+		pigeon
+			{dove}
+			Adamawa Turtle Dove
+			Afep Pigeon
+			African Collared Dove
+			African Green Pigeon
+			African Olive Pigeon
+			Amethyst Brown Dove
+			Andaman Cuckoo-dove
+			Andaman Woodpigeon
+			Ashy Woodpigeon
+			Atoll Fruit Dove
+			Band-tailed Pigeon
+			Barbary Dove
+			Bare-eyed Pigeon
+			Bare-faced Ground Dove
+			Bar-necked Cuckoo-Dove
+			Barred Cuckoo-dove
+			Barred Dove
+			Bar-shouldered Dove
+			Bar-tailed Cuckoo-Dove
+			Beautiful Fruit Dove
+			Bismarck Imperial Pigeon
+			Black Cuckoo-dove
+			Black-backed Fruit Dove
+			Black-banded Fruit Dove
+			Black-billed Wood Dove
+			Black-chinned Fruit Dove
+			Black-naped Fruit Dove
+			Black-winged Ground Dove
+			Blue Ground Dove
+			Blue-capped Fruit Dove
+			Blue-eyed Ground Dove
+			Blue-headed Quail Dove
+			Blue-headed Wood Dove
+			Blue-spotted Wood Dove
+			Blue-tailed Imperial Pigeon
+			Bolle's Pigeon
+			Bonin Wood Pigeon
+			Bridled Quail-dove
+			Bronze Ground Dove
+			Brown Cuckoo-dove
+			Brown-backed Dove
+			Bruce's Green Pigeon
+			Brush Bronzewing
+			Cameroon Olive Pigeon
+			Caribbean Dove
+			Caroline Ground Dove
+			Carunculated Fruit Dove
+			Chestnut-bellied Imperial Pigeon
+			Chestnut-quilled Rock Pigeon
+			Chilean Pigeon
+			Choiseul Pigeon
+			Christmas Imperial Pigeon
+			Cinnamon Ground Dove
+			Cinnamon-bellied Imperial Pigeon
+			Cinnamon-headed Green Pigeon
+			Claret-breasted Fruit Dove
+			Cloven-feathered Dove
+			Collared Dove
+			Collared Imperial Pigeon
+			Common Bronzewing
+			Common Ground Dove
+			Comoro Blue Pigeon
+			Comoro Olive Pigeon
+			Coroneted Fruit Dove
+			Costa Rica Quail-dove
+			Cream-bellied Fruit Dove
+			Crested Cuckoo-Dove
+			Crested Pigeon
+			Crested Quail-dove
+			Croaking Ground Dove
+			Dark-backed Imperial Pigeon
+			Dark-eared Brown Dove
+			Diamond Dove
+			Dusky Pigeon
+			Dusky Turtle Dove
+			Dwarf Fruit Dove
+			Eared Dove
+			Eastern Bronze-naped Pigeon
+			Ecuadorian Ground Dove
+			Emerald Dove
+			Emerald-spotted Wood Dove
+			Finsch's Imperial Pigeon
+			Flame-breasted Fruit Dove
+			Flock Bronzewing
+			Flores Green Pigeon
+			Friendly Ground Dove
+			Galapagos Dove
+			Golden Dove
+			Golden-spotted Ground Dove
+			Great Cuckoo-Dove
+			Green Imperial Pigeon
+			Grenada Dove
+			Grey Imperial Pigeon
+			Grey-cheeked Green Pigeon
+			Grey-chested Dove
+			Grey-fronted Dove
+			Grey-green Fruit Dove
+			Grey-headed Dove
+			Grey-headed Fruit Dove
+			Grey-headed Imperial Pigeon
+			Grey-headed Quail-dove
+			Grey-necked Imperial Pigeon
+			Henderson Fruit Dove
+			Hill Pigeon
+			Inca Dove
+			Island Collared Dove
+			Island Imperial Pigeon
+			Jambu Fruit Dove
+			Japanese Woodpigeon
+			Key West Quail-dove
+			Knob-billed Fruit Dove
+			Large Green Pigeon
+			Laughing Dove
+			Laurel Pigeon
+			Lemon Dove
+			Lined Quail-dove
+			Little Cuckoo-dove
+			Little Green Pigeon
+			Long-tailed Ground Dove
+			Long-tailed Mountain Pigeon
+			Luzon Bleeding-heart
+			MacKinlay's Cuckoo-Dove
+			Madagascar Blue Pigeon
+			Madagascar Green Pigeon
+			Madagascar Pigeon
+			Makatea Fruit Dove
+			Many-coloured Fruit Dove
+			Maranon Pigeon
+			Mariana Fruit Dove
+			Maroon-chested Ground Dove
+			Maroon-chinned Fruit Dove
+			Marquesas Ground Dove
+			Mauritius Blue Pigeon
+			Metallic Pigeon
+			Micronesian Imperial Pigeon
+			Mindanao Bleeding-heart
+			Mindoro Bleeding-heart
+			Mindoro Imperial Pigeon
+			Moreno's Ground Dove
+			Mountain Imperial Pigeon
+			Mourning Collared Dove
+			Mourning Dove
+			Namaqua Dove
+			Negros Bleeding-heart
+			Negros Fruit Dove
+			New Britain Bronzewing
+			New Caledonian Imperial Pigeon
+			New Guinea Bronzewing
+			New Zealand Pigeon
+			Nicobar Pigeon
+			Nilgiri Woodpigeon
+			Norfolk Island Ground Dove
+			Nukuhiva Imperial Pigeon
+			Ochre-bellied Dove
+			Olive-backed Quail-dove
+			Orange Dove
+			Orange-bellied Fruit Dove
+			Orange-breasted Green Pigeon
+			Orange-fronted Fruit Dove
+			Oriental Turtle Dove
+			Ornate Fruit Dove
+			Pacific Imperial Pigeon
+			Palau Fruit Dove
+			Palau Ground Dove
+			Pale Mountain Pigeon
+			Pale-capped Pigeon
+			Pale-vented Pigeon
+			Pallid Dove
+			Papuan Mountain Pigeon
+			Partridge Pigeon
+			Passenger Pigeon
+			Peaceful Dove
+			Peale's Imperial Pigeon
+			Pemba Green Pigeon
+			Pheasant Pigeon
+			Philippine Cuckoo-Dove
+			Picazuro Pigeon
+			Picui Dove
+			Pied Cuckoo-Dove
+			Pied Imperial Pigeon
+			Pink Pigeon
+			Pink-bellied Imperial Pigeon
+			Pink-headed Fruit Dove
+			Pink-headed Imperial Pigeon
+			Pink-necked Green Pigeon
+			Pink-spotted Fruit Dove
+			Pinon's Imperial Pigeon
+			Pin-tailed Green Pigeon
+			Plain Pigeon
+			Plain-breasted Ground Dove
+			Plumbeous Pigeon
+			Polynesian Ground Dove
+			Polynesian Imperial Pigeon
+			Pompadour Green Pigeon
+			Purple-capped Fruit Dove
+			Purple-tailed Imperial Pigeon
+			Purple-winged Ground Dove
+			Purplish-backed Quail-dove
+			Rapa Fruit Dove
+			Rarotonga Fruit Dove
+			Red Turtle Dove
+			Red-bellied Fruit Dove
+			Red-billed Pigeon
+			Red-eared Fruit Dove
+			Red-eyed Dove
+			Red-knobbed Imperial Pigeon
+			Red-moustached Fruit Dove
+			Red-naped Fruit Dove
+			Ring-necked Dove
+			Ring-tailed Pigeon
+			Rock Dove
+			Rodrigues Pigeon
+			Rose-crowned Fruit Dove
+			Ruddy Cuckoo-dove
+			Ruddy Ground Dove
+			Ruddy Pigeon
+			Ruddy Quail-dove
+			Rufous-breasted Quail-dove
+			Russet-crowned Quail-dove
+			Ryukyu Pigeon
+			Santa Cruz Ground Dove
+			Sao Tome Bronze-naped Pigeon
+			Sao Tome Green Pigeon
+			Sao Tome Lemon-dove
+			Sao Tome Olive Pigeon
+			Sapphire Quail-dove
+			Scaled Dove
+			Scaled Pigeon
+			Scaly-naped Pigeon
+			Scarlet-breasted Fruit Dove
+			Seychelles Blue Pigeon
+			Shining Imperial Pigeon
+			Short-billed Pigeon
+			Silver-capped Fruit Dove
+			Silvery Pigeon
+			Slender-billed Cuckoo-dove
+			Snow Pigeon
+			Socorro Dove
+			Somali Pigeon
+			Sombre Pigeon
+			Southern Crowned Pigeon
+			Speckled Pigeon
+			Speckled Woodpigeon
+			Spice Imperial Pigeon
+			Spinifex Pigeon
+			Spotted Dove
+			Spot-winged Pigeon
+			Squatter Pigeon
+			Sri Lanka Woodpigeon
+			Stephan's Emerald Dove
+			Stock Dove
+			Sulawesi Ground Dove
+			Sulu Bleeding-heart
+			Sumatran Green Pigeon
+			Sumba Green Pigeon
+			Superb Fruit Dove
+			Tambourine Dove
+			Tanna Fruit Dove
+			Tanna Ground Dove
+			Thick-billed Green Pigeon
+			Thick-billed Ground Dove
+			Thick-billed Ground Pigeon
+			Timor Green Pigeon
+			Timor Imperial Pigeon
+			Tolima Dove
+			Tooth-billed Pigeon
+			Topknot Pigeon
+			Torresian Imperial Pigeon
+			Trocaz Pigeon
+			Turtle Dove
+			Vanuatu Imperial Pigeon
+			Veracruz Quail-dove
+			Victoria Crowned Pigeon
+			Vinaceous Dove
+			Violaceous Quail-dove
+			Wallace's Fruit Dove
+			Wedge-tailed Green Pigeon
+			West Peruvian Dove
+			Western Bronze-naped Pigeon
+			Western Crowned Pigeon
+			Wetar Ground Dove
+			Whistling Dove
+			Whistling Green Pigeon
+			White Imperial Pigeon
+			White-bellied Green Pigeon
+			White-bellied Imperial Pigeon
+			White-bibbed Fruit Dove
+			White-bibbed Ground Dove
+			White-capped Fruit Dove
+			White-collared Pigeon
+			White-crowned Pigeon
+			White-eared Brown Dove
+			White-eyed Imperial Pigeon
+			White-faced Cuckoo-dove
+			White-faced Dove
+			White-faced Quail-dove
+			White-headed Fruit Dove
+			White-headed Pigeon
+			White-naped Pigeon
+			White-quilled Rock Pigeon
+			White-throated Ground Dove
+			White-throated Quail-dove
+			White-tipped Dove
+			White-winged Collared Dove
+			White-winged Dove
+			Wompoo Fruit Dove
+			Wonga Pigeon
+			Wood Pigeon
+			Yellow-bibbed Fruit Dove
+			Yellow-breasted Fruit Dove
+			Yellow-eyed Pigeon
+			Yellow-footed Green Pigeon
+			Yellow-legged Pigeon
+			Yellow-vented Green Pigeon
+			Zebra Dove
+			Zenaida Dove
+			Zoe's Imperial Pigeon
+		plains-wanderer
+		plover
+			American Golden Plover
+			Black-fronted Dotterel
+			Caspian Plover
+			Chestnut-banded Plover
+			Collared Plover
+			Common Ringed Plover
+			Diademed Plover
+			Double-banded Plover
+			Eurasian Dotterel
+			European Golden Plover
+			Forbes's Plover
+			Greater Sand Plover
+			Grey Plover
+			Hooded Dotterel
+			Inland Dotterel
+			Javan Plover
+			Kentish Plover
+			Killdeer
+			Kittlitz's Plover
+			Lesser Sand Plover
+			Little Ringed Plover
+			Long-billed Plover
+			Madagascar Plover
+			Malaysian Plover
+			Mountain Plover
+			New Zealand Plover
+			Oriental Plover
+			Pacific Golden Plover
+			Piping Plover
+			Puna Plover
+			Red-capped Plover
+			Rufous-chested Plover
+			Saint Helena Plover
+			Semipalmated Plover
+			Shore Dotterel
+			Tawny-throated Dotterel
+			Three-banded Plover
+			Two-banded Plover
+			White-fronted Plover
+			Wilson's Plover
+			Wrybill
+		rail
+			African Crake
+			African Rail
+			African Swamphen
+			Allen's Gallinule
+			American Coot
+			American Purple Gallinule
+			Andaman Crake
+			Andean Coot
+			Ash-throated Crake
+			Auckland Rail
+			Austral Rail
+			Australian Spotted Crake
+			Azure Gallinule
+			Baillon's Crake
+			Band-bellied Crake
+			Bare-eyed Rail
+			Barred Rail
+			Black Crake
+			Black Rail
+			Black-banded Crake
+			Blackish Rail
+			Black-tailed Crake
+			Black-tailed Nativehen
+			Blue-faced Rail
+			Bogota Rail
+			Brown Crake
+			Brown Wood Rail
+			Brown-banded Rail
+			Buff-banded Rail
+			Buff-spotted Flufftail
+			Calayan Rail
+			California Clapper Rail
+			Caribbean Coot
+			Chatham Coot
+			Chestnut Forest Rail
+			Chestnut Rail
+			Chestnut-headed Crake
+			Chestnut-headed Flufftail
+			Clapper Rail
+			Colombian Crake
+			Common Gallinule
+			Common Moorhen
+			Corn Crake
+			Dot-winged Crake
+			Dusky Moorhen
+			Eurasian Coot
+			Forbes's Forest Rail
+			Galapagos Crake
+			Giant Coot
+			Giant Wood Rail
+			Gough Moorhen
+			Grey-breasted Crake
+			Grey-headed Swamphen
+			Grey-necked Wood Rail
+			Grey-throated Rail
+			Hawaiian Coot
+			Horned Coot
+			Inaccessible Island Rail
+			Invisible Rail
+			Isabelline Bush-hen
+			Junin Crake
+			King Rail
+			Lesser Moorhen
+			Lewin's Rail
+			Little Crake
+			Little Wood Rail
+			Lord Howe Woodhen
+			Madagascar Flufftail
+			Madagascar Rail
+			Madagascar Wood Rail
+			Mayr's Forest Rail
+			New Britain Rail
+			New Guinea Flightless Rail
+			New Zealand Coot
+			Nkulengu Rail
+			Ocellated Crake
+			Okinawa Rail
+			Paint-billed Crake
+			Pale-vented Bush-hen
+			Plain Bush-hen
+			Plain-flanked Rail
+			Plumbeous Rail
+			Purple Swamphen
+			Red-and-white Crake
+			Red-chested Flufftail
+			Red-eyed Crake
+			Red-fronted Coot
+			Red-gartered Coot
+			Red-knobbed Coot
+			Red-legged Crake
+			Red-necked Crake
+			Red-throated Wood Rail
+			Red-winged Wood Rail
+			Rouget's Rail
+			Roviana Rail
+			Ruddy Crake
+			Ruddy-breasted Crake
+			Rufous-faced Crake
+			Rufous-necked Wood Rail
+			Rufous-sided Crake
+			Russet-crowned Crake
+			Rusty-flanked Crake
+			Sakalava Rail
+			Samoan Moorhen
+			Slaty-breasted Rail
+			Slaty-breasted Wood Rail
+			Slaty-legged Crake
+			Slender-billed Flufftail
+			Snoring Rail
+			Sora
+			Speckled Crake
+			Spot-flanked Gallinule
+			Spotless Crake
+			Spotted Crake
+			Spotted Rail
+			Streaky-breasted Flufftail
+			Striped Crake
+			Striped Flufftail
+			Swinhoe's Rail
+			Takahe
+			Talaud Bush-hen
+			Talaud Rail
+			Tasmanian Nativehen
+			Tsingy Wood Rail
+			Uniform Crake
+			Virginia Rail
+			Water Rail
+			Watercock
+			Weka
+			White-breasted Waterhen
+			White-browed Crake
+			White-spotted Flufftail
+			White-striped Forest Rail
+			White-throated Crake
+			White-throated Rail
+			White-winged Coot
+			White-winged Flufftail
+			Woodford's Rail
+			Yellow Rail
+			Yellow-breasted Crake
+			Zapata Rail
+		sandgrouse
+			Crowned Sandgrouse
+			Lichtenstein's Sandgrouse
+			Pin-tailed Sandgrouse
+		sandpiper
+			Bar-tailed Godwit
+			Black-tailed Godwit
+			Bristle-thighed Curlew
+			Eastern Curlew
+			Eurasian Curlew
+			Godwit
+			Hudsonian Godwit
+			Little Curlew
+			Long-billed Curlew
+			Marbled Godwit
+			Upland Sandpiper
+			Whimbrel
+		Secretary Bird
+		seedsnipe
+			Grey-breasted Seedsnipe
+			Least Seedsnipe
+			Rufous-bellied Seedsnipe
+			White-bellied Seedsnipe
+		seriema
+			Black-legged Seriema
+			Red-legged Seriema
+		shearwater
+			Audubon's Shearwater
+			Balearic Shearwater
+			Black-vented Shearwater
+			Bryan's Shearwater
+			Buller's Shearwater
+			Cape Verde Shearwater
+			Christmas Shearwater
+			Cory's Shearwater
+			Flesh-footed Shearwater
+			Fluttering Shearwater
+			Galapagos Shearwater
+			Great Shearwater
+			Hawaiian Shearwater
+			Heinroth's Shearwater
+			Hutton's Shearwater
+			Little Shearwater
+			Manx Shearwater
+			Pink-footed Shearwater
+			Short-tailed Shearwater
+			Sooty Shearwater
+			Streaked Shearwater
+			Townsend's Shearwater
+			Wedge-tailed Shearwater
+			Yelkouan Shearwater
+		sheathbill
+			Black-faced Sheathbill
+			Snowy Sheathbill
+		shoebill
+		snipe
+			Amami Woodcock
+			American Woodcock
+			Bukidnon Woodcock
+			Dusky Woodcock
+			Eurasian Woodcock
+			Moluccan Woodcock
+			New Guinea Woodcock
+			Sulawesi Woodcock
+		stilt
+			Banded Stilt
+			Black Stilt
+			Black-necked Stilt
+			Black-winged Stilt
+			Hawaiian Stilt
+			Pied Stilt
+			White-backed Stilt
+		stone-curlew
+			Beach Stone-curlew
+			Bush Stone-curlew
+			Double-striped Thick-knee
+			Eurasian Stone-curlew
+			Great Stone-curlew
+			Peruvian Thick-knee
+			Senegal Thick-knee
+			Spotted Thick-knee
+			Water Thick-knee
+		stork
+			Abdim's Stork
+			African Openbill
+			Asian Openbill
+			Black Stork
+			Black-necked Stork
+			Greater Adjutant
+			Jabiru
+			Lesser Adjutant
+			Maguari Stork
+			Marabou Stork
+			Milky Stork
+			Oriental Stork
+			Painted Stork
+			Saddle-billed Stork
+			Storm's Stork
+			White Stork
+			Wood Stork
+			Woolly-necked Stork
+			Yellow-billed Stork
+		swift
+			African Black Swift
+			African Palm Swift
+			Alpine Swift
+			Amazonian Swift
+			American Black Swift
+			Andean Swift
+			Antillean Palm Swift
+			Ashy-tailed Swift
+			Asian Palm Swift
+			Atiu Swiftlet
+			Australian Swiftlet
+			Band-rumped Swift
+			Bare-legged Swiftlet
+			Bates's Swift
+			Biscutate Swift
+			Black Spinetail
+			Black-nest Swiftlet
+			Blyth's Swift
+			Bohm's Spinetail
+			Bradfield's Swift
+			Brown-backed Needletail
+			Brown-rumped Swiftlet
+			Cape Verde Swift
+			Cassin's Spinetail
+			Cave Swiftlet
+			Chapman's Swift
+			Chestnut-collared Swift
+			Chimney Swift
+			Christmas Swiftlet
+			Common Swift
+			Cook's Swift
+			Costa Rican Swift
+			Dark-rumped Swift
+			Edible-nest Swiftlet
+			Fernando Po Swift
+			Forbes-Watson's Swift
+			German's Swiftlet
+			Giant Swiftlet
+			Glossy Swiftlet
+			Gray-rumped Swift
+			Great Dusky Swift
+			Great Swallow-tailed Swift
+			Grey Swiftlet
+			Grey-rumped Swiftlet
+			Himalayan Swiftlet
+			Horus Swift
+			House Swift
+			Indian Swiftlet
+			Indochinese Swiftlet
+			Island Swiftlet
+			Lesser Antillean Swift
+			Lesser Swallow-tailed Swift
+			Little Swift
+			Madagascar Spinetail
+			Malagasy Black Swift
+			Mariana Swiftlet
+			Marquesan Swiftlet
+			Mascarene Swiftlet
+			Mayr's Swiftlet
+			Moluccan Swiftlet
+			Mossy-nest Swiftlet
+			Mottled Spinetail
+			Mottled Swift
+			Mountain Swiftlet
+			Neotropical Palm Swift
+			Nyanza Swift
+			Pacific Swift
+			Palau Swiftlet
+			Palawan Swiftlet
+			Pale-rumped Swift
+			Pallid Swift
+			Papuan Spine-tailed Swift
+			Philippine Spine-tailed Swift
+			Philippine Swiftlet
+			Plain Swift
+			Purple Needletail
+			Pygmy Palm Swift
+			Pygmy Swiftlet
+			Rothschild's Swift
+			Sabine's Spinetail
+			Salim Ali's Swift
+			Sao Tome Spinetail
+			Scarce Swift
+			Schouteden's Swift
+			Seychelles Swiftlet
+			Short-tailed Swift
+			Sick's Swift
+			Silver-backed Needletail
+			Silver-rumped Spinetail
+			Sooty Swift
+			Spot-fronted Swift
+			Tahiti Swiftlet
+			Tepui Swift
+			Three-toed Swiftlet
+			Uniform Swiftlet
+			Vaux's Swift
+			Volcano Swiftlet
+			White-chested Swift
+			White-chinned Swift
+			White-collared Swift
+			White-fronted Swift
+			Whitehead's Swiftlet
+			White-naped Swift
+			White-rumped Spinetail
+			White-rumped Swift
+			White-rumped Swiftlet
+			White-throated Needletail
+			White-throated Swift
+			White-tipped Swift
+		tattler
+			Grey-tailed Tattler
+			Wandering Tattler
+		tinamou
+			Andean Tinamou
+			Elegant Crested Tinamou
+			Great Tinamou
+		toucan
+			Andean Toucanet
+			Ariel Toucan
+			Black-billed Mountain Toucan
+			Black-mandibled Toucan
+			Black-necked Aracari
+			Blue-banded Toucanet
+			Blue-throated Toucanet
+			Brown-mandibled Aracari
+			Channel-billed Toucan
+			Chestnut-eared Aracari
+			Chestnut-mandibled Toucan
+			Chestnut-tipped Toucanet
+			Choco Toucan
+			Citron-throated Toucan
+			Collared Aracari
+			Crimson-rumped Toucanet
+			Curl-crested Aracari
+			Cuvier's Toucan
+			Emerald Toucanet
+			Fiery-billed Aracari
+			Golden-collared Toucanet
+			Gould's Toucanet
+			Green Aracari
+			Green-billed Toucan
+			Grey-breasted Mountain Toucan
+			Grey-throated Toucanet
+			Groove-billed Toucanet
+			Guianan Toucanet
+			Hooded Mountain Toucan
+			Ivory-billed Aracari
+			Keel-billed Toucan
+			Langsdorff's Toucanet
+			Lettered Aracari
+			Many-banded Aracari
+			Pale-mandibled Aracari
+			Peruvian Toucanet
+			Plate-billed Mountain Toucan
+			Red-billed Toucan
+			Red-necked Aracari
+			Saffron Toucanet
+			Santa Marta Toucanet
+			Spot-billed Toucanet
+			Stripe-billed Aracari
+			Tawny-tufted Toucanet
+			Toco Toucan
+			Violet-throated Toucanet
+			Wagler's Toucanet
+			Whitely's Toucanet
+			White-throated Toucan
+			Yellow-billed Toucanet
+			Yellow-browed Toucanet
+			Yellow-eared Toucanet
+			Yellow-ridged Toucan
+		tringa
+			Common Greenshank
+			Common Redshank
+			Greater Yellowlegs
+			Green Sandpiper
+			Lesser Yellowlegs
+			Marsh Sandpiper
+			Nordmann's Greenshank
+			Solitary Sandpiper
+			Spotted Redshank
+			Willet
+			Wood Sandpiper
+		trogon
+			Black-throated Trogon
+			Elegant Trogon
+			Narina Trogon
+			Red-headed
+			Resplendent Quetzal
+		tropicbird
+			Red-billed Tropicbird
+			Red-tailed Tropicbird
+			White-tailed Tropicbird
+		trumpeter
+			Brown-winged Trumpeter
+			Dark-winged Trumpeter
+			Green-winged Trumpeter
+			Grey-winged Trumpeter
+			Napo Trumpeter
+			Ochre-winged Trumpeter
+			Pale-winged Trumpeter
+			White-winged Trumpeter
+		turaco
+			Bannerman's Turaco
+			Bare-faced Go-away-bird
+			Black-billed Turaco
+			Eastern Plantain-eater
+			Fischer's Turaco
+			Great Blue Turaco
+			Grey Go-away-bird
+			Guinea Turaco
+			Hartlaub's Turaco
+			Knysna Turaco
+			Livingstone's Turaco
+			Purple-crested Turaco
+			Red-crested Turaco
+			Ross's Turaco
+			Ruspoli's Turaco
+			Ruwenzori Turaco
+			Schalow's Turaco
+			Violet Turaco
+			Western Plantain-eater
+			White-bellied Go-away-bird
+			White-cheeked Turaco
+			White-crested Turaco
+			Yellow-billed Turaco
+		turnstone
+			Black Turnstone
+			Ruddy Turnstone
+		vulture
+			Andean Condor
+			Black Vulture
+			California Condor
+			Cape Vulture
+			Cinereous Vulture
+			Egyptian Vulture
+			Greater Yellow-headed Vulture
+			Griffon Vulture
+			Himalayan Vulture
+			Hooded Vulture
+			Indian Vulture
+			King Vulture
+			Lammergeier
+			Lappet-faced Vulture
+			Lesser Yellow-headed Vulture
+			Palm-nut Vulture
+			Red-headed Vulture
+			Ruppell's Vulture
+			Slender-billed Vulture
+			Turkey Vulture
+			White-backed Vulture
+			White-headed Vulture
+			White-rumped Vulture
+		waterfowl
+			African Pygmy Goose
+			American Wigeon
+			Andean Goose
+			Bar-headed Goose
+			Barnacle Goose
+			Black Scoter
+			Black Swan
+			Black-headed Duck
+			Blue Duck
+			Brent Goose
+				{Brant}
+			Brown Teal
+			Cackling Goose
+			Canada Goose
+			Common Goldeneye
+			Common Merganser
+			Common Pochard
+			Common Shelduck
+			Common Teal
+			Egyptian Goose
+			Gadwall
+			Greater Scaup
+			Greater White-fronted Goose
+			Greylag Goose
+			Harlequin Duck
+			Hawaiian Goose
+			Horned Screamer
+			King Eider
+			Long-tailed Duck
+			Magellanic Flightless Steamer Duck
+			Magpie-goose
+			Mallard Duck
+			Mandarin Duck
+			Marbled Duck
+			Muscovy Duck
+			Musk Duck
+			Mute Swan
+			Nene
+			Northern Pintail
+			Northern Shoveler
+			Orinoco Goose
+			Pink-eared Duck
+			Red-breasted Goose
+			Ruddy Duck
+			Smew
+			Snow Goose
+			Southern Screamer
+			Spur-winged Goose
+			Swan Goose
+			Tufted Duck
+			Tundra Swan
+			White-faced Whistling Duck
+			Whooper Swan
+			Wood Duck
+			Woods-walking Goose
+		woodpecker
+			Abyssinian Woodpecker
+			Acorn Woodpecker
+			African Piculet
+			Andaman Woodpecker
+			Andean Flicker
+			Antillean Piculet
+			Arabian Woodpecker
+			Arrowhead Piculet
+			Ashy Woodpecker
+			Bamboo Woodpecker
+			Banded Woodpecker
+			Bar-bellied Woodpecker
+			Bar-breasted Piculet
+			Bay Woodpecker
+			Bearded Woodpecker
+			Beautiful Woodpecker
+			Bennett's Woodpecker
+			Black Woodpecker
+			Black-and-buff Woodpecker
+			Black-bodied Woodpecker
+			Black-cheeked Woodpecker
+			Black-headed Woodpecker
+			Black-necked Woodpecker
+			Black-rumped Flameback
+			Black-spotted Piculet
+			Blood-coloured Woodpecker
+			Bronze-winged Woodpecker
+			Brown-backed Woodpecker
+			Brown-capped Pygmy Woodpecker
+			Brown-eared Woodpecker
+			Brown-fronted Woodpecker
+			Buff-necked Woodpecker
+			Buff-rumped Woodpecker
+			Buff-spotted Woodpecker
+			Campo Flicker
+			Cardinal Woodpecker
+			Caribbean Flicker
+			Checkered Woodpecker
+			Checker-throated Woodpecker
+			Chestnut Piculet
+			Chilean Flicker
+			Choco Woodpecker
+			Common Flameback
+			Crimson-breasted Woodpecker
+			Crimson-mantled Woodpecker
+			Crimson-winged Woodpecker
+			Cuban Green Woodpecker
+			Darjeeling Woodpecker
+			Dot-fronted Woodpecker
+			Ecuadorian Piculet
+			Elliot's Woodpecker
+			Eurasian Wryneck
+			European Green Woodpecker
+			Fernandina's Flicker
+			Fine-barred Piculet
+			Fine-spotted Woodpecker
+			Fire-bellied Woodpecker
+			Fulvous-breasted Woodpecker
+			Gabon Woodpecker
+			Gila Woodpecker
+			Gilded Flicker
+			Golden-breasted Woodpecker
+			Golden-cheeked Woodpecker
+			Golden-collared Woodpecker
+			Golden-fronted Woodpecker
+			Golden-green Woodpecker
+			Golden-naped Woodpecker
+			Golden-olive Woodpecker
+			Golden-spangled Piculet
+			Golden-tailed Woodpecker
+			Gray-crowned Woodpecker
+			Great Slaty Woodpecker
+			Great Spotted Woodpecker
+			Greater Flameback
+			Greater Yellownape
+			Green-backed Woodpecker
+			Green-barred Woodpecker
+			Grey Woodpecker
+			Grey-and-buff Woodpecker
+			Grey-breasted Woodpecker
+			Grey-capped Pygmy Woodpecker
+			Grey-headed Woodpecker
+			Greyish Piculet
+			Ground Woodpecker
+			Guadeloupe Woodpecker
+			Heart-spotted Woodpecker
+			Helmeted Woodpecker
+			Himalayan Flameback
+			Himalayan Woodpecker
+			Hispaniolan Woodpecker
+			Hoffmann's Woodpecker
+			Iberian Woodpecker
+			Jamaican Woodpecker
+			Japanese Green Woodpecker
+			Japanese Pygmy Woodpecker
+			Knysna Woodpecker
+			Laced Woodpecker
+			Lafresnaye's Piculet
+			Lesser Spotted Woodpecker
+			Lesser Yellownape
+			Levaillant's Woodpecker
+			Lewis's Woodpecker
+			Lineated Woodpecker
+			Lita Woodpecker
+			Little Green Woodpecker
+			Little Grey Woodpecker
+			Little Woodpecker
+			Maroon Woodpecker
+			Melancholy Woodpecker
+			Middle Spotted Woodpecker
+			Mombasa Woodpecker
+			Mottled Piculet
+			Northern Flicker
+			Nubian Woodpecker
+			Ocellated Piculet
+			Ochraceous Piculet
+			Ochre-collared Piculet
+			Okinawa Woodpecker
+			Olivaceous Piculet
+			Olive Woodpecker
+			Olive-backed Woodpecker
+			Orange-backed Woodpecker
+			Orinoco Piculet
+			Pale-headed Woodpecker
+			Philippine Pygmy Woodpecker
+			Pileated Woodpecker
+			Plain-breasted Piculet
+			Puerto Rican Woodpecker
+			Red-bellied Woodpecker
+			Red-breasted Sapsucker
+			Red-collared Woodpecker
+			Red-crowned Woodpecker
+			Red-headed Woodpecker
+			Red-naped Sapsucker
+			Red-rumped Woodpecker
+			Red-shafted Flicker
+			Red-stained Woodpecker
+			Red-throated Wryneck
+			Rufous Piculet
+			Rufous Woodpecker
+			Rufous-bellied Woodpecker
+			Rufous-breasted Piculet
+			Rufous-winged Woodpecker
+			Rusty-necked Piculet
+			Scaled Piculet
+			Scaly-bellied Woodpecker
+			Scarlet-backed Woodpecker
+			Sind Woodpecker
+			Sooty Woodpecker
+			Speckle-breasted Woodpecker
+			Speckle-chested Piculet
+			Speckled Piculet
+			Speckle-throated Woodpecker
+			Spot-breasted Woodpecker
+			Spotted Piculet
+			Stierling's Woodpecker
+			Streak-breasted Woodpecker
+			Streak-throated Woodpecker
+			Stripe-breasted Woodpecker
+			Stripe-cheeked Woodpecker
+			Striped Woodpecker
+			Sulawesi Pygmy Woodpecker
+			Sulu Pygmy Woodpecker
+			Sunda Pygmy Woodpecker
+			Syrian Woodpecker
+			Tawny Piculet
+			Tullberg's Woodpecker
+			Varzea Piculet
+			West Indian Woodpecker
+			White Woodpecker
+			White-backed Woodpecker
+			White-barred Piculet
+			White-bellied Piculet
+			White-bellied Woodpecker
+			White-browed Piculet
+			White-fronted Woodpecker
+			White-naped Woodpecker
+			White-spotted Woodpecker
+			White-throated Woodpecker
+			White-wedged Piculet
+			White-winged Woodpecker
+			Williamson's Sapsucker
+			Yellow-bellied Sapsucker
+			Yellow-browed Woodpecker
+			Yellow-crested Woodpecker
+			Yellow-crowned Woodpecker
+			Yellow-eared Woodpecker
+			Yellow-fronted Woodpecker
+			Yellow-shafted Flicker
+			Yellow-throated Woodpecker
+			Yellow-tufted Woodpecker
+			Yellow-vented Woodpecker
+			Yucatan Woodpecker
+	[passerine #]
+		accentor
+			Alpine Accentor
+			Dunnock
+			Japanese Accentor
+		american sparrow
+			Abert's Towhee
+			American Tree Sparrow
+			Bachman's Sparrow
+			Baird's Sparrow
+			Black-chested Sparrow
+			Black-chinned Sparrow
+			Black-striped Sparrow
+			Black-throated Sparrow
+			Botteri's Sparrow
+			Brewer's Sparrow
+			Bridled Sparrow
+			California Towhee
+			Canyon Towhee
+			Cassin's Sparrow
+			Chipping Sparrow
+			Cinnamon-tailed Sparrow
+			Clay-colored Sparrow
+			Collared Towhee
+			Dark-eyed Junco
+			Eastern Towhee
+			Field Sparrow
+			Five-striped Sparrow
+			Fox Sparrow
+			Golden-crowned Sparrow
+			Grasshopper Sparrow
+			Grassland Sparrow
+			Green-backed Sparrow
+			Green-tailed Towhee
+			Guadalupe Junco
+			Harris's Sparrow
+			Henslow's Sparrow
+			Ipswich Sparrow
+			Large-billed Sparrow
+			Lark Bunting
+			Lark Sparrow
+			Le Conte's Sparrow
+			Lincoln's Sparrow
+			Nelson's Sparrow
+			Oaxaca Sparrow
+			Olive Sparrow
+			Olive-backed Towhee
+			Prevost's Ground-Sparrow
+			Red Fox Sparrow
+			Rufous-collared Sparrow
+			Rufous-crowned Sparrow
+			Rufous-winged Sparrow
+			Rusty Sparrow
+			Rusty-crowned Ground-sparrow
+			Sage Sparrow
+			Saltmarsh Sparrow
+			Savannah Sparrow
+			Seaside Sparrow
+			Sierra Madre Sparrow
+			Slate-colored Fox Sparrow
+			Socorro Towhee
+			Song Sparrow
+			Sooty Fox Sparrow
+			Spotted Towhee
+			Stripe-capped Sparrow
+			Striped Sparrow
+			Stripe-headed Sparrow
+			Swamp Sparrow
+			Thick-billed Fox Sparrow
+			Timberline Sparrow
+			Tocuyo Sparrow
+			Tumbes Sparrow
+			Vesper Sparrow
+			Volcano Junco
+			White-crowned Sparrow
+			White-eared Ground-Sparrow
+			White-throated Sparrow
+			White-throated Towhee
+			White-winged Junco
+			Worthen's Sparrow
+			Yellow-browed Sparrow
+			Yellow-eyed Junco
+			Zapata Sparrow
+		antbird
+			Barred Antshrike
+			Bicoloured Antbird
+			Black-spotted Bare-eye
+			Ferruginous Antbird
+			Great Antshrike
+			Ocellated Antbird
+			Rusty-backed Antwren
+			Spotted Antbird
+			Squamate Antbird
+			Star-throated Antwren
+			White-bearded Antshrike
+			White-plumed Antbird
+		antpitta
+			Amazonian Antpitta
+			Bay Antpitta
+			Bicolored Antpitta
+			Brown-banded Antpitta
+			Chestnut Antpitta
+			Chestnut-crowned Antpitta
+			Chestnut-naped Antpitta
+			Crescent-faced Antpitta
+			Cundinamarca Antpitta
+			Elusive Antpitta
+			Giant Antpitta
+			Great Antpitta
+			Grey-naped Antpitta
+			Hooded Antpitta
+			Jocotoco Antpitta
+			Masked Antpitta
+			Moustached Antpitta
+			Ochre-breasted Antpitta
+			Ochre-fronted Antpitta
+			Ochre-striped Antpitta
+			Pale-billed Antpitta
+			Peruvian Antpitta
+			Plain-backed Antpitta
+			Red-and-white Antpitta
+			Rufous Antpitta
+			Rufous-faced Antpitta
+			Rusty-breasted Antpitta
+			Rusty-tinged Antpitta
+			Santa Marta Antpitta
+			Scaled Antpitta
+			Scallop-breasted Antpitta
+			Slaty-crowned Antpitta
+			Speckle-breasted Antpitta
+			Spotted Antpitta
+			Streak-chested Antpitta
+			Stripe-headed Antpitta
+			Sucre Antpitta
+			Tachira Antpitta
+			Tawny Antpitta
+			Tepui Antpitta
+			Thicket Antpitta
+			Thrush-like Antpitta
+			Undulated Antpitta
+			Urrao Antpitta
+			Variegated Antpitta
+			Watkins's Antpitta
+			White-bellied Antpitta
+			White-browed Antpitta
+			White-lored Antpitta
+			White-throated Antpitta
+			Yellow-breasted Antpitta
+		asity
+			Common Sunbird-asity
+			Velvet Asity
+		australasian treecreeper
+			Brown Treecreeper
+		australasian wren
+			Orange-crowned Fairy-wren
+			Splendid Fairy-wren
+			Striated Grasswren
+			Superb Fairy-wren
+			Variegated Fairy-wren
+		australian robin
+			Eastern Yellow Robin
+			Flame Robin
+			Jacky Winter
+			New Zealand Robin
+		babbler
+			Chestnut-crowned Babbler
+			Grey-crowned Babbler
+			Hall's Babbler
+			Papuan Babbler
+			White-browed Babbler
+		bald crows
+			White-necked Picathartes
+		Bananaquit
+		batis
+			Angola Batis
+			Black-headed Batis
+			Cape Batis
+			Chinspot Batis
+			Dark Batis
+			Fernando Po Batis
+			Forest Batis
+			Gabon Batis
+			Grey-headed Batis
+			Ituri Batis
+			Margaret's Batis
+			Pale Batis
+			Pririt Batis
+			Pygmy Batis
+			Ruwenzori Batis
+			Senegal Batis
+			West African Batis
+			Woodward's Batis
+		bellbird
+			Bare-throated Bellbird
+			Bearded Bellbird
+			Bell Miner
+			Crested Bellbird
+			New Zealand Bellbird
+			Three-wattled Bellbird
+			White Bellbird
+		berrypecker
+			Fan-tailed Berrypecker
+			Slaty-headed Longbill
+		bird of paradise
+			King Bird of Paradise
+			Lesser Bird of Paradise
+			Paradise Riflebird
+			Raggiana Bird of Paradise
+			Ribbon-tailed Astrapia
+			Six Plumed Bird of Paradise
+			Superb Bird of Paradise
+			Twelve-wired Bird of Paradise
+			Victoria's Riflebird
+			Wilson's Bird of Paradise
+		Black-faced Antthrush
+		boatbill
+			Yellow-breasted Boatbill
+		bowerbird
+			Golden Bowerbird
+			Great Bowerbird
+			Green Catbird
+			Satin Bowerbird
+			Spotted Bowerbird
+		bristlebird
+			Eastern Bristlebird
+			Rufous Bristlebird
+		bristlehead
+			Bornean Bristlehead
+		broadbill
+			African Broadbill
+			Green Broadbill
+			Long-tailed Broadbill
+			Silver-breasted Broadbill
+		bulbul
+			Black Bulbul
+			Chestnut Bulbul
+			Green-tailed Bristlebill
+			Long-billed Bernieria
+			Red-whiskered Bulbul
+			Sombre Greenbul
+			Straw-headed Bulbul
+		bunting
+			Black-faced Bunting
+			Black-headed Bunting
+			Brown-rumped Bunting
+			Cabanis' Bunting
+			Cape Bunting
+			Chestnut Bunting
+			Chestnut-breasted Bunting
+			Chestnut-eared Bunting
+			Cinereous Bunting
+			Cinnamon-breasted Bunting
+			Cirl Bunting
+			Corn Bunting
+			Crested Bunting
+			Cretzschmar's Bunting
+			Godlewski's Bunting
+			Golden-breasted Bunting
+			Grey Bunting
+			Grey-hooded Bunting
+			House Bunting
+			Lark-like Bunting
+			Little Bunting
+			McKay's Bunting
+			Meadow Bunting
+			Ochre-rumped Bunting
+			Ortolan Bunting
+			Pallas' Reed Bunting
+			Pine Bunting
+			Red-headed Bunting
+			Reed Bunting
+			Rock Bunting
+			Rufous-backed Bunting
+			Rustic Bunting
+			Slaty Bunting
+			Snow Bunting
+			Socotra Bunting
+			Somali Bunting
+			Striolated Bunting
+			Tibetan Bunting
+			Tristram's Bunting
+			Yellow Bunting
+			Yellow-breasted Bunting
+			Yellow-browed Bunting
+			Yellowhammer
+			Yellow-throated Bunting
+		bushshrike
+			Black-backed Puffback
+			Black-crowned Tchagra
+			Black-fronted Bushshrike
+			Black-headed Gonolek
+			Bocage's Bushshrike
+			Bokmakierie
+			Braun's Bushshrike
+			Brown-crowned Tchagra
+			Brubru
+			Crimson-breasted Shrike
+			Doherty's Bushshrike
+			East Coast Boubou
+			Ethiopian Boubou
+			Fiery-breasted Bushshrike
+			Four-colored Bushshrike
+			Fuelleborn's Boubou
+			Gabela Bushshrike
+			Green-breasted Bushshrike
+			Grey-headed Bushshrike
+			Lagden's Bushshrike
+			Lowland Sooty Boubou
+			Luhder's Bushshrike
+			Many-colored Bushshrike
+			Marsh Tchagra
+			Monteiro's Bushshrike
+			Mount Kupe Bushshrike
+			Mountain Sooty Boubou
+			Northern Puffback
+			Olive Bushshrike
+			Orange-breasted Bushshrike
+			Papyrus Gonolek
+			Pink-footed Puffback
+			Pringle's Puffback
+			Red-eyed Puffback
+			Red-naped Bushshrike
+			Rosy-patched Bushshrike
+			Sabine's Puffback
+			Slate-colored Boubou
+			Somali Boubou
+			Southern Boubou
+			Southern Tchagra
+			Swamp Boubou
+			Three-streaked Tchagra
+			Tropical Boubou
+			Turati's Boubou
+			Uluguru Bushshrike
+			Willard’s Sooty Boubou
+			Yellow-breasted Boubou
+			Yellow-crowned Gonolek
+		bushtit
+			Bushtit
+			Long-tailed Tit
+		butcherbird
+			Australian Magpie
+			Pied Butcherbird
+			Pied Currawong
+		cardinal
+			Northern Cardinal
+			Pyrrhuloxia
+			Vermilion Cardinal
+		chat
+			African Stonechat
+			Angola Cave-chat
+			Blackstart
+			Blackthroat
+			Blue-fronted Robin
+			Bluethroat
+			Boulder Chat
+			Brown-tailed Chat
+			Buff-streaked Chat
+			Canary Islands Stonechat
+			Collared Bush-robin
+			Common Nightingale
+			Congo Moorchat
+			Eastern Forest Robin
+			European Robin
+			European Stonechat
+			Familiar Chat
+			Firethroat
+			Gabon Forest Robin
+			Golden Bush-robin
+			Grandala
+			Grey Bush Chat
+			Herero Chat
+			Indian Blue Robin
+			Indian Chat
+			Indian Robin
+			Japanese Robin
+			Jerdon's Bush Chat
+			Karoo Chat
+			Madagascar Stonechat
+			Mocking Cliff-chat
+			Moorland Chat
+			Northern Anteater-chat
+			Olive-backed Forest Robin
+			Pied Bush Chat
+			Red-flanked Bluetail
+			Reunion Stonechat Saxicola tectes
+			Rueppell's Chat
+			Rufous-breasted Bush-robin
+			Rufous-headed Robin
+			Rufous-tailed Robin
+			Ryukyu Robin
+			Sangha Forest Robin
+			Siberian Blue Robin
+			Siberian Rubythroat
+			Siberian Stonechat
+			Sickle-winged Chat
+			Sombre Chat
+			Sooty Chat
+			Southern Anteater-chat
+			Stejneger's Stonechat
+			Sunda Robin
+			Swynnerton's Robin
+			Tenerife Robin
+			Thrush Nightingale
+			Tractrac Chat
+			Western Forest Robin
+			Whinchat
+			White-bellied Bush Chat
+			White-browed Bush Chat
+			White-browed Bush-robin
+			White-fronted Black-chat
+			White-headed Black
+			White-starred Robin
+			White-tailed Robin
+			White-tailed Rubythroat
+			White-tailed Stonechat
+			White-throated Bush Chat
+			White-winged Cliff-chat
+		cisticola
+			Bar-throated Apalis
+			Common Tailorbird
+			Golden-headed Cisticola
+			Graceful Prinia
+			Grey-backed Camaroptera
+			Zitting Cisticola
+		cotinga
+			Andean Cock-of-the-rock
+			Barred Fruiteater
+			Long-wattled Umbrellabird
+			Lovely Cotinga
+			Rufous-tailed Plantcutter
+			Sharpbill
+			Snowy Cotinga
+			Swallow-tailed Cotinga
+			Thrush-like Schiffornis
+		crow
+			American Crow
+			Australian Crow
+			Australian Raven
+			Banggai Crow
+			Black Crow
+			Brown-headed Crow
+			Chihuahuan Raven
+			Collared Crow
+			Common Raven
+			Cuban Crow
+			Daurian Jackdaw
+			Desert Raven
+			Dwarf Raven
+			Eastern Jungle Crow
+			Eurasian Crow
+			Fan-tailed Raven
+			Fish Crow
+			Flores Crow
+			Grey Crow
+			Hawaiian Crow
+			Hooded Crow
+			House Crow
+			Indian Jungle Crow
+			Jackdaw
+			Jamaican Crow
+			Jungle Crow
+			Large-billed Crow
+			Little Crow
+			Little Raven
+			Long-billed Crow
+			Mariana Crow
+			Mesopotamian Crow
+			New Caledonian Crow
+			Northwestern Crow
+			Palm Crow
+			Pied Crow
+			Piping Crow
+			Relict Raven
+			Rook
+			Sinaloan Crow
+			Slender-billed Crow
+			Soloman Islands Crow
+			Tamaulipas Crow
+			Tasmanian Raven
+			Thick-billed Raven
+			Violaceous Crow
+			Western Raven
+			White-necked Crow
+			White-necked Raven
+		cuckooshrike
+			Barred Cuckoo-shrike
+			Black-faced Cuckoo-shrike
+			Cicadabird
+			Long-tailed Minivet
+			Red-shouldered Cuckoo-shrike
+			Scarlet Minivet
+			White-shouldered Triller
+		dipper
+			American Dipper
+			White-throated Dipper
+		drongo
+			Crested Drongo
+		eastern whipbird
+		fairy-bluebird
+			Asian Fairy Bluebird
+		fantail
+			Grey Fantail
+			White-throated Fantail
+			Willie Wagtail
+		finch
+			Arabian Grosbeak
+			Asian rosefinches
+			Azores Bullfinch
+			Baikal Bullfinch
+			Black-and-yellow Grosbeak
+			Black-headed Greenfinch
+			Blanford's Rosefinch
+			Blue Chaffinch
+			Brambling
+			Brown Bullfinch
+			Cassin's Finch
+			Caucasian Great Rosefinch
+			Chaffinch
+			Chinese Beautiful Rosefinch
+			Chinese White-browed Rosefinch
+			Citril Finch
+			Collared Grosbeak
+			Common Rosefinch
+			Corsican Finch
+			Crimson-browed Finch
+			Dark-breasted Rosefinch
+			Dark-rumped Rosefinch
+			Eurasian Bullfinch
+			European Goldfinch
+			Evening Grosbeak
+			Gold-naped Finch
+			Grey-headed Bullfinch
+			Hawfinch
+			Himalayan Beautiful Rosefinch
+			Himalayan White-browed Rosefinch
+			Hooded Grosbeak
+			House Finch
+			Incertae sedis
+			Japanese Grosbeak
+			Long-tailed Rosefinch
+			Mountain finch
+			Orange Bullfinch
+			Oriole Finch
+			Pale Rosefinch
+			Pallas' Rosefinch
+			Pine Grosbeak
+			Pink-browed Rosefinch
+			Pink-rumped Rosefinch
+			Purple Finch
+			Red-fronted Rosefinch
+			Red-headed Bullfinch
+			Red-mantled Rosefinch
+			Scarlet Finch
+			Socotra Grosbeak
+			Somali Grosbeak
+			Spectacled Finch
+			Spotted Great Rosefinch
+			Spot-winged Grosbeak
+			Spot-winged Rosefinch
+			Streaked Rosefinch
+			Streaked rosefinches
+			Taiwanese Rosefinch
+			Three-banded Rosefinch
+			Tibetan Rosefinch
+			Trumpeter Finch
+			Vinaceous Rosefinch
+			White-cheeked Bullfinch
+			White-winged Grosbeak
+			Yellow-billed Grosbeak
+		firefinch
+			African Firefinch
+			Bar-breasted Firefinch
+			Black-bellied Firefinch
+			Black-faced or Vinaceous Firefinch
+			Black-throated Firefinch
+			Brown Firefinch
+			Jameson's Firefinch
+			Mali Firefinch
+			Pale-billed Firefinch
+			Red-billed Firefinch
+			Reichenow's Firefinch
+			Rock Firefinch
+		firetail
+			Beautiful Firetail
+			Diamond Firetail
+			Mountain Firetail
+			Painted Firetail
+			Red-eared Firetail
+		flowerpecker
+			Crimson-breasted Flowerpecker
+			Mistletoebird
+		gerygone
+			Ashy Gerygone
+			Biak Gerygone
+			Brown Gerygone
+			Brown-breasted Gerygone
+			Chatham Gerygone
+			Dusky Gerygone
+			Fairy Gerygone
+			Fan-tailed Gerygone
+			Golden-bellied Gerygone
+			Green-backed Gerygone
+			Grey Gerygone
+			Large-billed Gerygone
+			Mangrove Gerygone
+			Norfolk Gerygone
+			Plain Gerygone
+			Rufous-sided Gerygone
+			Western Gerygone
+			White-throated Gerygone
+			Yellow-bellied Gerygone
+		gnatcatcher
+			Blue-gray Gnatcatcher
+		gnateater
+			Rufous Gnateater
+		goldcrest
+			Goldcrest
+			Golden-crowned Kinglet
+		helmetshrike
+			Chestnut-fronted Helmetshrike
+			Common Woodshrike
+			Gabela Helmetshrike
+			Grey-crested Helmetshrike
+			Large Woodshrike
+			Red-billed Helmetshrike
+			Retz's Helmetshrike
+			Rufous-bellied Helmetshrike
+			White-crested Helmetshrike
+			Yellow-crested Helmetshrike
+		honeyeater
+			Blue-faced Honeyeater
+			Crimson Chat
+			Eastern Spinebill
+			Lewin's Honeyeater
+			Mimic Honeyeater
+			New Holland Honeyeater
+			Noisy Friarbird
+			Noisy Miner
+			Red Wattlebird
+			Spiny-cheeked Honeyeater
+			Stitchbird
+			Tui
+			White-naped Honeyeater
+			Yellow-faced Honeyeater
+			Yellow-throated Miner
+		Hypocolius
+		iora
+			Common Iora
+		jay
+			Azure Jay
+			Azure-hooded Jay
+			Azure-naped Jay
+			Beautiful Jay
+			Biddulph's Ground Jay
+			Black-chested Jay
+			Black-collared Jay
+			Black-throated Jay
+			Black-throated Magpie-jay
+			Blue Jay
+			Brown Jay
+			Bushy-crested Jay
+			Cayenne Jay
+			Curl-crested Jay
+			Dwarf Jay
+			Eurasian Jay
+			Florida Scrub Jay
+			Gray Jay
+			Green Jay
+			Grey Ground Jay
+			Henderson's Ground Jay
+			Island Scrub Jay
+			Lanceolated Jay
+			Lidth's Jay
+			Mexican Jay
+			Persian Ground Jay
+			Piapiac
+			Pinyon Jay
+			Plush-crested Jay
+			Purplish Jay
+			Purplish-backed Jay
+			San Blas Jay
+			Siberian Jay
+			Sichuan Jay
+			Silvery-throated Jay
+			Steller's Jay
+			Tufted Jay
+			Turquoise Jay
+			Unicolored Jay
+			Violaceous Jay
+			Western Scrub Jay
+			White-collared Jay
+			White-naped Jay
+			White-tailed Jay
+			White-throated Jay
+			White-throated Magpie-jay
+			Yucatan Jay
+		lark
+			Calandra Lark
+			Clapper Lark
+			Crested Lark
+			Greater Hoopoe-lark
+			Horned Lark
+			Skylark
+			Spike-heeled Lark
+			Woodlark
+		leafbird
+			Golden-fronted Leafbird
+		logrunner
+			Australian Logrunner
+		lyrebird
+			Superb Lyrebird
+		manakin
+			Band-tailed Manakin
+			Blue Manakin
+			Helmeted Manakin
+			Pin-tailed Manakin
+		martin
+			African River Martin
+			Asian House Martin
+			Banded Martin
+			Brazza's Martin
+			Brown-chested Martin
+			Brown-throated Martin
+			Caribbean Martin
+			Common House Martin
+			Congo Martin
+			Cuban Martin
+			Dusky Crag Martin
+			Eurasian Crag Martin
+			Fairy Martin
+			Galapagos Martin
+			Grey-breasted Martin
+			Mascarene Martin
+			Nepal House Martin
+			Pale Crag Martin
+			Peruvian Martin
+			Purple Martin
+			Rock Martin
+			Sand Martin
+			Sinaloa Martin
+			Southern Martin
+			Tree Martin
+			White-eyed River Martin
+		mockingbird
+			Bahama Mockingbird
+			Blue Mockingbird
+			Blue-and-white Mockingbird
+			Brown-backed Mockingbird
+			Chalk-browed Mockingbird
+			Chilean Mockingbird
+			Floreana Mockingbird
+			Galapagos Mockingbird
+			Hood Mockingbird
+			Long-tailed Mockingbird
+			Northern Mockingbird
+			Patagonian Mockingbird
+			San Cristobal Mockingbird
+			Socorro Mockingbird
+			Tropical Mockingbird
+			White-banded Mockingbird
+		monarch
+			African Paradise-flycatcher
+			Asian Paradise-flycatcher
+			Black-faced Monarch
+			Black-naped Monarch
+			Caerulean Paradise-flycatcher
+			Elepaio
+			Magpie-lark
+			Pied Monarch
+			Restless Flycatcher
+			Shining Flycatcher
+			Silktail
+			Spectacled Monarch
+		new world warbler
+			American Redstart
+			Black-and-white Warbler
+			Blackburnian Warbler
+			Common Yellowthroat
+			Northern Parula
+			Northern Waterthrush
+			Ovenbird
+			Prothonotary Warbler
+			Tennessee Warbler
+			Wrenthrush
+			Yellow Warbler
+			Yellow-breasted Chat
+		new zealand wren
+			Rifleman
+		nuthatch
+			Eurasian Nuthatch
+			Red-breasted Nuthatch
+			Wallcreeper
+		old world sparrow
+			Abd al-Kuri Sparrow
+			Arabian Golden Sparrow
+			Cape Sparrow
+			Chestnut Sparrow
+			Dead Sea Sparrow
+			Desert Sparrow
+			Eurasian Tree Sparrow
+			Great Sparrow
+			House Sparrow
+			Iago Sparrow
+			Italian Sparrow
+			Kenya Sparrow
+			Kordofan Sparrow
+			Northern Grey-headed Sparrow
+			Parrot-billed Sparrow
+			Plain-backed Sparrow
+			Russet Sparrow
+			Saxaul Sparrow
+			Shelley's Sparrow
+			Sind Sparrow
+			Socotra Sparrow
+			Somali Sparrow
+			Southern Grey-headed Sparrow
+			Spanish Sparrow
+			Sudan Golden Sparrow
+			Swahili Sparrow
+			Swainson's Sparrow
+		old world warbler
+			Arctic Warbler
+			Australian Reed-warbler
+			Barred Warbler
+			Blackcap
+			Brown Songlark
+			Cape Grassbird
+			Cetti's Warbler
+			Common Chiffchaff
+			Dartford Warbler
+			Eurasian Reed Warbler
+			Grasshopper Warbler
+			Icterine Warbler
+			Izu Leaf-warbler
+			Little Grassbird
+			Northern Crombec
+			Olivaceous Warbler
+			Paddyfield Warbler
+			Rueppell's Warbler
+			Sedge Warbler
+			Spinifexbird
+			Whitethroat
+			Wood Warbler
+			Yellow-bellied Eremomela
+		oriole
+			Abyssinian oriole
+			African Black-headed Oriole
+			Baltimore Oriole
+			Bullock's Oriole
+			Cowbird
+			Figbird
+			Golden Oriole
+			Hooded Oriole
+			Jamaican Oriole
+			Montserrat Oriole
+			Northern Oriole
+			Orange Oriole
+			Orchard Oriole
+			Scott's Oriole
+			Silver Oriole
+			Streak-backed Oriole
+			Yellow Oriole
+		ovenbird
+			Blackish Cinclodes
+			Canyon Canastero
+			Common Miner
+			Firewood-gatherer
+			Grey-crested Cachalote
+			Ochre-breasted Foliage-gleaner
+			Plain Xenops
+			Rufous Hornero
+			Spix's Spinetail
+			Thorn-tailed Rayadito
+			White-eyed Foliage-gleaner
+		palmchat
+		pardalote
+			Striated Pardalote
+		penduline tit
+			European Penduline Tit
+			Verdin
+		peppershrike
+			Black-billed Peppershrike
+			Rufous-browed Peppershrike
+		philippine creeper
+			Stripe-breasted Creeper
+		pipit
+			African Pipit
+			Australasian Pipit
+			Berthelot's Pipit
+			Blyth's Pipit
+			Buff-bellied Pipit
+			Chaco Pipit
+			Correndera Pipit
+			Hellmayr's Pipit
+			Jackson's Pipit
+			Kimberley Pipit
+			Little Pipit
+			Long-billed Pipit
+			Long-clawed Pipit
+			Long-tailed Pipit
+			Malindi Pipit
+			Meadow Pipit
+			Mountain Pipit
+			New Guinea Pipit
+			Nilgiri Pipit
+			Ochre-breasted Pipit
+			Olive-backed Pipit
+			Paddyfield Pipit
+			Paramo Pipit
+			Pechora Pipit
+			Plain Pipit
+			Red-throated Pipit
+			Richard's Pipit
+			Rock Pipit
+			Rosy Pipit
+			Sandy Pipit
+			Short-billed Pipit
+			Short-tailed Pipit
+			Sokoke Pipit
+			South Georgia Pipit
+			Sprague's Pipit
+			Striped Pipit
+			Tawny Pipit
+			Tree Pipit
+			Upland Pipit
+			Water Pipit
+			Yellow-breasted Pipit
+			Yellowish Pipit
+			Yellow-tufted Pipit
+		pitta
+			Blue-winged Pitta
+			Green-breasted Pitta
+			Indian Pitta
+			Noisy Pitta
+			Red-bellied Pitta
+		quail-thrush
+			Spotted Quail-thrush
+		rock sparrow
+			Bush Petronia
+			Rock Sparrow
+			Yellow-spotted Petronia
+			Yellow-throated Petronia
+			Yellow-throated Sparrow
+		satinbird
+			Antenna Satinbird
+		scrubbird
+			Rufous Scrubbird
+		shrike
+			Common Fiscal
+			Loggerhead Shrike
+			Red-backed Shrike
+			Yellow-billed Shrike
+		shrikethrush
+			Bower's Shrikethrush
+			Grey Shrikethrush
+			Little Shrikethrush
+			Morningbird
+			Sandstone Shrikethrush
+			Sangihe Shrikethrush
+			Sooty Shrikethrush
+		shriketit
+			Crested Shrike-tit
+		sitella
+			Varied Sittella
+		snowfinch
+			{sparrows}
+			Afghan Snowfinch
+			Black-winged Snowfinch
+			Pere David's Snowfinch
+			Plain-backed Snowfinch
+			Rufous-necked Snowfinch
+			White-rumped Snowfinch
+			White-winged Snowfinch
+		starling
+			Asian Glossy Starling
+			Bali Myna
+			Cape Starling
+			Chestnut-cheeked Starling
+			Common Myna
+			Common Starling
+			Golden Myna
+			Hill Myna
+			Rosy Starling
+			Superb Starling
+			Tristram's Starling
+			Wattled Starling
+			Yellow-billed Oxpecker
+		sugarbird
+			Cape Sugarbird
+		sunbird
+			Bronze Sunbird
+			Crimson Sunbird
+			Gould's Sunbird
+			Malachite Sunbird
+			Olive-backed Sunbird
+			Purple Sunbird
+			Purple-rumped Sunbird
+			Pygmy Sunbird
+			Socotra Sunbird
+		swallow
+			American Cliff Swallow
+			Andean Swallow
+			Angola Swallow
+			Bahama Swallow
+			Barn Swallow
+			Black Saw-wing
+			Black-and-rufous Swallow
+			Black-capped Swallow
+			Black-collared Swallow
+			Blue Swallow
+			Blue-and-white Swallow
+			Brown-bellied Swallow
+			Cave Swallow
+			Chestnut-collared Swallow
+			Chilean Swallow
+			Ethiopian Swallow
+			Fanti Saw-wing
+			Forest Swallow
+			Golden Swallow
+			Greater Striped Swallow
+			Grey-rumped Swallow
+			Lesser Striped Swallow
+			Mangrove Swallow
+			Mosque Swallow
+			Mountain Saw-wing
+			Northern Rough-winged Swallow
+			Pacific Swallow
+			Pale-footed Swallow
+			Pearl-breasted Swallow
+			Pied-winged Swallow
+			Preuss's Cliff Swallow
+			Red Sea Cliff Swallow
+			Red-breasted Swallow
+			Red-chested Swallow
+			Red-rumped Swallow
+			Red-throated Cliff Swallow
+			Rufous-bellied Swallow
+			South African Cliff Swallow
+			Southern Rough-winged Swallow
+			Square-tailed Saw-wing
+			Streak-throated Swallow
+			Striated Swallow
+			Tawny-headed Swallow
+			Tree Swallow
+			Tumbes Swallow
+			Violet-green Swallow
+			Welcome Swallow
+			White-backed Swallow
+			White-banded Swallow
+			White-bibbed Swallow
+			White-headed Saw-wing
+			White-rumped Swallow
+			White-tailed Swallow
+			White-thighed Swallow
+			White-throated Swallow
+			White-winged Swallow
+			Wire-tailed Swallow
+		tanager
+			Blue-naped Chlorophonia
+			Blue-winged Mountain-tanager
+			Cinereous Conebill
+			Cinnamon Tanager
+			Green Honeycreeper
+			Green-headed Tanager
+			Magpie Tanager
+			Red-legged Honeycreeper
+			Red-necked Tanager
+			Scarlet Tanager
+			Silver-beaked Tanager
+			Swallow Tanager
+			Thick-billed Euphonia
+		tapaculo
+			Crested Gallito
+			Rusty-belted Tapaculo
+			Slaty Bristlefront
+			Unicoloured Tapaculo
+		thornbill
+			Brown Thornbill
+			Yellow-rumped Thornbill
+		thrasher
+			Bendire's Thrasher
+			Brown Thrasher
+			California Thrasher
+			Crissal Thrasher
+			Curve-billed Thrasher
+			Gray Thrasher
+			Le Conte's Thrasher
+			Long-billed Thrasher
+			Ocellated Thrasher
+			Pearly-eyed Thrasher
+			Sage Thrasher
+			Scaly-breasted Thrasher
+			Vizcaino Thrasher
+			White-breasted Thrasher
+		thrush
+			American Robin
+			Austral Thrush
+			Blue Whistling-thrush
+			Common Blackbird
+			Eastern Bluebird
+			Fieldfare
+			Green Cochoa
+			Hermit Thrush
+			Japanese Thrush
+			Mistle Thrush
+			Mountain Bluebird
+			Orange-headed Thrush
+			Red-legged Thrush
+			Red-throated Alethe
+			Ring Ouzel
+			Song Thrush
+			White-browed Shortwing
+			Wood Thrush
+		treecreeper
+			Brown Creeper
+			Eurasian Treecreeper
+		true tit
+			Black-capped Chickadee
+			Blue Tit
+			Coal Tit
+			Crested Tit
+			Grey-headed Chickadee
+			Sultan Tit
+			Tufted Titmouse
+			Varied Tit
+		tyrant flycatcher
+			Acadian Flycatcher
+			Boat-billed Flycatcher
+			Cattle Tyrant
+			Chapada Flycatcher
+			Cliff Flycatcher
+			Common Tody-flycatcher
+			Eared Pygmy-tyrant
+			Eastern Kingbird
+			Eastern Phoebe
+			Great Crested Flycatcher
+			Great Kiskadee
+			Grey-hooded Flycatcher
+			Long-tailed Tyrant
+			Masked Water-tyrant
+			Pacific-slope Flycatcher
+			Royal Flycatcher
+			Rufous-headed Pygmy-tyrant
+			Sao Paulo Tyrannulet
+			Scissor-tailed Flycatcher
+			Streamer-tailed Tyrant
+			Tropical Kingbird
+			Vermilion Flycatcher
+			Western Wood Pewee
+			White-fronted Ground-tyrant
+			White-rumped Monjita
+			White-throated Spadebill
+			Yellow-bellied Elaenia
+			Yellow-bellied Flycatcher
+		vanga
+			Blue Vanga
+			Helmet Vanga
+			Hook-billed Vanga
+			Nuthatch Vanga
+			Rufous Vanga
+		vireo
+			Red-eyed Vireo
+			Warbling Vireo
+			Yellow-throated Vireo
+		wagtail
+			African Pied Wagtai
+			Black-backed Wagtail
+			Cape Wagtail
+			Citrine Wagtail
+			Grey Wagtail
+			Japanese Wagtail
+			Madagascar Wagtail
+			Mekong Wagtail
+			Mountain Wagtail
+			Pied Wagtail
+			White Wagtail
+			White-browed Wagtail
+			Yellow Wagtail
+		wattled crow
+			Kokako
+			Saddleback
+		wattle-eye
+			Banded Wattle-eye
+			Black-necked Wattle-eye
+			Black-throated Wattle-eye
+			Brown-throated Wattle-eye
+			Chestnut Wattle-eye
+			Jameson's Wattle-eye
+			Red-cheeked Wattle-eye
+			White-fronted Wattle-eye
+			White-spotted Wattle-eye
+			Yellow-bellied Wattle-eye
+		waxbill
+			Anambra Waxbill
+			Arabian Waxbill
+			Black-cheeked Waxbill
+			Black-crowned Waxbill
+			Black-headed Waxbill
+			Black-lored Waxbill
+			Black-rumped Waxbill
+			Black-tailed Waxbill
+			Cinderella Waxbill
+			Common Waxbill
+			Crimson-rumped Waxbill
+			Fawn-breasted Waxbill
+			Lavender Waxbill
+			Orange-cheeked Waxbill
+			Red-rumped Waxbill
+			Swee Waxbill
+		waxwing
+			Bohemian Waxwing
+			Cedar Waxwing
+			Japanese Waxwing
+		weaver
+			Cape Weaver
+			Jackson's Widowbird
+			Red-billed Quelea
+			Sociable Weaver
+			Southern Masked Weaver
+			Speckle-fronted Weaver
+			Spectacled Weaver
+			White-billed Buffalo-weaver
+			White-headed Buffalo-weaver
+		whistler
+			Golden Whistler
+			Rufous Whistler
+		white-eye
+			Bare-eyed White-eye
+			Cape White-eye
+			Crested White-eye
+			Japanese White-eye
+			Mountain Blackeye
+			Mountain White-eye
+			Oriental White-eye
+			Silvereye
+		whydah
+			Paradise Whydah
+			Pin-tailed Whydah
+		woodcreeper
+			Olivaceous Woodcreeper
+			Plain-brown Woodcreeper
+			Planalto Woodcreeper
+			Red-billed Scythebill
+			Scalloped Woodcreeper
+		woodswallow
+			Masked Woodswallow
+		wren
+			Bewick's Wren
+			Black-capped Donacobius
+			Cactus Wren
+			Canyon Wren
+			Carolina Wren
+			House Wren
+			Rock Wren
+			Sedge Wren
+			Winter Wren
