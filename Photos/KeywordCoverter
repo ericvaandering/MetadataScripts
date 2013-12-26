@@ -70,15 +70,31 @@ def write_keywords(output, keywords):
     for keyword in sorted(keywords.iterkeys()):
         print_keyword(keywords[keyword], 0)
 
-def traverse_keywords(keywords, function):
+def traverse_keywords(keywords, function, level=0):
     for keyword in keywords:
-        function(keywords[keyword])
-        traverse_keywords(keywords[keyword]['children'], function)
+        function(keywords[keyword], level)
+        traverse_keywords(keywords[keyword]['children'], function, level+1)
 
     return
 
-def lower_name(keyword):
+def lower_name(keyword, level):
     keyword['name'] = keyword['name'].lower()
+
+def lower_with_children(keyword, level):
+    if keyword['children']:
+        keyword['name'] = keyword['name'].lower()
+
+def capitalize_name(keyword, level):
+    if keyword['name'] == keyword['name'].upper() or keyword['name'] == keyword['name'].lower():
+        keyword['name'] = keyword['name'].capitalize()
+
+    keyword['synonyms'][:] = [s.capitalize() for s in keyword['synonyms'] if s==s.upper() or s==s.lower()]
+
+def strip_special(keyword, level):
+    keyword['name'] = keyword['name'].lstrip('[')
+    keyword['name'] = keyword['name'].rstrip(']')
+    keyword['name'] = keyword['name'].strip('#')
+    keyword['name'] = keyword['name'].strip()
 
 
 if __name__ == "__main__":
@@ -90,8 +106,23 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='Convert keywords between Lightroom Keyword Project format and other formats')
     parser.add_argument('input_file')
     parser.add_argument('output_file')
+    parser.add_argument('-l', '--lower',dest='lower',action='store_true', help='Make all keywords lower case')
+    parser.add_argument('-L', '--lower-parent',dest='lower_parent',action='store_true', help='Make keywords with children lower case')
+    parser.add_argument('-c', '--capitalize',dest='capitalize',action='store_true', help='Capitalize all upper or all lower case keywords')
+    parser.add_argument('-s', '--strip',dest='strip',action='store_true', help='Strip [# #] from Lightroom Project')
 #    parser.add_argument('-r', '--repo', help='Github repository name')
+
+    parser.set_defaults(lower=False)
+    parser.set_defaults(lower_parent=False)
+    parser.set_defaults(capitalize=False)
+    parser.set_defaults(strip=False)
+
     args = parser.parse_args()
+
+    lower = vars(args)['lower']
+    lower_parent = vars(args)['lower_parent']
+    capitalize = vars(args)['capitalize']
+    strip = vars(args)['strip']
 
     input_file = vars(args)['input_file']
     output_file = vars(args)['output_file']
@@ -101,7 +132,14 @@ if __name__ == "__main__":
 
     keywords = read_keywords(input)
 
-    traverse_keywords(keywords, lower_name)
+    if strip:
+        traverse_keywords(keywords, strip_special)
+    if lower:
+        traverse_keywords(keywords, lower_name)
+    if lower_parent:
+        traverse_keywords(keywords, lower_with_children)
+    if capitalize:
+        traverse_keywords(keywords, capitalize_name)
 
     write_keywords(output, keywords)
 
