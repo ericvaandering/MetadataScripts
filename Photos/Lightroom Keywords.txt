@@ -774,8 +774,6 @@ Animals
 				Yellownose Shrimpgoby
 					{Stonogobiops xanthorhinica}
 			Grunts
-				Bigeye Emporer
-					{Monotaxis grandoculis}
 				Bluestriped Grunt
 				Cottonwick
 				French Grunt
