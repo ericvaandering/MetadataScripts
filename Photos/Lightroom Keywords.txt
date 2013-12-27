@@ -773,7 +773,7 @@ Animals
 				Yellownose Goby
 				Yellownose Shrimpgoby
 					{Stonogobiops xanthorhinica}
-			Grunts
+			Grunts and Sweetlips
 				Bluestriped Grunt
 				Cottonwick
 				French Grunt
@@ -1780,33 +1780,36 @@ Animals
 			Gastropods
 				Sea Slugs
 					{Subclass Opisthobranchia}
-					Grand Pleurobranch
 					Headshield Slugs
 						{Order Cephalaspidea}
 						Chelidonura inornata
 							{Headband Headshield Slug}
 						Chelidonura varians
 							{Blue Velvet Headshield Slug}
-					Lettuce Sea Slug
+						Yellow Lip Shield Slug
+							{Chelidonura flavolobata}
 					Nudibranchs
-						Aegires albopunctatus
 						Aeolid Nudibranchs
 							{Suborder Aeolidina}
 							Caloria indica
 								{Indian Caloria}
+							Flabellina iodinea
+							Hermissenda crassicornis
 							Phyllodesmium briareum
 								{Yellow-tipped Phyllodesmium}
 							Phyllodesmium colemani
 								{Coleman's Phyllodesmium}
 							Pteraeolida ianthina
 								{Blue Dragon}
-						Aplysia fasciata
-						Archidoris montereyensis
 						Arminid Nudibranchs
 							{Suborder Arminina}
 							Armina semperi
+						Dendronotid Nudibranchs
+							Tritonia festiva
 						Dorid Nudibranchs
 							{Suborder Doridina}
+							Aegires albopunctatus
+							Archidoris montereyensis
 							Chromodoris annae
 								{Anna's Chromodoris}
 							Chromodoris coi
@@ -1822,6 +1825,7 @@ Animals
 							Discodoris boholiensis
 								{Bohol Discodoris}
 								{Flatworm Discodoris}
+							Doriopsilla albopunctata
 							Gymnodoris sp.
 							Halgerda batangas
 								{Batangas Halgerda}
@@ -1839,6 +1843,7 @@ Animals
 								{Lined Nemobratha}
 							Nemobratha milleri
 								{Miller's Nemobratha}
+							Peltodoris atromaculata
 							Phyllidia coelestis
 								{Sky Blue Phyllidia}
 							Phyllidia ocellata
@@ -1849,35 +1854,32 @@ Animals
 								{Ringed Phyllidiella}
 							Polycera abei
 								{Pale Polycera}
+							Pustulose Wart Slug
+								{Pimpled Phyllidiella}
+								{Phyllidiella pustulosa}
+							Pyjama Chromodorid
+							Ringed Chromodorid
 							Risbecia tryoni
 								{Tryon's Risbecia}
+							Rueppell's Wart Slug
 							Tambja morosa
 								{Gloomy Tambja}
-						Doriopsilla albopunctata
-						Flabellina iodinea
-						Hermissenda crassicornis
-						Peltodoris atromaculata
-						Pustulose Wart Slug
-							{Pimpled Phyllidiella}
-							{Phyllidiella pustulosa}
-						Pyjama Chromodorid
-						Ringed Chromodorid
-						Rueppell's Wart Slug
-						Tritonia festiva
-					Painted Elysia
-						{Elysia picta}
 					Sapsucking Slugs
 						{Order Sacoglossa}
 						Costasiella kuroshimae
 							{Kuro Sapsucking Slug}
 						Elysia ornata
 							{Ornate Sapsucking Slug}
+						Lettuce Sea Slug
+						Painted Elysia
+							{Elysia picta}
 					Sea Hares
 						{Order Anaspidea}
-						Aplusia parvula
+						Aplysia fasciata
+						Aplysia parvula
 							{Freckled Sea Hare}
-					Yellow Lip Shield Slug
-						{Chelidonura flavolobata}
+					Side-gilled Slugs
+						Grand Pleurobranch
 				Snails
 					Atlantic Deer Cowrie
 					Augers
