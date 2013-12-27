@@ -88,7 +88,13 @@ def capitalize_name(keyword, level):
     if keyword['name'] == keyword['name'].upper() or keyword['name'] == keyword['name'].lower():
         keyword['name'] = keyword['name'].capitalize()
 
-    keyword['synonyms'][:] = [s.capitalize() for s in keyword['synonyms'] if s==s.upper() or s==s.lower()]
+    synonyms = []
+    for s in keyword['synonyms']:
+        if s==s.upper() or s==s.lower():
+            synonyms.append(s.capitalize())
+        else:
+            synonyms.append(s)
+    keyword['synonyms'][:] = synonyms
 
 def strip_special(keyword, level):
     keyword['name'] = keyword['name'].lstrip('[')
