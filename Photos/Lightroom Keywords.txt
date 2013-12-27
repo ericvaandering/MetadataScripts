@@ -61,6 +61,7 @@ Activities & Events
 	Political
 	Pool
 	Recreation
+		Swimming
 	Religion
 	School
 	Science
@@ -71,6 +72,7 @@ Activities & Events
 		Horseback Riding
 		Individual
 			Mountaineering
+			SCUBA Diving
 			Skiing
 		Kayaking
 		Team
@@ -102,6 +104,7 @@ Animals
 			Rails
 				American Coot
 				Eurasian Coot
+					{Fulica atra}
 		Doves & Pigeons
 			{Columbiformes}
 			Cape Turtle-dove
@@ -113,6 +116,8 @@ Animals
 			Ducks
 				Blue-winged Teal
 				Bufflehead
+				Eurasian Teal
+					{Anas crecca}
 				Knob-billed Duck
 					{Sarkidiornis melanotos}
 				Mallard Duck
@@ -137,6 +142,7 @@ Animals
 				Lesser Scaup
 			Swans
 				Mute Swan
+					{Cygnus olor}
 		Falconiformes
 			Falcons
 				American Kestrel
@@ -402,7 +408,14 @@ Animals
 			Batfishes
 				Shortnose Batfish
 			Frogfishes
+				Giant Frogfish
+					{Antennarius commersoni}
 				Longlure Frogfish
+				Ocellated Frogfish
+					{Antennarius sp.}
+				Painted Frogfish
+					{Antennarius pictus}
+		Baitfish
 		Carp
 		Catfish
 			{Siluriformes}
@@ -411,6 +424,8 @@ Animals
 					{Plotosus lineatus}
 		Clingfishes
 			{Gobiesociformes}
+			Crinoid Clingfish
+				{Discotrema monogrammum}
 			Red Clingfish
 		Damselfishes
 			Anemonefishes
@@ -418,24 +433,42 @@ Animals
 		Eels & Morays
 			{Anguilliformes}
 			Conger Eels
+				Banded Garden Eel
+					{Heteroconger polyzona}
 				Brown Garden Eel
+				Many-toothed Garden Eel
+					{Heteroconger perissodon}
 				Manytooth Conger
 				Red Sea Garden Eel
+				Spaghetti Garden Eel
+					{Gorgasia maculata}
+				Spotted Garden Eel
+					{Heteroconger hassi}
 			Moray Eels
 				Chain Moray
 				Giant Moray
 				Goldentail Moray
 				Green Moray Eel
 				Peppered Moray
+				Snowflake Moray
+					{Echidna nebulosa}
 				Spotted Moray Eel
 				Undulated Moray
 					{Gymnothorax undulatus}
+				White-eyed Moray
+					{Gymnothorax thyrsoideus}
 				Yellowmargin Moray
 				Yellowmouth Moray
 					{Gymnothorax nudivomer}
 			Snake Eels
+				Black-finned Snake Eel
+					{Ophichthus melanochir}
 				Marbled Snake Eel
 					{Callechelys marmorata}
+				Napoleon Snake Eel
+					{Ophichtus bonaparti}
+				Sharpsnout Snake Eel
+					{Apterichtus klazingai}
 				Sharptail Eel
 				Spotted Snake Eel
 				Spotted Spoon-nose Eel
@@ -447,6 +480,8 @@ Animals
 			Panther Flounder
 			Peacock Flounder
 			Spiny Flounder
+			Strange Sole
+				{Aseraggodes xenicus}
 			Wide-eyed Flounder
 		Gobies
 			Round Goby (FW)
@@ -454,12 +489,22 @@ Animals
 			{Aulopiformes}
 			Lizardfishes
 				Clearfin Lizardfish
+				Goldbar Sand Diver
+					{Trichonotus halstead}
 				Red Sea Sand Diver
 					{Trichonotus nikei}
+				Reef Lizardfish
+					{Synodus variegatus}
 				Sand Diver
 				Slender Lizardfish
 					{Saurida gracilis}
-				Speckled Sandperch
+				Spotted Sand Diver
+					{Trichonotus setiger}
+				Twospot Lizardfish
+					{Synodus binotatus}
+				Unknown lizardfish
+		Herrings and Sardines
+			{Family Clupeidae}
 		Milkfish
 			{Gonorynchiformes}
 		Mullets
@@ -469,14 +514,20 @@ Animals
 			Thick-lipped Grey Mullet
 		Perciformes
 			Angelfishes
+				Bicolor Angelfish
+					{Centropyge bicolor}
 				Blue Angelfish
 					{Holacanthus bermudensis}
-				Emporer Angelfish
+				Emperor Angelfish
 				French Angelfish
 				Gray Angelfish
 				Queen Angelfish
 				Regal Angelfish
 				Rock Beauty
+				Six-banded Angelfish
+					{Pomacanthus sexstriatus}
+				Vermiculated Angelfish
+					{Chaetodontoplus mesoleucus}
 				Yellowbar Angelfish
 				Zebra Angelfish
 			Barracudas
@@ -496,13 +547,25 @@ Animals
 				Aron's Blenny
 					{Ecsenius aroni}
 				Dentex Blennie
+				False Cleanerfish
+					{Aspidontus taeniatus}
 				Piano Fangblenny
+				Pictus Blenny
+					{Ecsenius pictus}
 				Redlip Blenny
 				Roughhead Triplefin
 				Saddled Blenny
 				Sailfin Blenny
 				Secretary Blenny
+				Shorthead Fangblenny
+					{Petroscirtes breviceps}
+				Striped Triplefin
+					{Helcogramma striatum}
 				Tentacled Blenny
+				Twinspot Blenny
+					{Ecsenius bimaculatus}
+				Yellowtail Fangblenny
+					{Meiacanthus atrodorsalis}
 			Butterflyfishes
 				Banded Butterflyfish
 				Blackbacked Butterflyfish
@@ -511,31 +574,96 @@ Animals
 				Chevron Butterflyfish
 					{Chaetodon trifascialis}
 				Crown Butterflyfish
+				Eastern Triangular Butterflyfish
+					{Chaetodon baronessa}
 				Exquisite Butterflyfish
 				Foureye Butterflyfish
+				Humphead Bannerfish
+					{Heniochus varius}
+				Latticed Butterflyfish
+					{Chaetodon rafflesi}
+				Longfin Bannerfish
+					{Heniochus acuminatus}
+				Longnose Butterflyfish
+					{Forcipiger flavissimus}
 				Longsnout Butterflyfish
 				Masked Butteryflyfish
+				Ornate Butterflyfish
+					{Chaetodon ornatissimus}
+				Oval-spot Butterflyfish
+					{Chaetodon speculum}
+				Panda Butterflyfish
+					{Chaetodon adiergastos}
+				Pyramid Butterflyfish
+					{Hemitaurichthys polylepis}
+				Raccoon Butterflyfish
+					{Chaetodon lunula}
 				Red Sea Bannerfish
 				Red Sea Raccoon Butterflyfish
+				Redfin Butterflyfish
+					{Chaetodon lunulatus}
 				Sailfin Tang
+				Spot-banded Butterflyfish
+					{Chaetodon punctatofasciatus}
+				Spot-tail Butterflyfish
+					{Chaetodon ocellicaudus}
 				Spotfin Butterflyfish
 					{Chaetodon ocellatus}
 				Threadfin Butterflyfish
+				Triangular Butterflyfish
+					{Chaetodon triangulum}
+				Two-eyed Coralfish
+					{Coradion melanopus}
+				Unknown butterflyfish
 				Yellowtail Tang
 			Cardinalfishes
+				Bargill Cardinalfish
+					{Apogon sealei}
 				Belted Cardinalfish
+				Blackspot Cardinalfish
+					{Archamia melasma}
 				Fiveline Cardinalfish
 					{Cheilodipterus quinquelineatus}
+				Orangespot Cardinalfish
+					{Apogon rubrimacula}
+				Pajama Cardinalfish
+					{Sphaeramia nematoptera}
+				Ringtailed Cardinalfish
+					{Apogon aureus}
+				Split-banded Cardinalfish
+					{Apogon compressus}
+				Striped Cardinalfish
+					{Apogon angustatus}
+				Yellow Cardinalfish
+					{Apogon luteus}
 			Damselfishes
 				Anemonefishes
+					Clark's Anemonefish
+						{Amphiprion clarkii}
+					False Clown Anemonefish
+						{Amphiprion ocellaris}
+					Orange Anemonefish
+						{Amphiprion sandaracinos}
+					Pink Anemonefish
+						{Amphiprion perideraion}
+					Red and Black Anemonefish
+						{Amphiprion melanopus}
 					Red Sea Anemonefish
+					Saddleback Anemonefish
+						{Amphiprion polymnus}
+					Spinecheek Anemonefish
+						{Premnas biaculeatus}
 				Arabian Chromis
+				Arnaz's Demoiselle
+					{Chrysiptera arnazae}
 				Beaugregory
 				Bicolor Damselfish
 				Blue Chromis
 				Bluegreen Chromis
 				Brown Chromis
 				Garibaldi
+				Golden Damsel
+					{Amblyglyphidodon aureus}
 				Half-and-Half Chromis
 				Humbug Dascyllus
 				Indo-Pacific Sergeant
@@ -544,22 +672,53 @@ Animals
 				Pale Damselfish
 				Red Sea Dascyllus
 				Reticulated Damsel
+				Reticulated Dascyllus
+					{Dascyllus reticulatus}
+				Rolland's Demoiselle
+					{Chrysiptera rollandi}
 				Scissortail Sergeant
 					{Abudefduf sexfasciatus}
 				Sergeant Major
 				Sulphur Damsel
+				Ternate Chromis
+					{Chromis ternatensis}
 				Three-spot Dascyllus
 					{Dascyllus trimiculatus}
 				Threespot Damselfish
+				Yellow Chromis
+					{Chromis analis}
 				Yellowtail Damselfish
 			Dartfishes
-				Blackfin Dartfish
+				Twotone Dartfish
+					{Blackfin Dartfish}
+					{Ptereleo evides}
 			Dolphin Fish
+			Dragonets
+				{Family Callionymidae}
+				Fingered Dragonet
+					{Dactylopus dactylopus}
+				Mandarinfish
+					{Synchiropus splendidus}
+				Orange and Black Dragonet
+					{Dactylopus kuiteri}
 			Drums
 				Highhat
 				Jackknife Fish
 				Spotted Drum
+			Emperors
+				{Lethrinidae}
+				Bigeye Emperor
+				Longface Emperor
+					{Lethrinus olivaceus}
 			Goatfishes
+				Bicolor Goatfish
+					{Parupeneus barberinoides}
+				Dash-dot Goatfish
+					{Parupeneus barberinus}
+				Freckled Goatfish
+					{Upeneus tragula}
+				Manybar Goatfish
+					{Parupeneus multifasciatus}
 				Red Sea Goatfish
 				Spotted Goatfish
 				Surmullet
@@ -568,34 +727,79 @@ Animals
 				Yellowsaddle Goatfish
 					{Parupeneus cyclostomus}
 			Gobies
+				Ambanoro Shrimpgoby
+					{Vanderhorstia ambanoro}
+				Banded Goby
+					{Amblygobius phalaena}
+				Banded Shrimpgoby
+					{Cryptocentrus cinctus}
 				Bridled Goby
+				Candycane Pygmygoby
+					{Trimma cana}
+				Crosshatch Goby
+					{Amblygobius decussatus}
+				Flagfin Shrimpgoby
+					{Mahidolia mystacina}
 				Goldspot Goby
+				Gorgeous Shrimpgoby
+					{Amblyeleotris wheeleri}
 				Linesnout Goby
 					{Elacatinus lori}
 				Neon Goby
 					{Gobiosoma oceanops}
+				Orange-dashed Goby
+					{Valenciennea puellaris}
+				Orangespotted Goby
+					{Istigobius rigilius}
 				Peppermint Goby
+				Red-margin Shrimpgoby
+					{Amblyeleotris rubrimarginatus}
 				Redeye Goby
 				Round Goby (FW)
 				Sharknose Goby
+				Signal Goby
+					{Signigobius biocellatus}
+				Sixspot Goby
+					{Valenciennea sexguttata}
+				Sphinx Goby
+					{Amblygobius sphynx}
 				Spotted Dwarfgoby
 					{Eviota guttata}
 				Steinitz' Shrimpgoby
+					{Amblyeleotris steinitzi}
+				Unknown goby
+				Wire Coral Goby
+					{Bryaninops yongei}
 				Yellownose Goby
+				Yellownose Shrimpgoby
+					{Stonogobiops xanthorhinica}
 			Grunts
-				Bigeye Emperor
 				Bigeye Emporer
 					{Monotaxis grandoculis}
 				Bluestriped Grunt
 				Cottonwick
 				French Grunt
+				Giant Sweetlips
+					{Plectorhinchus albovittatus}
+				Many-spotted Sweetlips
+					{Plectorhinchus chaetodonoides}
+				Oriental Sweetlips
+					{Plectorhinchus vittatus}
 				Porkfish
+				Ribbon Sweetlips
+					{Plectorhinchus polytaenia}
+				Silver Sweetlips
+					{Diagramma pictum}
 				Smallmouth Grunt
 				Spanish Grunt
 					{Haemulon macrostomum}
+				Striped Sweetlips
+					{Plectorhinchus lessonii}
 				Tomate
 				White Grunt
 			Hawkfishes
+				Dwarf Hawkfish
+					{Cirrhitichthys falco}
 				Freckled Hawkfish
 				Longnose Hawkfish
 				Redspotted Hawkfish
@@ -607,9 +811,15 @@ Animals
 				Orangespotted Trevally
 			Jawfish
 				Banded Jawfish
+				Yellowbarred Jawfish
+					{Opistognathus randalli}
 				Yellowhead Jawfish
 			Mackerels
 				Cero
+				Long-jawed Mackerel
+					{Rastrelliger kanagurta}
+			Moorish Idol
+				{Zanclus cornutus}
 			Orchid Dottyback
 			Parrotfishes
 				Bicolor Parrotfish
@@ -646,16 +856,38 @@ Animals
 					{Archosargus probatocephalus}
 				White Sea Bream
 			Rabbitfishes
+				Golden Rabbitfish
+					{Siganus guttatus}
 				Squaretail Rabbitfish
 					{Siganus luridus}
 				Stellate Rabbitfish
 					{Siganus stellatus laqueus}
-			Remora
+			Remoras
+				{Echeneidae}
+				Sharksucker
+					{Echeneis naucrates}
+			Sandperches
+				{Pinguipedidae}
+				Latticed Sandperch
+					{Parapercis clathrata}
+				Red-spotted Sandperch
+					{Parapercis schauinslandi}
+				Reticulated Sandperch
+					{Parapercis tetracanthus}
+				Sharpnose Sandperch
+					{Parapercis cylindrica}
+				Speckled Sandperch
 			Sea Basses
 				Anthiases
 					Lyretail Anthias
+					Purple Anthias
+						{Pseudanthias tuka}
+					Purple Queen
+						{Pseudanthias pascalus}
 					Red Sea Anthias
 						{Pseudanthias taeniatus}
+					Threadfin Anthias
+						{Pseudanthias huchti}
 				Barred Hamlet
 				Butter Hamlet
 				Coney
@@ -665,6 +897,10 @@ Animals
 				Groupers
 					Black Grouper
 					Blacktip Grouper
+					Bluespotted Grouper
+						{Cephalopholis cynanostigma}
+					Brown-marbled Grouper
+						{Epinephelus fuscoguttatus}
 					Comb Grouper
 					Dusky Grouper
 					Gag
@@ -672,12 +908,16 @@ Animals
 						{Epinephelus itajara}
 					Greasy Grouper
 					Halfspotted Hind
+					Malabar Grouper
+						{Epinephelus malabaricus}
 					Nassau Grouper
 					Peacock Grouper
 					Potato Grouper
 					Red Hind
 					Red Sea Coralgrouper
 					Rock Hind
+					Tomato Grouper
+						{Cephalopholis sonnerati}
 					Yellowfin Grouper
 						{Mycteroperca venenosa}
 				Harlequin Bass
@@ -692,23 +932,38 @@ Animals
 				Black Margate
 				Black Snapper
 					{Macolor niger}
+				Checkered Snapper
+					{Lutjanus decussatus}
 				Cubera Snapper
 				Ehrenberg's Snapper
 				Gray Snapper
 					{Lutjanus griseus}
+				Indian Snapper
+					{Lutjanus madras}
 				Lane Snapper
 				Mahogany Snapper
 				Mangrove Snapper
 				Margate
+				Midnight Snapper
+					{Macolor macularis}
 				Mutton Snapper
 				Red Sea Fusilier
+				Russel's Snapper
+					{Lutjanus russelli}
 				Schoolmaster
 				Striated Fusilier
 				Yellowtail Snapper
 			Spadefishes
 				Atlantic Spadefish
+				Golden Spadefish
+					{Platax boersii}
 				Longfin Spadefish
+					{Platax teira}
+				Pinnate Spadefish
+					{Platax pinnatus}
 			Surgeonfishes & Tangs & Unicornfishes
+				Bignose Unicornfish
+					{Nasao vlamingii}
 				Black Surgeonfish
 				Bluespine Unicornfish
 				Doctorfish
@@ -728,10 +983,16 @@ Animals
 				Sand Tilefish
 					{Malacanthus plumieri}
 			Wrasses
+				Bird Wrasse
+					{Gomphosus varius}
+				Blackspot Cleaner Wrasse
+					{Labroides pectoralis}
 				Bluehead
 				Bluestreak Cleaner Wrasse
 					{Labroides dimidiatus}
 				Broomtail Wrasse
+				Canary Wrasse
+					{Halichoeres chrysus}
 				Chequerboard Wrasse
 					{Halichoeres hortulanus}
 				Cigar Wrasse
@@ -742,13 +1003,25 @@ Animals
 					{Halichoeres maculipinna}
 				Corkwing Wrasse
 				Creole Wrasse
-				Diana's Hogfish
-					{Bodianus diana}
+				Crescent Wrasse
+					{Thalassoma lunare}
+				Fivefinger Razorfish
+					{Iniistius pentadactylus}
 				Green Razorfish
 					{Xyrichtys splendens}
-				Hogfish
+				Hogfishes
+					Blackbelt Hogfish
+						{Bodianus mesothorax}
+					Diana's Hogfish
+						{Bodianus diana}
+					Hogfish
+					Redfin Hogfish
+						{Bodianus dictynna}
+					Spanish Hogfish
 				Indian Bird Wrasse
 				Klunzinger's Wrasse
+				Leopard Wrasse
+					{Macropharyngodon meleagris}
 				Long-snouted wrasse
 					{Symphodus rostratus}
 				Lyretail Hogish
@@ -757,33 +1030,53 @@ Animals
 				Napolean Wrasse
 				Ornate Wrasse
 				Oscellated Wrasse
+				Peacock Razorfish
+					{Iniistius pavo}
 				Peacock Wrasse
 					{Symphodus tinca}
 				Puddingwife
 				Red Sea Thicklip Wrasse
 					{Hemigymnus sexfasciatus}
 				Redbreasted Wrasse
+				Rockmover Wrasse
+					{Novaculichthys taeniourus}
 				Rosy Razorfish
 				Señorita
+				Slender Wrasse
+					{Oxycheilinus orientalis}
 				Slingjaw Wrasse
 				Slippery Dick
-				Spanish Hogfish
 				Spottail Coris
+				Unknown Wrasse
+				Whitepatch Razorfish
+					{Iniistius aneitensis}
 				Yellowhead Wrasse
+				Yellowtail Coris
+					{Coris gaimard}
 		Puffers & Filefishes
 			{Tetraodontiformes}
 			Boxfishes
 				Bluetail Trunkfish
 				Honeycomb Cowfish
+				Longhorn Cowfish
+					{Lactoria conuta}
 				Scrawled Cowfish
 					{Acanthostracion quadricornis}
 				Smooth Trunkfish
+				Solar Boxfish
+					{Ostracion solorensis}
 				Spotted Trunkfish
 				Yellow Boxfish
+					{Ostracion cubicus}
 			Filefishes
+				Bristle-tailed Filefish
+					{Acreichthys tomentosus}
 				Orangespotted Filefish
+				Orangetail Filefish
+					{Pervagor aspricaudus}
 				Pygmy Filefish
 				Scrawled Filefish
+					{Aluterus scriptus}
 				Whitespotted Filefish
 			Porcupinefishes
 				Balloonfish
@@ -793,16 +1086,34 @@ Animals
 					{Cyclichthys spilostylus}
 			Puffers
 				Bandtail Puffer
+				Black-saddled Toby
+					{Canthigaster valentini}
+				Blackspotted Puffer
+					{Arothron nigropunctatus}
+				Blue-spotted Puffer
+					{Arothron caeruleopunctatus}
+				Map Puffer
+					{Arothron mappa}
 				Masked Puffer
+				Papuan Toby
+					{Canthigaster papua}
 				Red Sea Toby
 				Sharpnose Puffer
 				Starry Puffer
 					{Arothron stellatus}
+				Striped Puffer
+					{Arothron manilensis}
 				Whitespotted Puffer
 			Triggerfishes
 				Black Durgon
 				Bluethroat Triggerfish
+				Clown Triggerfish
+					{Balistoides conspicillum}
+				Flagtail Triggerfish
+					{Sufflamen chrysopterus}
 				Ocean Triggerfish
+				Orange-lined Triggerfish
+					{Balistapus undulatus}
 				Picassofish
 				Queen Triggerfish
 				Redtooth Triggerfish
@@ -820,6 +1131,8 @@ Animals
 				Blackbar Soldierfish
 				Blotcheye Soldierfish
 				Cardinalfish
+				Epaulette Soldierfish
+					{Myripristis kuntee}
 				Longjaw Squirrelfish
 				Longjawed Squirrelfish
 				Spotfin Squirrelfish
@@ -828,35 +1141,66 @@ Animals
 				Tailspot Squirrelfish
 		Scorpionfish & Flatheads
 			{Scorpaeniformes}
+			Flatheads
+				Indian Ocean Crocodilefish
+				Longsnout Flathead
+					{Thysanophyrs chiltonae}
 			Flying Gurnard
-			Indian Ocean Crocodilefish
+			Helmet Gurnard
+				{Dactyloptena orientalis}
 			Painted Greenling
 			Scorpionfishes
+				Bandtail Scorpionfish
+					{Scorpaenopsis neglecta}
 				Black Scorpionfish
 				California Scorpionfish
 				Devil Scorpionfish
 					{Scorpaenopsis diabolus}
+				Leaf Scorpionfish
+					{Taenianotus triacanthus}
 				Lionfishes
 					Clearfin Lionfish
+					Cleartail Lionfish
+						{Pterois russelli}
 					Indian Lionfish
 						{Pterois miles}
 					Shortfin Dwarf Lionfish
 						{Dendrochirus brachypterus}
+					Spotfin Lionfish
+						{Pterois antennata}
 					Volitans (Red) Lionfish
+					Volitans Lionfish
+						{Pterois volitans}
+					Zebra Lionfish
+						{Dendrochirus zebra}
 				Madeira rockfish
+				Raggy Scorpionfish
+					{Scorpaenopsis venosa}
 				Rainbow Scorpionfish
 				Reef Scorpionfish
 				Small Red Scorpionfish
 					{Scorpaena notata}
 				Smallscale Scorpionfish
+					{Scorpaenopsis oxycephala}
 				Spotted Scorpionfish
 			Sculpin
 			Stonefishes
+				Estuarine Stonefish
+					{Synanceia horrida}
 				Filamented Devilfish
+				Spiny Devilfish
+					{Inimicus didactylus}
 				Stonefish
 					{Synanceia verrucosa}
 			Velvetfishes
 				Crested Velvetfish
+			Waspfishes
+				{Tetrarogidae}
+				Cockatoo Waspfish
+					{Ablabys taenianotus}
+				Longspine Waspfish
+					{Paracentropogon longispinus}
+				Unknown Waspfish
 		Sharks
 			Caribbean Black-tipped Reef Shark
 			Grey Reef Shark
@@ -871,12 +1215,17 @@ Animals
 				{Atherinomorus lacunosus}
 		Sticklebacks & Sea Moths
 			{Gasterosteiformes}
-			Short Dragonfish
+			Dragon Sea Moth
 				{Eurypegasus draconis}
-		Surgeonfishes & Tangs & Unicornfishes
-			Doctorfish
 		Syngnathiformes
+			Ghost Pipefishes
+				{Solenostomidae}
+				Ornate Ghost Pipefish
+					{Solenostomus paradoxus}
+				Robust Ghost Pipefish
+					{Solenostomus cyanopterus}
 			Pipefishes & Seahorses
+				{Family Syngnathidae}
 				Broadnosed Pipefish
 				Double-ended Pipefish
 				Egyptian Seahorse
@@ -888,8 +1237,37 @@ Animals
 				Longsnout Seahorse
 					{Hippocampus Reidi}
 				Network Pipefish
+					{Corythoichthys flavofasciatus}
+				Pipefishes
+					{Subfamily Syngnathinae}
+					Pygmy PIpefish
+						{Micrognathus pygmaeus}
+					Ringed Pipefish
+						{Dunckerocampus dactyliophorus}
+					Short-tailed Pipefish
+						{Trachyrhamphus bicoarctatus}
+					Shortnose Pipefish
+						{Micrognathus andersonii}
+					Shortpouch Pygmy Pipehorse
+						{Acentronura breviperula}
+					Slender Pipefish
+						{Trachyrhamphus longirostris}
+					Winged Pipefish
+						{Halicampus macrorhynchus}
 				Red Sea Pipefish
+				Seahorses
+					{Subfamily Hippocampinae}
+					Common Seahorse
+						{Hippocampus taeniopterus}
+					Denise's Pygmy Seahorse
+						{Hippocampus denise}
+					Thorny Seahorse
+						{Hippocampus hystrix}
 				Shortfin Pipefish
+			Snipefishes and Shrimpfishes
+				{Centriscidae}
+				Rigid Shrimpfish
+					{Centriscus scutatus}
 			Trumpetfishes
 				Smooth Cornetfish
 				Trumpetfish
@@ -897,83 +1275,239 @@ Animals
 		Toadfishes
 			{Batrachoidiformes}
 			Splendid Toadfish
-		Wrasses
-			Spanish Hogfish
+		Unknown fish
 	Invertebrates
 		Arthropods
 			Arachnids
 				Scorpions
 			Crustaceans
-				Crabs
-					Batwing Coral Crab
-					Blue Crabs
-					Channel Clinging Crab
-					Common Sally-light-foot
-						{Grapsus tenuicristatus}
-					Cyrique River Crab
-					Decorator Crab
-					Hairy Clinging Crab
-					Nimble Spray Crab
-					Red-spotted Guard Crab
-					Redeye Sponge Crab
-					Redhair Swimming Crab
-					Rough Box Crab
-					Sheep Crab
-					Spider Crabs
-						Soft Coral Spider Crab
-							{Achaeus spinosus}
-					Yellowline Arrow Crab
-				Crayfish
-				Hermit Crabs
-					Giant Hermit Crab
-					Red Reef Hermit
-					Red Sea Anemone Hermit Crab
-						{Dardanus tinctor}
-					Reef Hermit Crab
-						{Dardanus lagopodes}
-				Lobsters
-					Caribbean Spiny Lobster
-					Spanish Lobster
-				Shrimp
-					Banded Coral Shrimp
-					Bumblebee Shrimp
-						{Gnathophyllum americanum}
-					Golden Coral Shrimp
-					Long-arm Cleaner Shrimp
-						{Periclimenes longicarpus}
-					Long-arm Shrimp
-						{Periclimenes tenuipes}
-					Ornate Partner Shrimp
-						{Periclimenes ornata}
-					Pederson Cleaner Shrimp
-					Peppermint Shrimp
-					Scarlet-striped Cleaning Shrimp
-					Spotted Cleaner Shrimp
-						{Periclimenes rathbunae}
-					Squat Anemone Shrimp
-					Velvet Shrimp
+				Amphipods
+					{Order Amphipoda}
+					Skelton Shrimp
+						{Caprella spp}
+				Decapods
+					{Order Decapoda}
+					Crabs
+						Arrowhead Crab
+							{Huenia heraldica}
+						Batwing Coral Crab
+						Blue Crabs
+						Box Crabs
+							{Family Calappidae}
+							Rough Box Crab
+								{Calappa gallus}
+							Spotted Box Crab
+								{Calappa philargius}
+						Channel Clinging Crab
+						Common Sally-light-foot
+							{Grapsus tenuicristatus}
+						Cyrique River Crab
+						Decorator Crab
+						Decorator Crabs
+							{Family Inachidae}
+							Corallimorph Decorator Crab
+								{Cyclocoeloma tuberculata}
+							Orangutan Crab
+								{Oncinopus sp.}
+							Unknown Decorator Crab
+						Hairy Clinging Crab
+						Imitator Crabs
+							{Family Epialtidae}
+							Conical Spider Crab
+								{Xenocarcinus conicus}
+							Soft Coral Crab
+								{Hoplophrys oatesii}
+							Wire Coral Crab
+								{Xenocarcinus tuberculatus}
+						Nimble Spray Crab
+						Purse Crabs
+							Bulbous Purse Crab
+								{Umalana purarensis}
+							Four Ring Purse Crab
+								{Leucosia anatum}
+						Red-spotted Guard Crab
+						Redeye Sponge Crab
+						Redhair Swimming Crab
+						Round Crabs
+							Teddy Bear Crab
+								{Polydectus cupulifer}
+						Sheep Crab
+						Spider Crabs
+							Soft Coral Spider Crab
+								{Achaeus spinosus}
+						Swimming Crabs
+							{Family Portunidae}
+							Carupa sp.
+							Charybdis sp.
+							Harlequin Swimming Crab
+							Sea Cucumber Swimming Crab
+								{Lissocarcinus orbicularis}
+						Unknown Crab
+						Unknown Sponge Crab
+						Yellowline Arrow Crab
+					Hermit Crabs
+						Anemone Hermit Crab
+							{Dardanus pedunculatus}
+						Beautiful Hermit Crab
+							{Calcinus pulcher}
+						Coenobita brevimanus
+						Dark Knee Hermit Crab
+							{Dardanus lagopodes}
+						Giant Hermit Crab
+						Orange Hermit Crab
+							{Pseudopaguristes kuekenthali}
+						Red Reef Hermit
+						Red Sea Anemone Hermit Crab
+							{Dardanus tinctor}
+						Reef Hermit Crab
+							{Dardanus lagopodes}
+						Small White Hermit Crab
+							{Calcinus minutus}
+						Unknown Hermit Crab
+						White-spotted Hermit Crab
+							{Dardanus megistos}
+					Lobsters
+						Crayfish
+						Slipper Lobsters
+							Locust Slipper Lobsters
+							Spanish Lobster
+						Spiny Lobsters
+							{Palinuridae}
+							Caribbean Spiny Lobster
+					Shrimp
+						Alpheus sp.
+						Anker's Whip Coral Shrimp
+							{Pontonides ankeri}
+						Banded Coral Shrimp
+							{Stenopus hispidus}
+						Banded Tozeuma Shrimp
+							{Tozeuma armatum}
+						Bubble Coral Shrimp
+							{Vir philippinensis}
+						Bumblebee Shrimp
+							{Gnathophyllum americanum}
+						Emperor Shrimp
+							{Periclimenes imperator}
+						Golden Coral Shrimp
+						Graceful Anemone Shrimp
+							{Ancylomenes venustus}
+						Hidden Corallimorph Shrimp
+							{Pliopontonia furtiva}
+						Humpback Prawn
+							{Metapenaeopsis lamellata}
+						Laomenes sp.
+						Long Arm Prawn
+							{Heteropenaeus longimanus}
+						Long-arm Cleaner Shrimp
+							{Periclimenes longicarpus}
+						Long-arm Shrimp
+							{Periclimenes tenuipes}
+						Magnificent Anemone Shrimp
+							{Ancylomenes magnificus}
+						Mushroom Coral Shrimp
+							{Periclimenes kororensis}
+						Ornate Partner Shrimp
+							{Periclimenes ornata}
+						Peacock-tail Anemone Shrimp
+							{Periclimenes brevicarpalis}
+						Pederson Cleaner Shrimp
+						Peppermint Shrimp
+						Sarasvati Anemone Shrimp
+							{Periclimenes sarasvati}
+						Scarlet-striped Cleaning Shrimp
+						Sea Star Shrimp
+							{Periclimenes soror}
+						Snapping Shrimp
+							{Alpheidae}
+							Randall's Snapping Shrimp
+								{Alpheus randalli}
+						Spotted Cleaner Shrimp
+							{Periclimenes rathbunae}
+						Squat Anemone Shrimp
+							{Thor amboinensis}
+						Unknown Night Shrimp
+						Unknown Shrimp
+						Velvet Shrimp
+						Zanzibar Whip Coral Shrimp
+							{Dasycaris zanzibarica}
+					Squat Lobsters & Porcelain Crabs
+						Porcelain Crabs
+							{Family Porcellanidae}
+							Soft Coral Porcelain Crab
+								{Lissopocellana nakasonei}
+							Spotted Porcelain Crab
+								{Neopetrolisthes maculatus}
+						Squat Lobsters
+							{Infraorder Anomura}
+							Baba's Crinoid Squat Lobster
+								{Allogalathea babai}
+							Elegant Squat Lobster
+								{Allogalathea elegans}
+							Galathea sp.
+							Hairy Squat Lobster
+								{Lauriea siagiani}
+							Spider Squat Lobster
+								{Chirostylus sandyi}
+				Mantis Shrimp
+					{Order Stomatapoda}
+					{Stomatapoda}
+					Blue Spot Mantis
+						{Haptosquilla stoliura}
+					Golden Mantis
+						{Lysiosquilloides mapia}
+					Peacock Mantis
+						{Odontodactylus scyllarus}
+					Pink-eared Mantis
+						{Odontodactylus latirostris}
+					Tiger Mantis
+						{Lysiosquilla maculata}
+					Unknown mantis
+				Unknown crustacean
 			Insects
 				Bees
 				Dragonflies
 				Moths
 			Millipedes
+		Bryozoans
+			{Phylum Ectoprocta}
 		Cnidarians
 			Anemones
+				Beaded Anemone
+					{Heteractis aurora}
 				Branching Anemone
 				Bubble Anemone
 					{Entacmaea quadricolor}
+				Bulb Tentacle Anemone
+					{Entacmaea quadricolor}
 				Corkscrew Anemone
+				Corkscrew Tentacle Sea Anemone
+					{Macrodactyla doreensis}
 				Giant Anemone
+				Haddon's Anemone
+					{Stichodactyla haddoni}
+				Hemprich's Fire Anemone
+					{Megalactis hemprichii}
 				Hermit Crab Anemone
 					{Calliactis polypus}
+				Hermit Crab Anemone (Philippines)
+					{Calliactis sp.}
+				Magnificent Anemone
+					{Ritteri Anemone}
+					{Heteractis magnifica}
+				Merten's Anemone
+					{Stichodactyla mertensii}
 				Orange Ball Corallimorph
+				Snake Tentacle Anemone
+					{Actinostephanus haeckeli}
 				Sun Anemone
 					{Stichodactyla helianthus}
 				Tube-dwelling Anemone
+				Unknown anemone
 				White-plumed Anemone (Metridium)
 			Corallimoprhs
 				Florida Corralimorph
 					{Ricordea florida}
+				Rhodactis rhodostoma
 			Hydroids
 			Jellyfishes
 				Moon Jelly
@@ -981,15 +1515,18 @@ Animals
 			Zoanthids
 				Corynactis californica
 				Golden Zoanthid
+		Comb Jellies
+			{Ctenophora}
 		Coral
 			Black Corals
+				Cirripathes sp.
 				Feather Black Coral
 					{Antipathes pennacea}
 			Fire Coral
+			Gorgonians
+				Sea Fans
 			Hard Coral
 				Artichoke Coral
-				Brain Corals
-					Maze Coral
 				Fleshy Corals
 					Ridged Cactus Coral
 						{Mycetophyllia lamarckiana}
@@ -1013,6 +1550,9 @@ Animals
 					Rough Leather Coral
 						{Sarcophyton glaucum}
 				Nephtheidae
+				Organ-pipe Corals
+					{Stolonifera}
+					Daisy Corals
 				Organpipe Coral
 					{Tubipora musica}
 				Pulsating Xenid
@@ -1020,6 +1560,11 @@ Animals
 				Sea Plumes
 				Sea Rods
 				Sea Whip
+				Tree Corals
+					Divaricate Tree Coral
+						{Dendronephthya (Roxasia)}
+					Gomerate Tree Coral
+						{Dendronephthya (Spongodes)}
 				Umbrella Xenia
 					{Xenia umbellata}
 				Wide-mesh Sea Fan
@@ -1029,6 +1574,7 @@ Animals
 			Stony Corals
 				Anemone Coral
 					Goniopora columna
+					Goniopora sp.
 					Mountain Coral
 						{Porites lutea}
 				Artichoke Coral
@@ -1040,8 +1586,11 @@ Animals
 						{Meandrina meandrites}
 					Symmetrical Brain Coral
 				Bubble Coral
+					{Plerogyra sinuosa}
 				Cactus Coral
 				Cup Coral
+				Disc Corals
+				Euphyllia ancora
 				Finger Coral
 					Pocillopora verrucosa
 					Stylophora subseriata
@@ -1068,11 +1617,17 @@ Animals
 			Brittle and Basket Stars
 				Basket Star
 				Basket Star - Gorgon Head
+				Dark Red-Spined Brittle Star
+					{Ophiothrix purpurea}
+				Janus' Brittle Star
+					{Ophiomastix janualis}
 				Ophiothrix sp
 					{Ophiothrix sp}
 				Snake Brittle Star
 					{Ophioderma longicauda}
 				Sponge Brittle Star
+				Spotted-disc Brittle Star
+					{Ophiomastix caryophyllata}
 			Crinoids and Feather Stars
 				Chadwick's Feather Star
 					{Decametra chadwicki}
@@ -1083,9 +1638,20 @@ Animals
 			Sea Cucumbers
 				Black sea cucumber
 				Blackmouth Sea Cucumber
+					{Bohadschia graeffei}
+					{Blackspotted Sea Cucumber}
+					{Personothuria graeffei}
+				Bohadschia sp.
 				Creamy Sea Cucumber
 				Donkey Dung Sea Cucumber
+				Euapta sp
 				Furry Sea Cucumber
+				Greenfish Sea Cucumber
+					{Stichopus chloronotus}
+				Lampert's Sea Cucumber
+					{Synaptula lamperti}
+				Lion's Paw Sea Cucumber
+					{Euapta godeffroyi}
 				Prickly Cucumber
 				Synaptula reciprocans
 					{Synaptula reciprocans}
@@ -1093,37 +1659,80 @@ Animals
 				Tiger Tail Sea Cucumber
 				Tubercle Cucumber
 					{Stichopus pseudohorrens}
+				Unknown Sea Cucumber
+				Whiteline Sea Cucumber
+					{Synaptula media}
 				Worm Cucumber
 					{Synapta maculata}
 			Sea Stars
 				Bat Star
+				Blue Sea Star
+					{Linckia laevigata}
+				Chocolate Chip Sea Star
+					{Protoreaster nodosus}
+				Cushion Star
+					{Culcita novaeguineae}
 				Ghardaqa Sea Star
 				Giant Spined Star
+				Granular Sea Star
+					{Choriaster granulatus}
 				Leather Star
+				Luzon Sea Star
+					{Echinaster luzonicus}
 				Red Starfish
 					{Echinaster sepositus}
 				Thorny Sea Star
+				Warty Mesh Sea Star
+					{Nardoa tuberculata}
 			Sea Urchins
+				Bell's Sea Urchin
+					{Salmacis belli}
+				Black Longspine Sea Urchin
+					{Diadema setosum}
 				Black Sea Urchin
 					{Arbacia lixula}
 				Blue-black Urchin
 					{Echinothrix diadema}
-				Collector Urchin
+				Cake Urchin
+					{Collector Urchin}
+					{Tripneustes gratilla}
 				Common Long-spined Urchin
 					{Diadema paucispinum}
+				Double-spined Urchin
+					{Echinothrix calamaris}
+				Hearth Heart Urchin
+					{Maretia planulata}
 				Imperial Urchin
 					{Phyllacanthus imperialis}
 				Long-Spined Urchin
 				Purple Sea Urchin
+				Radiant Sea Urchin
+					{Astropyga radiata}
 				Red Heart Urchin
 					{Meoma ventricosa ventricosa}
 				Red Sea Urchin
 				Rock-boring Urchin
 				Six-Keyhole Sand Dollar
 				Slate-pencil Urchin
+				Unknown Heart Urchin
+					{Brissiosis sp. or Metalia sp.}
 				Variegated Urchin
 		Flatworms
+			Acanthozoon sp.
+			Brilliant Flatworm
+				{Pseudoceros scintillatus}
+			Fuscia Flatworm
+				{Pseudoceros ferrugineus}
 			Gold-dotted Flatworm
+			One Tree Island Flatworm
+				{Pseudobiceros uniarborensis}
+			Persian Carpet Flatworm
+				{Pseudobiceros bedfordi}
+			Pseudoceros sp.
+			Script Flatworm
+				{Pseudoceros scriptus}
+			Unknown Flatworm
+			Waminoa sp.
 		Mollusks
 			Bivalves
 				Amber Penshell
@@ -1131,55 +1740,186 @@ Animals
 				Common Giant Clam
 				Common Pearl Oyster
 				Coral Scallop
+				Electric Fileclam
+					{Ctenoides ales}
 				Fluted Giant Clam
+				Honeycomb Oyster
+					{Hyoyissa hyotis}
+				Iridescent Scallop
+					{Pedum spondyloideum}
 				Rough Fileclam
-			Caribbean Reef Squid
-			Common Cuttlefish
-			Common Reef Squid
+				Variable Thorny Oyster
+					{Spondylus varians}
+			Cephalopods
+				{Class Cephalopoda}
+				Cuttlefishes
+					{Order Sepiida}
+					Broadclub Cuttlefish
+						{Sepia latimanus}
+					Common Cuttlefish
+					Dwarf Cuttlefish
+						{Sepia bandensis}
+					Flamboyant Cuttlefish
+						{Metasepia pfefferi}
+					Pharao Cuttlefish
+				Octopuses
+					{Order Octopoda}
+					Atlantic Pygmy Octopus
+					Common Octopus
+					Day Octopus
+						{Octopus cyanea}
+					Greater Blue-ringed Octopus
+						{Hapalochlaena lunulata}
+					Mimic Octopus
+						{Thaumoctopus mimicus}
+					Mosaic Octopus
+						{Abdopus abaculus}
+				Squids
+					Bigfin Reef Squid
+						{Sepioteuthis lessoniana}
+						{Common Reef Squid}
+					Caribbean Reef Squid
 			Gastropods
 				Sea Slugs
+					{Subclass Opisthobranchia}
 					Grand Pleurobranch
+					Headshield Slugs
+						{Order Cephalaspidea}
+						Chelidonura inornata
+							{Headband Headshield Slug}
+						Chelidonura varians
+							{Blue Velvet Headshield Slug}
 					Lettuce Sea Slug
 					Nudibranchs
 						Aegires albopunctatus
+						Aeolid Nudibranchs
+							{Suborder Aeolidina}
+							Caloria indica
+								{Indian Caloria}
+							Phyllodesmium briareum
+								{Yellow-tipped Phyllodesmium}
+							Phyllodesmium colemani
+								{Coleman's Phyllodesmium}
+							Pteraeolida ianthina
+								{Blue Dragon}
 						Aplysia fasciata
 						Archidoris montereyensis
+						Arminid Nudibranchs
+							{Suborder Arminina}
+							Armina semperi
+						Dorid Nudibranchs
+							{Suborder Doridina}
+							Chromodoris annae
+								{Anna's Chromodoris}
+							Chromodoris coi
+								{Co's Chromodoris}
+							Chromodoris geometrica
+								{Geometric Chromodoris}
+							Chromodoris magnifica
+								{Magnificent Chromodoris}
+							Chromodoris reticulata
+								{Reticulated Chromodoris}
+							Chromodoris willani
+								{Willan's Chromodoris}
+							Discodoris boholiensis
+								{Bohol Discodoris}
+								{Flatworm Discodoris}
+							Gymnodoris sp.
+							Halgerda batangas
+								{Batangas Halgerda}
+							Halgerda carlsoni
+								{Carlson's Halgerda}
+							Jorunna rubescens
+								{Red-lined Jorunna}
+							Nemobratha chamberlaini
+								{Chamberlain's Nemobratha}
+							Nemobratha cristata
+								{Crested Nemobratha}
+							Nemobratha kubaryana
+								{Kubaryana's Nemobratha}
+							Nemobratha lineolata
+								{Lined Nemobratha}
+							Nemobratha milleri
+								{Miller's Nemobratha}
+							Phyllidia coelestis
+								{Sky Blue Phyllidia}
+							Phyllidia ocellata
+								{Ocellated Phyllidia}
+							Phyllidia varicosa
+								{Swollen Phyllidia}
+							Phyllidiella annulata
+								{Ringed Phyllidiella}
+							Polycera abei
+								{Pale Polycera}
+							Risbecia tryoni
+								{Tryon's Risbecia}
+							Tambja morosa
+								{Gloomy Tambja}
 						Doriopsilla albopunctata
 						Flabellina iodinea
 						Hermissenda crassicornis
 						Peltodoris atromaculata
 						Pustulose Wart Slug
+							{Pimpled Phyllidiella}
+							{Phyllidiella pustulosa}
 						Pyjama Chromodorid
 						Ringed Chromodorid
 						Rueppell's Wart Slug
 						Tritonia festiva
 					Painted Elysia
 						{Elysia picta}
+					Sapsucking Slugs
+						{Order Sacoglossa}
+						Costasiella kuroshimae
+							{Kuro Sapsucking Slug}
+						Elysia ornata
+							{Ornate Sapsucking Slug}
+					Sea Hares
+						{Order Anaspidea}
+						Aplusia parvula
+							{Freckled Sea Hare}
 					Yellow Lip Shield Slug
 						{Chelidonura flavolobata}
 				Snails
 					Atlantic Deer Cowrie
+					Augers
+					Bat Volute
+						{Cymbiola vespertilio}
+					Black-spotted Egg Cowrie
+						{Calpumus verrucosus}
+					Common Hairy Triton
+						{Cymatium pileare}
 					Flamingo Tongue
 					Giant Keyhole Limpet
+					Lined Nassa
+						{Nassarious glans}
 					Lip Triton
+					Margarita Egg Cowrie
+						{Diminovula margarita}
 					Panther Cowrie
 					Queen Conch
 					Ramose Murex
 						{Chicoreus ramosus}
 					Red Sea Topshell
 						{Tectus dentatus}
+					Ridged Egg Cowrie
+						{Diminovula culmen}
 					Striated Cone
-			Octopuses
-				Atlantic Pygmy Octopus
-				Common Octopus
-				Reef Octopus - cyanea is correct - day octopus
-					{Octopus cyaneus}
-			Pharao Cuttlefish
+					Tapestry Turban
+						{Turbo petholatus}
+					Unknown cowrie
+					Zigzag Cowrie
+						{Cypraea ziczac}
+				Unknown gastropod
 		Segmented Worms
 			Bearded Fireworm
 			Calcareous Tube Worms
 				Christmas Tree Worm
+				Magnificent Tube Worm
+					{Protula magnifica}
 				Star Horseshoe Worm
+			Darklined Fire Worm
+				{Chloeia fusca}
 			Feather Duster Worms
 				Chone infundibuliformis
 				Ghost Feather Duster
@@ -1191,9 +1931,13 @@ Animals
 				Variegated Feather Duster
 					{Bispira variegata}
 			Scale Worm
+			Sea Cucumber Scale Worm
+				{Gastrolepidia clavigera}
 			Spaghetti Worm
 		Sponges
 			Azure Vase Sponge
+			Barrel Sponge (Indo-Pacific)
+				{Xestospongia testudinaria}
 			Branching Tube Sponge
 			Branching Vase Sponge
 			Brown Variable Sponge
@@ -1205,8 +1949,10 @@ Animals
 				{Diplastrella sp.}
 			Orange Veined Encrusting Sponge
 			Peach Encrusting Sponge
+			Pericharax sp.
 			Pink Vase Sponge
 			Prickly Tube Sponge
+			Rope Sponges
 			Row Pore Rope Sponge
 				{Aplysina caulifornis}
 			Scattered Pore Rope Sponge
@@ -1220,12 +1966,15 @@ Animals
 				{Siphonodictyon coralliphagum}
 			Yellow Tube Sponge
 		Tunicates
+			Bluebell Tunicate
+				{Clavelina moluccensis}
 			Herdman's Ascidian
 			Painted Tunicate
 			Pelagic Tunicate
 	Livestock
 		Camel
 		Cattle
+		Donkey
 		Ducks
 		Geese
 		Goat
@@ -1339,12 +2088,10 @@ Animals
 			Cheek-pouch Monkeys
 				Chacma Baboon
 					{Papio ursinus}
-				Vervet Monkey
-					{Cercopithecus aethiops sabaeus}
-			Cheek-pouch Monkeys
 				Grey-cheeked Mangabey
 				Olive Baboon
 				Vervet Monkey
+					{Cercopithecus pygerythrus}
 				Yellow Baboon
 			Colobid Monkeys
 				Central African Red Colobus
@@ -1391,6 +2138,8 @@ Animals
 			Rock Monitor
 				{Varanus albigularis}
 		Snakes
+			Banded Sea Krait
+				{Laticauda colubrina}
 			Coral Snake (Micrurus sp.)
 			Striped Belly Sand Snake
 				{Psammophis subtaeniatus}
@@ -1533,6 +2282,39 @@ Dive Sites
 		Soltan Rock
 		St. George Bay
 		Um El Faroud (tanker) Wreck
+	Philippines
+		Dumaguette
+			Apo Island
+				Chapel
+				Coconut Point
+				Largahan
+				Rock Point East
+				Rock Point West
+			Bancawreck
+			Bonet's Corner
+			Car Wreck
+			Dauin South
+			Ginama Point
+			Luca Sanctuary
+			Masaplod
+			Pura Vida House Reef
+			Rock Pile
+			San Miguel
+			Sarah's Place
+		Moalboal
+			Copton Point
+			Fish Feeding Area
+			Kasai Village Reef
+			Moalboal Bay
+			Panagsama Beach
+			Pescador Island
+			Rondo Bay
+			Saavedra Marine Sanctuary
+			Sampguita Point
+			Talisay Point
+			Tongo Sanctuary
+			Tuble Point
+			White Beach
 	Red Sea
 		Abu Ramada
 		Abu Ramada Plateau
@@ -1565,8 +2347,6 @@ Dive Sites
 		Umm Erug (St.  Johns)
 		Umm Hararim
 		Zabargad SW/E?
-Industrial Building
-Obelisk
 People
 	Candid
 	CMS Collaborators
@@ -1673,6 +2453,7 @@ People
 			Birdwatchers
 			Free Diver
 			Paraglider
+		Vendor
 	Travel
 		Africa 2002 Companions
 		Africa 2007 Companions
@@ -1694,6 +2475,7 @@ People
 		Golden Dolphin Companions
 			Daniele Hazard
 		SCUBA Divers
+			Adelfa
 			Beth Plotner
 			Bill King
 			Carol Haack
@@ -1711,6 +2493,7 @@ People
 			Steve Wilkinson
 			Sue Momsen
 			Tabitha Schneider
+			Tanya Lape
 			Tonya Wegner
 			Tracy Kittrell
 			YiChung Law
@@ -1786,6 +2569,7 @@ Styles
 		Forest
 		Ice
 			Glacier
+		Island
 		Landscape
 			Africa
 				Amboseli NR
@@ -1872,6 +2656,7 @@ Technical Specs
 			Radial filter
 		Editing in LR
 		Exposure bad?
+		ID Uncertain
 		LR4
 		Make Virtual Copy
 		More WB correction
@@ -1910,7 +2695,8 @@ Things & Objects
 	Flag
 	Food
 	Footprints
-	Homes
+	Furniture
+		Bed
 	Scientific Instrument
 	SCUBA gear
 	Shipwreck
@@ -1941,10 +2727,13 @@ Things & Objects
 			Commercial Building
 			Fort
 			Government Building
+			Homes
 			Hotel
 			House
+			Industrial Building
 			Jewish Temple
 			Lighthouse
+			Mansion
 			Modern Architecture
 			Monument
 			Mosque
@@ -1970,7 +2759,9 @@ Things & Objects
 		Harbor
 		Memorial
 		Monastery
+		Obelisk
 		Path
+		Pier
 		Pillar
 		Plaza
 			{Piazza}
@@ -1981,6 +2772,7 @@ Things & Objects
 		Tomb
 		Tunnel
 		Underwater Cave
+		Wall
 	Toy
 	Vehicles
 		Airplane
