@@ -1,0 +1,81 @@
+Body parts
+	Ankle
+	Anther
+	Antler
+	Arm
+	Beak
+	Bone
+	Brain
+	Branch
+	Breast
+	Cheek
+	Chest
+	Claw
+	Ear
+	Earlobe
+	Elbow
+	Elephant trunk
+		{Proboscis}
+		{Trunk}
+	Eye
+	Eyebrow
+	Eyelash
+	Fang
+	Feather
+	Fin
+	Finger
+		Index finger
+		Little finger
+		Middle finger
+		Ring finger
+		Thumb
+	Fingernail
+		{Nail}
+	Flower bud
+	Foot
+	Fruit
+	Fur
+	Hair
+	Hand
+	Head
+	Heart
+	Hoof
+	Horn
+	Leaf
+	Leaf bud
+	Leg
+	Lips
+	Mane
+	Mouth
+	Neck
+	Nipple
+	Nose
+	Nostril
+	Paw
+	Petal
+	Pistil
+	Root
+	Seed
+	Sepal
+	Shell
+	Skeleton
+	Skull
+	Snout
+	Stamen
+	Stem
+	Stemen
+	Stigma
+	Sting
+	Tail
+	Tentacle
+	Thorn
+	Toe
+	Toenail
+		{Nail}
+	Tongue
+	Tooth
+	Tree trunk
+		{Trunk}
+	Tusk
+	Whisker
+	Wing
