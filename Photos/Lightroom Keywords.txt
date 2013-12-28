@@ -1,5 +1,4 @@
 Activities & Events
-	Agriculture
 	Animal Behavior
 		Animal detail
 		Baby animal
@@ -18,18 +17,12 @@ Activities & Events
 	Artist
 	Arts
 		Music
-	Business
 	Celebrations
-		Backyard
-		Birthday
 		Fireworks
 	Concert
-	Culture
 	Dance
 		Traditional Dance
 	Dinners and Banquets
-	Education
-	Entertainment
 	Exhibitions
 		CSM Photo Contests
 		CSM Workshops
@@ -40,30 +33,17 @@ Activities & Events
 	Food Preparation
 	Games
 		Whirlyball
-	Glamour
-	Government
-	Health
-	Historic
 	Holiday
 		Christmas
 		Halloween
 		St. Patricks Day
-	Home
 	Ideas
 	Industry
-	International
-	Leisure
-	Lifestyles
-	Manufacturing
 	Medical
-	Military
 	Parade
-	Political
-	Pool
 	Recreation
 		Swimming
 	Religion
-	School
 	Science
 		High Energy Physics
 	Sports
@@ -75,10 +55,6 @@ Activities & Events
 			SCUBA Diving
 			Skiing
 		Kayaking
-		Team
-	Technology
-	Tourism
-	Wedding
 Animals
 	Amphibians
 		Frogs
@@ -2389,14 +2365,9 @@ People
 		Sudhir Malik
 	Crowd
 	Descriptors
-		Adults
-		Baby
 		Boy
 		Children
-		Couple
 		Girl
-		Man
-		Woman
 	Eric Vaandering
 	Family
 		Case Vaandering
@@ -2460,7 +2431,6 @@ People
 	Me
 	Role
 		Diners
-		Models
 		Officials
 			Police
 			Soldiers
@@ -2550,9 +2520,17 @@ Plants
 		Stump
 	Water Plants
 	Wild Fruit
+Structures & architecture
+	Place
+		Resort
+	Structure
+		Dormitory
+			{Dorm}
+		Hostel
+		Hotel
+		Office building
+		Restaurant
 Styles
-	Abstract
-	Action
 	Aerial
 	Architecture
 		Chandelier
@@ -2562,7 +2540,6 @@ Styles
 		Mosaic
 		Stairs
 		Window
-	Background
 	Beach
 	Cityscape
 		Developing Country
@@ -2578,14 +2555,9 @@ Styles
 		U.S.A.
 			Washington DC
 		Uganda
-	Conceptual
-	Documentary
-	Fantasy
 	Flowing water
 	Food
 	From Overlook
-	Indoor
-	Macro
 	Natural Scenery
 		Clouds
 		Dunes
@@ -2631,42 +2603,23 @@ Styles
 		Snow
 		Stream
 		Waves
-	Nautical
-	News
-		Domestic
-		Election
-		General
-		International
-	Nostalgia
 	Overview
 	Pattern
 	Portrait
-		Close-up
-		Full body
 		Group
-		Headshot
-		Profile
 	Reflection
-	Sequence
 	Silhouette
 	Still life
 	Street scene
-	Symbols
 	Time
 		Dusk light
 		Evening light
 		Morning light
-		Night time
 		Pre-dawn light
 		Season
 			Autumn
-			Spring
-			Summer
 			Winter
-	Time exposure
 	Underwater
-	Vacation
-	Vintage
 	Weather
 		Rain
 Technical Specs
@@ -2677,11 +2630,8 @@ Technical Specs
 		Edit in LR
 			Object clone with feather
 			Radial filter
-		Editing in LR
 		Exposure bad?
 		ID Uncertain
-		LR4
-		Make Virtual Copy
 		More WB correction
 		Needs ID
 		Point curve develop
@@ -2703,7 +2653,6 @@ Things & Objects
 	Art
 		Ancient Manuscript
 		Drawing
-		Fine art
 		Modern Art
 		Painting
 			Cave Painting
@@ -2743,8 +2692,6 @@ Things & Objects
 			Commercial Building
 			Fort
 			Government Building
-			Homes
-			Hotel
 			House
 			Industrial Building
 			Jewish Temple
@@ -2754,12 +2701,9 @@ Things & Objects
 			Monument
 			Mosque
 			My House
-			Office
 			Palace
 			Public Transit
 			Residential Building
-			Resort
-			Restaurant
 			Shop
 			Shopping Center
 			Skyscraper
@@ -2809,7 +2753,6 @@ Transportation
 				{Chopper}
 		Spacecraft
 	By land
-		Bus
 		Car
 			{Automobile}
 			Luxury car
