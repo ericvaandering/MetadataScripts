@@ -3360,6 +3360,7 @@ Object
 		Tea towel
 	Toy
 		Action figure
+		Building block
 		Doll
 		Puppet
 	Tyre
@@ -4168,14 +4169,8 @@ Things & Objects
 		Stained Glass
 	Bell
 	Bird nest
-	Bones
-	Camera
-	Clock
 	Flag
-	Food
 	Footprints
-	Furniture
-		Bed
 	Scientific Instrument
 	SCUBA gear
 	Shipwreck
@@ -4185,7 +4180,6 @@ Things & Objects
 		Informative
 		Neon Sign
 		Plaque
-	Stars
 	Structures
 		Airport
 		Altar
@@ -4252,35 +4246,6 @@ Things & Objects
 		Tunnel
 		Underwater Cave
 		Wall
-	Toy
-	Vehicles
-		Airplane
-			Antique Aircraft
-			Commercial Airplane
-			Experimental Aircraft
-			Glider
-			Military Aircraft
-		Bicycle
-		Boat
-			Cruise Ship
-			Ferry
-			Military Ship
-			Power boat
-			Sailboat
-		Bus
-		Car
-			Taxi
-		Construction Equipment
-		Fire truck
-		Gondola
-		Helicopter
-		Human Powered
-		Motorcycle
-		Ship
-		Spacecraft
-		Subway
-		Train
-		Truck
 Thoroughfare
 	Avenue
 	Bikeway
@@ -4326,10 +4291,15 @@ Transportation
 			Airplane
 				{Aeroplane}
 				{Plane}
+				Antique aircraft
 				Bomber
+				Commercial airplane
+				Experimental aircraft
 				Fighter
 				Jet aircraft
+				Other airplane
 				Propeler plane
+				Surveillance aircraft
 			Glider
 			Helicopter
 				{Chopper}
@@ -4337,6 +4307,7 @@ Transportation
 				{Hydroplane}
 		Airship
 		Hot air balloon
+		Spacecraft
 	By land
 		Ambulance
 		Bicycle
@@ -4348,6 +4319,7 @@ Transportation
 			Tandem bicycle
 			Touring bicycle
 			Utility bicycle
+		Bus
 		Car
 			{Automobile}
 			Bubble car
@@ -4365,7 +4337,10 @@ Transportation
 			Sports car
 			Super mini
 			Supercar
+			Taxi
+		Construction equipment
 		Firetruck
+		Gondola
 		Motorcycle
 			{Bike}
 			{Motorbike}
@@ -4450,6 +4425,7 @@ Transportation
 		Tanker
 		Yacht
 		Yawl
+	Human Powered
 Water
 	Bayou
 	Billabong

@@ -2155,6 +2155,12 @@ Animals
 				Hawksbill Turtle
 					{Eretmochelys imbriocota}
 				Loggerhead Turtle
+Body parts
+	Bone
+	Skull
+Celestial body
+	Galaxy
+	Star
 Dive Sites
 	Bahamas
 		Bimini
@@ -2347,6 +2353,20 @@ Dive Sites
 		Umm Erug (St.  Johns)
 		Umm Hararim
 		Zabargad SW/E?
+Object
+	Clock
+		Analog clock
+	Furniture
+		Bed
+	Photo gear
+		Still camera
+			Compact camera
+				{Point and shoot camera}
+			Digital camera
+			Single lens reflex camera
+				{Slr}
+	Toy
+		Building block
 People
 	Candid
 	CMS Collaborators
@@ -2498,6 +2518,9 @@ People
 			Tracy Kittrell
 			YiChung Law
 		Travel Companions
+Photography
+	Type of photography
+		Food photography
 Plants
 	Algae
 		Blue Crust Weed
@@ -2689,14 +2712,8 @@ Things & Objects
 		Stained Glass
 	Bell
 	Bird nest
-	Bones
-	Camera
-	Clock
 	Flag
-	Food
 	Footprints
-	Furniture
-		Bed
 	Scientific Instrument
 	SCUBA gear
 	Shipwreck
@@ -2706,7 +2723,6 @@ Things & Objects
 		Informative
 		Neon Sign
 		Plaque
-	Stars
 	Structures
 		Airport
 		Altar
@@ -2773,32 +2789,61 @@ Things & Objects
 		Tunnel
 		Underwater Cave
 		Wall
-	Toy
-	Vehicles
-		Airplane
-			Antique Aircraft
-			Commercial Airplane
-			Experimental Aircraft
+Transportation
+	By air
+		Aircraft
+			Airplane
+				{Aeroplane}
+				{Plane}
+				Antique aircraft
+				Bomber
+				Commercial airplane
+				Experimental aircraft
+				Fighter
+				Jet aircraft
+				Other airplane
+				Propeler plane
+				Surveillance aircraft
 			Glider
-			Military Aircraft
-		Bicycle
-		Boat
-			Cruise Ship
-			Ferry
-			Military Ship
-			Power boat
-			Sailboat
+			Helicopter
+				{Chopper}
+		Spacecraft
+	By land
 		Bus
 		Car
+			{Automobile}
+			Luxury car
+			Off road
+			Small family car
+			Sports car
 			Taxi
-		Construction Equipment
-		Fire truck
+		Construction equipment
+		Firetruck
 		Gondola
-		Helicopter
-		Human Powered
 		Motorcycle
-		Ship
-		Spacecraft
+			{Bike}
+			{Motorbike}
+			Street motorcycle
+				Chopper
+				Scooter
 		Subway
+			{Metro}
 		Train
+			Passenger train
 		Truck
+			Van
+	By water
+		Boat
+		Cruise ship
+		Ferry
+		Motorboat
+		Naval vessel
+			Aircraft carrier
+			Destroyer
+			Patrol vessel
+		Sail ship
+			{Sailing ship}
+		Sailboat
+			{Sailing boat}
+		Schooner
+	Human Powered
