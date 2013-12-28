@@ -51,7 +51,6 @@ Action
 	Working
 	Writing
 Activities & Events
-	Agriculture
 	Animal Behavior
 		Animal detail
 		Baby animal
@@ -70,18 +69,12 @@ Activities & Events
 	Artist
 	Arts
 		Music
-	Business
 	Celebrations
-		Backyard
-		Birthday
 		Fireworks
 	Concert
-	Culture
 	Dance
 		Traditional Dance
 	Dinners and Banquets
-	Education
-	Entertainment
 	Exhibitions
 		CSM Photo Contests
 		CSM Workshops
@@ -92,30 +85,17 @@ Activities & Events
 	Food Preparation
 	Games
 		Whirlyball
-	Glamour
-	Government
-	Health
-	Historic
 	Holiday
 		Christmas
 		Halloween
 		St. Patricks Day
-	Home
 	Ideas
 	Industry
-	International
-	Leisure
-	Lifestyles
-	Manufacturing
 	Medical
-	Military
 	Parade
-	Political
-	Pool
 	Recreation
 		Swimming
 	Religion
-	School
 	Science
 		High Energy Physics
 	Sports
@@ -127,10 +107,6 @@ Activities & Events
 			SCUBA Diving
 			Skiing
 		Kayaking
-		Team
-	Technology
-	Tourism
-	Wedding
 Age
 	Adult
 	Baby
@@ -3408,14 +3384,9 @@ People
 		Sudhir Malik
 	Crowd
 	Descriptors
-		Adults
-		Baby
 		Boy
 		Children
-		Couple
 		Girl
-		Man
-		Woman
 	Eric Vaandering
 	Family
 		Case Vaandering
@@ -3500,7 +3471,6 @@ People
 		Uncle
 	Role
 		Diners
-		Models
 		Officials
 			Police
 			Soldiers
@@ -3825,6 +3795,7 @@ Structures & architecture
 		Templon
 		Terrace
 		Turet
+		Wall
 		Window
 	Place
 		Cemetery
@@ -3833,6 +3804,7 @@ Structures & architecture
 			{Patio}
 		Park
 		Playground
+		Resort
 		Schoolyard
 		Town square
 	Room
@@ -3874,6 +3846,7 @@ Structures & architecture
 		Brewery
 		Bridge
 		Bunker
+		Cafe
 		Capitol
 		Casino
 		Castle
@@ -3922,6 +3895,7 @@ Structures & architecture
 		Jazz club
 		Kiosk
 		Library
+		Lighthouse
 		Market house
 		Martyrium
 		Mausoleum
@@ -3973,9 +3947,15 @@ Structures & architecture
 		Synagogue
 		Tavern
 		Temple
+			Ancient Temple
+			Buddhist Temple
+			Jewish Temple
+			Taoist Temple
 		Theater
 		Tomb
 		Tower
+			Bell Tower
+			Clock Tower
 		University
 		Villa
 		Warehouse
@@ -3999,6 +3979,7 @@ Structures & architecture
 			{Railway station}
 	Type of structure
 		Agricultural structure
+		Civic structure
 		Commercial structure
 		Educational structure
 		Government structure
@@ -4008,8 +3989,6 @@ Structures & architecture
 		Religious structure
 		Residential structure
 Styles
-	Abstract
-	Action
 	Aerial
 	Architecture
 		Chandelier
@@ -4019,7 +3998,6 @@ Styles
 		Mosaic
 		Stairs
 		Window
-	Background
 	Beach
 	Cityscape
 		Developing Country
@@ -4035,14 +4013,9 @@ Styles
 		U.S.A.
 			Washington DC
 		Uganda
-	Conceptual
-	Documentary
-	Fantasy
 	Flowing water
 	Food
 	From Overlook
-	Indoor
-	Macro
 	Natural Scenery
 		Clouds
 		Dunes
@@ -4088,42 +4061,23 @@ Styles
 		Snow
 		Stream
 		Waves
-	Nautical
-	News
-		Domestic
-		Election
-		General
-		International
-	Nostalgia
 	Overview
 	Pattern
 	Portrait
-		Close-up
-		Full body
 		Group
-		Headshot
-		Profile
 	Reflection
-	Sequence
 	Silhouette
 	Still life
 	Street scene
-	Symbols
 	Time
 		Dusk light
 		Evening light
 		Morning light
-		Night time
 		Pre-dawn light
 		Season
 			Autumn
-			Spring
-			Summer
 			Winter
-	Time exposure
 	Underwater
-	Vacation
-	Vintage
 	Weather
 		Rain
 Technical Specs
@@ -4134,11 +4088,8 @@ Technical Specs
 		Edit in LR
 			Object clone with feather
 			Radial filter
-		Editing in LR
 		Exposure bad?
 		ID Uncertain
-		LR4
-		Make Virtual Copy
 		More WB correction
 		Needs ID
 		Point curve develop
@@ -4160,7 +4111,6 @@ Things & Objects
 	Art
 		Ancient Manuscript
 		Drawing
-		Fine art
 		Modern Art
 		Painting
 			Cave Painting
@@ -4187,41 +4137,27 @@ Things & Objects
 		Bridge
 		Buildings
 			Amphitheatre
-			Ancient Temple
 			Barn
-			Bell Tower
-			Buddhist Temple
-			Cafe
 			Castle
 			Cathedral
 			Church
-			Civic Building
-			Clock Tower
 			Commercial Building
 			Fort
 			Government Building
-			Homes
-			Hotel
 			House
 			Industrial Building
-			Jewish Temple
-			Lighthouse
 			Mansion
 			Modern Architecture
 			Monument
 			Mosque
 			My House
-			Office
 			Palace
 			Public Transit
 			Residential Building
-			Resort
-			Restaurant
 			Shop
 			Shopping Center
 			Skyscraper
 			Stadium
-			Taoist Temple
 			Theater
 			Tower
 		Canal
@@ -4243,9 +4179,7 @@ Things & Objects
 		Statue
 		Tent
 		Tomb
-		Tunnel
 		Underwater Cave
-		Wall
 Thoroughfare
 	Avenue
 	Bikeway
@@ -4267,6 +4201,7 @@ Thoroughfare
 		{Pavement}
 	Street
 	Trail
+	Tunnel
 Time
 	Season
 		Autumn
@@ -4319,7 +4254,6 @@ Transportation
 			Tandem bicycle
 			Touring bicycle
 			Utility bicycle
-		Bus
 		Car
 			{Automobile}
 			Bubble car

@@ -2131,6 +2131,9 @@ Animals
 				Hawksbill Turtle
 					{Eretmochelys imbriocota}
 				Loggerhead Turtle
+Art
+	Sculpture
+	Statue
 Body parts
 	Bone
 	Skull
@@ -2329,6 +2332,9 @@ Dive Sites
 		Umm Erug (St.  Johns)
 		Umm Hararim
 		Zabargad SW/E?
+Land
+	Cave
+		{Cavern}
 Object
 	Clock
 		Analog clock
@@ -2521,21 +2527,63 @@ Plants
 	Water Plants
 	Wild Fruit
 Structures & architecture
+	Architectural element
+		Arch
+		Column
+			{Pillar}
+		Fountain
+		Wall
 	Place
+		Cemetery
+			{Graveyard}
 		Resort
 	Structure
+		Amphitheater
+		Barn
+		Bridge
+		Cafe
+		Castle
+		Cathedral
+		Church
+		Defensive wall
 		Dormitory
 			{Dorm}
 		Hostel
 		Hotel
+		Lighthouse
+		Monastery
+		Mosque
 		Office building
 		Restaurant
+		Skyscraper
+		Stadium
+		Temple
+			Ancient Temple
+			Buddhist Temple
+			Jewish Temple
+			Taoist Temple
+		Theater
+		Tomb
+		Tower
+			Bell Tower
+			Clock Tower
+	Transit station
+		Airport
+			Airport terminal
+		Harbor
+			{Harbour}
+			{Haven}
+	Type of structure
+		Civic structure
+		Commercial structure
+		Government structure
+		Industrial structure
+		Residential structure
 Styles
 	Aerial
 	Architecture
 		Chandelier
 		Dome
-		Interior Arch
 		Lamp
 		Mosaic
 		Stairs
@@ -2657,7 +2705,6 @@ Things & Objects
 		Painting
 			Cave Painting
 			Mural
-		Sculpture
 		Stained Glass
 	Bell
 	Bird nest
@@ -2673,66 +2720,31 @@ Things & Objects
 		Neon Sign
 		Plaque
 	Structures
-		Airport
 		Altar
-		Arch
-		Bridge
 		Buildings
-			Amphitheatre
-			Ancient Temple
-			Barn
-			Bell Tower
-			Buddhist Temple
-			Cafe
-			Castle
-			Cathedral
-			Church
-			Civic Building
-			Clock Tower
-			Commercial Building
 			Fort
-			Government Building
 			House
-			Industrial Building
-			Jewish Temple
-			Lighthouse
 			Mansion
 			Modern Architecture
 			Monument
-			Mosque
 			My House
 			Palace
 			Public Transit
-			Residential Building
 			Shop
 			Shopping Center
-			Skyscraper
-			Stadium
-			Taoist Temple
-			Theater
-			Tower
-		Canal
-		Cave
-		Cemetery
 		Ferris Wheel
-		Fountain
-		Harbor
 		Memorial
-		Monastery
 		Obelisk
-		Path
 		Pier
-		Pillar
 		Plaza
 			{Piazza}
 			{Square}
 		Ruins
-		Statue
 		Tent
-		Tomb
-		Tunnel
 		Underwater Cave
-		Wall
+Thoroughfare
+	Path
+	Tunnel
 Transportation
 	By air
 		Aircraft
@@ -2790,3 +2802,6 @@ Transportation
 			{Sailing boat}
 		Schooner
 	Human Powered
+Water
+	Canal
+		{Channel}
