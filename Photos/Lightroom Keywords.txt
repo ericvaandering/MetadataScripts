@@ -2335,6 +2335,30 @@ Dive Sites
 Land
 	Cave
 		{Cavern}
+	Cliff
+	Desert
+		Dune
+	Field
+	Forest
+		{Woods}
+	Glacier
+	Island
+	Meadow
+		{Prairie}
+	Mountain
+	Shore
+		{Shoreline}
+	Vineyard
+Natural phenomenon
+	Rainbow
+	Sunrise
+		{Dawn}
+	Sunset
+		{Dusk}
+	Weather
+		Cloud
+		Rain
+		Snow
 Object
 	Clock
 		Analog clock
@@ -2495,8 +2519,13 @@ People
 			YiChung Law
 		Travel Companions
 Photography
+	Effect
+		Reflection
+		Silhouette
 	Type of photography
+		Aquascape photography
 		Food photography
+		Landscape photography
 Plants
 	Algae
 		Blue Crust Weed
@@ -2607,12 +2636,7 @@ Styles
 	Food
 	From Overlook
 	Natural Scenery
-		Clouds
-		Dunes
-		Forest
 		Ice
-			Glacier
-		Island
 		Landscape
 			Africa
 				Amboseli NR
@@ -2627,49 +2651,17 @@ Styles
 				Shaba NP
 				Tsavo West National Park
 				Uganda
-			Desert
-			Fields & Farms
-				Vineyards
-			Lake
-			Marsh
-			Mountains
-			Pond
-			Rainbow
-			Sunrise
-			Sunset
-			Underwater Landscape
-			Waterfall
 			Waterfront
-		Meadow
 		Natural pools
-		Ocean
-		River
 		Rock Formations
 			Arch
-			Cliff
-		Shore
-		Snow
-		Stream
-		Waves
 	Overview
 	Pattern
 	Portrait
 		Group
-	Reflection
-	Silhouette
 	Still life
 	Street scene
-	Time
-		Dusk light
-		Evening light
-		Morning light
-		Pre-dawn light
-		Season
-			Autumn
-			Winter
 	Underwater
-	Weather
-		Rain
 Technical Specs
 	Accessories
 		Extension Tubes
@@ -2745,6 +2737,18 @@ Things & Objects
 Thoroughfare
 	Path
 	Tunnel
+Time
+	Season
+		Autumn
+			{Fall}
+		Winter
+	Time of day
+		At sunrise
+		At sunset
+		Dusk
+		Evening
+		Morning
+		Pre-dawn
 Transportation
 	By air
 		Aircraft
@@ -2805,3 +2809,15 @@ Transportation
 Water
 	Canal
 		{Channel}
+	Lake
+	Marsh
+	Ocean
+	Pond
+	River
+	Stream
+		{Brook}
+		{Creek}
+		{Rivulet}
+	Waterfall
+	Wave
+		Breaking wave
