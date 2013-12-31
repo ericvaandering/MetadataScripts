@@ -1,7 +1,6 @@
-Activities & Events
-	Animal Behavior
+Action
+	Animal behavior
 		Animal detail
-		Baby animal
 		Bathing
 		Drinking
 		Feeding
@@ -14,47 +13,23 @@ Activities & Events
 		Running
 		Scratching
 		Swimming
-	Artist
-	Arts
-		Music
-	Celebrations
-		Fireworks
-	Concert
-	Dance
-		Traditional Dance
-	Dinners and Banquets
-	Exhibitions
-		CSM Photo Contests
-		CSM Workshops
-		Facebook National Photo Month 2010
-		Facebook National Photo Month 2011
-		Facebook National Photo Month 2012
-		Fermilab Employee Art Shows
-	Food Preparation
+	Creating art
+		Drawing
+		Sculpting
+	Dancing
+		Traditional dancing
+	Food preparation
+	Performing music
+Activities & Events
 	Games
 		Whirlyball
-	Holiday
-		Christmas
-		Halloween
-		St. Patricks Day
 	Ideas
-	Industry
-	Medical
-	Parade
-	Recreation
-		Swimming
-	Religion
-	Science
-		High Energy Physics
-	Sports
-		Boating
-		Camping
-		Horseback Riding
-		Individual
-			Mountaineering
-			SCUBA Diving
-			Skiing
-		Kayaking
+Age
+	Baby animal
+		Elephant calf
+		Infant monkey
+		Puppy
+			{Pup}
 Animals
 	Amphibians
 		Frogs
@@ -2140,6 +2115,12 @@ Body parts
 Celestial body
 	Galaxy
 	Star
+Concept
+	Healthcare
+	Industrial
+	Religion
+	Science
+		High Energy Physics
 Dive Sites
 	Bahamas
 		Bimini
@@ -2332,6 +2313,23 @@ Dive Sites
 		Umm Erug (St.  Johns)
 		Umm Hararim
 		Zabargad SW/E?
+Event
+	Concert
+	Dinners
+	Exhibition
+		CSM Photo Contests
+		CSM Workshops
+		Facebook National Photo Month 2010
+		Facebook National Photo Month 2011
+		Facebook National Photo Month 2012
+		Fermilab Employee Art Shows
+	Feast
+		{Banquet}
+	Holiday
+		Christmas
+		Halloween
+		St. Patricks Day
+	Parade
 Land
 	Cave
 		{Cavern}
@@ -2352,9 +2350,7 @@ Land
 Natural phenomenon
 	Rainbow
 	Sunrise
-		{Dawn}
 	Sunset
-		{Dusk}
 	Weather
 		Cloud
 		Rain
@@ -2362,6 +2358,7 @@ Natural phenomenon
 Object
 	Clock
 		Analog clock
+	Firework
 	Furniture
 		Bed
 	Photo gear
@@ -2555,6 +2552,17 @@ Plants
 		Stump
 	Water Plants
 	Wild Fruit
+Profession
+	Artist
+Sport
+	Boating
+	Camping
+	Horse riding
+	Kayaking
+	Mountaineering
+	SCUBA Diving
+	Skiing
+	Swimming
 Structures & architecture
 	Architectural element
 		Arch
@@ -2743,12 +2751,15 @@ Time
 			{Fall}
 		Winter
 	Time of day
-		At sunrise
-		At sunset
+		Afternoon
+		Dawn
+		Daytime
 		Dusk
+		Early morning
 		Evening
 		Morning
-		Pre-dawn
+		Night
+		Noon
 Transportation
 	By air
 		Aircraft

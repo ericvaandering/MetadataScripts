@@ -1,6 +1,3 @@
-!!!colour list -  IMPORT HERE
-!!!location list  -  IMPORT HERE
-!!!plant list -  IMPORT HERE
 Action
 	Balancing
 	Bathing
@@ -2792,9 +2789,12 @@ Natural phenomenon
 		{Quake}
 	Flood
 	Landslide
+	Rainbow
 	Sinkhole
 		{Swallet}
 		{Swallow hole}
+	Sunrise
+	Sunset
 	Tsunami
 	Volcanic eruption
 	Vortex
@@ -2821,7 +2821,6 @@ Natural phenomenon
 		Windy
 	Whirlpool
 	Wildfire
-Needs Keywords
 Number
 	Four people
 	Group of animals
@@ -3573,6 +3572,7 @@ Photography
 		Sepia toning
 	Type of photography
 		Abstract photography
+		Aquascape photography
 		Architectural detail
 		Architecture photography
 		Astrophotography
@@ -3993,7 +3993,6 @@ Styles
 	Architecture
 		Chandelier
 		Dome
-		Interior Arch
 		Lamp
 		Mosaic
 		Stairs
@@ -4017,12 +4016,7 @@ Styles
 	Food
 	From Overlook
 	Natural Scenery
-		Clouds
-		Dunes
-		Forest
 		Ice
-			Glacier
-		Island
 		Landscape
 			Africa
 				Amboseli NR
@@ -4037,49 +4031,17 @@ Styles
 				Shaba NP
 				Tsavo West National Park
 				Uganda
-			Desert
-			Fields & Farms
-				Vineyards
-			Lake
-			Marsh
-			Mountains
-			Pond
-			Rainbow
-			Sunrise
-			Sunset
-			Underwater Landscape
-			Waterfall
 			Waterfront
-		Meadow
 		Natural pools
-		Ocean
-		River
 		Rock Formations
 			Arch
-			Cliff
-		Shore
-		Snow
-		Stream
-		Waves
 	Overview
 	Pattern
 	Portrait
 		Group
-	Reflection
-	Silhouette
 	Still life
 	Street scene
-	Time
-		Dusk light
-		Evening light
-		Morning light
-		Pre-dawn light
-		Season
-			Autumn
-			Winter
 	Underwater
-	Weather
-		Rain
 Technical Specs
 	Accessories
 		Extension Tubes
@@ -4115,7 +4077,6 @@ Things & Objects
 		Painting
 			Cave Painting
 			Mural
-		Sculpture
 		Stained Glass
 	Bell
 	Bird nest
@@ -4131,54 +4092,27 @@ Things & Objects
 		Neon Sign
 		Plaque
 	Structures
-		Airport
 		Altar
-		Arch
-		Bridge
 		Buildings
-			Amphitheatre
-			Barn
-			Castle
-			Cathedral
-			Church
-			Commercial Building
 			Fort
-			Government Building
 			House
-			Industrial Building
 			Mansion
 			Modern Architecture
 			Monument
-			Mosque
 			My House
 			Palace
 			Public Transit
-			Residential Building
 			Shop
 			Shopping Center
-			Skyscraper
-			Stadium
-			Theater
-			Tower
-		Canal
-		Cave
-		Cemetery
 		Ferris Wheel
-		Fountain
-		Harbor
 		Memorial
-		Monastery
 		Obelisk
-		Path
 		Pier
-		Pillar
 		Plaza
 			{Piazza}
 			{Square}
 		Ruins
-		Statue
 		Tent
-		Tomb
 		Underwater Cave
 Thoroughfare
 	Avenue
@@ -4211,7 +4145,11 @@ Time
 		Winter
 	Time of day
 		Afternoon
+		At sunset
+		Dawn
 		Daytime
+		Dusk
+		Early morning
 		Evening
 		Morning
 		Night
@@ -4386,3 +4324,4 @@ Water
 		{Corrie loch}
 	Waterfall
 	Wave
+		Breaking wave

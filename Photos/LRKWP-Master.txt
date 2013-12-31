@@ -1,0 +1,1671 @@
+Action
+	Balancing
+	Bathing
+	Betting
+	Blowing
+	Burning
+	Chopping
+	Climbing
+	Crying
+	Cutting
+	Drinking
+	Driving
+	Eating
+	Fighting
+	Gambling
+	Grabing
+	Hammering
+	Hitting
+	Holding
+	Hugging
+	Jumping
+	Kicking
+	Kissing
+	Laughing
+	Lifting
+	Listening
+	Playing
+	Punching
+	Raising
+	Reading
+	Riding
+	Running
+	Sawing
+	Sewing
+	Shaving
+	Showering
+	Sleeping
+	Smiling
+	Smoking
+	Soldering
+	Studying
+	Travelling
+	Typing
+	Voting
+	Waking up
+	Walking
+	Welding
+	Working
+	Writing
+Age
+	Adult
+	Baby
+	Baby animal
+		Calf
+		Chick
+		Chrysalis
+		Colt
+		Duckling
+		Filly
+		Fingerling
+		Foal
+		Fry
+		Joey
+		Kitten
+		Larva
+		Nymph
+		Piglet
+		Puppy
+			{Pup}
+		Squab
+		Tadpole
+	Boy
+	Child
+		{Kid}
+	Elder
+	Girl
+	Man
+	Newborn
+	Senior
+	Teenager
+	Toddler
+	Woman
+	Young
+Animal
+	!!!birds list -  IMPORT HERE
+	!!!reptile -  IMPORT HERE
+	Mammal
+		!!!felidae list -  IMPORT HERE
+Art
+	Mosaic
+	Ornament
+	Painting
+	Pottery
+	Sculpture
+	Stained glass
+	Statue
+	Wallpaper
+Body parts
+	Ankle
+	Anther
+	Antler
+	Arm
+	Beak
+	Bone
+	Brain
+	Branch
+	Breast
+	Cheek
+	Chest
+	Claw
+	Ear
+	Earlobe
+	Elbow
+	Elephant trunk
+		{Proboscis}
+		{Trunk}
+	Eye
+	Eyebrow
+	Eyelash
+	Fang
+	Feather
+	Fin
+	Finger
+		Index finger
+		Little finger
+		Middle finger
+		Ring finger
+		Thumb
+	Fingernail
+		{Nail}
+	Flower bud
+	Foot
+	Fruit
+	Fur
+	Hair
+	Hand
+	Head
+	Heart
+	Hoof
+	Horn
+	Leaf
+	Leaf bud
+	Leg
+	Lips
+	Mane
+	Mouth
+	Neck
+	Nipple
+	Nose
+	Nostril
+	Paw
+	Petal
+	Pistil
+	Root
+	Seed
+	Sepal
+	Shell
+	Skeleton
+	Skull
+	Snout
+	Stamen
+	Stem
+	Stemen
+	Stigma
+	Sting
+	Tail
+	Tentacle
+	Thorn
+	Toe
+	Toenail
+		{Nail}
+	Tongue
+	Tooth
+	Tree trunk
+		{Trunk}
+	Tusk
+	Whisker
+	Wing
+Celestial body
+	Comet
+	Constellation
+	Galaxy
+	Meteor
+		Meteor shower
+	Moon
+	Nebula
+	Planet
+	Star
+	Sun
+Client Name
+	Name
+Concept
+	Animal
+	Armed forces
+		Airforce
+		Army
+		Navy
+	Birth
+	Body building
+	Body piercing
+	Broken heart
+	Business
+	Captivity
+	Color
+		{Colour}
+	Dark
+	Death
+	Derelict
+	Disaster
+	Education
+	Faith
+	Freedom
+	Friendship
+	Hard
+	Hate
+	Healthcare
+	Heaven
+	Hell
+	Help
+	Homeless
+	Industrial
+	Law enforcement
+		Police
+	Life
+	Light
+	Loneliness
+	Love
+	Luck
+	Motion
+	Number
+	Paradise
+	Peace
+	People
+	Photography
+	Religion
+	Romance
+	Sacred
+	Shadows
+	Smooth
+	Soft
+	Speed
+	Stillness
+	Structure
+	Tatoo
+	Tension
+	Time
+	Tranquility
+	Transportation
+	Travel
+	Vacation
+	War
+	Work
+Element
+	Air
+	Ash
+	Dirt
+	Dust
+	Earth
+	Fire
+	Lava
+	Liquid
+	Mud
+	Sky
+	Smoke
+	Tephra
+		{Volcanic ash}
+	Water
+Event
+	Birthday
+	Celebration
+	Christening
+	Concert
+	Conference
+	Exhibition
+	Fair
+	Feast
+	Festival
+	Gig
+	Graduation
+	Halloween
+	Happening
+	Honeymoon
+	Marriage
+	Party
+	Reunion
+	Symposium
+Gender
+	Female
+	Male
+Land
+	Arete
+	Beach
+	Canyon
+		{Gorge}
+	Cave
+		{Cavern}
+	Cliff
+	Coast
+		{Coastline}
+		{Seashore}
+	Desert
+		Dune
+		Oasis
+		Sandhill
+	Dry lake
+		{Alkali flat}
+		Mudflat
+		Salt pan
+			{Salt flat}
+	Esker
+	Farm
+	Field
+	Fjord
+	Floodplain
+	Forest
+		{Woods}
+	Glacier
+	Hill
+	Island
+	Isthmus
+	Levee
+		{Dike}
+		{Embankment}
+		{Floodbank}
+	Meadow
+		{Prairie}
+	Mountain
+	Plain
+	Plateau
+	Riverbank
+	Savanna
+	Shore
+		{Shoreline}
+	Steppe
+	Tundra
+	Valley
+	Veld
+	Vineyard
+	Volcano
+		Caldera
+		Geyser
+		Volcanic crater
+		Volcanic plug
+Material
+	Adobe
+	Asphalt
+	Bamboo
+	Brick
+	Cement
+	Ceramic
+	Clay
+	Cloth
+	Concrete
+	Cotton
+	Fabric
+	Felt
+	Gemstone
+		{Gem}
+		Alexandrite
+		Andalusite
+		Aquamarine
+		Axinite
+		Benitoite
+		Bixbite
+			{Red beryl}
+		Cassiterite
+		Chrysocolla
+		Chrysoprase
+		Clinohumite
+		Danburite
+		Diamond
+		Diopside
+		Dioptase
+		Dumortierite
+		Emerald
+		Feldspar
+		Garnet
+		Hambergite
+		Hematite
+		Iolite
+		Jade
+			Jadeite
+			Nephrite
+		Jasper
+		Kornerupine
+		Kunzite
+		Lapis lazuli
+		Malachite
+		Natural moissanite
+		Obsidian
+		Olivine
+			{Peridot}
+		Opal
+			{Girasol}
+		Pyrite
+		Quartz
+			Agate
+			Amethyst
+				{Cardinal gem}
+			Chalcedony (bloodstone)
+			Citrine
+			Onyx
+			Tiger's-eye
+		Ruby
+		Sapphire
+		Spinel
+		Sugilite
+		Tanzanite
+		Topaz
+		Tourmaline
+		Turquoise
+		Variscite
+		Zeolite
+		Zircon
+	Glass
+	Granite
+	Gravel
+	Marble
+	Metal
+		Aluminium
+		Copper
+			Brass
+			Bronze
+		Gold
+			Rhodite
+			Rose gold
+			White gold
+		Iron
+			Stainless steel
+				{Inox}
+			Steel
+		Lead
+		Mercury
+		Nickel
+		Silver
+		Tin
+		Titanium
+		Zinc
+	Paper
+	Plaster
+	Plastic
+		Nylon
+		Polystyrene
+		Rubber
+		Vinyl
+			{Pvc}
+	Sand
+	Stone
+		{Rock}
+	Velvet
+	Wax
+	Wood
+	Wool
+Natural phenomenon
+	Aurora
+		Aurora australis
+			{Southern lights}
+		Aurora borealis
+			{Northern lights}
+	Avalanche
+		{Snowslide}
+		{Snowslip}
+	Earthquake
+		{Quake}
+	Flood
+	Landslide
+	Sinkhole
+		{Swallet}
+		{Swallow hole}
+	Tsunami
+	Volcanic eruption
+	Vortex
+	Weather
+		Blizzard
+		Cloud
+		Cyclone
+		Drought
+		Fog
+		Hailstorm
+			Hail
+			Hailstone
+		Haze
+		Mist
+		Overcast
+		Rain
+		Snow
+		Storm
+		Sunny
+		Thunderstorm
+			{Lightning storm}
+		Tornado
+			{Twister}
+		Windy
+	Whirlpool
+	Wildfire
+Number
+	Four people
+	Group of animals
+		Clowder
+		Flock
+		Herd
+		Pack
+		Shoal
+	Group of objects
+	Group of people
+		Gang
+		Mob
+		Squad
+		Team
+	One animal
+	One person
+	Three animals
+	Three people
+	Two animals
+	Two people
+Object
+	Aiguillette
+		{Aiglet}
+	Air condition
+	Axle
+	Bag
+		Bin bag
+			{Garbage bag}
+			{Trash bag}
+		Diplomatic bag
+			{Diplomatic pouch}
+		Duffel bag
+			{Gym bag}
+		Handbag
+		Messenger bag
+			{Sack}
+		Paper bag
+		Plastic bag
+		Purse
+		Satchel
+		Shopping bag
+		Sling bag
+		Suitcase
+			{Luggage}
+			{Travel bag}
+		Thermal bag
+	Bearing
+	Belt
+	Board game
+		Backgammon
+		Card
+		Chess
+			Bishop
+			Chess board
+			King
+			Knight
+			Pawn
+			Queen
+			Rook
+		Dice
+		Gameboard
+			{Board}
+		Gamepiece
+			{Game piece}
+	Bottle
+	Boutonniere
+	Bow tie
+	Box
+	Cane
+	Carpet
+	Casino token
+		{Checks}
+		{Cheques}
+		{Chip}
+	Chain
+	Cigarette case
+	Cleaning tool
+		Broom
+		Brush
+		Bucket
+		Feather dust
+		Floor buffer
+		Mop
+		Sponge
+		Vacuum cleaner
+	Clock
+		Alarm clock
+		Analog clock
+		Cuckoo clock
+		Digital clock
+		Hourglass
+	Clothes dryer
+	Clothing
+		Button
+		Costume
+		Dress
+		Jeans
+		Robe
+		Shirt
+		Shorts
+		Skirt
+		Sock
+		Sweater
+		T-shirt
+		Trouser
+		Uniform
+		Vest
+	Coffeemaker
+	Collar pin
+	Computing
+		Computer
+			{Pc}
+		Desktop
+		Floppy drive
+		Hard drive
+		Laptop
+		Memory card
+		Modem
+		Monitor
+		Mouse keyboard
+		Mousepad
+		Tablet
+		Thumb drive
+	Cooking plate
+	Cookware
+		Baking pan
+		Beanpot
+		Casserole pan
+		Chip pan
+		Cookie sheet
+		Cooking pot
+		Crepe pan
+		Double boiler
+		Frying pan
+			{Skillet}
+		Griddle
+		Karahi
+		Kettle
+		Pressure cooker
+		Ramekin
+		Roasting pan
+		Saucepan
+		Saucier
+		Saute pan
+		Springform pan
+		Stockpot
+		Tajine
+		Wok
+	Corsage
+	Coupling
+	Credit card
+	Cuff link
+	Cummerbund
+	Curtain
+	Dental braces
+		{Braces}
+	Dishwasher
+	Doorbell
+	Drive belt
+	Drive chain
+		{Roller chain}
+	Dvd player
+	Epaulette
+	Eyewear
+		3D glasses
+		Blindfold
+		Contact lenses
+		Eyeglasses
+			{Specs}
+			{Spectacles}
+		Monocle
+		Safety glasses
+			{Goggles}
+		Sunglasses
+	Fastener
+		Bolt
+		Nail
+		Rivet
+		Screw
+		Split pin
+	Feather boa
+	Firework
+	Fishing rod
+		{Fishing pole}
+	Freezer
+	Furniture
+		Bean bag
+			{Beanbag}
+		Bed
+		Bench
+		Bookcase
+			{Bookshelf}
+		Cabinet
+		Chair
+			Rocking chair
+				{Rocker}
+		Chaise longue
+		Chest
+		Chest of drawers
+			{Dresser}
+		Closet
+		Couch
+			{Sofa}
+		Desk
+		Drawing board
+		Hutch
+		Nightstand
+			{Bedside table}
+		Picnic table
+		Pouffe
+			{Hassock}
+			{Tuffet}
+		Stool
+			Bar stool
+			Footstool
+				{Footrest}
+		Table
+			Coffee table
+		Wardrobe
+		Workbench
+	Garter
+	Gear
+	Gear box
+	Glassware
+		Beaker
+		Beer stein
+		Coffee cup
+		Cup
+		Mug
+		Paper cup
+		Quaich
+		Sake cup
+		Stemware
+			Chalice
+			Champagne coupe
+			Champagne flute
+			Coctail glass
+			Goblet
+			Rummer
+			Wine glass
+		Tankard
+		Teacup
+		Tumbler
+			Shot glass
+			Water glass
+	Glove
+	Hair pin
+		{Hair stick}
+		Bobby pin
+	Hairnet
+		{Caul}
+	Handkerchief
+	Hi-fi
+		{Hifi}
+	Home cinema
+	Jewellery
+		Anklet
+			{Ankle chain}
+		Armlet
+		Body piercing jewellery
+		Bracelet
+		Brooch
+		Crown
+		Earring
+		Necklace
+		Ring
+		Tiara
+		Waist chain
+			{Belly chain}
+	Key
+		Card key
+	Kitchen stove
+		{Oven}
+		{Stove}
+	Kitchen utensil
+		Biscuit cutter
+		Chopstick
+		Drinking straw
+		Fork
+		Funnel
+		Grater
+		Knife
+		Lemon squeezer
+		Nutcracker
+		Scoop
+		Sieve
+		Skewer
+		Spatula
+		Spoon
+		Tin opener
+			{Can opener}
+		Toothpick
+	Kitchenware
+	Knob
+	Lapel pin
+	Lever
+	Lighting
+		Blacklight
+		Candle
+		Chandelier
+		Headlamp
+		Lamp
+		Luminaire
+			{Light fitting}
+			{Light fixture}
+		Nightlight
+		Recessed light
+		Sconce
+		Street light
+		Strobe light
+		Table lamp
+		Torch lamp
+		Traffic light
+	Lock
+		Combination lock
+		Padlock
+	Machine
+	Microphone
+	Microwave oven
+	Mirror
+	Money
+		Banknote
+			{Bill}
+		Coin
+	Money pin
+	Mp3 player
+	Musical instrument
+		Accordion
+		Bagpipe
+		Banjo
+		Bass drum
+		Bouzouki
+		Cello
+		Clarinet
+		Cornett
+			{Cornetto}
+		Drum kit
+		Flute
+		Gaida
+		Guitar
+			Acoustic guitar
+			Bass guitar
+			Classical guitar
+			Electric guitar
+		Guitar pick
+		Harmonica
+		Harp
+		Lyra
+		Mandolin
+		Oboe
+		Ocarina
+		Pan flute
+			{Pan pipe}
+		Piano
+			Grand piano
+			Upright piano
+		Pipe organ
+		Saxophone
+		Sitar
+		Steel drum
+		Tabla
+		Triangle
+		Trumpet
+		Ukulele
+		Violin
+		Whistle
+		Xylophone
+	Photo gear
+		Filter
+		Flash
+		Lens cap
+		Lens hood
+		Still camera
+			Analog camera
+			Box camera
+			Compact camera
+				{Point and shoot camera}
+			Digital camera
+			Disposable camera
+			Field camera
+			Pinhole camera
+			Polaroid
+				{Instant camera}
+			Single lens reflex camera
+				{Slr}
+			Twin lens reflex camera
+			View camera
+		Tripod
+	Pin
+	Playing card
+		{Card}
+		Deck of cards
+	Pulley
+	Push button
+		{Button}
+	Push pin
+	Razor
+	Refrigerator
+	Rim
+	Roulette
+	Safety belt
+	Safety pin
+	Shaft
+	Shampoo
+	Shoe
+		Athletic
+		Ballet flat
+		Boot
+		Casual shoe
+		Clog
+		Dress shoe
+		High heel
+		Mule
+		Sandal
+			{Flip flop}
+		Slipper
+		Sneaker
+		Stilletto heel
+	Soap
+	Speaker
+	Stationery
+		Binder clip
+		Brass fastener
+			{Split pin}
+		Business card
+		Clipboard
+		Correction fluid
+		Crayon
+		Diary
+		Envelope
+		Eraser
+		File folder
+		Highlighter
+		Letter
+		Marker
+			{Felt-tip pen}
+			{Marker pen}
+		Notebook
+		Paper
+		Paper cutter
+		Pen
+		Pencil
+		Post-it note
+		Postal stationery
+		Ruler
+		Sheet of paper
+		Spindle
+		Stapler
+	Steering wheel
+	Suspender
+	Sword
+	Tableware
+		Bowl
+		Coffeepot
+		Jug
+		Pitcher
+		Plate
+		Platter
+		Saucer
+		Teapot
+		Tureen
+	Taser
+	Telephone
+		{Phone}
+		Answering machine
+		Cell phone
+			{Mobile phone}
+		Landline
+	Television
+		{Tv}
+	Thumbtack
+		{Drawing pin}
+	Tie
+	Tool
+		Anvil
+		Axe
+		Blow torch
+		Chisel
+		Compass
+		Crowbar
+		Drill
+		Flashlight
+		Garden fork
+			{Digging fork}
+			{Graip}
+			{Spading fork}
+		Hammer
+		Ladder
+		Lawn mower
+		Leaf blower
+		Paintbrush
+		Sandpaper
+		Saw
+			Chainsaw
+			Hand saw
+		Scalpel
+		Scissor
+		Screwdriver
+		Sledgehammer
+		Spirit level
+		Tape measure
+		Toolbox
+		Weighing scale
+		Wrench
+	Towel
+		Bath towel
+		Beach towel
+		Flannel
+		Foot towel
+		Hand towel
+		Paper towel
+		Tea towel
+	Toy
+		Action figure
+		Doll
+		Puppet
+	Tyre
+	Umbrella
+	Video camera
+		{Camcorder}
+	Wallet
+	Washing machine
+	Watch
+	Water heater
+	Weapon
+		Cannon
+		Grenade
+		Gun
+		Handgun
+		Machine gun
+		Musket
+		Paintball gun
+		Pistol
+		Revolver
+		Rifle
+		Shotgun
+	Wedge
+	Wheel
+	Wire rope
+People
+	Name
+		Names
+	Relationship
+		Aunt
+		Brother
+		Businnes relationship
+		Colleague
+		Cousin
+		Family
+		Father
+			{Dad}
+		Friend
+		Grandfather
+			{Grandad}
+		Grandmother
+			{Grandma}
+		Mother
+			{Mum}
+		Other
+		Sister
+		Uncle
+Photography
+	Angle of view
+		Back view
+		Front view
+		Profile
+		Side view
+	Effect
+		Bokeh
+		Lens zoom
+		Light trail
+		Long exposure
+		Panning
+		Panorama
+		Reflection
+		Silhouette
+		Star trail
+		Vignette
+	Framing
+		Close-up
+		Environmental
+		Full body
+		Headshot
+		Upper body
+	Orientation
+		Landscape
+		Portrait
+	Setting
+		Exterior
+		In-car
+		Interior
+		Studio
+	Treatment
+		Black and white
+			{B&w}
+		Color image
+			{Colour image}
+		Daguerreotype
+		Duotone
+			{Split toning}
+		Monotone
+		Platinotype
+		Selenium toning
+		Sepia toning
+	Type of photography
+		Abstract photography
+		Architectural detail
+		Architecture photography
+		Astrophotography
+		Candid shot
+		Food photography
+		Glamour photography
+		Landscape photography
+		Macro photography
+		Pet photography
+		Portrait photography
+		Rural photography
+		Sport photography
+		Still life photography
+		Street photography
+		Urban photgraphy
+		Wildlife photography
+Profession
+	Accountant
+	Architect
+	Artist
+	Athlete
+		Boxer
+		Golfer
+		Player
+		Runner
+		Skier
+	Baker
+	Barber
+	Doctor
+		Dentist
+		Surgeon
+		Veterinarian
+	Driver
+		Chauffeur
+		Racing driver
+	Engineer
+	Firefighter
+		{Fireman}
+	Journastist
+	Lawyer
+	Military officer
+	Nurse
+	Pharmacist
+	Photographer
+	Pilot
+	Police officer
+		{Policeman}
+	Professor
+	Psychologist
+	Scientist
+	Soldier
+	Teacher
+	Worker
+	Writer
+Sport
+	Aerobatics
+	Archery
+	Badminton
+	Baseball
+	Basketball
+	Beach volleyball
+	Bicycle racing
+	Bowling
+	Boxing
+		{Boxing}
+	Canoeing
+	Cricket
+	Cycling
+	Diving
+	Football
+	Golf
+	Gymnastics
+		Artistic gymnastics
+			Balance beam
+			Horizontal bar
+				{High bar}
+			Parallel bar
+			Pommel horse
+			Rings
+				{Steady rings}
+			Uneven bars
+			Vault
+		Rythmic gymnastics
+		Trampoline
+	Handball
+	Hiking
+	Hockey
+		Ice hockey
+		Street hockey
+	Horse racing
+	Hurdles
+	Kayaking
+	Marathon
+	Martial art
+	Motorsport
+		Drag racing
+		Drifting
+		Formula racing
+		Kart racing
+		Motocross
+		Rally racing
+		Touring car racing
+	Parkour
+	Ping pong
+		{Table tennis}
+	Polo
+	Pool billiard
+		{Pocket billiard}
+	Rafting
+	Rock climbing
+	Rowing
+	Sailing
+	Skating
+		Figure skating
+		Roller skating
+		Skateboarding
+		Speed skating
+	Skiing
+	Snooker
+	Snowboarding
+	Soccer
+	Softball
+	Sprint
+	Squash
+	Swimming
+		Back crawl
+		Breaststroke
+		Butterfly
+		Freestyle
+		Synchronized swimming
+	Tennis
+	Track and field
+	Underwater diving
+		{Diving}
+		Freediving
+		Snorkeling
+	Volleyball
+	Water polo
+	Weightlifting
+Structures & architecture
+	Architectural element
+		Aisle
+		Antefix
+		Arcade
+		Arch
+		Atrium
+		Balcony
+		Bird bath
+		Chimney
+		Church bell
+		Colomnade
+		Column
+			{Pillar}
+		Cornerstone
+			{Foundation stone}
+		Cornice
+		Cupola
+		Dome
+		Door
+			Door knob
+				{Door handle}
+		Eaves
+		Epistlye
+			{Architrave}
+		Escalator
+		Facade
+		Fountain
+		Garden
+		Gargoyle
+		Gate
+		Gutter
+		Handrail
+		Minaret
+		Oculus
+		Pedestal
+		Pediment
+		Pend
+		Pergola
+			{Arbor}
+			{Arbour}
+		Pinnacle
+		Porch
+		Pylon
+		Spire
+		Stair
+			{Staircase}
+			{Stairway}
+		Steeple
+		Stoa
+		Swimming pool
+		Templon
+		Terrace
+		Turet
+		Window
+	Place
+		Cemetery
+			{Graveyard}
+		Courtyard
+			{Patio}
+		Park
+		Playground
+		Schoolyard
+		Town square
+	Room
+		Aerary
+		Attic
+		Ballroom
+		Basement
+		Bathroom
+		Bedroom
+		Cellar
+			Root cellar
+			Storm cellar
+			Wine cellar
+		Classroom
+			{Class}
+		Darkroom
+		Hallway
+		Kitchen
+		Living room
+		Lobby
+		Office
+		Pantry
+		Suite
+	Structure
+		Amphitheater
+		Apartment block
+		Arena
+		Art gallery
+		Asylum
+		Bakery
+		Bank
+		Bar
+		Barn
+		Barrack
+		Basilica
+		Bathhouse
+		Blockhouse
+		Bookstore
+		Brewery
+		Bridge
+		Bunker
+		Capitol
+		Casino
+		Castle
+		Cathedral
+		Chapel
+		Chicken coop
+		Church
+		Cinema
+		Citadel
+		City hall
+		Clinic
+		Coffee house
+		College
+		Community center
+		Concert hall
+		Consulate
+		Convention center
+		Courthouse
+		Defensive wall
+		Department store
+		Dormitory
+			{Dorm}
+		Eatery
+		Embassy
+		Factory
+		Farmhouse
+		Fast-food restaurant
+		Fence
+		Fire station
+		Florist shop
+		Food court
+		Fort
+		Foundry
+		Fusegate
+		Gas station
+		Granary
+		Greenhouse
+		Grocery store
+		Gurdwara
+		Gymnasium
+		Hospital
+		Hostel
+		Hotel
+		Hut
+		Hypermarket
+		Jazz club
+		Kiosk
+		Library
+		Market house
+		Martyrium
+		Mausoleum
+		Mill
+			Horse mill
+			Tide mill
+			Watermill
+			Wind mill
+		Monastery
+		Mosque
+		Motel
+		Museum
+		Nightclub
+		Nursing home
+			{Rest home}
+		Office building
+		Oil rig
+		Opera house
+		Oratory
+		Pagoda
+		Palace
+		Parliament
+		Pigsty
+			{Pigpen}
+			{Sty}
+		Plant nursery
+		Police station
+		Post office
+		Power plant
+		Prison
+		Pub
+		Pyramid
+		Refinery
+		Restaurant
+		Retail store
+		School
+		Shed
+		Shop
+		Shopping mall
+		Shrine
+		Silo
+		Skyscraper
+		Spa
+		Stable
+		Stadium
+		Stall
+		Stock exchange
+		Supermarket
+		Synagogue
+		Tavern
+		Temple
+		Theater
+		Tomb
+		Tower
+		University
+		Villa
+		Warehouse
+		Workshop
+	Transit station
+		Airport
+			Airport terminal
+			Control tower
+			Hangar
+			Runway
+		Bus station
+		Harbor
+			{Harbour}
+			{Haven}
+		Heliport
+		Marina
+		Metro station
+		Port
+		Train station
+			{Railroad station}
+			{Railway station}
+	Type of structure
+		Agricultural structure
+		Commercial structure
+		Educational structure
+		Government structure
+		Industrial structure
+		Military structure
+		Monument
+		Religious structure
+		Residential structure
+Thoroughfare
+	Avenue
+	Bikeway
+	Boulevard
+	Bridle path
+		{Bridle road}
+		{Bridleway}
+	Dead end
+		{Cul-de-sac}
+	Dirt road
+	Driveway
+	Highway
+	Lane
+	Path
+	Pedestrian street
+	Railway
+	Road
+	Sidewalk
+		{Pavement}
+	Street
+	Trail
+Time
+	Season
+		Autumn
+			{Fall}
+		Spring
+		Summer
+		Winter
+	Time of day
+		Afternoon
+		Daytime
+		Evening
+		Morning
+		Night
+		Noon
+		Sunrise
+			{Dawn}
+		Sunset
+			{Dusk}
+Transportation
+	By air
+		Aircraft
+			Airplane
+				{Aeroplane}
+				{Plane}
+				Bomber
+				Fighter
+				Jet aircraft
+				Propeler plane
+			Glider
+			Helicopter
+				{Chopper}
+			Seaplane
+				{Hydroplane}
+		Airship
+		Hot air balloon
+	By land
+		Ambulance
+		Bicycle
+			{Bike}
+			Bmx bicycle
+			Cruiser bicycle
+			Hybrid bicycle
+			Mountain bicycle
+			Tandem bicycle
+			Touring bicycle
+			Utility bicycle
+		Car
+			{Automobile}
+			Bubble car
+			City car
+			Convertible
+			Executive car
+			Grand tourer
+			Large family car
+			Luxury car
+			Multi purpose vehicle
+			Off road
+			Pickup
+			Roadster
+			Small family car
+			Sports car
+			Super mini
+			Supercar
+		Firetruck
+		Motorcycle
+			{Bike}
+			{Motorbike}
+			Off road motorcycle
+				Enduro
+				Motocross
+			Street motorcycle
+				Bobber
+				Chopper
+				Cruiser
+				Naked bike
+				Scooter
+				Sport bike
+				Sport touring
+				Touring
+		Police car
+		Subway
+			{Metro}
+		Train
+			Freight train
+			Locomotive
+			Passenger train
+		Tram
+		Truck
+			Ballast tracktor
+			Box truck
+			Concrete trasport track
+			Crane truck
+			Dump truck
+			Flatbed truck
+			Garbage truck
+			Log carrier
+			Platform truck
+			Refrigerator truck
+			Semi trailer truck
+			Tank truck
+			Van
+		Unicycle
+	By water
+		Barge
+		Boat
+		Bulk carrier
+		Canoe
+		Catamaran
+		Catboat
+		Container ship
+		Cruise ship
+		Cutter
+		Dhoni
+		Dinghy
+		Dry cargo
+			{Freighter}
+		Ferry
+		Fishing boat
+		Fractional rig sloop
+		Gondola
+		Hovercraft
+		Kayak
+		Ketch
+		Motorboat
+		Naval vessel
+			Aircraft carrier
+			Corvette
+			Cruiser
+			Destroyer
+			Frigate
+			Minesweeper
+			Patrol vessel
+			Submarine
+		Passenger ship
+		Pirogue
+		Punt
+		Raft
+		Riverboat
+		Sail ship
+			{Sailing ship}
+		Sailboat
+			{Sailing boat}
+		Schooner
+		Ship
+		Sloop
+		Tanker
+		Yacht
+		Yawl
+Water
+	Bayou
+	Billabong
+	Breaking wave
+	Canal
+		{Channel}
+	Cove
+	Lagoon
+	Lake
+	Marsh
+	Ocean
+	Pond
+	Puddle
+	River
+	Sea
+	Spring
+	Strait
+	Stream
+		{Brook}
+		{Creek}
+		{Rivulet}
+	Swamp
+	Tarn
+		{Corrie loch}
+	Waterfall
+	Wave
