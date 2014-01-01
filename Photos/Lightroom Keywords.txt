@@ -2108,6 +2108,7 @@ Animals
 					{Eretmochelys imbriocota}
 				Loggerhead Turtle
 Art
+	Mosaic
 	Sculpture
 	Statue
 Body parts
@@ -2346,6 +2347,9 @@ Event
 	Parade
 	Party
 Land
+	Beach
+	Canyon
+		{Gorge}
 	Cave
 		{Cavern}
 	Cliff
@@ -2359,6 +2363,8 @@ Land
 	Meadow
 		{Prairie}
 	Mountain
+	Rock formation
+		Natural arch
 	Shore
 		{Shoreline}
 	Vineyard
@@ -2368,6 +2374,7 @@ Natural phenomenon
 	Sunset
 	Weather
 		Cloud
+		Ice
 		Rain
 		Snow
 Number
@@ -2378,8 +2385,12 @@ Object
 	Clock
 		Analog clock
 	Firework
+	Fossil
 	Furniture
 		Bed
+	Lighting
+		Chandelier
+		Lamp
 	Photo gear
 		Still camera
 			Compact camera
@@ -2513,6 +2524,9 @@ People
 			YiChung Law
 		Travel Companions
 Photography
+	Angle of view
+		Aerial
+		From overlook
 	Effect
 		Reflection
 		Silhouette
@@ -2520,6 +2534,9 @@ Photography
 		Aquascape photography
 		Food photography
 		Landscape photography
+		Portrait photography
+		Still life photography
+		Underwater photography
 Plants
 	Algae
 		Blue Crust Weed
@@ -2581,8 +2598,16 @@ Structures & architecture
 		Arch
 		Column
 			{Pillar}
+		Dome
+		Door
+			Arched doorway
 		Fountain
+		Garden
+		Stair
+			{Staircase}
+			{Stairway}
 		Wall
+		Window
 	Place
 		Cemetery
 			{Graveyard}
@@ -2630,19 +2655,10 @@ Structures & architecture
 		Industrial structure
 		Residential structure
 Styles
-	Aerial
 	Architecture
-		Chandelier
-		Dome
-		Lamp
-		Mosaic
-		Stairs
-		Window
-	Beach
 	Cityscape
 		Developing Country
 		France
-		Garden
 		Market
 		Mountain Town
 		Night
@@ -2653,11 +2669,7 @@ Styles
 		U.S.A.
 			Washington DC
 		Uganda
-	Flowing water
-	Food
-	From Overlook
 	Natural Scenery
-		Ice
 		Landscape
 			Africa
 				Amboseli NR
@@ -2673,16 +2685,9 @@ Styles
 				Tsavo West National Park
 				Uganda
 			Waterfront
-		Natural pools
-		Rock Formations
-			Arch
 	Overview
 	Pattern
-	Portrait
-		Group
-	Still life
 	Street scene
-	Underwater
 Technical Specs
 	Accessories
 		Extension Tubes
@@ -2833,8 +2838,10 @@ Transportation
 Water
 	Canal
 		{Channel}
+	Flowing water
 	Lake
 	Marsh
+	Natural pool
 	Ocean
 	Pond
 	River

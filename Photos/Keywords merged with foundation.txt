@@ -2637,6 +2637,8 @@ Land
 	Plain
 	Plateau
 	Riverbank
+	Rock formation
+		Natural arch
 	Savanna
 	Shore
 		{Shoreline}
@@ -2792,6 +2794,7 @@ Natural phenomenon
 			Hail
 			Hailstone
 		Haze
+		Ice
 		Mist
 		Overcast
 		Rain
@@ -2991,6 +2994,7 @@ Object
 	Firework
 	Fishing rod
 		{Fishing pole}
+	Fossil
 	Freezer
 	Furniture
 		Bean bag
@@ -3493,7 +3497,9 @@ People
 		Travel Companions
 Photography
 	Angle of view
+		Aerial
 		Back view
+		From overlook
 		Front view
 		Profile
 		Side view
@@ -3551,6 +3557,7 @@ Photography
 		Sport photography
 		Still life photography
 		Street photography
+		Underwater photography
 		Urban photgraphy
 		Wildlife photography
 Plants
@@ -3738,6 +3745,7 @@ Structures & architecture
 		Cupola
 		Dome
 		Door
+			Arched doorway
 			Door knob
 				{Door handle}
 		Eaves
@@ -3966,19 +3974,10 @@ Structures & architecture
 		Religious structure
 		Residential structure
 Styles
-	Aerial
 	Architecture
-		Chandelier
-		Dome
-		Lamp
-		Mosaic
-		Stairs
-		Window
-	Beach
 	Cityscape
 		Developing Country
 		France
-		Garden
 		Market
 		Mountain Town
 		Night
@@ -3989,11 +3988,7 @@ Styles
 		U.S.A.
 			Washington DC
 		Uganda
-	Flowing water
-	Food
-	From Overlook
 	Natural Scenery
-		Ice
 		Landscape
 			Africa
 				Amboseli NR
@@ -4009,16 +4004,9 @@ Styles
 				Tsavo West National Park
 				Uganda
 			Waterfront
-		Natural pools
-		Rock Formations
-			Arch
 	Overview
 	Pattern
-	Portrait
-		Group
-	Still life
 	Street scene
-	Underwater
 Technical Specs
 	Accessories
 		Extension Tubes
@@ -4281,9 +4269,11 @@ Water
 	Canal
 		{Channel}
 	Cove
+	Flowing water
 	Lagoon
 	Lake
 	Marsh
+	Natural pool
 	Ocean
 	Pond
 	Puddle
