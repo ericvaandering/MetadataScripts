@@ -1,6 +1,5 @@
 Action
 	Animal behavior
-		Animal detail
 		Bathing
 		Drinking
 		Feeding
@@ -13,23 +12,25 @@ Action
 		Running
 		Scratching
 		Swimming
+	Birdwatching
 	Creating art
 		Drawing
 		Sculpting
 	Dancing
 		Traditional dancing
+	Eating
 	Food preparation
 	Performing music
-Activities & Events
-	Games
-		Whirlyball
-	Ideas
 Age
 	Baby animal
 		Elephant calf
 		Infant monkey
 		Puppy
 			{Pup}
+	Boy
+	Child
+		{Kid}
+	Girl
 Animals
 	Amphibians
 		Frogs
@@ -2111,12 +2112,25 @@ Art
 	Statue
 Body parts
 	Bone
+	Chest
+	Elephant trunk
+		{Proboscis}
+		{Trunk}
+	Eye
+	Eyelash
+	Paw
+	Skin
 	Skull
+	Tail
+	Tusk
 Celestial body
 	Galaxy
 	Star
+Client Name
+	Diveheart.org
 Concept
 	Healthcare
+	Idea
 	Industrial
 	Religion
 	Science
@@ -2315,7 +2329,7 @@ Dive Sites
 		Zabargad SW/E?
 Event
 	Concert
-	Dinners
+	Dinner
 	Exhibition
 		CSM Photo Contests
 		CSM Workshops
@@ -2330,6 +2344,7 @@ Event
 		Halloween
 		St. Patricks Day
 	Parade
+	Party
 Land
 	Cave
 		{Cavern}
@@ -2355,6 +2370,10 @@ Natural phenomenon
 		Cloud
 		Rain
 		Snow
+Number
+	Group of people
+		Crowd
+		Small group
 Object
 	Clock
 		Analog clock
@@ -2390,11 +2409,6 @@ People
 		Steve Foulkes
 		Stuart Wakefield
 		Sudhir Malik
-	Crowd
-	Descriptors
-		Boy
-		Children
-		Girl
 	Eric Vaandering
 	Family
 		Case Vaandering
@@ -2451,26 +2465,9 @@ People
 		Tina Hernandez
 		Will Johns
 		Yvonne Palmer
-	Group
 	Identity
 		Masai
 		Turkana
-	Me
-	Role
-		Diners
-		Officials
-			Police
-			Soldiers
-		Performance Artists
-		Professionals
-			Journalist
-		Religious
-			Orthodox Christian Monk
-		Sportsmen
-			Birdwatchers
-			Free Diver
-			Paraglider
-		Vendor
 	Travel
 		Africa 2002 Companions
 		Africa 2007 Companions
@@ -2554,15 +2551,31 @@ Plants
 	Wild Fruit
 Profession
 	Artist
+		Performance artist
+	Athlete
+		Skier
+	Guard
+	Journalist
+	Police officer
+		{Policeman}
+	Religious
+		Orthodox Christian Monk
+	Soldier
+	Vendor
 Sport
 	Boating
 	Camping
 	Horse riding
 	Kayaking
 	Mountaineering
+	Paragliding
 	SCUBA Diving
 	Skiing
 	Swimming
+	Underwater diving
+		{Diving}
+		Freediving
+	Whirlyball
 Structures & architecture
 	Architectural element
 		Arch

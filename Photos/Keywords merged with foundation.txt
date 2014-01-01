@@ -1,17 +1,37 @@
 Action
+	Animal behavior
+		Bathing
+		Drinking
+		Feeding
+		Flying
+		Grooming
+		Hunting
+		Kills
+		Mother animal & child
+		Nursing
+		Running
+		Scratching
+		Swimming
 	Balancing
 	Bathing
 	Betting
+	Birdwatching
 	Blowing
 	Burning
 	Chopping
 	Climbing
+	Creating art
+		Drawing
+		Sculpting
 	Crying
 	Cutting
+	Dancing
+		Traditional dancing
 	Drinking
 	Driving
 	Eating
 	Fighting
+	Food preparation
 	Gambling
 	Grabing
 	Hammering
@@ -24,6 +44,7 @@ Action
 	Laughing
 	Lifting
 	Listening
+	Performing music
 	Playing
 	Punching
 	Raising
@@ -47,63 +68,6 @@ Action
 	Welding
 	Working
 	Writing
-Activities & Events
-	Animal Behavior
-		Animal detail
-		Baby animal
-		Bathing
-		Drinking
-		Feeding
-		Flying
-		Grooming
-		Hunting
-		Kills
-		Mother animal & child
-		Nursing
-		Running
-		Scratching
-		Swimming
-	Artist
-	Arts
-		Music
-	Celebrations
-		Fireworks
-	Concert
-	Dance
-		Traditional Dance
-	Dinners and Banquets
-	Exhibitions
-		CSM Photo Contests
-		CSM Workshops
-		Facebook National Photo Month 2010
-		Facebook National Photo Month 2011
-		Facebook National Photo Month 2012
-		Fermilab Employee Art Shows
-	Food Preparation
-	Games
-		Whirlyball
-	Holiday
-		Christmas
-		Halloween
-		St. Patricks Day
-	Ideas
-	Industry
-	Medical
-	Parade
-	Recreation
-		Swimming
-	Religion
-	Science
-		High Energy Physics
-	Sports
-		Boating
-		Camping
-		Horseback Riding
-		Individual
-			Mountaineering
-			SCUBA Diving
-			Skiing
-		Kayaking
 Age
 	Adult
 	Baby
@@ -113,10 +77,12 @@ Age
 		Chrysalis
 		Colt
 		Duckling
+		Elephant calf
 		Filly
 		Fingerling
 		Foal
 		Fry
+		Infant monkey
 		Joey
 		Kitten
 		Larva
@@ -2289,6 +2255,7 @@ Body parts
 	Sepal
 	Shell
 	Skeleton
+	Skin
 	Skull
 	Snout
 	Stamen
@@ -2321,6 +2288,7 @@ Celestial body
 	Star
 	Sun
 Client Name
+	Diveheart.org
 	Name
 Concept
 	Animal
@@ -2351,6 +2319,7 @@ Concept
 	Hell
 	Help
 	Homeless
+	Idea
 	Industrial
 	Law enforcement
 		Police
@@ -2368,6 +2337,8 @@ Concept
 	Religion
 	Romance
 	Sacred
+	Science
+		High Energy Physics
 	Shadows
 	Smooth
 	Soft
@@ -2596,16 +2567,29 @@ Event
 	Christening
 	Concert
 	Conference
+	Dinner
 	Exhibition
+		CSM Photo Contests
+		CSM Workshops
+		Facebook National Photo Month 2010
+		Facebook National Photo Month 2011
+		Facebook National Photo Month 2012
+		Fermilab Employee Art Shows
 	Fair
 	Feast
+		{Banquet}
 	Festival
 	Gig
 	Graduation
 	Halloween
 	Happening
+	Holiday
+		Christmas
+		Halloween
+		St. Patricks Day
 	Honeymoon
 	Marriage
+	Parade
 	Party
 	Reunion
 	Symposium
@@ -2831,8 +2815,10 @@ Number
 		Shoal
 	Group of objects
 	Group of people
+		Crowd
 		Gang
 		Mob
+		Small group
 		Squad
 		Team
 	One animal
@@ -3381,11 +3367,6 @@ People
 		Steve Foulkes
 		Stuart Wakefield
 		Sudhir Malik
-	Crowd
-	Descriptors
-		Boy
-		Children
-		Girl
 	Eric Vaandering
 	Family
 		Case Vaandering
@@ -3442,11 +3423,9 @@ People
 		Tina Hernandez
 		Will Johns
 		Yvonne Palmer
-	Group
 	Identity
 		Masai
 		Turkana
-	Me
 	Name
 		Names
 	Relationship
@@ -3468,21 +3447,6 @@ People
 		Other
 		Sister
 		Uncle
-	Role
-		Diners
-		Officials
-			Police
-			Soldiers
-		Performance Artists
-		Professionals
-			Journalist
-		Religious
-			Orthodox Christian Monk
-		Sportsmen
-			Birdwatchers
-			Free Diver
-			Paraglider
-		Vendor
 	Travel
 		Africa 2002 Companions
 		Africa 2007 Companions
@@ -3622,6 +3586,7 @@ Profession
 	Accountant
 	Architect
 	Artist
+		Performance artist
 	Athlete
 		Boxer
 		Golfer
@@ -3640,6 +3605,8 @@ Profession
 	Engineer
 	Firefighter
 		{Fireman}
+	Guard
+	Journalist
 	Journastist
 	Lawyer
 	Military officer
@@ -3651,9 +3618,12 @@ Profession
 		{Policeman}
 	Professor
 	Psychologist
+	Religious
+		Orthodox Christian Monk
 	Scientist
 	Soldier
 	Teacher
+	Vendor
 	Worker
 	Writer
 Sport
@@ -3664,9 +3634,11 @@ Sport
 	Basketball
 	Beach volleyball
 	Bicycle racing
+	Boating
 	Bowling
 	Boxing
 		{Boxing}
+	Camping
 	Canoeing
 	Cricket
 	Cycling
@@ -3692,6 +3664,7 @@ Sport
 		Ice hockey
 		Street hockey
 	Horse racing
+	Horse riding
 	Hurdles
 	Kayaking
 	Marathon
@@ -3704,6 +3677,8 @@ Sport
 		Motocross
 		Rally racing
 		Touring car racing
+	Mountaineering
+	Paragliding
 	Parkour
 	Ping pong
 		{Table tennis}
@@ -3714,6 +3689,7 @@ Sport
 	Rock climbing
 	Rowing
 	Sailing
+	SCUBA Diving
 	Skating
 		Figure skating
 		Roller skating
@@ -3741,6 +3717,7 @@ Sport
 	Volleyball
 	Water polo
 	Weightlifting
+	Whirlyball
 Structures & architecture
 	Architectural element
 		Aisle
@@ -4145,7 +4122,6 @@ Time
 		Winter
 	Time of day
 		Afternoon
-		At sunset
 		Dawn
 		Daytime
 		Dusk
