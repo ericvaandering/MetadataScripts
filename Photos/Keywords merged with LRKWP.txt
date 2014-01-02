@@ -2186,9 +2186,16 @@ Animals
 					{Eretmochelys imbriocota}
 				Loggerhead Turtle
 Art
+	Ancient manuscript
+	Carpet
+	Drawing
+	Interior art
+	Modern art
 	Mosaic
 	Ornament
 	Painting
+		Cave painting
+		Mural
 	Pottery
 	Sculpture
 	Stained glass
@@ -2994,6 +3001,7 @@ Object
 	Firework
 	Fishing rod
 		{Fishing pole}
+	Flag
 	Fossil
 	Freezer
 	Furniture
@@ -3213,6 +3221,7 @@ Object
 	Roulette
 	Safety belt
 	Safety pin
+	SCUBA gear
 	Shaft
 	Shampoo
 	Shoe
@@ -3229,6 +3238,12 @@ Object
 		Slipper
 		Sneaker
 		Stilletto heel
+	Sign
+		Announcement
+		Humorous
+		Informative
+		Neon Sign
+		Plaque
 	Soap
 	Speaker
 	Stationery
@@ -3728,6 +3743,7 @@ Sport
 Structures & architecture
 	Architectural element
 		Aisle
+		Altar
 		Antefix
 		Arcade
 		Arch
@@ -3760,6 +3776,7 @@ Structures & architecture
 		Gutter
 		Handrail
 		Minaret
+		Obelisk
 		Oculus
 		Pedestal
 		Pediment
@@ -3791,7 +3808,11 @@ Structures & architecture
 		Playground
 		Resort
 		Schoolyard
+		Shopping district
 		Town square
+			{Piazza}
+			{Square}
+			{Plaza}
 	Room
 		Aerary
 		Attic
@@ -3860,6 +3881,7 @@ Structures & architecture
 		Farmhouse
 		Fast-food restaurant
 		Fence
+		Ferris wheel
 		Fire station
 		Florist shop
 		Food court
@@ -3875,15 +3897,18 @@ Structures & architecture
 		Hospital
 		Hostel
 		Hotel
+		House
 		Hut
 		Hypermarket
 		Jazz club
 		Kiosk
 		Library
 		Lighthouse
+		Mansion
 		Market house
 		Martyrium
 		Mausoleum
+		Memorial
 		Mill
 			Horse mill
 			Tide mill
@@ -3893,6 +3918,7 @@ Structures & architecture
 		Mosque
 		Motel
 		Museum
+		My House
 		Nightclub
 		Nursing home
 			{Rest home}
@@ -3903,6 +3929,7 @@ Structures & architecture
 		Pagoda
 		Palace
 		Parliament
+		Pier
 		Pigsty
 			{Pigpen}
 			{Sty}
@@ -4021,7 +4048,6 @@ Technical Specs
 		Needs ID
 		Point curve develop
 		Re-export in LR
-		Redo GPS
 		Relocate
 		Rename
 		Reorg parent topic
@@ -4035,50 +4061,16 @@ Technical Specs
 		35mm transparency
 		Unknown
 Things & Objects
-	Art
-		Ancient Manuscript
-		Drawing
-		Modern Art
-		Painting
-			Cave Painting
-			Mural
-		Stained Glass
 	Bell
 	Bird nest
-	Flag
 	Footprints
 	Scientific Instrument
-	SCUBA gear
 	Shipwreck
-	Signs
-		Announcement
-		Humorous
-		Informative
-		Neon Sign
-		Plaque
 	Structures
-		Altar
 		Buildings
-			Fort
-			House
-			Mansion
 			Modern Architecture
-			Monument
-			My House
-			Palace
-			Public Transit
-			Shop
-			Shopping Center
-		Ferris Wheel
-		Memorial
-		Obelisk
-		Pier
-		Plaza
-			{Piazza}
-			{Square}
 		Ruins
 		Tent
-		Underwater Cave
 Thoroughfare
 	Avenue
 	Bikeway
@@ -4288,6 +4280,7 @@ Water
 	Swamp
 	Tarn
 		{Corrie loch}
+	Underwater cave
 	Waterfall
 	Wave
 		Breaking wave

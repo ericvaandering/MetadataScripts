@@ -2108,8 +2108,17 @@ Animals
 					{Eretmochelys imbriocota}
 				Loggerhead Turtle
 Art
+	Ancient manuscript
+	Carpet
+	Drawing
+	Interior art
+	Modern art
 	Mosaic
+	Painting
+		Cave painting
+		Mural
 	Sculpture
+	Stained glass
 	Statue
 Body parts
 	Bone
@@ -2385,6 +2394,7 @@ Object
 	Clock
 		Analog clock
 	Firework
+	Flag
 	Fossil
 	Furniture
 		Bed
@@ -2398,6 +2408,13 @@ Object
 			Digital camera
 			Single lens reflex camera
 				{Slr}
+	SCUBA gear
+	Sign
+		Announcement
+		Humorous
+		Informative
+		Neon Sign
+		Plaque
 	Toy
 		Building block
 People
@@ -2595,6 +2612,7 @@ Sport
 	Whirlyball
 Structures & architecture
 	Architectural element
+		Altar
 		Arch
 		Column
 			{Pillar}
@@ -2603,6 +2621,8 @@ Structures & architecture
 			Arched doorway
 		Fountain
 		Garden
+		Gate
+		Obelisk
 		Stair
 			{Staircase}
 			{Stairway}
@@ -2612,6 +2632,11 @@ Structures & architecture
 		Cemetery
 			{Graveyard}
 		Resort
+		Shopping district
+		Town square
+			{Piazza}
+			{Square}
+			{Plaza}
 	Structure
 		Amphitheater
 		Barn
@@ -2620,18 +2645,30 @@ Structures & architecture
 		Castle
 		Cathedral
 		Church
+		City hall
 		Defensive wall
 		Dormitory
 			{Dorm}
+		Ferris wheel
+		Fort
 		Hostel
 		Hotel
+		House
 		Lighthouse
+		Mansion
+		Memorial
 		Monastery
 		Mosque
+		My House
 		Office building
+		Palace
+		Pier
+		Post office
 		Restaurant
+		Shop
 		Skyscraper
 		Stadium
+		Stock exchange
 		Temple
 			Ancient Temple
 			Buddhist Temple
@@ -2642,17 +2679,24 @@ Structures & architecture
 		Tower
 			Bell Tower
 			Clock Tower
+		University
 	Transit station
 		Airport
 			Airport terminal
 		Harbor
 			{Harbour}
 			{Haven}
+		Metro station
+		Train station
+			{Railroad station}
+			{Railway station}
 	Type of structure
 		Civic structure
 		Commercial structure
+		Educational structure
 		Government structure
 		Industrial structure
+		Monument
 		Residential structure
 Styles
 	Architecture
@@ -2702,7 +2746,6 @@ Technical Specs
 		Needs ID
 		Point curve develop
 		Re-export in LR
-		Redo GPS
 		Relocate
 		Rename
 		Reorg parent topic
@@ -2716,50 +2759,16 @@ Technical Specs
 		35mm transparency
 		Unknown
 Things & Objects
-	Art
-		Ancient Manuscript
-		Drawing
-		Modern Art
-		Painting
-			Cave Painting
-			Mural
-		Stained Glass
 	Bell
 	Bird nest
-	Flag
 	Footprints
 	Scientific Instrument
-	SCUBA gear
 	Shipwreck
-	Signs
-		Announcement
-		Humorous
-		Informative
-		Neon Sign
-		Plaque
 	Structures
-		Altar
 		Buildings
-			Fort
-			House
-			Mansion
 			Modern Architecture
-			Monument
-			My House
-			Palace
-			Public Transit
-			Shop
-			Shopping Center
-		Ferris Wheel
-		Memorial
-		Obelisk
-		Pier
-		Plaza
-			{Piazza}
-			{Square}
 		Ruins
 		Tent
-		Underwater Cave
 Thoroughfare
 	Path
 	Tunnel
@@ -2849,6 +2858,7 @@ Water
 		{Brook}
 		{Creek}
 		{Rivulet}
+	Underwater cave
 	Waterfall
 	Wave
 		Breaking wave
