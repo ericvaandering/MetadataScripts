@@ -3375,7 +3375,6 @@ Object
 	Wheel
 	Wire rope
 People
-	Candid
 	CMS Collaborators
 		Brian Bockelman
 		Chris Jones
@@ -3475,10 +3474,10 @@ People
 		Other
 		Sister
 		Uncle
-	Travel
-		Africa 2002 Companions
-		Africa 2007 Companions
-		Africa 2012 Companions
+	Travel companions
+		Africa 2002 companions
+		Africa 2007 companions
+		Africa 2012 companions
 			Angela
 			Brian
 			Chris
@@ -3490,9 +3489,9 @@ People
 			Max
 			Stephan
 			Yolanda Winter
-		Bahamas 2006 Companions
-		Bahamas 2008 Companions
-		Belize
+		Bahamas 2006 companions
+		Bahamas 2008 companions
+		Belize 2005 companions
 		Golden Dolphin Companions
 			Daniele Hazard
 		SCUBA Divers
@@ -3518,7 +3517,7 @@ People
 			Tonya Wegner
 			Tracy Kittrell
 			YiChung Law
-		Travel Companions
+		Tonga companions
 Photography
 	Angle of view
 		Aerial
