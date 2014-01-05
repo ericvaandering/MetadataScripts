@@ -65,6 +65,7 @@ Action
 	Voting
 	Waking up
 	Walking
+	Washing clothes
 	Welding
 	Working
 	Writing
@@ -2659,6 +2660,7 @@ Land
 		Geyser
 		Volcanic crater
 		Volcanic plug
+	Waterfront
 Material
 	Adobe
 	Asphalt
@@ -2865,6 +2867,7 @@ Object
 		Thermal bag
 	Bearing
 	Belt
+	Bird nest
 	Board game
 		Backgammon
 		Card
@@ -3002,6 +3005,7 @@ Object
 	Fishing rod
 		{Fishing pole}
 	Flag
+	Footprint
 	Fossil
 	Freezer
 	Furniture
@@ -3114,6 +3118,7 @@ Object
 	Kitchenware
 	Knob
 	Lapel pin
+	Laundry
 	Lever
 	Lighting
 		Blacklight
@@ -3221,9 +3226,11 @@ Object
 	Roulette
 	Safety belt
 	Safety pin
+	Scientific instrument
 	SCUBA gear
 	Shaft
 	Shampoo
+	Shipwreck
 	Shoe
 		Athletic
 		Ballet flat
@@ -3240,9 +3247,10 @@ Object
 		Stilletto heel
 	Sign
 		Announcement
+		Billboard
 		Humorous
 		Informative
-		Neon Sign
+		Lighted sign
 		Plaque
 	Soap
 	Speaker
@@ -3445,6 +3453,7 @@ People
 	Identity
 		Masai
 		Turkana
+		Ugandans
 	Name
 		Names
 	Relationship
@@ -3569,6 +3578,7 @@ Photography
 		Pet photography
 		Portrait photography
 		Rural photography
+			Developing country
 		Sport photography
 		Still life photography
 		Street photography
@@ -3749,6 +3759,7 @@ Structures & architecture
 		Arch
 		Atrium
 		Balcony
+		Bell
 		Bird bath
 		Chimney
 		Church bell
@@ -3804,6 +3815,8 @@ Structures & architecture
 			{Graveyard}
 		Courtyard
 			{Patio}
+		Market
+		Mountain town
 		Park
 		Playground
 		Resort
@@ -3949,6 +3962,7 @@ Structures & architecture
 		Shopping mall
 		Shrine
 		Silo
+		Skyline
 		Skyscraper
 		Spa
 		Stable
@@ -3963,6 +3977,7 @@ Structures & architecture
 			Buddhist Temple
 			Jewish Temple
 			Taoist Temple
+		Tent
 		Theater
 		Tomb
 		Tower
@@ -3997,61 +4012,21 @@ Structures & architecture
 		Government structure
 		Industrial structure
 		Military structure
+		Modern architecture
 		Monument
 		Religious structure
 		Residential structure
-Styles
-	Architecture
-	Cityscape
-		Developing Country
-		France
-		Market
-		Mountain Town
-		Night
-		Park
-		Skyline
-		Switzerland
-		Taipei
-		U.S.A.
-			Washington DC
-		Uganda
-	Natural Scenery
-		Landscape
-			Africa
-				Amboseli NR
-				Chololo Game Reserve
-				Kenya
-				Kibale NP
-				Masai Mara NR
-				Nakuru NP
-				PN Volcans
-				Queen Elizabeth NP
-				Samburu NP
-				Shaba NP
-				Tsavo West National Park
-				Uganda
-			Waterfront
-	Overview
-	Pattern
-	Street scene
+		Ruins
 Technical Specs
 	Accessories
 		Extension Tubes
 	Process Tags
 		Check location
-		Edit in LR
-			Object clone with feather
-			Radial filter
-		Exposure bad?
 		ID Uncertain
 		More WB correction
 		Needs ID
-		Point curve develop
-		Re-export in LR
 		Relocate
 		Rename
-		Reorg parent topic
-			Duplicated Keyword
 		Set Date
 		Stitch
 		UFRaw
@@ -4060,17 +4035,6 @@ Technical Specs
 		35mm print
 		35mm transparency
 		Unknown
-Things & Objects
-	Bell
-	Bird nest
-	Footprints
-	Scientific Instrument
-	Shipwreck
-	Structures
-		Buildings
-			Modern Architecture
-		Ruins
-		Tent
 Thoroughfare
 	Avenue
 	Bikeway
