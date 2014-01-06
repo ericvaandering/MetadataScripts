@@ -115,6 +115,8 @@ Animals
 		Frogs
 			Bullfrog
 				{Rana catesbeiana}
+			Green and Black Poison Dart Frog
+			Strawberry Poison-dart Frog
 		Toads
 	Birds
 		Cranes & Coots & Rails
@@ -330,6 +332,7 @@ Animals
 		Pelicaniformes
 			African Spoonbill
 				{Platalea alba}
+			Anhinga
 			Boobies
 				Red-footed Booby
 			Cormorants
@@ -2103,6 +2106,7 @@ Animals
 				Giant Hog
 				Warthog
 					{Phacochoerus africanus}
+		Hoffman's Two-toed Sloth
 		Odd Toed Ungulates
 			Horses & Asses
 				Common Zebra
@@ -2157,11 +2161,13 @@ Animals
 			Zero
 	Reptiles
 		Crocodilians
+			American Crocodile
 			Caiman
 			Nile Crocodile
 		Lizards
 			Agama Agama
 			Brown basilisk
+			Green Iguana
 			Ground Agama
 				{Agama aculeata}
 			Nile Monitor
@@ -2644,6 +2650,7 @@ Land
 	Mountain
 	Plain
 	Plateau
+	Rainforest
 	Riverbank
 	Rock formation
 		Natural arch
@@ -3492,6 +3499,7 @@ People
 		Bahamas 2006 companions
 		Bahamas 2008 companions
 		Belize 2005 companions
+		Costa Rica Companions
 		Golden Dolphin Companions
 			Daniele Hazard
 		SCUBA Divers
@@ -3749,6 +3757,7 @@ Sport
 	Water polo
 	Weightlifting
 	Whirlyball
+	Ziplining
 Structures & architecture
 	Architectural element
 		Aisle
@@ -4111,6 +4120,7 @@ Transportation
 			Tandem bicycle
 			Touring bicycle
 			Utility bicycle
+		Bus
 		Car
 			{Automobile}
 			Bubble car
