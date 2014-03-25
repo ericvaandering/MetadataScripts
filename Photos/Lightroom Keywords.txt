@@ -12,6 +12,7 @@ Action
 		Running
 		Scratching
 		Swimming
+		With eggs
 	Birdwatching
 	Creating art
 		Drawing
@@ -254,7 +255,6 @@ Animals
 		Pelicaniformes
 			African Spoonbill
 				{Platalea alba}
-			Anhinga
 			Boobies
 				Red-footed Booby
 			Cormorants
@@ -875,6 +875,8 @@ Animals
 					Yellowfin Grouper
 						{Mycteroperca venenosa}
 				Harlequin Bass
+				Indigo Hamlet
+					{Hypoplectrus indigo}
 				Painted Comber
 				School Bass
 					{Schultzea beta}
@@ -2344,6 +2346,19 @@ Dive Sites
 		Umm Erug (St.  Johns)
 		Umm Hararim
 		Zabargad SW/E?
+	Roatan
+		Calvin's Crack
+		CoCo View Bay
+		CoCo View Wall
+		First Bight
+		Gold Chain Reef
+		Iron Shore
+		Mary's Place
+		Mr. Bud Wreck
+		Neverstain Bight
+		Newman's Wall
+		Prince Albert
+		Tulio's Reef
 Event
 	Concert
 	Dinner
@@ -2738,6 +2753,7 @@ Structures & architecture
 		Ruins
 Technical Specs
 	Accessories
+		+XXX wet lens
 		Extension Tubes
 	Process Tags
 		Check location
