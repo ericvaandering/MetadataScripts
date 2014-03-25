@@ -1,4 +1,5 @@
 ID-Algae
+ID-Bat
 ID-Fish
 	ID-Barracuda
 	ID-Bass-Grouper
@@ -46,6 +47,7 @@ ID-Invert
 	ID-Crustacean
 		ID-Amphipod
 		ID-Crab
+		ID-Lobster
 		ID-Mantis
 		ID-Shrimp
 		ID-SlipperLobster
