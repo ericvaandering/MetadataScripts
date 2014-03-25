@@ -4,6 +4,7 @@ ID-Fish
 	ID-Barracuda
 	ID-Bass-Grouper
 		ID-Anthias
+		ID-Hamlet
 	ID-Butterfly-Angel
 	ID-Cardinal
 	ID-Catfish
@@ -28,6 +29,7 @@ ID-Fish
 	ID-Scorp
 		ID-Frogfish
 		ID-Lionfish
+		ID-Toadfish
 		ID-Waspfish
 	ID-Seahorse
 	ID-Shark Ray
