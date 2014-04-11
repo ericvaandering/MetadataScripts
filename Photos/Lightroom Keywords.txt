@@ -439,8 +439,6 @@ Animals
 			Strange Sole
 				{Aseraggodes xenicus}
 			Wide-eyed Flounder
-		Gobies
-			Round Goby (FW)
 		Grinners
 			{Aulopiformes}
 			Lizardfishes
@@ -1124,7 +1122,6 @@ Animals
 						{Dendrochirus brachypterus}
 					Spotfin Lionfish
 						{Pterois antennata}
-					Volitans (Red) Lionfish
 					Volitans Lionfish
 						{Pterois volitans}
 					Zebra Lionfish
@@ -1423,6 +1420,7 @@ Animals
 				Bees
 				Dragonflies
 				Moths
+				Praying Mantis
 			Millipedes
 		Bryozoans
 			{Phylum Ectoprocta}
@@ -2098,6 +2096,8 @@ Animals
 				{Varanus niloticus}
 			Rock Monitor
 				{Varanus albigularis}
+			Spiny-tailed Iguana
+				{Ctenosaura oedirhina}
 		Snakes
 			Banded Sea Krait
 				{Laticauda colubrina}
@@ -2203,9 +2203,13 @@ Dive Sites
 		Weber's Joy
 		Windsock
 	California
-		Point Loma Kelp Beds
-		Ruby E
-		Yukon
+		Monterey
+			Aquarium Reef
+			Chase Reef
+		San Diego
+			Point Loma Kelp Beds
+			Ruby E
+			Yukon
 	Cozumel
 		Columbia Reef
 		Palancar Bricks
@@ -2448,6 +2452,7 @@ Object
 		Plaque
 	Toy
 		Building block
+Patricia Hewitt
 People
 	CMS Collaborators
 		Brian Bockelman
@@ -2558,6 +2563,7 @@ People
 			Dean Nolan
 			Deana Pillard
 			Gary Stenson
+			Gina Castro
 			Gordon Maney
 			Jackie Rae
 			Katie Wolfe
