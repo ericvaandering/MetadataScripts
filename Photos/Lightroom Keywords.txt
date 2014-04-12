@@ -2452,7 +2452,6 @@ Object
 		Plaque
 	Toy
 		Building block
-Patricia Hewitt
 People
 	CMS Collaborators
 		Brian Bockelman
@@ -2569,6 +2568,7 @@ People
 			Katie Wolfe
 			Michelle Hartzler
 			Mike Bartenfelder
+			Patricia Hewitt
 			Steve James
 			Steve Wilkinson
 			Sue Momsen
@@ -2765,6 +2765,7 @@ Technical Specs
 		Check location
 		ID Uncertain
 		More WB correction
+		Need more 7D NR
 		Needs ID
 		Relocate
 		Rename
