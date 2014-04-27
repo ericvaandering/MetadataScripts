@@ -445,11 +445,14 @@ Animals
 				Clearfin Lizardfish
 				Goldbar Sand Diver
 					{Trichonotus halstead}
+				Red Lizardfish
+					{Synodus synodus}
 				Red Sea Sand Diver
 					{Trichonotus nikei}
 				Reef Lizardfish
 					{Synodus variegatus}
 				Sand Diver
+					{Synodus intermedius}
 				Slender Lizardfish
 					{Saurida gracilis}
 				Spotted Sand Diver
@@ -500,7 +503,7 @@ Animals
 			Blennies
 				Aron's Blenny
 					{Ecsenius aroni}
-				Dentex Blennie
+				Dentex Blenny
 				False Cleanerfish
 					{Aspidontus taeniatus}
 				Piano Fangblenny
@@ -513,6 +516,8 @@ Animals
 				Secretary Blenny
 				Shorthead Fangblenny
 					{Petroscirtes breviceps}
+				Spinyhead Blenny
+					{Acanthemblemaria spinosa}
 				Striped Triplefin
 					{Helcogramma striatum}
 				Tentacled Blenny
@@ -525,6 +530,7 @@ Animals
 				Blackbacked Butterflyfish
 					{Chaetodon melannotus}
 				Blue Tang
+					{Acanthurus coeruleus}
 				Chevron Butterflyfish
 					{Chaetodon trifascialis}
 				Crown Butterflyfish
@@ -584,6 +590,8 @@ Animals
 					{Sphaeramia nematoptera}
 				Ringtailed Cardinalfish
 					{Apogon aureus}
+				Roughlip Cardinalfish
+					{Apogon robinsi}
 				Split-banded Cardinalfish
 					{Apogon compressus}
 				Striped Cardinalfish
@@ -611,6 +619,7 @@ Animals
 				Arnaz's Demoiselle
 					{Chrysiptera arnazae}
 				Beaugregory
+					{Stegastes leucostictus}
 				Bicolor Damselfish
 				Blue Chromis
 				Bluegreen Chromis
@@ -623,6 +632,7 @@ Animals
 				Indo-Pacific Sergeant
 					{Abudefduf vaigiensis}
 				Longfin Damselfish
+					{Stegastes diencaeus}
 				Pale Damselfish
 				Red Sea Dascyllus
 				Reticulated Damsel
@@ -659,6 +669,7 @@ Animals
 				Highhat
 				Jackknife Fish
 				Spotted Drum
+					{Equetus punctatus}
 			Emperors
 				{Lethrinidae}
 				Bigeye Emperor
@@ -688,6 +699,7 @@ Animals
 				Banded Shrimpgoby
 					{Cryptocentrus cinctus}
 				Bridled Goby
+					{Coryphopterus glaucofraenum}
 				Candycane Pygmygoby
 					{Trimma cana}
 				Crosshatch Goby
@@ -791,11 +803,15 @@ Animals
 				Rainbow Parrotfish
 				Red Sea Steephead Parrotfish
 				Redband Parrotfish
+					{Sparisoma aurofrenatum}
 				Redtail Parrotfish
 				Rusty Parrotfish
 					{Scarus ferrugineus}
 				Stoplight Parrotfish
+					{Sparisoma viride}
 				Striped Parrotfish
+				Yellowtail Parrotfish
+					{Sparisoma rubripinne}
 			Perch
 				Rubberlip Perch
 			Porgies
@@ -1272,6 +1288,8 @@ Animals
 								{Hoplophrys oatesii}
 							Wire Coral Crab
 								{Xenocarcinus tuberculatus}
+						Neck Crab
+							{Podochela sp.}
 						Nimble Spray Crab
 						Purse Crabs
 							Bulbous Purse Crab
@@ -1307,6 +1325,7 @@ Animals
 						Dark Knee Hermit Crab
 							{Dardanus lagopodes}
 						Giant Hermit Crab
+							{Petrochirus diogenes}
 						Orange Hermit Crab
 							{Pseudopaguristes kuekenthali}
 						Red Reef Hermit
@@ -1317,6 +1336,8 @@ Animals
 						Small White Hermit Crab
 							{Calcinus minutus}
 						Unknown Hermit Crab
+						White Speckled Hermit Crab
+							{Paguristes punticeps}
 						White-spotted Hermit Crab
 							{Dardanus megistos}
 					Lobsters
@@ -1374,6 +1395,8 @@ Animals
 							{Alpheidae}
 							Randall's Snapping Shrimp
 								{Alpheus randalli}
+							Red Snapping Shrimp
+								{Alpheus armatus}
 						Spotted Cleaner Shrimp
 							{Periclimenes rathbunae}
 						Squat Anemone Shrimp
@@ -1406,6 +1429,8 @@ Animals
 					{Stomatapoda}
 					Blue Spot Mantis
 						{Haptosquilla stoliura}
+					Ciliated False Squilla
+						{Pseudosquilla ciliate}
 					Golden Mantis
 						{Lysiosquilloides mapia}
 					Peacock Mantis
@@ -1465,7 +1490,9 @@ Animals
 			Hydroids
 			Jellyfishes
 				Moon Jelly
-				Upside-down Jellyfish
+				Upsidedown Jellyfishes
+					Cassiopea andromeda
+					Cassiopea frondosa
 			Zoanthids
 				Corynactis californica
 				Golden Zoanthid
@@ -1580,6 +1607,7 @@ Animals
 				Snake Brittle Star
 					{Ophioderma longicauda}
 				Sponge Brittle Star
+					{Ophiothrix suensonii}
 				Spotted-disc Brittle Star
 					{Ophiomastix caryophyllata}
 			Crinoids and Feather Stars
@@ -1718,6 +1746,8 @@ Animals
 					Pharao Cuttlefish
 				Octopuses
 					{Order Octopoda}
+					Atlantic Longarm Octopus
+						{Octopus defilippi}
 					Atlantic Pygmy Octopus
 					Common Octopus
 					Day Octopus
@@ -1733,6 +1763,7 @@ Animals
 						{Sepioteuthis lessoniana}
 						{Common Reef Squid}
 					Caribbean Reef Squid
+						{Sepioteuthis sepiodea}
 			Gastropods
 				Sea Slugs
 					{Subclass Opisthobranchia}
@@ -2381,6 +2412,43 @@ Event
 		St. Patricks Day
 	Parade
 	Party
+ID-Algae
+ID-Bat
+ID-Fish
+	ID-Bass-Grouper
+		ID-Hamlet
+	ID-Damsel
+	ID-Eel
+	ID-Goatfish
+	ID-Goby-Blennie
+	ID-Lizardfish
+	ID-Parrot
+	ID-Puffer
+		ID-BoxCow
+	ID-Scorp
+		ID-Toadfish
+	ID-Seahorse
+	ID-Squirrelfish
+	ID-Wrasse
+ID-Invert
+	ID-Anemone
+	ID-Coral
+		ID-Sponge
+	ID-Crustacean
+		ID-Crab
+		ID-Mantis
+		ID-Shrimp
+	ID-Echinoderm
+		ID-BrittleStar
+		ID-SeaCucumber
+		ID-Urchin
+	ID-Jelly
+	ID-Mollusc
+		ID-Bivalve
+		ID-Cephelopod
+		ID-Slug-Nudi
+	ID-Worm
+ID-Reptile
 Land
 	Beach
 	Canyon
@@ -2415,6 +2483,7 @@ Natural phenomenon
 		Ice
 		Rain
 		Snow
+Need for ID
 Number
 	Group of people
 		Crowd
@@ -2853,6 +2922,7 @@ Transportation
 			{Sailing boat}
 		Schooner
 	Human Powered
+Use for GPS
 Water
 	Canal
 		{Channel}
