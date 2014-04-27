@@ -2412,43 +2412,6 @@ Event
 		St. Patricks Day
 	Parade
 	Party
-ID-Algae
-ID-Bat
-ID-Fish
-	ID-Bass-Grouper
-		ID-Hamlet
-	ID-Damsel
-	ID-Eel
-	ID-Goatfish
-	ID-Goby-Blennie
-	ID-Lizardfish
-	ID-Parrot
-	ID-Puffer
-		ID-BoxCow
-	ID-Scorp
-		ID-Toadfish
-	ID-Seahorse
-	ID-Squirrelfish
-	ID-Wrasse
-ID-Invert
-	ID-Anemone
-	ID-Coral
-		ID-Sponge
-	ID-Crustacean
-		ID-Crab
-		ID-Mantis
-		ID-Shrimp
-	ID-Echinoderm
-		ID-BrittleStar
-		ID-SeaCucumber
-		ID-Urchin
-	ID-Jelly
-	ID-Mollusc
-		ID-Bivalve
-		ID-Cephelopod
-		ID-Slug-Nudi
-	ID-Worm
-ID-Reptile
 Land
 	Beach
 	Canyon
