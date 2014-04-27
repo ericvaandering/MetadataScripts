@@ -2446,7 +2446,6 @@ Natural phenomenon
 		Ice
 		Rain
 		Snow
-Need for ID
 Number
 	Group of people
 		Crowd
@@ -2797,6 +2796,7 @@ Technical Specs
 		Check location
 		ID Uncertain
 		More WB correction
+		Need for ID
 		Need more 7D NR
 		Needs ID
 		Relocate
@@ -2804,6 +2804,7 @@ Technical Specs
 		Set Date
 		Stitch
 		UFRaw
+		Use for GPS
 	Scans
 		35mm negative
 		35mm print
@@ -2885,7 +2886,6 @@ Transportation
 			{Sailing boat}
 		Schooner
 	Human Powered
-Use for GPS
 Water
 	Canal
 		{Channel}

@@ -517,19 +517,20 @@ Animals
 			Strange Sole
 				{Aseraggodes xenicus}
 			Wide-eyed Flounder
-		Gobies
-			Round Goby (FW)
 		Grinners
 			{Aulopiformes}
 			Lizardfishes
 				Clearfin Lizardfish
 				Goldbar Sand Diver
 					{Trichonotus halstead}
+				Red Lizardfish
+					{Synodus synodus}
 				Red Sea Sand Diver
 					{Trichonotus nikei}
 				Reef Lizardfish
 					{Synodus variegatus}
 				Sand Diver
+					{Synodus intermedius}
 				Slender Lizardfish
 					{Saurida gracilis}
 				Spotted Sand Diver
@@ -580,7 +581,7 @@ Animals
 			Blennies
 				Aron's Blenny
 					{Ecsenius aroni}
-				Dentex Blennie
+				Dentex Blenny
 				False Cleanerfish
 					{Aspidontus taeniatus}
 				Piano Fangblenny
@@ -593,6 +594,8 @@ Animals
 				Secretary Blenny
 				Shorthead Fangblenny
 					{Petroscirtes breviceps}
+				Spinyhead Blenny
+					{Acanthemblemaria spinosa}
 				Striped Triplefin
 					{Helcogramma striatum}
 				Tentacled Blenny
@@ -605,6 +608,7 @@ Animals
 				Blackbacked Butterflyfish
 					{Chaetodon melannotus}
 				Blue Tang
+					{Acanthurus coeruleus}
 				Chevron Butterflyfish
 					{Chaetodon trifascialis}
 				Crown Butterflyfish
@@ -664,6 +668,8 @@ Animals
 					{Sphaeramia nematoptera}
 				Ringtailed Cardinalfish
 					{Apogon aureus}
+				Roughlip Cardinalfish
+					{Apogon robinsi}
 				Split-banded Cardinalfish
 					{Apogon compressus}
 				Striped Cardinalfish
@@ -691,6 +697,7 @@ Animals
 				Arnaz's Demoiselle
 					{Chrysiptera arnazae}
 				Beaugregory
+					{Stegastes leucostictus}
 				Bicolor Damselfish
 				Blue Chromis
 				Bluegreen Chromis
@@ -703,6 +710,7 @@ Animals
 				Indo-Pacific Sergeant
 					{Abudefduf vaigiensis}
 				Longfin Damselfish
+					{Stegastes diencaeus}
 				Pale Damselfish
 				Red Sea Dascyllus
 				Reticulated Damsel
@@ -739,6 +747,7 @@ Animals
 				Highhat
 				Jackknife Fish
 				Spotted Drum
+					{Equetus punctatus}
 			Emperors
 				{Lethrinidae}
 				Bigeye Emperor
@@ -768,6 +777,7 @@ Animals
 				Banded Shrimpgoby
 					{Cryptocentrus cinctus}
 				Bridled Goby
+					{Coryphopterus glaucofraenum}
 				Candycane Pygmygoby
 					{Trimma cana}
 				Crosshatch Goby
@@ -871,11 +881,15 @@ Animals
 				Rainbow Parrotfish
 				Red Sea Steephead Parrotfish
 				Redband Parrotfish
+					{Sparisoma aurofrenatum}
 				Redtail Parrotfish
 				Rusty Parrotfish
 					{Scarus ferrugineus}
 				Stoplight Parrotfish
+					{Sparisoma viride}
 				Striped Parrotfish
+				Yellowtail Parrotfish
+					{Sparisoma rubripinne}
 			Perch
 				Rubberlip Perch
 			Porgies
@@ -1202,7 +1216,6 @@ Animals
 						{Dendrochirus brachypterus}
 					Spotfin Lionfish
 						{Pterois antennata}
-					Volitans (Red) Lionfish
 					Volitans Lionfish
 						{Pterois volitans}
 					Zebra Lionfish
@@ -1353,6 +1366,8 @@ Animals
 								{Hoplophrys oatesii}
 							Wire Coral Crab
 								{Xenocarcinus tuberculatus}
+						Neck Crab
+							{Podochela sp.}
 						Nimble Spray Crab
 						Purse Crabs
 							Bulbous Purse Crab
@@ -1388,6 +1403,7 @@ Animals
 						Dark Knee Hermit Crab
 							{Dardanus lagopodes}
 						Giant Hermit Crab
+							{Petrochirus diogenes}
 						Orange Hermit Crab
 							{Pseudopaguristes kuekenthali}
 						Red Reef Hermit
@@ -1398,6 +1414,8 @@ Animals
 						Small White Hermit Crab
 							{Calcinus minutus}
 						Unknown Hermit Crab
+						White Speckled Hermit Crab
+							{Paguristes punticeps}
 						White-spotted Hermit Crab
 							{Dardanus megistos}
 					Lobsters
@@ -1455,6 +1473,8 @@ Animals
 							{Alpheidae}
 							Randall's Snapping Shrimp
 								{Alpheus randalli}
+							Red Snapping Shrimp
+								{Alpheus armatus}
 						Spotted Cleaner Shrimp
 							{Periclimenes rathbunae}
 						Squat Anemone Shrimp
@@ -1487,6 +1507,8 @@ Animals
 					{Stomatapoda}
 					Blue Spot Mantis
 						{Haptosquilla stoliura}
+					Ciliated False Squilla
+						{Pseudosquilla ciliate}
 					Golden Mantis
 						{Lysiosquilloides mapia}
 					Peacock Mantis
@@ -1501,6 +1523,7 @@ Animals
 				Bees
 				Dragonflies
 				Moths
+				Praying Mantis
 			Millipedes
 		Bryozoans
 			{Phylum Ectoprocta}
@@ -1545,7 +1568,9 @@ Animals
 			Hydroids
 			Jellyfishes
 				Moon Jelly
-				Upside-down Jellyfish
+				Upsidedown Jellyfishes
+					Cassiopea andromeda
+					Cassiopea frondosa
 			Zoanthids
 				Corynactis californica
 				Golden Zoanthid
@@ -1660,6 +1685,7 @@ Animals
 				Snake Brittle Star
 					{Ophioderma longicauda}
 				Sponge Brittle Star
+					{Ophiothrix suensonii}
 				Spotted-disc Brittle Star
 					{Ophiomastix caryophyllata}
 			Crinoids and Feather Stars
@@ -1798,6 +1824,8 @@ Animals
 					Pharao Cuttlefish
 				Octopuses
 					{Order Octopoda}
+					Atlantic Longarm Octopus
+						{Octopus defilippi}
 					Atlantic Pygmy Octopus
 					Common Octopus
 					Day Octopus
@@ -1813,6 +1841,7 @@ Animals
 						{Sepioteuthis lessoniana}
 						{Common Reef Squid}
 					Caribbean Reef Squid
+						{Sepioteuthis sepiodea}
 			Gastropods
 				Sea Slugs
 					{Subclass Opisthobranchia}
@@ -2176,6 +2205,8 @@ Animals
 				{Varanus niloticus}
 			Rock Monitor
 				{Varanus albigularis}
+			Spiny-tailed Iguana
+				{Ctenosaura oedirhina}
 		Snakes
 			Banded Sea Krait
 				{Laticauda colubrina}
@@ -2419,9 +2450,13 @@ Dive Sites
 		Weber's Joy
 		Windsock
 	California
-		Point Loma Kelp Beds
-		Ruby E
-		Yukon
+		Monterey
+			Aquarium Reef
+			Chase Reef
+		San Diego
+			Point Loma Kelp Beds
+			Ruby E
+			Yukon
 	Cozumel
 		Columbia Reef
 		Palancar Bricks
@@ -3527,11 +3562,13 @@ People
 			Dean Nolan
 			Deana Pillard
 			Gary Stenson
+			Gina Castro
 			Gordon Maney
 			Jackie Rae
 			Katie Wolfe
 			Michelle Hartzler
 			Mike Bartenfelder
+			Patricia Hewitt
 			Steve James
 			Steve Wilkinson
 			Sue Momsen
@@ -4048,12 +4085,15 @@ Technical Specs
 		Check location
 		ID Uncertain
 		More WB correction
+		Need for ID
+		Need more 7D NR
 		Needs ID
 		Relocate
 		Rename
 		Set Date
 		Stitch
 		UFRaw
+		Use for GPS
 	Scans
 		35mm negative
 		35mm print
