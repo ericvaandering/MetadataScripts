@@ -43,9 +43,15 @@ ID-Invert
 	ID-Coral
 		ID-Black Coral
 		ID-Gorgonian
+			ID-SeaFan
+			ID-SeaRod
 			ID-Soft Coral
 		ID-Sponge
 		ID-Stony Coral
+			ID-Brain
+			ID-Lettuce
+			ID-Maze
+	ID-Corallimorph
 	ID-Crustacean
 		ID-Amphipod
 		ID-Crab
