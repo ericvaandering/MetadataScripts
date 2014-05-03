@@ -595,6 +595,8 @@ Animals
 					{Apogon aureus}
 				Roughlip Cardinalfish
 					{Apogon robinsi}
+				Sawcheek Cardinalfish
+					{Apogon quadrisquamatus}
 				Split-banded Cardinalfish
 					{Apogon compressus}
 				Striped Cardinalfish
@@ -859,8 +861,6 @@ Animals
 						{Pseudanthias taeniatus}
 					Threadfin Anthias
 						{Pseudanthias huchti}
-				Barred Hamlet
-				Butter Hamlet
 				Coney
 				Creolefish
 				Graysby
@@ -891,16 +891,24 @@ Animals
 						{Cephalopholis sonnerati}
 					Yellowfin Grouper
 						{Mycteroperca venenosa}
+				Hamlets
+					Barred Hamlet
+						{Hypoplectrus puella}
+					Black Hamlet
+						{Hypoplectrus nigricans}
+					Butter Hamlet
+						{Hypoplectrus unicolor}
+					Indigo Hamlet
+						{Hypoplectrus indigo}
+					Yellowbelly Hamlet
+						{Hypoplectrus aberrans}
 				Harlequin Bass
-				Indigo Hamlet
-					{Hypoplectrus indigo}
 				Painted Comber
 				School Bass
 					{Schultzea beta}
 				Sixstriped Soapfish
 					{Grammistes sexlineatus}
 				Tobaccofish
-				Yellowbelly Hamlet
 			Snappers
 				Black Margate
 				Black Snapper
