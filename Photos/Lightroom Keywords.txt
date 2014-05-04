@@ -2199,6 +2199,7 @@ Art
 	Stained glass
 	Statue
 Body parts
+	Animal detail
 	Bone
 	Chest
 	Elephant trunk
@@ -2206,10 +2207,13 @@ Body parts
 		{Trunk}
 	Eye
 	Eyelash
+	Fruit
 	Paw
 	Skin
 	Skull
 	Tail
+	Tree trunk
+		{Trunk}
 	Tusk
 Celestial body
 	Galaxy
@@ -2217,9 +2221,11 @@ Celestial body
 Client Name
 	Diveheart.org
 Concept
+	Education
 	Healthcare
 	Idea
 	Industrial
+	Light
 	Religion
 	Science
 		High Energy Physics
@@ -2481,6 +2487,7 @@ Natural phenomenon
 	Sunset
 	Weather
 		Cloud
+		Fog
 		Ice
 		Rain
 		Snow
@@ -2502,6 +2509,7 @@ Object
 	Lighting
 		Chandelier
 		Lamp
+	Map
 	Photo gear
 		Still camera
 			Compact camera
@@ -2652,6 +2660,7 @@ Photography
 		Aerial
 		From overlook
 	Effect
+		Cathedral lighting
 		Reflection
 		Silhouette
 	Type of photography
@@ -2693,6 +2702,7 @@ Plants
 	Grasses
 	Mushrooms
 	Trees and Bushes
+		Palm tree
 		Stump
 	Water Plants
 	Wild Fruit
@@ -2730,6 +2740,7 @@ Structures & architecture
 	Architectural element
 		Altar
 		Arch
+		Balcony
 		Bell
 		Column
 			{Pillar}
@@ -2770,6 +2781,7 @@ Structures & architecture
 		Church
 		City hall
 		Defensive wall
+		Dock
 		Dormitory
 			{Dorm}
 		Ferris wheel
@@ -2850,6 +2862,7 @@ Technical Specs
 		Unknown
 Thoroughfare
 	Path
+	Street
 	Tunnel
 Time
 	Season

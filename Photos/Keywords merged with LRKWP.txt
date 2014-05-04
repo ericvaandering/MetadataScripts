@@ -2280,6 +2280,7 @@ Art
 	Statue
 	Wallpaper
 Body parts
+	Animal detail
 	Ankle
 	Anther
 	Antler
@@ -3236,6 +3237,7 @@ Object
 		Combination lock
 		Padlock
 	Machine
+	Map
 	Microphone
 	Microwave oven
 	Mirror
@@ -3626,6 +3628,7 @@ Photography
 		Side view
 	Effect
 		Bokeh
+		Cathedral lighting
 		Lens zoom
 		Light trail
 		Long exposure
@@ -3708,6 +3711,7 @@ Plants
 	Grasses
 	Mushrooms
 	Trees and Bushes
+		Palm tree
 		Stump
 	Water Plants
 	Wild Fruit
@@ -3984,6 +3988,7 @@ Structures & architecture
 		Courthouse
 		Defensive wall
 		Department store
+		Dock
 		Dormitory
 			{Dorm}
 		Eatery
