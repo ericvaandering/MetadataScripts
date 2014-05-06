@@ -2376,6 +2376,294 @@ Celestial body
 Client Name
 	Diveheart.org
 	Name
+Colors
+	Shades of blue
+		Air force blue
+		Air superiority blue
+		Alice blue
+		Azure
+		Baby blue
+		Bleu de france
+		Blue
+		Blue-gray
+		Bondi blue
+		Brandeis blue
+		Cambridge blue
+		Carolina blue
+		Cobalt blue
+		Columbia blue
+		Cornflower blue
+		Dark blue
+		Deep sky blue
+		Dodger blue
+		Duke blue
+		Egyptian blue
+		Electric blue
+		Electric indigo
+		Eton blue
+		Federal blue
+		Glaucous
+		International klein blue
+		Iris
+		Light blue
+		Majorelle blue
+		Maya blue
+		Midnight blue
+		Navy blue
+		Non-photo blue
+		Oxford blue
+		Palatinate blue
+		Periwinkle
+		Persian blue
+		Phthalo blue
+		Powder blue
+		Prussian blue
+		Royal blue
+		Sapphire
+		Sky blue
+		Steel blue
+		Tiffany blue
+		Tufts blue
+		Ultramarine
+		Yale blue
+		Zaffre
+	Shades of brown
+		Auburn
+		Beaver
+		Beige
+		Bistre
+		Bole
+		Bronze
+		Brown
+		Burgundy
+		Burnt sienna
+		Burnt umber
+		Camel
+		Chamoisee
+		Chestnut
+		Chocolate
+		Citrine
+		Coffee
+		Copper
+		Cordovan
+		Desert sand
+		Earth yellow
+		Ecru
+		Fallow
+		Fawn
+		Field drab
+		Fulvous
+		Lion
+		Liver
+		Mahogany
+		Maroon
+		Ochre
+		Raw umber
+		Redwood
+		Rufous
+		Russet
+		Sand
+		Sandy brown
+		Seal brown
+		Sepia
+		Sienna
+		Sinopia
+		Tan
+		Tawny
+		Umber
+		Wenge
+		Wheat
+	Shades of cyan
+		Aqua
+		Aquamarine
+		Celeste
+		Cerulean
+		Cyan
+		Magic mint
+		Robin egg blue
+		Skobeloff
+		Teal
+		Turquoise
+	Shades of gray
+		Ash gray
+		Battleship gray
+		Black
+		Cadet gray
+		Charcoal
+		Cool gray
+		Davy's gray
+		Gray
+		Gunmetal
+		Medium taupe
+		Payne's gray
+		Purple taupe
+		Rose quartz
+		Silver
+		Slate gray
+		Taupe
+		Taupe gray
+		Timberwolf
+		White
+	Shades of green
+		Apple green
+		Asparagus
+		Bright green
+		Cal poly
+		Chartreuse
+		Dark olive green
+		Dark spring green
+		Dartmouth green
+		Fern green
+		Forest green
+		Green
+		Harlequin
+		Honeydew
+		Hunter green
+		India green
+		Islamic green
+		Jungle green
+		Lawn green
+		Lime
+		Lime green
+		Mantis
+		Mint
+		Mint cream
+		Office green
+		Olive
+		Olive drab
+		Pakistan green
+		Paris green
+		Persian green
+		Phthalo green
+		Pigment green
+		Pine green
+		Pistachio
+		Sea green
+		Shamrock green
+		Spring bud
+		Spring green
+		Yellow-green
+	Shades of orange
+		Amber
+		Atomic tangerine
+		Bittersweet
+		Burnt orange
+		Carrot orange
+		Champagne
+		Coral
+		Dark salmon
+		Deep carrot orange
+		Flame
+		Gamboge
+		International orange
+		Old gold
+		Orange
+		Orange peel
+		Orange-red
+		Papaya whip
+		Peach
+		Peach-orange
+		Peach-yellow
+		Persian orange
+		Portland orange
+		Princeton orange
+		Pumpkin
+		Rust
+		Safety orange
+		Salmon
+		Satin sheen gold
+		Sunset
+		Tangelo
+		Tangerine
+		Tea rose
+		Tenne
+		Tomato
+		Vermilion
+	Shades of pink
+		Amaranth
+		Amaranth pink
+		Brink pink
+		Carnation pink
+		Cerise
+		Coral pink
+		Deep carmine
+		Deep pink
+		French rose
+		Hollywood cerise
+		Hot magenta
+		Hot pink
+		Lavender pink
+		Persian rose
+		Pink
+		Puce
+		Rose pink
+		Ruby
+		Salmon pink
+		Shocking pink
+		Thulian pink
+		Ultra pink
+	Shades of red
+		Cardinal
+		Carmine
+		Crimson
+		Dark red
+		Electric crimson
+		Fire brick
+		Folly
+		Lust
+		Raspberry
+		Red
+		Rosewood
+		Scarlet
+		Terra cotta
+		Tuscan red
+		Wine
+	Shades of violet
+		Amethyst
+		Byzantium
+		Eggplant
+		Fandango
+		Fuchsia
+		Heliotrope
+		Indigo
+		Lavender blush
+		Lavender floral
+		Magenta
+		Orchid
+		Plum
+		Purple
+		Red-violet
+		Rose
+		Thistle
+		Violet
+		Violet-blue
+		Wisteria
+	Shades of yellow
+		Amber
+		Apricot
+		Buff
+		Cream
+		Dark goldenrod
+		Gold
+		Gold metallic
+		Goldenrod
+		Green-yellow
+		Jasmine
+		Jonquil
+		Khaki
+		Lemon chiffon
+		Light yellow
+		Maize
+		Mikado yellow
+		Naples yellow
+		Navajo white
+		Saffron
+		School bus yellow
+		Selective yellow
+		Stil de grain yellow
+		Sunglow
+		Vanilla
+		Yellow
 Concept
 	Animal
 	Armed forces
