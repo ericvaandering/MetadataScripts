@@ -195,6 +195,7 @@ Animals
 			Common Ostrich
 			Somali Ostrich
 		Galliformes
+			Domesticated Turkey
 			Guineafowl
 				Helmeted Guineafowl
 					{Numida meleagris}
@@ -578,6 +579,8 @@ Animals
 				{Kyphosus incisor}
 			Bigeyes
 				Crescent-tail Bigeye
+				Glasseye Snapper
+					{Heteropriacanthus cruentatus}
 			Blennies
 				Aron's Blenny
 					{Ecsenius aroni}
@@ -670,6 +673,8 @@ Animals
 					{Apogon aureus}
 				Roughlip Cardinalfish
 					{Apogon robinsi}
+				Sawcheek Cardinalfish
+					{Apogon quadrisquamatus}
 				Split-banded Cardinalfish
 					{Apogon compressus}
 				Striped Cardinalfish
@@ -934,8 +939,6 @@ Animals
 						{Pseudanthias taeniatus}
 					Threadfin Anthias
 						{Pseudanthias huchti}
-				Barred Hamlet
-				Butter Hamlet
 				Coney
 				Creolefish
 				Graysby
@@ -966,16 +969,24 @@ Animals
 						{Cephalopholis sonnerati}
 					Yellowfin Grouper
 						{Mycteroperca venenosa}
+				Hamlets
+					Barred Hamlet
+						{Hypoplectrus puella}
+					Black Hamlet
+						{Hypoplectrus nigricans}
+					Butter Hamlet
+						{Hypoplectrus unicolor}
+					Indigo Hamlet
+						{Hypoplectrus indigo}
+					Yellowbelly Hamlet
+						{Hypoplectrus aberrans}
 				Harlequin Bass
-				Indigo Hamlet
-					{Hypoplectrus indigo}
 				Painted Comber
 				School Bass
 					{Schultzea beta}
 				Sixstriped Soapfish
 					{Grammistes sexlineatus}
 				Tobaccofish
-				Yellowbelly Hamlet
 			Snappers
 				Black Margate
 				Black Snapper
@@ -1099,6 +1110,7 @@ Animals
 				Whitepatch Razorfish
 					{Iniistius aneitensis}
 				Yellowhead Wrasse
+					{Halichoeres garnoti}
 				Yellowtail Coris
 					{Coris gaimard}
 		Puffers & Filefishes
@@ -1183,6 +1195,8 @@ Animals
 					{Myripristis kuntee}
 				Longjaw Squirrelfish
 				Longjawed Squirrelfish
+				Longspine Squirrelfish
+					{Holocentrus rufus}
 				Spotfin Squirrelfish
 					{Neoniphon sammara}
 				Squirrelfish
@@ -1282,7 +1296,7 @@ Animals
 				Long-snouted Seahorse
 					{Hippocampus Hippocampus}
 				Longsnout Seahorse
-					{Hippocampus Reidi}
+					{Hippocampus reidi}
 				Network Pipefish
 					{Corythoichthys flavofasciatus}
 				Pipefishes
@@ -1311,6 +1325,7 @@ Animals
 					Thorny Seahorse
 						{Hippocampus hystrix}
 				Shortfin Pipefish
+					{Cosmocampus elucens}
 			Snipefishes and Shrimpfishes
 				{Centriscidae}
 				Rigid Shrimpfish
@@ -1321,6 +1336,8 @@ Animals
 		Tarpon
 		Toadfishes
 			{Batrachoidiformes}
+			Large Eye Toadfish
+				{Batrachoides gilberti}
 			Splendid Toadfish
 		Unknown fish
 	Invertebrates
@@ -1532,6 +1549,7 @@ Animals
 				Beaded Anemone
 					{Heteractis aurora}
 				Branching Anemone
+					{Lebrunia danae}
 				Bubble Anemone
 					{Entacmaea quadricolor}
 				Bulb Tentacle Anemone
@@ -1576,73 +1594,64 @@ Animals
 				Golden Zoanthid
 		Comb Jellies
 			{Ctenophora}
-		Coral
+		Corals
 			Black Corals
+				Branching Black Coral
 				Cirripathes sp.
 				Feather Black Coral
 					{Antipathes pennacea}
 			Fire Coral
-			Gorgonians
-				Sea Fans
-			Hard Coral
-				Artichoke Coral
-				Fleshy Corals
-					Ridged Cactus Coral
-						{Mycetophyllia lamarckiana}
-				Lettuce Coral
-					Sunray Lettuce Coral
-						{Helioceris cucullata}
-					Thin Leaf Lettuce Coral
-						{Agaricia tenuifolia}
-				Mustard Hill Coral
-				Star Coral
-				Star Corals
-					Great Star Coral
-						{Montrastraea cavernosa}
-			Soft Corals
-				Branching Black Coral
-				Common Sea Fan
-				Encrusting Gorgorian
-				Feathery Xenid
-				Giant Sea Fan
-				Leather Corals
-					Rough Leather Coral
-						{Sarcophyton glaucum}
-				Nephtheidae
-				Organ-pipe Corals
-					{Stolonifera}
-					Daisy Corals
-				Organpipe Coral
-					{Tubipora musica}
-				Pulsating Xenid
-					{Heteroxenia fuscescens}
-				Sea Plumes
-				Sea Rods
-				Sea Whip
-				Tree Corals
-					Divaricate Tree Coral
-						{Dendronephthya (Roxasia)}
-					Gomerate Tree Coral
-						{Dendronephthya (Spongodes)}
-				Umbrella Xenia
-					{Xenia umbellata}
-				Wide-mesh Sea Fan
-					{Gorgonia mariae}
-				Yellow Sea Whip
-					{Pterogorgia citrina}
+			Octocorals
+				Gorgonians
+					Encrusting Gorgorian
+					Sea Fans
+						Common Sea Fan
+							{Gorgonia ventalina}
+						Giant Sea Fan
+						Wide-mesh Sea Fan
+							{Gorgonia mariae}
+					Sea Plumes
+					Sea Rods
+						Swollen-knob Candelabrum
+							{Eunicea mammosa}
+					Sea Whip
+					Yellow Sea Whip
+						{Pterogorgia citrina}
+				Soft Corals
+					Leather Corals
+						Rough Leather Coral
+							{Sarcophyton glaucum}
+					Nephtheidae
+					Organ-pipe Corals
+						{Stolonifera}
+						Daisy Corals
+					Organpipe Coral
+						{Tubipora musica}
+					Tree Corals
+						Divaricate Tree Coral
+							{Dendronephthya (Roxasia)}
+						Gomerate Tree Coral
+							{Dendronephthya (Spongodes)}
+					Umbrella Xenia
+						{Xenia umbellata}
+					Xenids
+						Feathery Xenid
+						Pulsating Xenid
+							{Heteroxenia fuscescens}
 			Stony Corals
 				Anemone Coral
 					Goniopora columna
 					Goniopora sp.
 					Mountain Coral
 						{Porites lutea}
-				Artichoke Coral
 				Brain Corals
 					Boulder Brain Coral
 						{Colpophyllia natans}
 					Grooved Brain Coral
 					Maze Coral
 						{Meandrina meandrites}
+					Rose Coral
+						{Manicina areolata}
 					Symmetrical Brain Coral
 				Bubble Coral
 					{Plerogyra sinuosa}
@@ -1653,11 +1662,23 @@ Animals
 				Finger Coral
 					Pocillopora verrucosa
 					Stylophora subseriata
+				Fleshy Corals
+					Artichoke Coral
+					Atlantic Mushroom Coral
+						{Scolymia lacera}
+					Ridged Cactus Coral
+						{Mycetophyllia lamarckiana}
 				Goniastrea peresi
+				Leaf & Plate & Sheet Corals
+					Lettuce Coral
+					Sunray Lettuce Coral
+						{Helioceris cucullata}
+					Thin Leaf Lettuce Coral
+						{Agaricia tenuifolia}
 				Leafy Cup Coral
 					{Turbinaria reniformis}
-				Lettuce Coral
 				Mustard Hill Coral
+					{Porites astreoides}
 				Orange Cup Coral
 				Pillar Coral
 					{Dendrogyra cylindrus}
@@ -1666,11 +1687,12 @@ Animals
 				Staghorn Corals
 					Acropora microlados
 					Acropora pharaonis
-				Star Coral
+				Star Corals
 					Elliptical Star Coral
 						{Dichocoenia stokesi}
 					Great Star Coral
 						{Montastraea cavernosa}
+					Star Coral
 				Yellow Pencil Coral
 		Echinoderms
 			Brittle and Basket Stars
@@ -1702,6 +1724,8 @@ Animals
 					{Blackspotted Sea Cucumber}
 					{Personothuria graeffei}
 				Bohadschia sp.
+				Conical Sea Cucumber
+					{Eostichopus amesoni}
 				Creamy Sea Cucumber
 				Donkey Dung Sea Cucumber
 				Euapta sp
@@ -1760,8 +1784,11 @@ Animals
 					{Diadema paucispinum}
 				Double-spined Urchin
 					{Echinothrix calamaris}
-				Hearth Heart Urchin
-					{Maretia planulata}
+				Heart Urchins
+					Hearth Heart Urchin
+						{Maretia planulata}
+					Unknown Heart Urchin
+						{Brissiosis sp. or Metalia sp.}
 				Imperial Urchin
 					{Phyllacanthus imperialis}
 				Long-Spined Urchin
@@ -1772,11 +1799,14 @@ Animals
 					{Meoma ventricosa ventricosa}
 				Red Sea Urchin
 				Rock-boring Urchin
+				Sand Dollars
+					Inflated Sea Biscuit
+						{Clypeaster rosaceus}
 				Six-Keyhole Sand Dollar
 				Slate-pencil Urchin
-				Unknown Heart Urchin
-					{Brissiosis sp. or Metalia sp.}
 				Variegated Urchin
+				West Indian Sea Egg
+					{Tripneustes ventricosus}
 		Flatworms
 			Acanthozoon sp.
 			Brilliant Flatworm
@@ -1917,6 +1947,8 @@ Animals
 								{Swollen Phyllidia}
 							Phyllidiella annulata
 								{Ringed Phyllidiella}
+							Phyllidiopsis papilligera
+								{Black-spotted Nudibranch}
 							Polycera abei
 								{Pale Polycera}
 							Pustulose Wart Slug
@@ -1978,6 +2010,7 @@ Animals
 				Unknown gastropod
 		Segmented Worms
 			Bearded Fireworm
+				{Hermodice carunculata}
 			Calcareous Tube Worms
 				Christmas Tree Worm
 				Magnificent Tube Worm
@@ -1989,6 +2022,7 @@ Animals
 				Chone infundibuliformis
 				Ghost Feather Duster
 				Magnificent Feather Duster
+					{Sabellastarte magnifica}
 				Sabellastarte indica
 				Shy Feather Duster
 				Social Feather Duster
@@ -2003,6 +2037,8 @@ Animals
 			Azure Vase Sponge
 			Barrel Sponge (Indo-Pacific)
 				{Xestospongia testudinaria}
+			Black Ball Sponge
+				{Ircinia strobilina}
 			Branching Tube Sponge
 			Branching Vase Sponge
 			Brown Variable Sponge
@@ -2049,6 +2085,8 @@ Animals
 			African Elephant
 				{Loxodonta africana}
 			Hyrax
+		Bats
+			Leaf-nosed Bats
 		Carnivores
 			Canines
 				Bat-eared Fox
@@ -2242,6 +2280,7 @@ Art
 	Statue
 	Wallpaper
 Body parts
+	Animal detail
 	Ankle
 	Anther
 	Antler
@@ -3198,6 +3237,7 @@ Object
 		Combination lock
 		Padlock
 	Machine
+	Map
 	Microphone
 	Microwave oven
 	Mirror
@@ -3588,6 +3628,7 @@ Photography
 		Side view
 	Effect
 		Bokeh
+		Cathedral lighting
 		Lens zoom
 		Light trail
 		Long exposure
@@ -3670,6 +3711,7 @@ Plants
 	Grasses
 	Mushrooms
 	Trees and Bushes
+		Palm tree
 		Stump
 	Water Plants
 	Wild Fruit
@@ -3946,6 +3988,7 @@ Structures & architecture
 		Courthouse
 		Defensive wall
 		Department store
+		Dock
 		Dormitory
 			{Dorm}
 		Eatery
@@ -4079,7 +4122,7 @@ Structures & architecture
 		Ruins
 Technical Specs
 	Accessories
-		+XXX wet lens
+		+8 wet lens (Fit Pro)
 		Extension Tubes
 	Process Tags
 		Check location

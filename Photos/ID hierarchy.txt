@@ -1,5 +1,12 @@
 ID-Algae
-ID-Bat
+ID-Bird
+	ID-Dove
+	ID-Duck
+	ID-Heron
+	ID-Ibis
+	ID-Pelican
+	ID-Raptor
+	ID-Vulture
 ID-Fish
 	ID-Barracuda
 	ID-Bass-Grouper
@@ -76,6 +83,10 @@ ID-Invert
 	ID-Tunicate
 	ID-Worm
 ID-Known
+ID-Mammal
+	ID-Antelope
+	ID-Bat
+	ID-Mongoose
 ID-More
 ID-NotNeeded
 ID-People

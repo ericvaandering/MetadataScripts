@@ -1,0 +1,10 @@
+#! /bin/sh
+
+# Remove ID place holders from keywords
+
+grep ID- "Keywords merged with LRKWP.txt" > "ID hierarchy.txt"
+
+grep -v ID- "Lightroom Keywords.txt" > tmp.txt
+mv tmp.txt "Lightroom Keywords.txt"
+grep -v ID- "Keywords merged with LRKWP.txt" > tmp.txt
+mv tmp.txt "Keywords merged with LRKWP.txt"
