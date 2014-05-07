@@ -2220,6 +2220,33 @@ Celestial body
 	Star
 Client Name
 	Diveheart.org
+Colors
+	Shades of blue
+		Blue
+		Dark blue
+		Electric blue
+		Electric indigo
+	Shades of gray
+		Black
+		Gray
+		White
+	Shades of green
+		Green
+	Shades of orange
+		Burnt orange
+		Orange
+		Orange-red
+	Shades of pink
+		Lavender pink
+		Pink
+	Shades of red
+		Red
+	Shades of violet
+		Indigo
+		Purple
+	Shades of yellow
+		Gold
+		Yellow
 Concept
 	Education
 	Healthcare
