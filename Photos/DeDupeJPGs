@@ -1,0 +1,13 @@
+#! /usr/bin/env python
+
+import os
+
+if __name__ == "__main__":
+
+    for root, dirs, files in os.walk('.'):
+        jpgs = filter(lambda x:'.jpg' in x, files)
+        for jpg in jpgs:
+            base, _dummy = os.path.splitext(jpg)
+            xmp = base + '.xmp'
+            if xmp in files:
+                print "Should delete", os.path.join(root, jpg)
