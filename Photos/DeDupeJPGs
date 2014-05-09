@@ -1,5 +1,9 @@
 #! /usr/bin/env python
 
+"""
+Script to find JPG files that were exported from RAW into the same directory
+"""
+
 import os
 
 if __name__ == "__main__":
@@ -9,5 +13,7 @@ if __name__ == "__main__":
         for jpg in jpgs:
             base, _dummy = os.path.splitext(jpg)
             xmp = base + '.xmp'
-            if xmp in files:
+            cr2 = base + '.cr2'
+            crw = base + '.crw'
+            if xmp in files and (cr2 in files or crw in files):
                 print "Should delete", os.path.join(root, jpg)
