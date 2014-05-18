@@ -4,9 +4,21 @@
 Script to find JPG files that were exported from RAW into the same directory
 """
 
+import optparse
 import os
+import sys
 
 if __name__ == "__main__":
+
+    parser = optparse.OptionParser(usage="usage: %prog [options]")
+
+    parser.add_option(
+            "-d",
+            action="store_true", dest="delete",
+            help="Actually delete files (otherwise test)")
+    args = sys.argv
+    (options, args) = parser.parse_args(args)
+
 
     for root, dirs, files in os.walk('.'):
         jpgs = filter(lambda x:'.jpg' in x, files)
@@ -16,5 +28,8 @@ if __name__ == "__main__":
             cr2 = base + '.cr2'
             crw = base + '.crw'
             if xmp in files and (cr2 in files or crw in files):
-                print "Will delete", os.path.join(root, jpg)
-                os.remove(os.path.join(root, jpg))
+                if options.delete:
+                    print "Deleting", os.path.join(root, jpg)
+                    os.remove(os.path.join(root, jpg))
+                else:
+                    print "Should delete", os.path.join(root, jpg)
