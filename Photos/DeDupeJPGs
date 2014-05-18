@@ -16,4 +16,5 @@ if __name__ == "__main__":
             cr2 = base + '.cr2'
             crw = base + '.crw'
             if xmp in files and (cr2 in files or crw in files):
-                print "Should delete", os.path.join(root, jpg)
+                print "Will delete", os.path.join(root, jpg)
+                os.remove(os.path.join(root, jpg))
