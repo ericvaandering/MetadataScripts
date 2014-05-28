@@ -1,5 +1,6 @@
 Action
 	Animal behavior
+		Animal eggs
 		Bathing
 		Drinking
 		Feeding
@@ -1301,6 +1302,8 @@ Animals
 							{Family Epialtidae}
 							Conical Spider Crab
 								{Xenocarcinus conicus}
+							Sheep Crab
+								{Loxorhynchus grandis}
 							Soft Coral Crab
 								{Hoplophrys oatesii}
 							Wire Coral Crab
@@ -1319,7 +1322,6 @@ Animals
 						Round Crabs
 							Teddy Bear Crab
 								{Polydectus cupulifer}
-						Sheep Crab
 						Spider Crabs
 							Soft Coral Spider Crab
 								{Achaeus spinosus}
@@ -1479,6 +1481,8 @@ Animals
 				Corkscrew Anemone
 				Corkscrew Tentacle Sea Anemone
 					{Macrodactyla doreensis}
+				Fish-eating Anemone
+					{Urticina piscivora}
 				Giant Anemone
 				Haddon's Anemone
 					{Stichodactyla haddoni}
@@ -1672,6 +1676,7 @@ Animals
 					{Synapta maculata}
 			Sea Stars
 				Bat Star
+					{Asterina miniata}
 				Blue Sea Star
 					{Linckia laevigata}
 				Chocolate Chip Sea Star
@@ -1794,6 +1799,10 @@ Animals
 						{Common Reef Squid}
 					Caribbean Reef Squid
 						{Sepioteuthis sepiodea}
+			Chitons
+				{Polyplacophora}
+				Gumboot Chiton
+					{Cryptochiton stelleri}
 			Gastropods
 				Sea Slugs
 					{Subclass Opisthobranchia}
@@ -1826,6 +1835,8 @@ Animals
 						Dorid Nudibranchs
 							{Suborder Doridina}
 							Aegires albopunctatus
+							Anisodoris nobilis
+								{Sea Lemon}
 							Archidoris montereyensis
 							Chromodoris annae
 								{Anna's Chromodoris}
@@ -1843,6 +1854,8 @@ Animals
 								{Bohol Discodoris}
 								{Flatworm Discodoris}
 							Doriopsilla albopunctata
+							Doris odhneri
+								{White Knight Dorid}
 							Gymnodoris sp.
 							Halgerda batangas
 								{Batangas Halgerda}
@@ -1900,6 +1913,8 @@ Animals
 					Side-gilled Slugs
 						Grand Pleurobranch
 				Snails
+					Abalone
+						{Haliotis sp}
 					Atlantic Deer Cowrie
 					Augers
 					Bat Volute
@@ -2458,6 +2473,7 @@ Dive Sites
 		CoCo View Wall
 		First Bight
 		Gold Chain Reef
+		Harold's Hotel
 		Iron Shore
 		Mary's Place
 		Mr. Bud Wreck
@@ -2483,6 +2499,18 @@ Event
 		St. Patricks Day
 	Parade
 	Party
+ID-Algae
+ID-Fish
+ID-Invert
+	ID-Anemone
+	ID-Crustacean
+		ID-Crab
+	ID-Echinoderm
+		ID-SeaStar
+		ID-Urchin
+	ID-Mollusc
+		ID-Slug-Nudi
+		ID-Snail
 Land
 	Beach
 	Canyon

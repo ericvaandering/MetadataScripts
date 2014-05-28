@@ -81,11 +81,6 @@ Age
 	Toddler
 	Woman
 	Young
-Animal
-	!!!birds list -  IMPORT HERE
-	!!!reptile -  IMPORT HERE
-	Mammal
-		!!!felidae list -  IMPORT HERE
 Art
 	Mosaic
 	Ornament
