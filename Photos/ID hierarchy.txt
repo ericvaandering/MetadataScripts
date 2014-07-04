@@ -86,7 +86,10 @@ ID-Known
 ID-Mammal
 	ID-Antelope
 	ID-Bat
+	ID-Carnivore
 	ID-Mongoose
+	ID-Primate
+	ID-Rodent
 ID-More
 ID-NotNeeded
 ID-People

@@ -2499,18 +2499,6 @@ Event
 		St. Patricks Day
 	Parade
 	Party
-ID-Algae
-ID-Fish
-ID-Invert
-	ID-Anemone
-	ID-Crustacean
-		ID-Crab
-	ID-Echinoderm
-		ID-SeaStar
-		ID-Urchin
-	ID-Mollusc
-		ID-Slug-Nudi
-		ID-Snail
 Land
 	Beach
 	Canyon
