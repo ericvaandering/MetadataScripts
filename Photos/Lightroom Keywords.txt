@@ -1297,6 +1297,10 @@ Animals
 							Orangutan Crab
 								{Oncinopus sp.}
 							Unknown Decorator Crab
+						Elbow Crabs
+							{Parthenopidae}
+							Horrid Elbow Crab
+								{Daldorfia horrida}
 						Hairy Clinging Crab
 						Imitator Crabs
 							{Family Epialtidae}
@@ -1330,6 +1334,7 @@ Animals
 							Carupa sp.
 							Charybdis sp.
 							Harlequin Swimming Crab
+							Portunus sp.
 							Sea Cucumber Swimming Crab
 								{Lissocarcinus orbicularis}
 						Unknown Crab
@@ -1345,6 +1350,8 @@ Animals
 							{Dardanus lagopodes}
 						Giant Hermit Crab
 							{Petrochirus diogenes}
+						Hermit Crab
+							{Aniculus Aniculus}
 						Orange Hermit Crab
 							{Pseudopaguristes kuekenthali}
 						Red Reef Hermit
@@ -1456,9 +1463,10 @@ Animals
 						{Odontodactylus scyllarus}
 					Pink-eared Mantis
 						{Odontodactylus latirostris}
+					Purple Spot Mantis
+						{Gonodactylus smithii}
 					Tiger Mantis
 						{Lysiosquilla maculata}
-					Unknown mantis
 				Unknown crustacean
 			Insects
 				Bees
@@ -2121,6 +2129,9 @@ Animals
 			Rhinoceros
 				Black Rhinoceros
 				White Rhinoceros
+		Pangolins
+			Ground Pangolin
+				{Manis temminckii}
 		Primates
 			Apes
 				Chimpanzee
@@ -2548,6 +2559,9 @@ Object
 	Fossil
 	Furniture
 		Bed
+		Chair
+		Closet
+		Table
 	Laundry
 	Lighting
 		Chandelier
@@ -2793,10 +2807,14 @@ Structures & architecture
 		Fountain
 		Garden
 		Gate
+		Landscaping
 		Obelisk
+		Patio
+		Porch
 		Stair
 			{Staircase}
 			{Stairway}
+		Swimming pool
 		Wall
 		Window
 	Place
@@ -2813,6 +2831,8 @@ Structures & architecture
 			{Piazza}
 			{Square}
 			{Plaza}
+	Room
+		Bathroom
 	Structure
 		Amphitheater
 		Barn
@@ -2897,7 +2917,6 @@ Technical Specs
 		Set Date
 		Stitch
 		UFRaw
-		Use for GPS
 	Scans
 		35mm negative
 		35mm print
