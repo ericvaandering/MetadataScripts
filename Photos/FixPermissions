@@ -1,0 +1,10 @@
+#! /bin/sh
+
+# Remove execute bits and write bits where appropriate
+
+find . -name \*.cr2 -exec chmod 644 {} \;
+find . -name \*.mov -exec chmod 644 {} \;
+find . -name \*.crw -exec chmod 644 {} \;
+find . -name \*.jpg -exec chmod 644 {} \;
+find . -name \*.tif -exec chmod 644 {} \;
+find . -name \*.xmp -exec chmod 644 {} \;
