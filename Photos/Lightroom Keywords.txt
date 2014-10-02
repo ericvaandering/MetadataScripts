@@ -2536,6 +2536,7 @@ Land
 	Volcano
 	Waterfront
 Natural phenomenon
+	Flood
 	Rainbow
 	Sunrise
 	Sunset
@@ -2543,6 +2544,7 @@ Natural phenomenon
 		Cloud
 		Fog
 		Ice
+			Frost
 		Rain
 		Snow
 Number
@@ -2553,8 +2555,18 @@ Object
 	Bird nest
 	Clock
 		Analog clock
+		Sun dial
+	Clothing
+		Costume
+	Computing
+		Computer
+			{Pc}
 	Firework
 	Flag
+	Food and drink
+		Bread
+		Cheese
+		Wine
 	Footprint
 	Fossil
 	Furniture
@@ -2723,7 +2735,9 @@ Photography
 	Type of photography
 		Abstract photography
 		Aquascape photography
+		Architectural detail
 		Candid shot
+		City view
 		Food photography
 		Landscape photography
 		Portrait photography
@@ -2762,6 +2776,7 @@ Plants
 		Palm tree
 		Stump
 	Water Plants
+		Duckweed
 	Wild Fruit
 Profession
 	Artist
@@ -2799,11 +2814,13 @@ Structures & architecture
 		Arch
 		Balcony
 		Bell
+		Colonnade
 		Column
 			{Pillar}
 		Dome
 		Door
 			Arched doorway
+			Door knocker
 		Fountain
 		Garden
 		Gate
@@ -2833,9 +2850,12 @@ Structures & architecture
 			{Plaza}
 	Room
 		Bathroom
+		Cellar
+			Wine cellar
 	Structure
 		Amphitheater
 		Barn
+		Basilica
 		Bridge
 		Cafe
 		Capitol
@@ -2982,6 +3002,7 @@ Transportation
 			{Metro}
 		Train
 			Passenger train
+		Tram
 		Truck
 			Van
 	By water

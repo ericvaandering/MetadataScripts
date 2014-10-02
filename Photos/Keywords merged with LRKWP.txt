@@ -3210,6 +3210,7 @@ Natural phenomenon
 			Hailstone
 		Haze
 		Ice
+			Frost
 		Mist
 		Overcast
 		Rain
@@ -3317,6 +3318,7 @@ Object
 		Cuckoo clock
 		Digital clock
 		Hourglass
+		Sun dial
 	Clothes dryer
 	Clothing
 		Button
@@ -3411,6 +3413,10 @@ Object
 	Fishing rod
 		{Fishing pole}
 	Flag
+	Food and drink
+		Bread
+		Cheese
+		Wine
 	Footprint
 	Fossil
 	Freezer
@@ -3981,6 +3987,7 @@ Photography
 		Architecture photography
 		Astrophotography
 		Candid shot
+		City view
 		Food photography
 		Glamour photography
 		Landscape photography
@@ -4024,6 +4031,7 @@ Plants
 		Palm tree
 		Stump
 	Water Plants
+		Duckweed
 	Wild Fruit
 Profession
 	Accountant
@@ -4175,7 +4183,7 @@ Structures & architecture
 		Bird bath
 		Chimney
 		Church bell
-		Colomnade
+		Colonnade
 		Column
 			{Pillar}
 		Cornerstone
@@ -4187,6 +4195,7 @@ Structures & architecture
 			Arched doorway
 			Door knob
 				{Door handle}
+			Door knocker
 		Eaves
 		Epistlye
 			{Architrave}

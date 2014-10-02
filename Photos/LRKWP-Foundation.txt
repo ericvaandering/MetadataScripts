@@ -1171,7 +1171,7 @@ Structures & architecture
 		Bird bath
 		Chimney
 		Church bell
-		Colomnade
+		Colonnade
 		Column
 			{Pillar}
 		Cornerstone
