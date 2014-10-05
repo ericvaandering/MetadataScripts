@@ -704,6 +704,8 @@ Animals
 					{Amblygobius phalaena}
 				Banded Shrimpgoby
 					{Cryptocentrus cinctus}
+				Blackeye Goby
+					{Rhinogobiops nicholsii}
 				Bridled Goby
 					{Coryphopterus glaucofraenum}
 				Candycane Pygmygoby
@@ -1131,16 +1133,27 @@ Animals
 				Longsnout Flathead
 					{Thysanophyrs chiltonae}
 			Flying Gurnard
+			Greenlings
+				{Hexagrammidae}
+				Lingcod
+					{Ophiodon elongatus}
+				Painted Greenling
+					{Oxylebius pictus}
 			Helmet Gurnard
 				{Dactyloptena orientalis}
-			Painted Greenling
 			Scorpionfishes
 				Bandtail Scorpionfish
 					{Scorpaenopsis neglecta}
+				Black Rockfish
+					{Sebastes melanops}
 				Black Scorpionfish
 				California Scorpionfish
+				Copper Rockfish
+					{Sebastes casurinus}
 				Devil Scorpionfish
 					{Scorpaenopsis diabolus}
+				Kelp Rockfish
+					{Sebastes atrovirens}
 				Leaf Scorpionfish
 					{Taenianotus triacanthus}
 				Lionfishes
@@ -1354,6 +1367,7 @@ Animals
 							{Aniculus Aniculus}
 						Orange Hermit Crab
 							{Pseudopaguristes kuekenthali}
+						Pagurus spp
 						Red Reef Hermit
 						Red Sea Anemone Hermit Crab
 							{Dardanus tinctor}
@@ -1513,6 +1527,8 @@ Animals
 				Tube-dwelling Anemone
 				Unknown anemone
 				White-plumed Anemone (Metridium)
+				White-spotted Rose Anemone
+					{Urticina lofotensis}
 			Corallimoprhs
 				Florida Corralimorph
 					{Ricordea florida}
@@ -1693,11 +1709,14 @@ Animals
 					{Culcita novaeguineae}
 				Ghardaqa Sea Star
 				Giant Spined Star
+					{Pisaster giganteus}
 				Granular Sea Star
 					{Choriaster granulatus}
 				Leather Star
 				Luzon Sea Star
 					{Echinaster luzonicus}
+				Red Sea Star
+					{Mediaster aequalis}
 				Red Starfish
 					{Echinaster sepositus}
 				Thorny Sea Star
@@ -1733,6 +1752,7 @@ Animals
 				Red Heart Urchin
 					{Meoma ventricosa ventricosa}
 				Red Sea Urchin
+					{Strongylocentrotus franciscanus}
 				Rock-boring Urchin
 				Sand Dollars
 					Inflated Sea Biscuit
@@ -1843,8 +1863,6 @@ Animals
 						Dorid Nudibranchs
 							{Suborder Doridina}
 							Aegires albopunctatus
-							Anisodoris nobilis
-								{Sea Lemon}
 							Archidoris montereyensis
 							Chromodoris annae
 								{Anna's Chromodoris}
@@ -1858,6 +1876,8 @@ Animals
 								{Reticulated Chromodoris}
 							Chromodoris willani
 								{Willan's Chromodoris}
+							Diaulula nobilis
+								{Sea Lemon}
 							Discodoris boholiensis
 								{Bohol Discodoris}
 								{Flatworm Discodoris}
@@ -1923,35 +1943,49 @@ Animals
 				Snails
 					Abalone
 						{Haliotis sp}
-					Atlantic Deer Cowrie
 					Augers
 					Bat Volute
 						{Cymbiola vespertilio}
-					Black-spotted Egg Cowrie
-						{Calpumus verrucosus}
+					Blue Top Snail
+						{Calliostoma ligatum}
 					Common Hairy Triton
 						{Cymatium pileare}
-					Flamingo Tongue
+					Cowries
+						{Cypraeidae}
+						Atlantic Deer Cowrie
+						Panther Cowrie
+						Ridged Egg Cowrie
+							{Diminovula culmen}
+						Unknown cowrie
+						Zigzag Cowrie
+							{Cypraea ziczac}
+					False Cowries
+						{Ovulidae}
+						Black-spotted Egg Cowrie
+							{Calpumus verrucosus}
+						Flamingo Tongue
+						Margarita Egg Cowrie
+							{Diminovula margarita}
 					Giant Keyhole Limpet
+					Hooked Slipper Snail
+						{Crepidula adunca}
+					Lewis' Moon Snail
+						{Polinices lewisii}
 					Lined Nassa
 						{Nassarious glans}
 					Lip Triton
-					Margarita Egg Cowrie
-						{Diminovula margarita}
-					Panther Cowrie
 					Queen Conch
 					Ramose Murex
 						{Chicoreus ramosus}
 					Red Sea Topshell
 						{Tectus dentatus}
-					Ridged Egg Cowrie
-						{Diminovula culmen}
 					Striated Cone
 					Tapestry Turban
 						{Turbo petholatus}
-					Unknown cowrie
-					Zigzag Cowrie
-						{Cypraea ziczac}
+					Whelks
+						{Buccinidae}
+						Kellet's whelk
+							{Kelletia kelletii}
 				Unknown gastropod
 		Segmented Worms
 			Bearded Fireworm
