@@ -704,6 +704,8 @@ Animals
 					{Amblygobius phalaena}
 				Banded Shrimpgoby
 					{Cryptocentrus cinctus}
+				Bay Goby
+					{Lepidogobius lepidus}
 				Blackeye Goby
 					{Rhinogobiops nicholsii}
 				Bridled Goby
@@ -1527,8 +1529,6 @@ Animals
 				Tube-dwelling Anemone
 				Unknown anemone
 				White-plumed Anemone (Metridium)
-				White-spotted Rose Anemone
-					{Urticina lofotensis}
 			Corallimoprhs
 				Florida Corralimorph
 					{Ricordea florida}
@@ -1866,24 +1866,28 @@ Animals
 							Archidoris montereyensis
 							Chromodoris annae
 								{Anna's Chromodoris}
+							Chromodoris annulata
+								{Ringed Chromodorid}
 							Chromodoris coi
 								{Co's Chromodoris}
 							Chromodoris geometrica
 								{Geometric Chromodoris}
 							Chromodoris magnifica
 								{Magnificent Chromodoris}
+							Chromodoris quadricolor
+								{Pyjama Chromodorid}
 							Chromodoris reticulata
 								{Reticulated Chromodoris}
 							Chromodoris willani
 								{Willan's Chromodoris}
-							Diaulula nobilis
-								{Sea Lemon}
 							Discodoris boholiensis
 								{Bohol Discodoris}
 								{Flatworm Discodoris}
 							Doriopsilla albopunctata
 							Doris odhneri
 								{White Knight Dorid}
+							Fryeria rueppelii
+								{Rueppell's Wart Slug}
 							Gymnodoris sp.
 							Halgerda batangas
 								{Batangas Halgerda}
@@ -1902,6 +1906,10 @@ Animals
 							Nemobratha milleri
 								{Miller's Nemobratha}
 							Peltodoris atromaculata
+							Peltodoris nobilis
+								{Sea Lemon}
+								{Anisodoris nobilis}
+								{Diaulula nobilis}
 							Phyllidia coelestis
 								{Sky Blue Phyllidia}
 							Phyllidia ocellata
@@ -1910,18 +1918,15 @@ Animals
 								{Swollen Phyllidia}
 							Phyllidiella annulata
 								{Ringed Phyllidiella}
+							Phyllidiella pustulosa
+								{Pimpled Phyllidiella}
+								{Pustulose Wart Slug}
 							Phyllidiopsis papilligera
 								{Black-spotted Nudibranch}
 							Polycera abei
 								{Pale Polycera}
-							Pustulose Wart Slug
-								{Pimpled Phyllidiella}
-								{Phyllidiella pustulosa}
-							Pyjama Chromodorid
-							Ringed Chromodorid
 							Risbecia tryoni
 								{Tryon's Risbecia}
-							Rueppell's Wart Slug
 							Tambja morosa
 								{Gloomy Tambja}
 					Sapsucking Slugs
@@ -1948,6 +1953,8 @@ Animals
 						{Cymbiola vespertilio}
 					Blue Top Snail
 						{Calliostoma ligatum}
+					Channeled Top Snail
+						{Calliostoma canaliculatum}
 					Common Hairy Triton
 						{Cymatium pileare}
 					Cowries
@@ -2277,6 +2284,7 @@ Body parts
 	Tusk
 Celestial body
 	Galaxy
+	Moon
 	Star
 Client Name
 	Diveheart.org
