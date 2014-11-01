@@ -403,8 +403,11 @@ Animals
 				Spotted Garden Eel
 					{Heteroconger hassi}
 			Moray Eels
+				Blackspotted Moray
+					{Gymnothorax favagineus}
 				Chain Moray
 				Giant Moray
+					{Gymnothorax javanicus}
 				Goldentail Moray
 				Green Moray Eel
 				Peppered Moray
@@ -1402,6 +1405,8 @@ Animals
 							{Vir philippinensis}
 						Bumblebee Shrimp
 							{Gnathophyllum americanum}
+						Dancing Shrimp
+							{Rhynchocinetes durbanensis}
 						Emperor Shrimp
 							{Periclimenes imperator}
 						Golden Coral Shrimp
@@ -1451,6 +1456,8 @@ Animals
 					Squat Lobsters & Porcelain Crabs
 						Porcelain Crabs
 							{Family Porcellanidae}
+							Aliaporcellana sp.
+								{Aliaporcellana sp. 5}
 							Soft Coral Porcelain Crab
 								{Lissopocellana nakasonei}
 							Spotted Porcelain Crab
@@ -1836,6 +1843,8 @@ Animals
 					{Subclass Opisthobranchia}
 					Headshield Slugs
 						{Order Cephalaspidea}
+						Chelidonura amoena
+							{Lovely Headshield Slug}
 						Chelidonura inornata
 							{Headband Headshield Slug}
 						Chelidonura varians
@@ -1893,6 +1902,10 @@ Animals
 								{Batangas Halgerda}
 							Halgerda carlsoni
 								{Carlson's Halgerda}
+							Hypselodoris zephyra
+								{West Wind Hypselodoris}
+							Jorunna funebris
+								{Funeral Jorunna}
 							Jorunna rubescens
 								{Red-lined Jorunna}
 							Nemobratha chamberlaini
@@ -1925,10 +1938,16 @@ Animals
 								{Black-spotted Nudibranch}
 							Polycera abei
 								{Pale Polycera}
+							Risbecia pulchella
+								{Beautiful Risbecia}
 							Risbecia tryoni
 								{Tryon's Risbecia}
+							Roboastra gracilis
+								{Slender Roboastra}
 							Tambja morosa
 								{Gloomy Tambja}
+							Thecacera sp.
+								{Thecacera sp. 1}
 					Sapsucking Slugs
 						{Order Sacoglossa}
 						Costasiella kuroshimae
@@ -1938,6 +1957,8 @@ Animals
 						Lettuce Sea Slug
 						Painted Elysia
 							{Elysia picta}
+						Thuridilla gracilis
+							{Slender Sapsucking Slug}
 					Sea Hares
 						{Order Anaspidea}
 						Aplysia fasciata

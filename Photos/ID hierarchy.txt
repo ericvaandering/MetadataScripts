@@ -42,6 +42,7 @@ ID-Fish
 	ID-Shark Ray
 	ID-ShrimpFish
 	ID-Squirrelfish
+	ID-Sweeper
 	ID-Trigger
 	ID-Wrasse
 ID-Huh
