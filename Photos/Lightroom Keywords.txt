@@ -2598,6 +2598,8 @@ Land
 	Vineyard
 	Volcano
 	Waterfront
+Material
+	Marble
 Natural phenomenon
 	Flood
 	Rainbow
@@ -2615,6 +2617,7 @@ Number
 		Crowd
 		Small group
 Object
+	Artifact
 	Bird nest
 	Clock
 		Analog clock
@@ -2641,6 +2644,7 @@ Object
 	Lighting
 		Chandelier
 		Lamp
+	Machine
 	Map
 	Photo gear
 		Still camera
@@ -2919,6 +2923,7 @@ Structures & architecture
 		Amphitheater
 		Barn
 		Basilica
+		Bathhouse
 		Bridge
 		Cafe
 		Capitol

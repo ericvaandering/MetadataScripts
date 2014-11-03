@@ -3312,6 +3312,7 @@ Object
 	Aiguillette
 		{Aiglet}
 	Air condition
+	Artifact
 	Axle
 	Bag
 		Bin bag
