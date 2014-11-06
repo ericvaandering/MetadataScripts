@@ -18,16 +18,67 @@ def exivKeywords(fileName):
             keywordList.append(hierarchy)
     except:
         pass
-    
+
     return keywordList
 
-# Exif.Image.ImageDescription                  Ascii       8  caption
-# Iptc.Application2.Caption                    String      7  caption
-# Xmp.dc.description                           LangAlt     1  lang="x-default" caption
-# Nakuru:Indonesia ewv$ !647
-# exiv2 -p a pr ~/data/LRWork/WIP-Photos/Indonesia/54471008.xmp | grep title
-# Iptc.Application2.ObjectName                 String      5  title
-# Xmp.dc.title                                 LangAlt     1  lang="x-default" title
+def exivSetCaption(fileName, caption=None, override=False):
+    """
+    Set (by setting one) the following EXIF tags:
+
+        Exif.Image.ImageDescription                  Ascii       8  caption
+        Iptc.Application2.Caption                    String      7  caption
+        Xmp.dc.description                           LangAlt     1  lang="x-default" caption
+    """
+
+    if not caption:
+        return False
+
+    try:
+        cmd =  'exiv2 -Pt -g Iptc.Application2.Caption "%s"' % (fileName)
+        status, output = commands.getstatusoutput(cmd)
+        if output:
+            return False
+    except:
+        return False
+
+    try:
+        cmd =  'exiv2 -M"set Iptc.Application2.Caption String %s" "%s"' % (caption, fileName)
+        status, output = commands.getstatusoutput(cmd)
+    except:
+        print "Could not set caption for ", fileName
+        return False
+
+    return True
+
+def exivSetTitle(fileName, title=None, override=False):
+    """
+    Set (by setting one) the following EXIF tags:
+
+        Iptc.Application2.ObjectName                 String      5  title
+        Xmp.dc.title                                 LangAlt     1  lang="x-default" title
+    """
+
+    if not title:
+        return False
+
+    try:
+        cmd =  'exiv2 -Pt -g Iptc.Application2.ObjectName "%s"' % (fileName)
+        status, output = commands.getstatusoutput(cmd)
+        if output:
+            return False
+    except:
+        return False
+
+    try:
+        cmd =  'exiv2 -M"set Iptc.Application2.ObjectName String %s" "%s"' % (title, fileName)
+        status, output = commands.getstatusoutput(cmd)
+    except:
+        print "Could not set title for ", fileName
+        return False
+
+    return True
+
+
 
 if __name__ == "__main__":
 
@@ -35,19 +86,18 @@ if __name__ == "__main__":
     Set titles and captions from keywords
     """
 
-# parser = optparse.OptionParser(usage="usage: %prog [options]")
-# 
-# parser.add_option(
-#         "-n",
-#         action="store_true", dest="test",
-#         help="Don't change any files, print what would happen")
-# 
-# args = sys.argv
-# (options, args) = parser.parse_args(args)
+    # parser = optparse.OptionParser(usage="usage: %prog [options]")
+    #
+    # parser.add_option(
+    #         "-n",
+    #         action="store_true", dest="test",
+    #         help="Don't change any files, print what would happen")
+    #
+    # args = sys.argv
+    # (options, args) = parser.parse_args(args)
 
     fileNames = []
     metaFile = re.compile(r'[ \w\-]+\.(xmp)')
-
 
     # Collect list of XMP files
     for fileName in os.listdir('.'):
@@ -58,6 +108,8 @@ if __name__ == "__main__":
         needsID = False
         hasAnimal = False
         titles = []
+
+        # Find photos that satisfy the rules (one more more Animals, nothing needing further ID)
         keywords = exivKeywords(fileName)
         for keyword in keywords:
             if keyword[0].find('ID-') > -1:
@@ -65,5 +117,16 @@ if __name__ == "__main__":
             if keyword[0] == 'Animals':
                 hasAnimal = True
                 titles.append(keyword[-1])
+
+        # Build an English title for these
         if not needsID and hasAnimal and titles:
-            print fileName, "will be set to ",  titles
+            if len(titles) < 3:
+                title = ' and '.join(titles)
+            else:
+                title = ', '.join(titles)
+
+            # Set the caption and title for these things
+            setCaption = exivSetCaption(fileName, caption=title, override=False)
+            setTitle = exivSetTitle(fileName, title=title, override=False)
+            if setCaption or setTitle:
+                print fileName, 'set to "%s"' % title
