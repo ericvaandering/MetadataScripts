@@ -1,0 +1,69 @@
+#! /usr/bin/env python
+# -*- coding: utf-8 -*-
+
+import commands
+import os
+import sys
+import optparse
+import re
+import time
+
+def exivKeywords(fileName):
+    keywordList = []
+    cmd =  'exiv2 -Pt -g Xmp.lr.hierarchicalSubject "%s"' % (fileName)
+    try:
+        status, output = commands.getstatusoutput(cmd)
+        for keyword in output.split(', '):
+            hierarchy = keyword.split('|')
+            keywordList.append(hierarchy)
+    except:
+        pass
+    
+    return keywordList
+
+# Exif.Image.ImageDescription                  Ascii       8  caption
+# Iptc.Application2.Caption                    String      7  caption
+# Xmp.dc.description                           LangAlt     1  lang="x-default" caption
+# Nakuru:Indonesia ewv$ !647
+# exiv2 -p a pr ~/data/LRWork/WIP-Photos/Indonesia/54471008.xmp | grep title
+# Iptc.Application2.ObjectName                 String      5  title
+# Xmp.dc.title                                 LangAlt     1  lang="x-default" title
+
+if __name__ == "__main__":
+
+    """
+    Set titles and captions from keywords
+    """
+
+# parser = optparse.OptionParser(usage="usage: %prog [options]")
+# 
+# parser.add_option(
+#         "-n",
+#         action="store_true", dest="test",
+#         help="Don't change any files, print what would happen")
+# 
+# args = sys.argv
+# (options, args) = parser.parse_args(args)
+
+    fileNames = []
+    metaFile = re.compile(r'[ \w\-]+\.(xmp)')
+
+
+    # Collect list of XMP files
+    for fileName in os.listdir('.'):
+        if metaFile.match(fileName):
+            fileNames.append(fileName)
+
+    for fileName in fileNames:
+        needsID = False
+        hasAnimal = False
+        titles = []
+        keywords = exivKeywords(fileName)
+        for keyword in keywords:
+            if keyword[0].find('ID-') > -1:
+                needsID = True
+            if keyword[0] == 'Animals':
+                hasAnimal = True
+                titles.append(keyword[-1])
+        if not needsID and hasAnimal and titles:
+            print fileName, "will be set to ",  titles
