@@ -1111,6 +1111,7 @@ Animals
 				Titan Triggerfish
 		Rays
 			Bluespotted Stingray
+				{Neotrygon kuhlii}
 			Lesser Electric Ray
 			Southern Stingray
 			Spotted Eagle Ray
@@ -1893,6 +1894,10 @@ Animals
 								{Bohol Discodoris}
 								{Flatworm Discodoris}
 							Doriopsilla albopunctata
+							Doriprismatica atromarginata
+								{Glossodoris astromarginata}
+								{Black-margined Glossodoris}
+								{Black-margined Doriprismatica}
 							Doris odhneri
 								{White Knight Dorid}
 							Fryeria rueppelii
@@ -1908,6 +1913,8 @@ Animals
 								{Funeral Jorunna}
 							Jorunna rubescens
 								{Red-lined Jorunna}
+							Mexichromis multituberculata
+								{Multi-pustuled Mexichromis}
 							Nemobratha chamberlaini
 								{Chamberlain's Nemobratha}
 							Nemobratha cristata
@@ -1927,6 +1934,8 @@ Animals
 								{Sky Blue Phyllidia}
 							Phyllidia ocellata
 								{Ocellated Phyllidia}
+							Phyllidia picta
+								{Black-rayed Phyllidia}
 							Phyllidia varicosa
 								{Swollen Phyllidia}
 							Phyllidiella annulata
@@ -2445,9 +2454,31 @@ Dive Sites
 		S.S. Duane Wreck
 		Spanky's Reef
 	Haigh Quarry
+	Indonesia
+		Bali
+			Batuniti
+			Coral Gardens
+			Dropoff
+			Liberty Wreck
+			Melasti North
+			Melasti South
+			Noisy Reef
+			Seraya Secrets
+			Two Trees
+		Gili Islands
+			Bounty Wreck
+			Deep Turbo
+			Geoffrey's
+			Gili Air Harbor
+			Halik
+			Han's Reef
+			Mantigi Bay
+			Shark Point
+			Sunset Reef
 	Lake Michigan
 		Buccaneer
 		Car Ferry #2
+		Dredge 906
 		Fin Seeker
 		George W Morley
 		Illinois Dredge & Holly Barge
@@ -2458,6 +2489,7 @@ Dive Sites
 		Milwaukee Car Ferry
 		Niagara
 		Northerner
+		Prins Willem V
 		Rotarian
 		Seabird
 		St. Mary
