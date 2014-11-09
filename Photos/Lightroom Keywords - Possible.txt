@@ -37,6 +37,7 @@ Action
 	Gambling
 	Grabing
 	Hammering
+	Historical re-enactment
 	Hitting
 	Holding
 	Hugging
@@ -458,6 +459,10 @@ Animals
 			Crinoid Clingfish
 				{Discotrema monogrammum}
 			Red Clingfish
+		Cods
+			{Gadiformes}
+			Burbot
+				{Lota lota}
 		Damselfishes
 			Anemonefishes
 				Red Sea Anemonefish
@@ -484,6 +489,8 @@ Animals
 				Goldentail Moray
 				Green Moray Eel
 				Peppered Moray
+				Ribbon Eel
+					{Rhinomuraena quaesita}
 				Snowflake Moray
 					{Echidna nebulosa}
 				Spotted Moray Eel
@@ -1278,6 +1285,8 @@ Animals
 					{Paracentropogon longispinus}
 				Unknown Waspfish
 		Sharks
+			Blacktip Reef Shark
+				{Carcharhinus melanopterus}
 			Caribbean Black-tipped Reef Shark
 			Grey Reef Shark
 			Hammerhead Shark
@@ -1285,6 +1294,8 @@ Animals
 			Nurse Shark
 			Reef Shark
 			Swell Shark
+			Whitetip Reef Shark
+				{Triaenodon obesus}
 		Silversides
 			{Atheriniformes}
 			Hardyhead Silverside
@@ -1300,18 +1311,13 @@ Animals
 					{Solenostomus paradoxus}
 				Robust Ghost Pipefish
 					{Solenostomus cyanopterus}
+				Roughsnout Ghost Pipefish
+					{Solenostomus paegnius}
 			Pipefishes & Seahorses
 				{Family Syngnathidae}
 				Broadnosed Pipefish
 				Double-ended Pipefish
-				Egyptian Seahorse
-					{Hippocampus suezensis}
 				Harlequin Pipefish
-				Lined Seahorse
-				Long-snouted Seahorse
-					{Hippocampus Hippocampus}
-				Longsnout Seahorse
-					{Hippocampus reidi}
 				Network Pipefish
 					{Corythoichthys flavofasciatus}
 				Pipefishes
@@ -1337,8 +1343,19 @@ Animals
 						{Hippocampus taeniopterus}
 					Denise's Pygmy Seahorse
 						{Hippocampus denise}
+					Egyptian Seahorse
+						{Hippocampus suezensis}
+					Lined Seahorse
+					Long-snouted Seahorse
+						{Hippocampus Hippocampus}
+					Longsnout Seahorse
+						{Hippocampus reidi}
+					Pygmy Seahorse
+						{Hippocampus bargibanti}
 					Thorny Seahorse
 						{Hippocampus hystrix}
+					Zebra-snout Seahorse
+						{Hippocampus barbouri}
 				Shortfin Pipefish
 					{Cosmocampus elucens}
 			Snipefishes and Shrimpfishes
@@ -1857,6 +1874,8 @@ Animals
 			Pseudoceros sp.
 			Script Flatworm
 				{Pseudoceros scriptus}
+			Single Stripe Flatworm
+				{Pseudoceros monostichos}
 			Unknown Flatworm
 			Waminoa sp.
 		Mollusks
@@ -1930,6 +1949,8 @@ Animals
 							{Suborder Aeolidina}
 							Caloria indica
 								{Indian Caloria}
+							Cuthona yamasui
+								{Yamasu's Cuthona}
 							Flabellina iodinea
 							Hermissenda crassicornis
 							Phyllodesmium briareum
@@ -1942,11 +1963,17 @@ Animals
 							{Suborder Arminina}
 							Armina semperi
 						Dendronotid Nudibranchs
+							Doto sp.
+								{Donut Doto}
+								{Doto sp. 1}
 							Tritonia festiva
 						Dorid Nudibranchs
 							{Suborder Doridina}
 							Aegires albopunctatus
 							Archidoris montereyensis
+							Ceratosoma trilobatum
+								{Three-lobed T-bar Nudibranch}
+								{Three-lobed Ceratosoma}
 							Chromodoris annae
 								{Anna's Chromodoris}
 							Chromodoris annulata
@@ -1955,6 +1982,8 @@ Animals
 								{Co's Chromodoris}
 							Chromodoris geometrica
 								{Geometric Chromodoris}
+							Chromodoris kuniei
+								{Kunie's Chromodoris}
 							Chromodoris magnifica
 								{Magnificent Chromodoris}
 							Chromodoris quadricolor
@@ -1975,11 +2004,20 @@ Animals
 								{White Knight Dorid}
 							Fryeria rueppelii
 								{Rueppell's Wart Slug}
+							Glossodoris cincta
+								{Girdled Glossodoris}
 							Gymnodoris sp.
 							Halgerda batangas
 								{Batangas Halgerda}
 							Halgerda carlsoni
 								{Carlson's Halgerda}
+							Hypselodoris infucata
+								{Colorful Hypselodoris}
+								{Painted Hypselodoris}
+							Hypselodoris kanga
+								{Kanga Hypselodoris}
+							Hypselodoris whitei
+								{White's Hypselodoris}
 							Hypselodoris zephyra
 								{West Wind Hypselodoris}
 							Jorunna funebris
@@ -4189,6 +4227,7 @@ Sport
 	Cricket
 	Cycling
 	Diving
+	Falconry
 	Football
 	Golf
 	Gymnastics
@@ -4212,6 +4251,7 @@ Sport
 	Horse racing
 	Horse riding
 	Hurdles
+	Jousting
 	Kayaking
 	Marathon
 	Martial art

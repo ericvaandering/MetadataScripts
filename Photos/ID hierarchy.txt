@@ -12,6 +12,7 @@ ID-Fish
 	ID-Bass-Grouper
 		ID-Anthias
 		ID-Hamlet
+	ID-Batfish
 	ID-Butterfly-Angel
 	ID-Cardinal
 	ID-Catfish
