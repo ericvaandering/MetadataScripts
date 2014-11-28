@@ -516,10 +516,15 @@ Animals
 		Flatfishes
 			{Pleuronectiformes}
 			Eyed Flounder
+			Leopard Flounder
+				{Bothus pantherinus}
+				{Panther Flounder}
 			Moses Sole
 				{Pardarchirus marmoratus}
-			Panther Flounder
 			Peacock Flounder
+				{Bothus lunatus}
+			Peacock Flounder (Pacific)
+				{Bothus mancus}
 			Spiny Flounder
 			Strange Sole
 				{Aseraggodes xenicus}
@@ -570,6 +575,8 @@ Animals
 					{Pomacanthus sexstriatus}
 				Vermiculated Angelfish
 					{Chaetodontoplus mesoleucus}
+				Yellow-mask Angelfish
+					{Pomacanthus xanthometopon}
 				Yellowbar Angelfish
 				Zebra Angelfish
 			Barracudas
@@ -709,17 +716,25 @@ Animals
 					{Chrysiptera arnazae}
 				Beaugregory
 					{Stegastes leucostictus}
+				Bicolor Chromis
+					{Chromis margaritifer}
 				Bicolor Damselfish
 				Blue Chromis
+				Blue Devil
+					{Chrysiptera cyanea}
 				Bluegreen Chromis
 				Brown Chromis
 				Garibaldi
+				Goldbelly Damsel
+					{Pomacentrus auriventris}
 				Golden Damsel
 					{Amblyglyphidodon aureus}
 				Half-and-Half Chromis
 				Humbug Dascyllus
 				Indo-Pacific Sergeant
 					{Abudefduf vaigiensis}
+				Javanese Damsel
+					{Neoglyphidodon oxyodon}
 				Longfin Damselfish
 					{Stegastes diencaeus}
 				Pale Damselfish
@@ -732,6 +747,8 @@ Animals
 				Scissortail Sergeant
 					{Abudefduf sexfasciatus}
 				Sergeant Major
+				Staghorn Damsel
+					{Amblyglyphidodon curacao}
 				Sulphur Damsel
 				Ternate Chromis
 					{Chromis ternatensis}
@@ -855,6 +872,8 @@ Animals
 				Tomate
 				White Grunt
 			Hawkfishes
+				Arc-eye Hawkfish
+					{Paracirrhites arcatus}
 				Dwarf Hawkfish
 					{Cirrhitichthys falco}
 				Freckled Hawkfish
@@ -883,7 +902,11 @@ Animals
 				Blue Parrotfish
 				Bluelip Parrotfish
 					{Cryptotomus roseus}
+				Bluepatch Parrotfish
+					{Scarus forsteni}
 				Bullethead Parrotfish
+				Bumphead Parrotfish
+					{Bolbometopon muricatum}
 				Dotted Parrotfish
 					{Calotomus viridescens}
 				Dusky Parrotfish
@@ -919,6 +942,8 @@ Animals
 			Rabbitfishes
 				Golden Rabbitfish
 					{Siganus guttatus}
+				Masked Rabbitfish
+					{Siganus puellus}
 				Squaretail Rabbitfish
 					{Siganus luridus}
 				Stellate Rabbitfish
@@ -947,6 +972,10 @@ Animals
 						{Pseudanthias pascalus}
 					Red Sea Anthias
 						{Pseudanthias taeniatus}
+					Redfin Anthias
+						{Pseudanthias dispar}
+					Squarespot Anthias
+						{Pseudanthias pleurotaenia}
 					Threadfin Anthias
 						{Pseudanthias huchti}
 				Coney
@@ -1024,6 +1053,8 @@ Animals
 				Yellowtail Snapper
 			Spadefishes
 				Atlantic Spadefish
+				Circular Spadefish
+					{Platax orbicularis}
 				Golden Spadefish
 					{Platax boersii}
 				Longfin Spadefish
@@ -1035,6 +1066,8 @@ Animals
 					{Nasao vlamingii}
 				Black Surgeonfish
 				Bluespine Unicornfish
+				Convict Surgeonfish
+					{Acanthurus triostegus}
 				Doctorfish
 				Lined Bristletooth
 				Ocean Surgeonfish
@@ -1150,6 +1183,8 @@ Animals
 				Whitespotted Filefish
 			Porcupinefishes
 				Balloonfish
+				Black-blotched Porcupinefish
+					{Diodon liturosus}
 				Porcupinefish
 				Web Burrfish
 				Yellowspotted Burrfish
@@ -1169,7 +1204,7 @@ Animals
 					{Canthigaster papua}
 				Red Sea Toby
 				Sharpnose Puffer
-				Starry Puffer
+				Star Puffer
 					{Arothron stellatus}
 				Striped Puffer
 					{Arothron manilensis}
@@ -1397,6 +1432,11 @@ Animals
 						Channel Clinging Crab
 						Common Sally-light-foot
 							{Grapsus tenuicristatus}
+						Coral Crabs
+							{Trapeziidae}
+							Red-spotted Guard Crab
+							Yellow Dot Guard Crab
+								{Trapezia lutea}
 						Cyrique River Crab
 						Decorator Crab
 						Decorator Crabs
@@ -1429,7 +1469,6 @@ Animals
 								{Umalana purarensis}
 							Four Ring Purse Crab
 								{Leucosia anatum}
-						Red-spotted Guard Crab
 						Redeye Sponge Crab
 						Redhair Swimming Crab
 						Round Crabs
@@ -1496,6 +1535,9 @@ Animals
 							{Vir philippinensis}
 						Bumblebee Shrimp
 							{Gnathophyllum americanum}
+						Coleman Shrimp
+							{Periclimenes colemani}
+						Cuapetes sp.
 						Dancing Shrimp
 							{Rhynchocinetes durbanensis}
 						Emperor Shrimp
@@ -1503,6 +1545,8 @@ Animals
 						Golden Coral Shrimp
 						Graceful Anemone Shrimp
 							{Ancylomenes venustus}
+						Harlequin Shrimp
+							{Hymenocera elegans}
 						Hidden Corallimorph Shrimp
 							{Pliopontonia furtiva}
 						Humpback Prawn
@@ -1535,13 +1579,17 @@ Animals
 								{Alpheus randalli}
 							Red Snapping Shrimp
 								{Alpheus armatus}
+							Tiger Snapping Shrimp
+								{Alpheus bellulus}
 						Spotted Cleaner Shrimp
 							{Periclimenes rathbunae}
 						Squat Anemone Shrimp
 							{Thor amboinensis}
 						Unknown Night Shrimp
-						Unknown Shrimp
+						Urocaridella sp.
 						Velvet Shrimp
+						White-banded Cleaner Shrimp
+							{Lysmata amboinensis}
 						Zanzibar Whip Coral Shrimp
 							{Dasycaris zanzibarica}
 					Squat Lobsters & Porcelain Crabs
@@ -1569,6 +1617,8 @@ Animals
 					{Stomatapoda}
 					Blue Spot Mantis
 						{Haptosquilla stoliura}
+					Checkered-eye Mantis
+						{Pseudosquilla ciliata}
 					Ciliated False Squilla
 						{Pseudosquilla ciliate}
 					Golden Mantis
@@ -1766,6 +1816,8 @@ Animals
 				Savigny's Feather Star
 				Sawtooth Feather Star
 			Sea Cucumbers
+				Amberfish Sea Cucumber
+					{Thelenota anax}
 				Black sea cucumber
 				Blackmouth Sea Cucumber
 					{Bohadschia graeffei}
@@ -1784,6 +1836,8 @@ Animals
 					{Synaptula lamperti}
 				Lion's Paw Sea Cucumber
 					{Euapta godeffroyi}
+				Pineapple Sea Cucumber
+					{Thelenota ananas}
 				Prickly Cucumber
 				Synaptula reciprocans
 					{Synaptula reciprocans}
@@ -1801,6 +1855,8 @@ Animals
 					{Asterina miniata}
 				Blue Sea Star
 					{Linckia laevigata}
+				Brown Mesh Sea Star
+					{Nardoa galatheae}
 				Chocolate Chip Sea Star
 					{Protoreaster nodosus}
 				Cushion Star
@@ -1813,6 +1869,8 @@ Animals
 				Leather Star
 				Luzon Sea Star
 					{Echinaster luzonicus}
+				Peppermint Sea Star
+					{Fromia monilis}
 				Red Sea Star
 					{Mediaster aequalis}
 				Red Starfish
@@ -1921,6 +1979,9 @@ Animals
 						{Thaumoctopus mimicus}
 					Mosaic Octopus
 						{Abdopus abaculus}
+				Pygmy Squids
+					{Idiosepiidae}
+					Idiosepius sp.
 				Squids
 					Bigfin Reef Squid
 						{Sepioteuthis lessoniana}
@@ -4591,7 +4652,7 @@ Technical Specs
 		Rename
 		Set Date
 		Stitch
-		UFRaw
+		Unique - preserve
 	Scans
 		35mm negative
 		35mm print
