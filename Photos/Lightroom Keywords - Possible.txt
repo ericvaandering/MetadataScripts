@@ -163,7 +163,7 @@ Animals
 				Wood Duck
 			Geese
 				Canada Goose
-				Egyptian Geese
+				Egyptian Goose
 				Spur-winged Goose
 					{Plectropterus gambensis}
 			Mergansers
@@ -463,9 +463,6 @@ Animals
 			{Gadiformes}
 			Burbot
 				{Lota lota}
-		Damselfishes
-			Anemonefishes
-				Red Sea Anemonefish
 		Eels & Morays
 			{Anguilliformes}
 			Conger Eels
@@ -1291,7 +1288,7 @@ Animals
 						{Pterois volitans}
 					Zebra Lionfish
 						{Dendrochirus zebra}
-				Madeira rockfish
+				Madeira Rockfish
 				Raggy Scorpionfish
 					{Scorpaenopsis venosa}
 				Rainbow Scorpionfish
@@ -1395,6 +1392,8 @@ Animals
 					{Cosmocampus elucens}
 			Snipefishes and Shrimpfishes
 				{Centriscidae}
+				Razorfish
+					{Aeoliscus strigatus}
 				Rigid Shrimpfish
 					{Centriscus scutatus}
 			Trumpetfishes
@@ -1913,8 +1912,12 @@ Animals
 				Sand Dollars
 					Inflated Sea Biscuit
 						{Clypeaster rosaceus}
+				Savigny's Longspine Sea Urchin
+					{Diadema savignyi}
 				Six-Keyhole Sand Dollar
 				Slate-pencil Urchin
+				Stained Urchin
+					{Pseudoboletia maculata}
 				Variegated Urchin
 				West Indian Sea Egg
 					{Tripneustes ventricosus}
@@ -1925,8 +1928,12 @@ Animals
 			Fuscia Flatworm
 				{Pseudoceros ferrugineus}
 			Gold-dotted Flatworm
+			Hancock's Flatworm
+				{Pseudobiceros hancockanus}
 			One Tree Island Flatworm
 				{Pseudobiceros uniarborensis}
+			Orange and Gray Margin Flatworm
+				{Callioplana marginata}
 			Persian Carpet Flatworm
 				{Pseudobiceros bedfordi}
 			Pseudoceros sp.
@@ -1946,6 +1953,7 @@ Animals
 				Electric Fileclam
 					{Ctenoides ales}
 				Fluted Giant Clam
+					{Tridacna squamosa}
 				Honeycomb Oyster
 					{Hyoyissa hyotis}
 				Iridescent Scallop
@@ -2027,6 +2035,7 @@ Animals
 							Doto sp.
 								{Donut Doto}
 								{Doto sp. 1}
+							Marionia sp.
 							Tritonia festiva
 						Dorid Nudibranchs
 							{Suborder Doridina}
@@ -2165,6 +2174,8 @@ Animals
 						Panther Cowrie
 						Ridged Egg Cowrie
 							{Diminovula culmen}
+						Tiger Cowrie
+							{Cypraea tigris}
 						Unknown cowrie
 						Zigzag Cowrie
 							{Cypraea ziczac}
@@ -2183,9 +2194,17 @@ Animals
 					Lined Nassa
 						{Nassarious glans}
 					Lip Triton
+					Mitres
+						{Mitridae}
+						File Mitre
+							{Cancilla filaris}
+					Murex
+						{Muricidae}
+						Ramose Murex
+							{Chicoreus ramosus}
+						Snipe's Bill Murex
+							{Haustellum haustellum}
 					Queen Conch
-					Ramose Murex
-						{Chicoreus ramosus}
 					Red Sea Topshell
 						{Tectus dentatus}
 					Striated Cone
@@ -2207,6 +2226,7 @@ Animals
 			Darklined Fire Worm
 				{Chloeia fusca}
 			Feather Duster Worms
+				Bispira sp.
 				Chone infundibuliformis
 				Ghost Feather Duster
 				Magnificent Feather Duster
@@ -3001,23 +3021,30 @@ Dive Sites
 		The Suburbs
 		The Wall
 		Witches Point
-	Florida Keys
-		Banana Reef (Grecian Rocks)
-		Betty's Reef
-		Carysfort Lighthouse
-		Carysfort South
-		Christ of the Deep
-		City of Washington Wreck
-		Eagle Wreck
-		Fingers & Mike's Wreck
-		French Reef
-		Grecian Rocks
-		Hen and Chickens
-		North North Dry Rocks
-		Pillar Coral
-		PT's Ledge
-		S.S. Duane Wreck
-		Spanky's Reef
+	Florida
+		Florida Atlantic Coast
+			Blue Heron Bridge
+			Corridor Wrecks
+				{Mizpah Corridor}
+			Juno Ledge
+				{Monkey's Ledge}
+		Florida Keys
+			Banana Reef (Grecian Rocks)
+			Betty's Reef
+			Carysfort Lighthouse
+			Carysfort South
+			Christ of the Deep
+			City of Washington Wreck
+			Eagle Wreck
+			Fingers & Mike's Wreck
+			French Reef
+			Grecian Rocks
+			Hen and Chickens
+			North North Dry Rocks
+			Pillar Coral
+			PT's Ledge
+			S.S. Duane Wreck
+			Spanky's Reef
 	Haigh Quarry
 	Indonesia
 		Bali
@@ -3914,6 +3941,7 @@ Object
 	Thumbtack
 		{Drawing pin}
 	Tie
+	Tire
 	Tool
 		Anvil
 		Axe
@@ -4430,6 +4458,7 @@ Structures & architecture
 		Wall
 		Window
 	Place
+		Camp
 		Cemetery
 			{Graveyard}
 		Courtyard
@@ -4484,6 +4513,7 @@ Structures & architecture
 		Brewery
 		Bridge
 		Bunker
+		Cabin
 		Cafe
 		Capitol
 		Casino
