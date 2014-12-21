@@ -438,7 +438,10 @@ Animals
 		Anglerfishes
 			{Lophiiformes}
 			Batfishes
+				Polka-dot Batfish
+					{Ogcocephalus radiatus}
 				Shortnose Batfish
+					{Ogcocephalus nasutus}
 			Frogfishes
 				Giant Frogfish
 					{Antennarius commersoni}
@@ -981,6 +984,7 @@ Animals
 				Greater Soapfish
 				Groupers
 					Black Grouper
+						{Mycteroperca bonaci}
 					Blacktip Grouper
 					Bluespotted Grouper
 						{Cephalopholis cynanostigma}
@@ -1025,6 +1029,7 @@ Animals
 				Tobaccofish
 			Snappers
 				Black Margate
+					{Anisotremus surinamensis}
 				Black Snapper
 					{Macolor niger}
 				Checkered Snapper
@@ -1050,6 +1055,7 @@ Animals
 				Yellowtail Snapper
 			Spadefishes
 				Atlantic Spadefish
+					{Chaetodipterus faber}
 				Circular Spadefish
 					{Platax orbicularis}
 				Golden Spadefish
@@ -1114,6 +1120,7 @@ Animals
 					Diana's Hogfish
 						{Bodianus diana}
 					Hogfish
+						{Lachnolaimus maximus}
 					Redfin Hogfish
 						{Bodianus dictynna}
 					Spanish Hogfish
@@ -1421,14 +1428,12 @@ Animals
 						Arrowhead Crab
 							{Huenia heraldica}
 						Batwing Coral Crab
-						Blue Crabs
 						Box Crabs
 							{Family Calappidae}
 							Rough Box Crab
 								{Calappa gallus}
 							Spotted Box Crab
 								{Calappa philargius}
-						Channel Clinging Crab
 						Common Sally-light-foot
 							{Grapsus tenuicristatus}
 						Coral Crabs
@@ -1449,7 +1454,6 @@ Animals
 							{Parthenopidae}
 							Horrid Elbow Crab
 								{Daldorfia horrida}
-						Hairy Clinging Crab
 						Imitator Crabs
 							{Family Epialtidae}
 							Conical Spider Crab
@@ -1460,8 +1464,6 @@ Animals
 								{Hoplophrys oatesii}
 							Wire Coral Crab
 								{Xenocarcinus tuberculatus}
-						Neck Crab
-							{Podochela sp.}
 						Nimble Spray Crab
 						Purse Crabs
 							Bulbous Purse Crab
@@ -1469,29 +1471,37 @@ Animals
 							Four Ring Purse Crab
 								{Leucosia anatum}
 						Redeye Sponge Crab
-						Redhair Swimming Crab
 						Round Crabs
 							Teddy Bear Crab
 								{Polydectus cupulifer}
 						Spider Crabs
+							Channel Clinging Crab
+							Hairy Clinging Crab
+							Neck Crab
+								{Podochela sp.}
 							Soft Coral Spider Crab
 								{Achaeus spinosus}
+							Yellowline Arrow Crab
+								{Stenorhynchus seticornis}
 						Swimming Crabs
 							{Family Portunidae}
+							Blue Crabs
 							Carupa sp.
 							Charybdis sp.
 							Harlequin Swimming Crab
 							Portunus sp.
+							Redhair Swimming Crab
 							Sea Cucumber Swimming Crab
 								{Lissocarcinus orbicularis}
 						Unknown Crab
 						Unknown Sponge Crab
-						Yellowline Arrow Crab
 					Hermit Crabs
 						Anemone Hermit Crab
 							{Dardanus pedunculatus}
 						Beautiful Hermit Crab
 							{Calcinus pulcher}
+						Blue-eye Hermit
+							{Paguristes sericeus}
 						Coenobita brevimanus
 						Dark Knee Hermit Crab
 							{Dardanus lagopodes}
@@ -1763,6 +1773,8 @@ Animals
 					Artichoke Coral
 					Atlantic Mushroom Coral
 						{Scolymia lacera}
+					Knobby Cactus Coral
+						{Mycetophyllia aliciae}
 					Ridged Cactus Coral
 						{Mycetophyllia lamarckiana}
 				Goniastrea peresi
@@ -1828,6 +1840,8 @@ Animals
 				Creamy Sea Cucumber
 				Donkey Dung Sea Cucumber
 				Euapta sp
+				Five-toothed Sea Cucumber
+					{Actinopygia agassizii}
 				Furry Sea Cucumber
 				Greenfish Sea Cucumber
 					{Stichopus chloronotus}
@@ -1858,6 +1872,8 @@ Animals
 					{Nardoa galatheae}
 				Chocolate Chip Sea Star
 					{Protoreaster nodosus}
+				Cushion Sea Star
+					{Oreaster reticulatus}
 				Cushion Star
 					{Culcita novaeguineae}
 				Ghardaqa Sea Star
@@ -2235,6 +2251,7 @@ Animals
 				Shy Feather Duster
 				Social Feather Duster
 				Split-crown Feather Duster
+					{Anamobaea orstedii}
 				Variegated Feather Duster
 					{Bispira variegata}
 			Scale Worm
