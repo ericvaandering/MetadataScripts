@@ -1,6 +1,12 @@
 #! /usr/bin/env python
 # -*- coding: utf-8 -*-
 
+"""
+Find keywords that do not have a synonym defined. This is limited in this example to the
+top level keyword "Animals". I use this because Animals should have a scientific and
+common name defined.
+"""
+
 import argparse
 import sys
 
@@ -9,7 +15,8 @@ from  LRKeywords import LRKeywords
 if __name__ == "__main__":
 
     """
-    Convert keywords to/from Lightroom Keyword Project format from/to my format
+    Find keywords that do not have a synonym defined. This is limited in this example to the
+    top level keyword "Animals"
     """
 
     input_file = "Lightroom Keywords - Possible.txt"
@@ -18,29 +25,17 @@ if __name__ == "__main__":
 
     lrk = LRKeywords(handle=input)
 
-    print "\n\nContents\n"
-
     def print_kw(kw):
+        """
+        Only print leaves of the tree (no children) that don't have synonyms
+        """
         if kw.children:
             return
         if kw.synonyms:
             return
         print "%3d  %s" % (kw.depth, kw.name)
 
-    kw_count = {}
-
-    def count_kw(kw):
-
-        if kw_count.get(kw.name, 0):
-            kw_count[kw.name] += 1
-            print kw_count[kw.name], "instances of", kw.name
-        else:
-            kw_count[kw.name] = 1
-
     for kw in lrk.keywords:
         if kw.name != 'Animals':
             continue
         kw.traverse_keywords(print_kw)
-
-    for kw in lrk.keywords:
-        kw.traverse_keywords(count_kw)
