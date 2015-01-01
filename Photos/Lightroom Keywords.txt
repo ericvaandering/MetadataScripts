@@ -524,9 +524,17 @@ Animals
 			Blennies
 				Aron's Blenny
 					{Ecsenius aroni}
+				Bluestriped Fangblenny
+					{Plagiotremus rhinorhynchos}
 				Dentex Blenny
 				False Cleanerfish
 					{Aspidontus taeniatus}
+				Hairy Blenny
+					{Labrisomus nuchipinnis}
+				Jeweled Blenny
+					{Salarias fasciatus}
+				Midas Blenny
+					{Ecsenius midas}
 				Piano Fangblenny
 				Pictus Blenny
 					{Ecsenius pictus}
@@ -534,6 +542,8 @@ Animals
 				Roughhead Triplefin
 				Saddled Blenny
 				Sailfin Blenny
+				Seaweed Blenny
+					{Parablennius marmoreus}
 				Secretary Blenny
 				Shorthead Fangblenny
 					{Petroscirtes breviceps}
@@ -605,6 +615,8 @@ Animals
 					{Archamia melasma}
 				Fiveline Cardinalfish
 					{Cheilodipterus quinquelineatus}
+				Komodo Cardinalfish
+					{Apogon komodoensis}
 				Orangespot Cardinalfish
 					{Apogon rubrimacula}
 				Pajama Cardinalfish
@@ -619,6 +631,8 @@ Animals
 					{Apogon compressus}
 				Striped Cardinalfish
 					{Apogon angustatus}
+				Tailspot Cardinalfish
+					{Apogon ocellicaudus}
 				Yellow Cardinalfish
 					{Apogon luteus}
 			Damselfishes
@@ -686,6 +700,8 @@ Animals
 					{Chromis analis}
 				Yellowtail Damselfish
 			Dartfishes
+				Fire Dartfish
+					{Nemateleotris magnifica}
 				Twotone Dartfish
 					{Blackfin Dartfish}
 					{Ptereleo evides}
@@ -708,6 +724,8 @@ Animals
 				Bigeye Emperor
 				Longface Emperor
 					{Lethrinus olivaceus}
+				Striped Large-eye Bream
+					{Gnathodentex aureolineatus}
 			Goatfishes
 				Bicolor Goatfish
 					{Parupeneus barberinoides}
@@ -764,6 +782,8 @@ Animals
 					{Signigobius biocellatus}
 				Sixspot Goby
 					{Valenciennea sexguttata}
+				Spangled Shrimpgoby
+					{Vanderhorstia dorsomacula}
 				Sphinx Goby
 					{Amblygobius sphynx}
 				Spotted Dwarfgoby
@@ -796,7 +816,8 @@ Animals
 					{Haemulon macrostomum}
 				Striped Sweetlips
 					{Plectorhinchus lessonii}
-				Tomate
+				Tomtate
+					{Haemulon aurolineatum}
 				White Grunt
 			Hawkfishes
 				Arc-eye Hawkfish
@@ -905,6 +926,8 @@ Animals
 						{Pseudanthias pleurotaenia}
 					Threadfin Anthias
 						{Pseudanthias huchti}
+				Chalk Bass
+					{Serranus tortugarum}
 				Coney
 				Creolefish
 				Graysby
@@ -924,6 +947,8 @@ Animals
 						{Epinephelus itajara}
 					Greasy Grouper
 					Halfspotted Hind
+					Highfin Grouper
+						{Epinephelus maculatus}
 					Malabar Grouper
 						{Epinephelus malabaricus}
 					Nassau Grouper
@@ -932,6 +957,8 @@ Animals
 					Red Hind
 					Red Sea Coralgrouper
 					Rock Hind
+					Speckled-fin Grouper
+						{Epinephelus ongus}
 					Tomato Grouper
 						{Cephalopholis sonnerati}
 					Yellowfin Grouper
@@ -948,6 +975,8 @@ Animals
 					Yellowbelly Hamlet
 						{Hypoplectrus aberrans}
 				Harlequin Bass
+				Lantern Bass
+					{Serranus baldwini}
 				Painted Comber
 				School Bass
 					{Schultzea beta}
@@ -959,6 +988,8 @@ Animals
 					{Anisotremus surinamensis}
 				Black Snapper
 					{Macolor niger}
+				Bluestripe Snapper
+					{Lutjanus kasmira}
 				Checkered Snapper
 					{Lutjanus decussatus}
 				Cubera Snapper
@@ -1108,6 +1139,8 @@ Animals
 				Orangespotted Filefish
 				Orangetail Filefish
 					{Pervagor aspricaudus}
+				Planehead Filefish
+					{Stephanolepsis hispidus}
 				Pygmy Filefish
 				Scrawled Filefish
 					{Aluterus scriptus}
@@ -1117,6 +1150,8 @@ Animals
 				Black-blotched Porcupinefish
 					{Diodon liturosus}
 				Porcupinefish
+				Striped Burrfish
+					{Chilomycterus schoepfi}
 				Web Burrfish
 				Yellowspotted Burrfish
 					{Cyclichthys spilostylus}
@@ -1592,6 +1627,7 @@ Animals
 				Fish-eating Anemone
 					{Urticina piscivora}
 				Giant Anemone
+					{Condylactis gigantea}
 				Haddon's Anemone
 					{Stichodactyla haddoni}
 				Hemprich's Fire Anemone
@@ -2114,6 +2150,7 @@ Animals
 					Cowries
 						{Cypraeidae}
 						Atlantic Deer Cowrie
+							{Cypraea cervus}
 						Panther Cowrie
 						Ridged Egg Cowrie
 							{Diminovula culmen}
@@ -2148,6 +2185,7 @@ Animals
 						Snipe's Bill Murex
 							{Haustellum haustellum}
 					Queen Conch
+						{Strombus gigas}
 					Red Sea Topshell
 						{Tectus dentatus}
 					Striated Cone
@@ -2221,6 +2259,8 @@ Animals
 		Tunicates
 			Bluebell Tunicate
 				{Clavelina moluccensis}
+			Clavelina sp
+				{Bulb Tunicates}
 			Herdman's Ascidian
 			Painted Tunicate
 			Pelagic Tunicate
@@ -2418,6 +2458,7 @@ Animals
 				Hawksbill Turtle
 					{Eretmochelys imbriocota}
 				Loggerhead Turtle
+					{Caretta caretta}
 Art
 	Ancient manuscript
 	Carpet
