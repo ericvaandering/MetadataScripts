@@ -615,6 +615,8 @@ Animals
 					{Archamia melasma}
 				Fiveline Cardinalfish
 					{Cheilodipterus quinquelineatus}
+				Goldbelly Cardinalfish
+					{Apogon apogonides}
 				Komodo Cardinalfish
 					{Apogon komodoensis}
 				Orangespot Cardinalfish
@@ -714,6 +716,8 @@ Animals
 					{Synchiropus splendidus}
 				Orange and Black Dragonet
 					{Dactylopus kuiteri}
+				Superb Dragonet
+					{Diplogrammus goramensis}
 			Drums
 				Highhat
 				Jackknife Fish
@@ -726,6 +730,13 @@ Animals
 					{Lethrinus olivaceus}
 				Striped Large-eye Bream
 					{Gnathodentex aureolineatus}
+			Fusiliers
+				Bluestream Fusilier
+					{Pterocaesio tile}
+				Red Sea Fusilier
+				Striated Fusilier
+				Yellowback fusilier
+					{Caesio xanthonata}
 			Goatfishes
 				Bicolor Goatfish
 					{Parupeneus barberinoides}
@@ -757,6 +768,8 @@ Animals
 					{Coryphopterus glaucofraenum}
 				Candycane Pygmygoby
 					{Trimma cana}
+				Common Ghostgoby
+					{Pleurosicya mossambica}
 				Crosshatch Goby
 					{Amblygobius decussatus}
 				Flagfin Shrimpgoby
@@ -1005,11 +1018,9 @@ Animals
 				Midnight Snapper
 					{Macolor macularis}
 				Mutton Snapper
-				Red Sea Fusilier
 				Russel's Snapper
 					{Lutjanus russelli}
 				Schoolmaster
-				Striated Fusilier
 				Yellowtail Snapper
 			Spadefishes
 				Atlantic Spadefish
@@ -1032,6 +1043,8 @@ Animals
 				Doctorfish
 				Lined Bristletooth
 				Ocean Surgeonfish
+				Orangeband Surgeonfish
+					{Acanthurus olivaceus}
 				Orangespine Unicornfish
 				Spotted Unicornfish
 			Sweepers
@@ -1042,6 +1055,7 @@ Animals
 					{Pempheris vanicolensis}
 			Tilefishes
 				Blue Blanquillo
+					{Malacanthus latovittatus}
 				Flagtail Blanquillo
 				Sand Tilefish
 					{Malacanthus plumieri}
@@ -1216,6 +1230,8 @@ Animals
 		Scorpionfish & Flatheads
 			{Scorpaeniformes}
 			Flatheads
+				Crocodile Flathead
+					{Cymbacephalus beauforti}
 				Indian Ocean Crocodilefish
 				Longsnout Flathead
 					{Thysanophyrs chiltonae}
@@ -1264,9 +1280,10 @@ Animals
 				Reef Scorpionfish
 				Small Red Scorpionfish
 					{Scorpaena notata}
-				Smallscale Scorpionfish
-					{Scorpaenopsis oxycephala}
 				Spotted Scorpionfish
+				Tasseled Scorpionfish
+					{Scorpaenopsis oxycephala}
+					{Smallscale Scorpionfish}
 			Sculpin
 			Stonefishes
 				Estuarine Stonefish
@@ -1300,6 +1317,8 @@ Animals
 		Silversides
 			{Atheriniformes}
 			Hardyhead Silverside
+				{Atherinomorus lacunosus}
+			Robust Silverside
 				{Atherinomorus lacunosus}
 		Sticklebacks & Sea Moths
 			{Gasterosteiformes}
@@ -1612,160 +1631,170 @@ Animals
 		Bryozoans
 			{Phylum Ectoprocta}
 		Cnidarians
-			Anemones
-				Beaded Anemone
-					{Heteractis aurora}
-				Branching Anemone
-					{Lebrunia danae}
-				Bubble Anemone
-					{Entacmaea quadricolor}
-				Bulb Tentacle Anemone
-					{Entacmaea quadricolor}
-				Corkscrew Anemone
-				Corkscrew Tentacle Sea Anemone
-					{Macrodactyla doreensis}
-				Fish-eating Anemone
-					{Urticina piscivora}
-				Giant Anemone
-					{Condylactis gigantea}
-				Haddon's Anemone
-					{Stichodactyla haddoni}
-				Hemprich's Fire Anemone
-					{Megalactis hemprichii}
-				Hermit Crab Anemone
-					{Calliactis polypus}
-				Hermit Crab Anemone (Philippines)
-					{Calliactis sp.}
-				Magnificent Anemone
-					{Ritteri Anemone}
-					{Heteractis magnifica}
-				Merten's Anemone
-					{Stichodactyla mertensii}
-				Orange Ball Corallimorph
-				Snake Tentacle Anemone
-					{Actinostephanus haeckeli}
-				Sun Anemone
-					{Stichodactyla helianthus}
-				Tube-dwelling Anemone
-				Unknown anemone
-				White-plumed Anemone (Metridium)
-			Corallimoprhs
-				Florida Corralimorph
-					{Ricordea florida}
-				Rhodactis rhodostoma
+			Anthozoa
+				Anemones
+					Beaded Anemone
+						{Heteractis aurora}
+					Branching Anemone
+						{Lebrunia danae}
+					Bubble Anemone
+						{Entacmaea quadricolor}
+					Bulb Tentacle Anemone
+						{Entacmaea quadricolor}
+					Corkscrew Anemone
+					Corkscrew Tentacle Sea Anemone
+						{Macrodactyla doreensis}
+					Fish-eating Anemone
+						{Urticina piscivora}
+					Giant Anemone
+						{Condylactis gigantea}
+					Haddon's Anemone
+						{Stichodactyla haddoni}
+					Hemprich's Fire Anemone
+						{Megalactis hemprichii}
+					Hermit Crab Anemone
+						{Calliactis polypus}
+					Hermit Crab Anemone (Philippines)
+						{Calliactis sp.}
+					Magnificent Anemone
+						{Ritteri Anemone}
+						{Heteractis magnifica}
+					Merten's Anemone
+						{Stichodactyla mertensii}
+					Orange Ball Corallimorph
+					Snake Tentacle Anemone
+						{Actinostephanus haeckeli}
+					Sun Anemone
+						{Stichodactyla helianthus}
+					Tube-dwelling Anemone
+					Unknown anemone
+					White-plumed Anemone (Metridium)
+				Black Corals
+					Branching Black Coral
+					Cirripathes sp.
+					Feather Black Coral
+						{Antipathes pennacea}
+				Corallimoprhs
+					Florida Corralimorph
+						{Ricordea florida}
+					Rhodactis rhodostoma
+				Octocorals
+					Gorgonians
+						Encrusting Gorgorian
+						Sea Fans
+							Common Sea Fan
+								{Gorgonia ventalina}
+							Giant Sea Fan
+							Wide-mesh Sea Fan
+								{Gorgonia mariae}
+						Sea Plumes
+						Sea Rods
+							Swollen-knob Candelabrum
+								{Eunicea mammosa}
+						Sea Whip
+						Yellow Sea Whip
+							{Pterogorgia citrina}
+					Sea Pens
+						Veretillum sp.
+					Soft Corals
+						Leather Corals
+							Rough Leather Coral
+								{Sarcophyton glaucum}
+						Nephtheidae
+						Organ-pipe Corals
+							{Stolonifera}
+							Daisy Corals
+						Organpipe Coral
+							{Tubipora musica}
+						Pachyclavularia violacea
+						Tree Corals
+							Divaricate Tree Coral
+								{Dendronephthya (Roxasia)}
+							Gomerate Tree Coral
+								{Dendronephthya (Spongodes)}
+						Umbrella Xenia
+							{Xenia umbellata}
+						Xenids
+							Feathery Xenid
+							Pulsating Xenid
+								{Heteroxenia fuscescens}
+				Stony Corals
+					Acropora cerealis
+					Anacropora forbesi
+					Anemone Coral
+						Goniopora columna
+						Goniopora sp.
+						Mountain Coral
+							{Porites lutea}
+					Brain Corals
+						Boulder Brain Coral
+							{Colpophyllia natans}
+						Grooved Brain Coral
+						Maze Coral
+							{Meandrina meandrites}
+						Rose Coral
+							{Manicina areolata}
+						Symmetrical Brain Coral
+					Bubble Coral
+						{Plerogyra sinuosa}
+					Cactus Coral
+					Cup Coral
+					Disc Corals
+					Euphyllia ancora
+					Finger Coral
+						Pocillopora verrucosa
+						Stylophora subseriata
+					Fleshy Corals
+						Artichoke Coral
+						Atlantic Mushroom Coral
+							{Scolymia lacera}
+						Fungia scutaria
+						Knobby Cactus Coral
+							{Mycetophyllia aliciae}
+						Ridged Cactus Coral
+							{Mycetophyllia lamarckiana}
+					Goniastrea peresi
+					Leaf & Plate & Sheet Corals
+						Lettuce Coral
+						Pavona cactus
+						Sunray Lettuce Coral
+							{Helioceris cucullata}
+						Thin Leaf Lettuce Coral
+							{Agaricia tenuifolia}
+					Leafy Cup Coral
+						{Turbinaria reniformis}
+					Mustard Hill Coral
+						{Porites astreoides}
+					Orange Cup Coral
+					Pillar Coral
+						{Dendrogyra cylindrus}
+					Smooth Flower Coral
+					Spiny Flower Coral
+					Staghorn Corals
+						Acropora microlados
+						Acropora pharaonis
+					Star Corals
+						Elliptical Star Coral
+							{Dichocoenia stokesi}
+						Great Star Coral
+							{Montastraea cavernosa}
+						Star Coral
+					Yellow Pencil Coral
+				Zoanthids
+					Corynactis californica
+					Golden Zoanthid
+			Hydrocorals
+				Fire Coral
+				Lace Corals
+					Stylaster sp.
 			Hydroids
 			Jellyfishes
 				Moon Jelly
 				Upsidedown Jellyfishes
 					Cassiopea andromeda
 					Cassiopea frondosa
-			Zoanthids
-				Corynactis californica
-				Golden Zoanthid
 		Comb Jellies
 			{Ctenophora}
-		Corals
-			Black Corals
-				Branching Black Coral
-				Cirripathes sp.
-				Feather Black Coral
-					{Antipathes pennacea}
-			Fire Coral
-			Octocorals
-				Gorgonians
-					Encrusting Gorgorian
-					Sea Fans
-						Common Sea Fan
-							{Gorgonia ventalina}
-						Giant Sea Fan
-						Wide-mesh Sea Fan
-							{Gorgonia mariae}
-					Sea Plumes
-					Sea Rods
-						Swollen-knob Candelabrum
-							{Eunicea mammosa}
-					Sea Whip
-					Yellow Sea Whip
-						{Pterogorgia citrina}
-				Soft Corals
-					Leather Corals
-						Rough Leather Coral
-							{Sarcophyton glaucum}
-					Nephtheidae
-					Organ-pipe Corals
-						{Stolonifera}
-						Daisy Corals
-					Organpipe Coral
-						{Tubipora musica}
-					Tree Corals
-						Divaricate Tree Coral
-							{Dendronephthya (Roxasia)}
-						Gomerate Tree Coral
-							{Dendronephthya (Spongodes)}
-					Umbrella Xenia
-						{Xenia umbellata}
-					Xenids
-						Feathery Xenid
-						Pulsating Xenid
-							{Heteroxenia fuscescens}
-			Stony Corals
-				Anemone Coral
-					Goniopora columna
-					Goniopora sp.
-					Mountain Coral
-						{Porites lutea}
-				Brain Corals
-					Boulder Brain Coral
-						{Colpophyllia natans}
-					Grooved Brain Coral
-					Maze Coral
-						{Meandrina meandrites}
-					Rose Coral
-						{Manicina areolata}
-					Symmetrical Brain Coral
-				Bubble Coral
-					{Plerogyra sinuosa}
-				Cactus Coral
-				Cup Coral
-				Disc Corals
-				Euphyllia ancora
-				Finger Coral
-					Pocillopora verrucosa
-					Stylophora subseriata
-				Fleshy Corals
-					Artichoke Coral
-					Atlantic Mushroom Coral
-						{Scolymia lacera}
-					Knobby Cactus Coral
-						{Mycetophyllia aliciae}
-					Ridged Cactus Coral
-						{Mycetophyllia lamarckiana}
-				Goniastrea peresi
-				Leaf & Plate & Sheet Corals
-					Lettuce Coral
-					Sunray Lettuce Coral
-						{Helioceris cucullata}
-					Thin Leaf Lettuce Coral
-						{Agaricia tenuifolia}
-				Leafy Cup Coral
-					{Turbinaria reniformis}
-				Mustard Hill Coral
-					{Porites astreoides}
-				Orange Cup Coral
-				Pillar Coral
-					{Dendrogyra cylindrus}
-				Smooth Flower Coral
-				Spiny Flower Coral
-				Staghorn Corals
-					Acropora microlados
-					Acropora pharaonis
-				Star Corals
-					Elliptical Star Coral
-						{Dichocoenia stokesi}
-					Great Star Coral
-						{Montastraea cavernosa}
-					Star Coral
-				Yellow Pencil Coral
 		Echinoderms
 			Brittle and Basket Stars
 				Basket Star
