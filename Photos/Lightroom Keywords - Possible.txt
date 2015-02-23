@@ -692,6 +692,9 @@ Animals
 					{Apogon apogonides}
 				Komodo Cardinalfish
 					{Apogon komodoensis}
+				Moluccan Cardinalfish
+					{Apogon moluccensis}
+					{Ostorhinchus monospilus}
 				Orangespot Cardinalfish
 					{Apogon rubrimacula}
 				Pajama Cardinalfish
@@ -710,6 +713,10 @@ Animals
 					{Apogon ocellicaudus}
 				Yellow Cardinalfish
 					{Apogon luteus}
+			Chubs
+				{Kyphosidae}
+				Topsail Drummer
+					{Kyphosus cinerascens}
 			Damselfishes
 				Anemonefishes
 					Clark's Anemonefish
@@ -837,6 +844,8 @@ Animals
 					{Lepidogobius lepidus}
 				Blackeye Goby
 					{Rhinogobiops nicholsii}
+				Bluedot Goby
+					{Asterropteryx ensiferus}
 				Bridled Goby
 					{Coryphopterus glaucofraenum}
 				Candycane Pygmygoby
@@ -1192,6 +1201,7 @@ Animals
 				Rockmover Wrasse
 					{Novaculichthys taeniourus}
 				Rosy Razorfish
+					{Xyrichtys martinicensis}
 				Señorita
 				Slender Wrasse
 					{Oxycheilinus orientalis}
@@ -1684,6 +1694,8 @@ Animals
 						{Pseudosquilla ciliata}
 					Ciliated False Squilla
 						{Pseudosquilla ciliate}
+					Dark Mantis
+						{Neogonodactylus curacaoensis}
 					Golden Mantis
 						{Lysiosquilloides mapia}
 					Peacock Mantis
@@ -1729,6 +1741,8 @@ Animals
 						{Calliactis polypus}
 					Hermit Crab Anemone (Philippines)
 						{Calliactis sp.}
+					Leathery Anemone
+						{Heteractis crispa}
 					Magnificent Anemone
 						{Ritteri Anemone}
 						{Heteractis magnifica}
@@ -1887,6 +1901,8 @@ Animals
 			Crinoids and Feather Stars
 				Chadwick's Feather Star
 					{Decametra chadwicki}
+				Comantheria briareus
+				Comaster gracilis
 				Golden Crinoid
 				Klunzinger's Feather Star
 				Savigny's Feather Star
@@ -1999,6 +2015,8 @@ Animals
 				Slate-pencil Urchin
 				Stained Urchin
 					{Pseudoboletia maculata}
+				Variable Fire Urchin
+					{Asthenosoma varium}
 				Variegated Urchin
 				West Indian Sea Egg
 					{Tripneustes ventricosus}
@@ -3062,11 +3080,16 @@ Dive Sites
 		Hilma Hooker
 		Invisibles
 		Jeannie's Glory
+		Karpata
+		Keepsake
+		Kite City - Te Amo Beach
 		La Dania's Leap
 		Larry's Lair
 		Mi Casa (Sailboat Harbor)
 		Oil Slick
+		Pink Beach
 		Punt Vierkant
+		Rock Pile
 		Salt Pier
 		Something Special
 		The Lake
