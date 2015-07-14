@@ -202,6 +202,8 @@ Animals
 					{Dendroperdix sephaena}
 				Red-billed Spurfowl
 					{Pternistis adspersus}
+				Swainson's Spurfowl
+					{Pternistis swainsonii}
 			Wild Turkey
 		Grebes
 			Great Crested Grebe
@@ -212,6 +214,8 @@ Animals
 			{Accipitriformes}
 			Eagles
 				African Fish Eagle
+				African Hawk Eagle
+					{Aquila spilogaster}
 				Bald Eagle
 				Bateleur
 				Martial Eagle
@@ -220,6 +224,8 @@ Animals
 					{Aquila nipalensis}
 				Tawny Eagle
 					{Aquila rapax}
+				Wahlberg's Eagle
+					{Hieraaetus wahlbergi}
 			Hawks
 				Black-collared Hawk
 				Common Black Hawk
@@ -260,6 +266,9 @@ Animals
 			{Caprimulgiformes}
 			Potoos
 				Northern Potoo
+		Nightjars
+			Square-tailed Nightjar
+				{Caprimulgus fossii}
 		Owls
 			{Strigiformes}
 			Barn Owl
@@ -301,6 +310,8 @@ Animals
 					{Lanius collaris}
 				Crimson-breasted Shrike
 					{Laniarius atrococcineus}
+				Magpie Shrike
+					{Urolestes melanoleucus}
 			Sparrows
 				{Passeridae}
 				House Sparrow
@@ -328,6 +339,8 @@ Animals
 				Eastern Phoebe
 			Weavers
 				Golden-backed Weaver
+				Red-billed Buffalo Weaver
+					{Bubalornis niger}
 		Pelicaniformes
 			African Spoonbill
 				{Platalea alba}
@@ -451,6 +464,9 @@ Animals
 				Painted Frogfish
 					{Antennarius pictus}
 		Baitfish
+		Bonefishes
+			Bonefish
+				{Albula vulpes}
 		Carp
 		Catfish
 			{Siluriformes}
@@ -582,6 +598,8 @@ Animals
 			Barracudas
 				Blackfin Barracuda
 				Great Barracuda
+				Southern Sennet
+					{Sphyraena picudilla}
 				Yellow Barracuda
 			Basslets
 				Blackcap Basslet
@@ -599,6 +617,8 @@ Animals
 					{Ecsenius aroni}
 				Bluestriped Fangblenny
 					{Plagiotremus rhinorhynchos}
+				Darkheaded Blenny
+					{Emblemariopsis sp.}
 				Dentex Blenny
 				False Cleanerfish
 					{Aspidontus taeniatus}
@@ -618,6 +638,7 @@ Animals
 				Seaweed Blenny
 					{Parablennius marmoreus}
 				Secretary Blenny
+					{Acanthemblemaria maria}
 				Shorthead Fangblenny
 					{Petroscirtes breviceps}
 				Spinyhead Blenny
@@ -633,8 +654,6 @@ Animals
 				Banded Butterflyfish
 				Blackbacked Butterflyfish
 					{Chaetodon melannotus}
-				Blue Tang
-					{Acanthurus coeruleus}
 				Chevron Butterflyfish
 					{Chaetodon trifascialis}
 				Crown Butterflyfish
@@ -666,7 +685,6 @@ Animals
 				Red Sea Raccoon Butterflyfish
 				Redfin Butterflyfish
 					{Chaetodon lunulatus}
-				Sailfin Tang
 				Spot-banded Butterflyfish
 					{Chaetodon punctatofasciatus}
 				Spot-tail Butterflyfish
@@ -679,7 +697,6 @@ Animals
 				Two-eyed Coralfish
 					{Coradion melanopus}
 				Unknown butterflyfish
-				Yellowtail Tang
 			Cardinalfishes
 				Bargill Cardinalfish
 					{Apogon sealei}
@@ -873,6 +890,7 @@ Animals
 				Redeye Goby
 				Round Goby (FW)
 				Sharknose Goby
+					{Gobiosoma evelynae}
 				Signal Goby
 					{Signigobius biocellatus}
 				Sixspot Goby
@@ -928,6 +946,8 @@ Animals
 				Bluefin Trevally
 				Horse-eye Jack
 				Orangespotted Trevally
+				Palometa
+					{Trachinotus goodei}
 			Jawfish
 				Banded Jawfish
 				Yellowbarred Jawfish
@@ -959,11 +979,13 @@ Animals
 				Midnight Parrotfish
 				Princess Parrotfish
 				Queen Parrotfish
+					{Scarus vetula}
 				Rainbow Parrotfish
 				Red Sea Steephead Parrotfish
 				Redband Parrotfish
 					{Sparisoma aurofrenatum}
 				Redtail Parrotfish
+					{Sparisoma chrysopterum}
 				Rusty Parrotfish
 					{Scarus ferrugineus}
 				Stoplight Parrotfish
@@ -981,6 +1003,8 @@ Animals
 				Saucereye Porgy
 				Sheepshead
 					{Archosargus probatocephalus}
+				Sheepshead Porgy
+					{Calamus penna}
 				White Sea Bream
 			Rabbitfishes
 				Golden Rabbitfish
@@ -1024,8 +1048,10 @@ Animals
 				Chalk Bass
 					{Serranus tortugarum}
 				Coney
+					{Cephalopholis fulva}
 				Creolefish
 				Graysby
+					{Cephalopholis cruentatus}
 				Greater Soapfish
 				Groupers
 					Black Grouper
@@ -1054,6 +1080,8 @@ Animals
 					Rock Hind
 					Speckled-fin Grouper
 						{Epinephelus ongus}
+					Tiger Grouper
+						{Mycteroperca tigris}
 					Tomato Grouper
 						{Cephalopholis sonnerati}
 					Yellowfin Grouper
@@ -1091,6 +1119,8 @@ Animals
 				Ehrenberg's Snapper
 				Gray Snapper
 					{Lutjanus griseus}
+				Humpback Snapper
+					{Lutjanus gibbus}
 				Indian Snapper
 					{Lutjanus madras}
 				Lane Snapper
@@ -1119,6 +1149,8 @@ Animals
 				Bignose Unicornfish
 					{Nasao vlamingii}
 				Black Surgeonfish
+				Blue Tang
+					{Acanthurus coeruleus}
 				Bluespine Unicornfish
 				Convict Surgeonfish
 					{Acanthurus triostegus}
@@ -1128,7 +1160,9 @@ Animals
 				Orangeband Surgeonfish
 					{Acanthurus olivaceus}
 				Orangespine Unicornfish
+				Sailfin Tang
 				Spotted Unicornfish
+				Yellowtail Tang
 			Sweepers
 				Glassy Sweeper
 				Golden Sweeper
@@ -1178,6 +1212,7 @@ Animals
 					Redfin Hogfish
 						{Bodianus dictynna}
 					Spanish Hogfish
+						{Bodianus rufus}
 				Indian Bird Wrasse
 				Klunzinger's Wrasse
 				Leopard Wrasse
@@ -1208,6 +1243,8 @@ Animals
 				Slingjaw Wrasse
 				Slippery Dick
 				Spottail Coris
+				Twospot Wrasse
+					{Oxycheilinus bimaculatus}
 				Unknown Wrasse
 				Whitepatch Razorfish
 					{Iniistius aneitensis}
@@ -1241,6 +1278,8 @@ Animals
 				Pygmy Filefish
 				Scrawled Filefish
 					{Aluterus scriptus}
+				Slender Filefish
+					{Monacanthus tuckeri}
 				Whitespotted Filefish
 			Porcupinefishes
 				Balloonfish
@@ -1267,6 +1306,7 @@ Animals
 					{Canthigaster papua}
 				Red Sea Toby
 				Sharpnose Puffer
+					{Canthigaster rostrata}
 				Star Puffer
 					{Arothron stellatus}
 				Striped Puffer
@@ -1298,6 +1338,7 @@ Animals
 			{Beryciformes}
 			Squirrelfishes
 				Blackbar Soldierfish
+					{Myripristis jacobus}
 				Blotcheye Soldierfish
 				Cardinalfish
 				Epaulette Soldierfish
@@ -1799,6 +1840,7 @@ Animals
 								{Dendronephthya (Roxasia)}
 							Gomerate Tree Coral
 								{Dendronephthya (Spongodes)}
+							Siphonogorgia godeffroyi
 						Umbrella Xenia
 							{Xenia umbellata}
 						Xenids
@@ -1840,6 +1882,8 @@ Animals
 							{Mycetophyllia aliciae}
 						Ridged Cactus Coral
 							{Mycetophyllia lamarckiana}
+						Rough Cactus Coral
+							{Mycetophyllia ferox}
 					Goniastrea peresi
 					Leaf & Plate & Sheet Corals
 						Lettuce Coral
@@ -1858,6 +1902,7 @@ Animals
 					Smooth Flower Coral
 					Spiny Flower Coral
 					Staghorn Corals
+						Acropora cervicornis
 						Acropora microlados
 						Acropora pharaonis
 					Star Corals
@@ -1884,6 +1929,8 @@ Animals
 			{Ctenophora}
 		Echinoderms
 			Brittle and Basket Stars
+				Banded-arm Brittle Star
+					{Ophioderma appressum}
 				Basket Star
 				Basket Star - Gorgon Head
 				Dark Red-Spined Brittle Star
@@ -2294,6 +2341,8 @@ Animals
 					Lined Nassa
 						{Nassarious glans}
 					Lip Triton
+					Milk Conch
+						{Strombus costatus}
 					Mitres
 						{Mitridae}
 						File Mitre
@@ -2351,11 +2400,22 @@ Animals
 				{Ircinia strobilina}
 			Branching Tube Sponge
 			Branching Vase Sponge
+			Brown Bowl Sponge
+				{Cribrochalina vasculum}
+			Brown Tube Sponge
+				{Agelas conifera}
 			Brown Variable Sponge
 				{Anthosigmella varians}
+			Convoluted Barrel Sponge
+				{Aplysina lacunosa}
+			Convoluted Orange Sponge
+				{Myrmekioderma styx}
 			Giant Barrel Sponge
 				{Xestospongia muta}
 			Green Finger Sponge
+				{Iotrochota birotulata}
+			Orange Elephant Ear Sponge
+				{Agelas clathrodes}
 			Orange Sieve Encrusting Sponge
 				{Diplastrella sp.}
 			Orange Veined Encrusting Sponge
@@ -2381,17 +2441,21 @@ Animals
 				{Clavelina moluccensis}
 			Clavelina sp
 				{Bulb Tunicates}
+			Eusynstyela misakiensis
 			Herdman's Ascidian
 			Painted Tunicate
 			Pelagic Tunicate
+			Polycarpa aurata
 	Livestock
 		Camel
 		Cattle
+		Chicken
 		Donkey
 		Ducks
 		Geese
 		Goat
 		Horse
+		Sheep
 	Mammals
 		Afrotheria
 			African Elephant
@@ -2405,6 +2469,8 @@ Animals
 				Coyote
 				Jackals
 					Black-backed Jackal
+					Side-striped Jackal
+						{Canis adustus}
 				Wild Dog
 					{Lycaon pictus}
 			Cats
@@ -2472,8 +2538,12 @@ Animals
 						{Hippotragus niger}
 					Springbok
 						{Antidorcas marsupialis}
+					Steenbok
+						{Raphicerus campestris}
 					Waterbuck
 						{Kobus ellipsiprymnus}
+				Common Duiker
+					{Sylvicapra grimmia}
 				Spiral-horned Bovines
 					Bushbuck
 					Eland
@@ -2515,6 +2585,9 @@ Animals
 			Colobid Monkeys
 				Central African Red Colobus
 				Guereza Colobus
+			Galagos
+				Southern Lesser Galago
+					{Galago moholi}
 			New World Monkeys
 				Common Marmoset
 				Howler Monkey
@@ -2550,7 +2623,11 @@ Animals
 			Nile Crocodile
 		Lizards
 			Agama Agama
+			Bonaire Whiptail Lizard
+				{Cnemidophorus murinus}
 			Brown basilisk
+			Giant Plated Lizard
+				{Gerrhosaurus validus}
 			Green Iguana
 			Ground Agama
 				{Agama aculeata}
@@ -2560,6 +2637,8 @@ Animals
 				{Varanus albigularis}
 			Spiny-tailed Iguana
 				{Ctenosaura oedirhina}
+			Turner's Thick-toed Gecko
+				{Chondrodactylus turneri}
 		Snakes
 			Banded Sea Krait
 				{Laticauda colubrina}
@@ -3186,6 +3265,7 @@ Dive Sites
 		Illinois Dredge & Holly Barge
 		Lady Elgin
 		Louisville
+		Lumberman
 		Mahoning
 		Material Service Barge
 		Milwaukee Car Ferry
@@ -3740,6 +3820,7 @@ Object
 		Screw
 		Split pin
 	Feather boa
+	Fireplace
 	Firework
 	Fishing rod
 		{Fishing pole}
@@ -3884,6 +3965,7 @@ Object
 		Combination lock
 		Padlock
 	Machine
+	Manequin
 	Map
 	Microphone
 	Microwave oven
@@ -3967,6 +4049,7 @@ Object
 	Razor
 	Refrigerator
 	Rim
+	Robot
 	Roulette
 	Safety belt
 	Safety pin
@@ -4120,71 +4203,180 @@ Object
 	Wheel
 	Wire rope
 People
+	Aquaintances
+		Anna Stenson
+		Chuck Miller
+		David Rowe
+		John Bell
+		Kathleen Kennedy
+		Kirsten Dunne
+		Kurt Reiselmann
+		Lisa Reisselman
+		Mia Fedanzo
+		Pamela Hewitt
+	Argonne
+		David Rainwater
+		Eugene
+		Gloria Ramos
+		Jenny Thompson
+		Pamela Dake
+		Petra
+		Taliver Heath
+	Celebrities
+		Christiane Amanpour
+		Lyle Lovett
+		Temple Grandin
 	CMS Collaborators
+		Anzar Afaq
 		Brian Bockelman
+		Charles Plager
+		Chih-Hao
 		Chris Jones
+		Daniele Spiga
+		Dave Evans
 		David Lange
 		Dirk Hufnagel
 		Eric Brownson
+		Federica Fanzago
+		Hassen Riahi
 		Ian Fisk
+		Jacob Linacre
+		Keith Ulmer
 		Liz Sexton-Kennedy
 		Lorenzo Agostino
 		Lothar Bauerdick
+		Matt Norman
+		Mattia Cinquilli
 		Mike Hildreth
 		Oliver Gutsche
+		Patrick Gartung
+		Petar Maksimovic
 		Phillipe Canal
 		Rich Wilkenson
+		Rick Wilkinson
+		Robert Harris
+		Sal Rappacio
 		Simon Metson
+		Stephen Gowdy
 		Steve Foulkes
 		Stuart Wakefield
 		Sudhir Malik
+		Tony Wildish
+	Dave Lent
+	Diveheart
+		Andrew
+		Andy
+		Bradley
+		Dave
+		Duncan
+		Erin
+		Glenn
+		Howard
+		Jim Elliot
+		Jodi Santeford
+		Julio
+		Karen Repsys
+		Keith
+		Max
+		Mike Brutlag
+		Mike Weffler
+		Nick
+		Ron Rispoli
+		Ruth Magnus
+		Sara Repka
+		Scott Alm
+		Serene
+		Tinamarie Hernandez
+		Todd
 	Eric Vaandering
 	Family
+		Amy Huizenga
+		Beth Miedema
+		Brian Huizenga
+		Carson Natte
 		Case Vaandering
+		Cathy Miedema
+		Dave Miedema
+		Donna Huizenga
 		Ed Huizenga
+		Edward Huizenga
+		Elizabeth Huizenga
+		Jack Huizenga
+		Jackie Huizenga
 		Jerry Huizenga
+		John Fabien
 		Joyce Huizenga
 		Judy Vaandering
+		Kaeyley Osterman
+		Karen Osterman
+		Ken Huizenga
 		Laura Huizenga
+		Lucas Miedema
 		Marion Huizenga
+		Mark Huizenga
+		Robert Huizenga
+		Robert Osterman II
+		Robert Osterman III
+		Steve Miedema
+		Ted Huizenga
+		Trent Miedema
+		Tricia Huizenga
 	FOCUS Collaborators
 		Alberto Reis
+		Angel Lopez
+		Carla Gobel
 		Cecilia Uribe
 		Daniele Pedrini
 		Edgar Casimiro
 		Eduardo Luiggi
+		Erik Gottschalk
+		Franco Fabbri
 		Franco Fabri
 		Gianluigi Boca
 		Iuri Pepe
+		Jim Wiss
+		Joao Anjos
+		Joel Butler
 		John Cumalat
+		John Cumulat
 		Jon Link
 		Luigi Moroni
+		Lynn Garren
 		Marleigh Sheaff
 		Phil Yager
 		Silvano Sala
+		Stefano Bianco
 	Friends
 		Abhishek Agarwal
 		Adam Schumaker
+		Amy Admiraal
 		Andrew Melo
+		Andy Orr
 		Anna Saunders
 		Ash Fedanzo
 		Brian O'Reilly
 		Chris Jacobsen
 		Christine Buckley
 		Cynthia
+		Cynthia Coutre
 		Erin Gill
 		Harry Cheung
 		Heather Robinson
+		Jeff S
 		Jeff Schumaker
 		Jennifer Johnson
+		Joan Marler
 		John Admiraal
 		Josephine O'Shea
 		Kerstin Kirschenbaum
 		Kevin Stenson
 		Kimberly Myles
+		Lewis Vissia
 		Luca Cinquini
+		Mary Admiraal
 		Maya Agostino
 		Mu-Chun Chen
+		Pam Admiraal
 		Paul Sheldon
 		Paul Steinbrueck
 		Penny Kasper
@@ -4219,27 +4411,46 @@ People
 		Other
 		Sister
 		Uncle
+	Santa Claus
 	Travel companions
 		Africa 2002 companions
+			Bernard Kihunghi
+			Peterson
 		Africa 2007 companions
 		Africa 2012 companions
 			Angela
 			Brian
 			Chris
+			Dani Winter
 			Danny Winter
 			Frank
 			Greg
+			Greg F
 			Javier
+			Jolanda Winter
 			Manuel Graf
 			Max
 			Stephan
 			Yolanda Winter
+		Alan
 		Bahamas 2006 companions
 		Bahamas 2008 companions
 		Belize 2005 companions
+		Bob Sieloff
 		Costa Rica Companions
+		Daniel Hazard
+		Danny
+		Edward the Masaii
+		Essam Rose
 		Golden Dolphin Companions
 			Daniele Hazard
+		Graham
+		Heather Sieloff
+		Jodi
+		Laurel Creech
+		Pam
+		Patrica Hewitt
+		Ron
 		SCUBA Divers
 			Adelfa
 			Beth Plotner
@@ -4253,10 +4464,14 @@ People
 			Gina Castro
 			Gordon Maney
 			Jackie Rae
+			Joni Gilbert
 			Katie Wolfe
 			Michelle Hartzler
 			Mike Bartenfelder
+			Mike Tapper
+			Pam McPherson
 			Patricia Hewitt
+			Richard Delany
 			Steve James
 			Steve Wilkinson
 			Sue Momsen
@@ -4265,7 +4480,29 @@ People
 			Tonya Wegner
 			Tracy Kittrell
 			YiChung Law
+		Stefan
 		Tonga companions
+		Tracy
+	University of Colorado
+		Brian King
+		Jake Roberts
+		Jason
+		Kerstin Rowe
+		Kimberly King
+		Kristan Corwin
+		Mu-Chen Chun
+		Orion Poplowski
+		Sarah Roberts
+	Valpo
+		David Nelson
+		Jay Schroeder
+		Julie Sturm
+		Kevin Siek
+		Kimberly Faulstich
+		Paul Blumka
+		Paul Steinbreuk
+		Topher
+		Tripp
 Photography
 	Angle of view
 		Aerial
@@ -4334,6 +4571,8 @@ Photography
 		Underwater photography
 		Urban photgraphy
 		Wildlife photography
+Places
+	Town
 Plants
 	Algae
 		Blue Crust Weed
@@ -4357,6 +4596,7 @@ Plants
 		Sea Pearl
 	Cactus
 	Flowers
+		Tulip
 	Grasses
 	Mushrooms
 	Trees and Bushes
@@ -4389,6 +4629,7 @@ Profession
 	Firefighter
 		{Fireman}
 	Guard
+	Guide
 	Journalist
 	Journastist
 	Lawyer
@@ -4598,6 +4839,7 @@ Structures & architecture
 		Classroom
 			{Class}
 		Darkroom
+		Dining room
 		Hallway
 		Kitchen
 		Living room
@@ -4782,6 +5024,7 @@ Technical Specs
 		+8 wet lens (Fit Pro)
 		Extension Tubes
 	Process Tags
+		B&W virtual
 		Check location
 		ID Uncertain
 		More WB correction
@@ -4792,7 +5035,6 @@ Technical Specs
 		Rename
 		Set Date
 		Stitch
-		Unique - preserve
 	Scans
 		35mm negative
 		35mm print
@@ -4894,6 +5136,7 @@ Transportation
 			Super mini
 			Supercar
 			Taxi
+		Cart
 		Construction equipment
 		Firetruck
 		Gondola
