@@ -9,7 +9,7 @@ import re
 import time
 
 outMap = {'xmp': 'x', 'jpg': 'j', 'cr2': 'c', 'crw': 'w', 'mov': 'm', 'tif': 't', 'png': 'p', 'pcd': 'k',
-          'mpg': 'm', 'cbz2': 'b', 'dng': 'd', 'ojpg': 'o', 'ufraw': 'u', 'avi': 'a', 'orf': 'o', 'mp4': 'm'}
+          'mpg': 'm', 'cbz2': 'b', 'dng': 'd', 'ojpg': 'o', 'ufraw': 'u', 'avi': 'a', 'orf': 'o', 'mp4': 'm', 'm4v': 'v'}
 
 parser = optparse.OptionParser(usage="usage: %prog [options]")
 
@@ -36,8 +36,8 @@ stampedRaw = re.compile(r'([0-9a-f]){8}\.(cr2|crw|CR2|CRW|tif|TIF|DNG|orf|ORF)')
 if options.jpeg:
     print "Doing jpeg files instead"
     #continue
-    rawFile = re.compile(r'\w+\.(jpg|JPG|MOV|mov|mpg|MPG|avi|AVI|png|PNG|mp4|MP4)$')
-    stampedRaw = re.compile(r'([1-9a-f][0-9a-f]{7})\.(jpg|JPG|MOV|mov|mpg|MPG|avi|AVI|png|PNG|mp4|MP4)')
+    rawFile = re.compile(r'\w+\.(jpg|JPG|MOV|mov|mpg|MPG|avi|AVI|png|PNG|mp4|MP4|m4v|M4V)$')
+    stampedRaw = re.compile(r'([1-9a-f][0-9a-f]{7})\.(jpg|JPG|MOV|mov|mpg|MPG|avi|AVI|png|PNG|mp4|MP4|m4v|M4V)')
 
 
 def exivTS(fileName):
