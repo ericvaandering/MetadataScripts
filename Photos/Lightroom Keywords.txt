@@ -24,6 +24,8 @@ Action
 	Food preparation
 	Historical re-enactment
 	Performing music
+	Physics
+	Street performance
 	Washing clothes
 Age
 	Baby animal
@@ -242,6 +244,8 @@ Animals
 			Sparrows
 				{Passeridae}
 				House Sparrow
+				Yellow-throated Petronia
+					{Gymnoris superciliaris}
 			Starlings
 				Common Starling
 					{Sturnus vulgaris}
@@ -302,11 +306,15 @@ Animals
 				Little Egret
 					{Egretta garzetta}
 				Night Heron
+				Purple Heron
+					{Ardea pupurea}
 				Reddish Egret
 				Slaty Egret
 					{Egretta vinaceigula}
 				Snowy Egret
 					{Egretta thula}
+				Squacco Heron
+					{Ardeola ralloides}
 				Western Great Egret
 					{Ardea alba}
 			Pelicans
@@ -329,6 +337,8 @@ Animals
 			Gulls
 				Black Skimmer
 					{Rynchops niger}
+				Black-headed Gull
+					{Chroicocephalus ridibundus}
 				Grey-headed Gull
 					{Chroicophalus cirrocephalus}
 				Laughing Gull
@@ -522,6 +532,7 @@ Animals
 					{Pomacanthus xanthometopon}
 				Yellowbar Angelfish
 				Zebra Angelfish
+					{Genicanthus caudovittatus}
 			Barracudas
 				Blackfin Barracuda
 				Great Barracuda
@@ -537,6 +548,7 @@ Animals
 				{Kyphosus incisor}
 			Bigeyes
 				Crescent-tail Bigeye
+					{Priacanthus hamrur}
 				Glasseye Snapper
 					{Heteropriacanthus cruentatus}
 			Blennies
@@ -544,9 +556,12 @@ Animals
 					{Ecsenius aroni}
 				Bluestriped Fangblenny
 					{Plagiotremus rhinorhynchos}
+				Chestnut Blenny
+					{Cirripectes castaneus}
 				Darkheaded Blenny
 					{Emblemariopsis sp.}
 				Dentex Blenny
+					{Ecsenius dentex}
 				False Cleanerfish
 					{Aspidontus taeniatus}
 				Hairy Blenny
@@ -555,7 +570,10 @@ Animals
 					{Salarias fasciatus}
 				Midas Blenny
 					{Ecsenius midas}
+				Nalolo Blenny
+					{Ecsenius nalolo}
 				Piano Fangblenny
+					{Plagiotremus tapeinosoma}
 				Pictus Blenny
 					{Ecsenius pictus}
 				Redlip Blenny
@@ -579,14 +597,16 @@ Animals
 					{Meiacanthus atrodorsalis}
 			Butterflyfishes
 				Banded Butterflyfish
-				Blackbacked Butterflyfish
+				Black-backed Butterflyfish
 					{Chaetodon melannotus}
 				Chevron Butterflyfish
 					{Chaetodon trifascialis}
 				Crown Butterflyfish
+					{Chaetodon paucifasciatus}
 				Eastern Triangular Butterflyfish
 					{Chaetodon baronessa}
 				Exquisite Butterflyfish
+					{Chaetodon austriacus}
 				Foureye Butterflyfish
 				Humphead Bannerfish
 					{Heniochus varius}
@@ -598,6 +618,7 @@ Animals
 					{Forcipiger flavissimus}
 				Longsnout Butterflyfish
 				Masked Butteryflyfish
+					{Chaetodon semilarvatus}
 				Ornate Butterflyfish
 					{Chaetodon ornatissimus}
 				Oval-spot Butterflyfish
@@ -609,6 +630,7 @@ Animals
 				Raccoon Butterflyfish
 					{Chaetodon lunula}
 				Red Sea Bannerfish
+					{Heniochus intermedius}
 				Red Sea Raccoon Butterflyfish
 				Redfin Butterflyfish
 					{Chaetodon lunulatus}
@@ -630,7 +652,7 @@ Animals
 				Belted Cardinalfish
 				Blackspot Cardinalfish
 					{Archamia melasma}
-				Fiveline Cardinalfish
+				Fivelined Cardinalfish
 					{Cheilodipterus quinquelineatus}
 				Goldbelly Cardinalfish
 					{Apogon apogonides}
@@ -679,6 +701,7 @@ Animals
 					Spinecheek Anemonefish
 						{Premnas biaculeatus}
 				Arabian Chromis
+					{Chromis flavaxilla}
 				Arnaz's Demoiselle
 					{Chrysiptera arnazae}
 				Beaugregory
@@ -698,14 +721,19 @@ Animals
 					{Amblyglyphidodon aureus}
 				Half-and-Half Chromis
 				Humbug Dascyllus
+					{Dascyllus aruanus}
 				Indo-Pacific Sergeant
 					{Abudefduf vaigiensis}
 				Javanese Damsel
 					{Neoglyphidodon oxyodon}
+				Jewel Damselfish
+					{Plectroglyphidodon lacrymatus}
 				Longfin Damselfish
 					{Stegastes diencaeus}
 				Pale Damselfish
+					{Amblyglyphidodon indicus}
 				Red Sea Dascyllus
+					{Dascyllus marginatus}
 				Reticulated Damsel
 				Reticulated Dascyllus
 					{Dascyllus reticulatus}
@@ -750,6 +778,7 @@ Animals
 			Emperors
 				{Lethrinidae}
 				Bigeye Emperor
+					{Monotaxis grandoculis}
 				Longface Emperor
 					{Lethrinus olivaceus}
 				Striped Large-eye Bream
@@ -768,6 +797,8 @@ Animals
 					{Parupeneus barberinus}
 				Freckled Goatfish
 					{Upeneus tragula}
+				Goldsaddle Goatfish
+					{Parupeneus cyclostomus}
 				Manybar Goatfish
 					{Parupeneus multifasciatus}
 				Red Sea Goatfish
@@ -788,6 +819,8 @@ Animals
 					{Lepidogobius lepidus}
 				Blackeye Goby
 					{Rhinogobiops nicholsii}
+				Blue-speckled Shrimpgoby
+					{Cryptocentrus caeruleopunctatus}
 				Bluedot Goby
 					{Asterropteryx ensiferus}
 				Bridled Goby
@@ -816,6 +849,9 @@ Animals
 					{Amblyeleotris rubrimarginatus}
 				Redeye Goby
 				Round Goby (FW)
+				Seychelles Shrimpgoby
+					{Ctenogobiops maculosus}
+					{Red Sea Shrimpgoby}
 				Sharknose Goby
 					{Gobiosoma evelynae}
 				Signal Goby
@@ -865,16 +901,23 @@ Animals
 				Dwarf Hawkfish
 					{Cirrhitichthys falco}
 				Freckled Hawkfish
+					{Paracirrhites forsteri}
 				Longnose Hawkfish
+					{Oxycirrhites typus}
+				Pixy Hawkfish
+					{Cirrhitichthys oxycephalus}
 				Redspotted Hawkfish
 					{Amblycirrhitus pinos}
 			Jacks
 				Bar Jack
 				Bluefin Trevally
+					{Caranx melampygus}
 				Horse-eye Jack
 				Orangespotted Trevally
 				Palometa
 					{Trachinotus goodei}
+				Pilot Fish
+					{Naucrates ductor}
 			Jawfish
 				Banded Jawfish
 				Yellowbarred Jawfish
@@ -887,6 +930,7 @@ Animals
 			Moorish Idol
 				{Zanclus cornutus}
 			Orchid Dottyback
+				{Pseudochromis fridmani}
 			Parrotfishes
 				Bicolor Parrotfish
 				Blue Parrotfish
@@ -895,6 +939,7 @@ Animals
 				Bluepatch Parrotfish
 					{Scarus forsteni}
 				Bullethead Parrotfish
+					{Chlorurus sordidus}
 				Bumphead Parrotfish
 					{Bolbometopon muricatum}
 				Dotted Parrotfish
@@ -959,7 +1004,6 @@ Animals
 				Speckled Sandperch
 			Sea Basses
 				Anthiases
-					Lyretail Anthias
 					Purple Anthias
 						{Pseudanthias tuka}
 					Purple Queen
@@ -968,6 +1012,9 @@ Animals
 						{Pseudanthias taeniatus}
 					Redfin Anthias
 						{Pseudanthias dispar}
+					Scalefin Anthias
+						{Lyretail Anthias}
+						{Pseudanthias squamipinnis}
 					Squarespot Anthias
 						{Pseudanthias pleurotaenia}
 					Threadfin Anthias
@@ -989,11 +1036,15 @@ Animals
 					Brown-marbled Grouper
 						{Epinephelus fuscoguttatus}
 					Comb Grouper
+					Coral Grouper
+						{Coral Hind}
+						{Cephalopholis miniata}
 					Dusky Grouper
 					Gag
 					Goliath Grouper
 						{Epinephelus itajara}
 					Greasy Grouper
+						{Epinephelus tauvina}
 					Halfspotted Hind
 					Highfin Grouper
 						{Epinephelus maculatus}
@@ -1044,6 +1095,7 @@ Animals
 					{Lutjanus decussatus}
 				Cubera Snapper
 				Ehrenberg's Snapper
+					{Lutjanus ehrenbergi}
 				Gray Snapper
 					{Lutjanus griseus}
 				Humpback Snapper
@@ -1076,20 +1128,27 @@ Animals
 				Bignose Unicornfish
 					{Nasao vlamingii}
 				Black Surgeonfish
+					{Acanthurus gahhm}
 				Blue Tang
 					{Acanthurus coeruleus}
 				Bluespine Unicornfish
 				Convict Surgeonfish
 					{Acanthurus triostegus}
 				Doctorfish
+				Indian Sailfin Tang
+					{Zebrasoma desjardinii}
 				Lined Bristletooth
 				Ocean Surgeonfish
 				Orangeband Surgeonfish
 					{Acanthurus olivaceus}
 				Orangespine Unicornfish
-				Sailfin Tang
+					{Naso elegans}
+				Sohal Surgeonfish
+					{Acanthurus sohal}
 				Spotted Unicornfish
+					{Naso brevirostris}
 				Yellowtail Tang
+					{Zebrasoma xanthurum}
 			Sweepers
 				Glassy Sweeper
 				Golden Sweeper
@@ -1103,6 +1162,8 @@ Animals
 				Sand Tilefish
 					{Malacanthus plumieri}
 			Wrasses
+				African Coris
+					{Coris cuvieri}
 				Bird Wrasse
 					{Gomphosus varius}
 				Blackspot Cleaner Wrasse
@@ -1127,9 +1188,13 @@ Animals
 					{Thalassoma lunare}
 				Fivefinger Razorfish
 					{Iniistius pentadactylus}
+				Fourline Wrasse
+					{Larabicus quadrilineatus}
 				Green Razorfish
 					{Xyrichtys splendens}
 				Hogfishes
+					Axilspot Hogfish
+						{Bodianus axillaris}
 					Blackbelt Hogfish
 						{Bodianus mesothorax}
 					Diana's Hogfish
@@ -1141,6 +1206,7 @@ Animals
 					Spanish Hogfish
 						{Bodianus rufus}
 				Indian Bird Wrasse
+					{Gomphosus caeruleus}
 				Klunzinger's Wrasse
 				Leopard Wrasse
 					{Macropharyngodon meleagris}
@@ -1197,6 +1263,8 @@ Animals
 			Filefishes
 				Bristle-tailed Filefish
 					{Acreichthys tomentosus}
+				Honeycomb filefish
+					{Cantherinus pardalis}
 				Orangespotted Filefish
 				Orangetail Filefish
 					{Pervagor aspricaudus}
@@ -1213,6 +1281,7 @@ Animals
 				Black-blotched Porcupinefish
 					{Diodon liturosus}
 				Porcupinefish
+					{Diodon hystrix}
 				Striped Burrfish
 					{Chilomycterus schoepfi}
 				Web Burrfish
@@ -1250,6 +1319,7 @@ Animals
 				Orange-lined Triggerfish
 					{Balistapus undulatus}
 				Picassofish
+					{Rhinecanthus assasi}
 				Queen Triggerfish
 				Redtooth Triggerfish
 				Sargassum Triggerfish
@@ -1271,13 +1341,16 @@ Animals
 				Epaulette Soldierfish
 					{Myripristis kuntee}
 				Longjaw Squirrelfish
-				Longjawed Squirrelfish
 				Longspine Squirrelfish
 					{Holocentrus rufus}
+				Sabre Squirrelfish
+					{Longjawed Squirrelfish}
+					{Sargocentron spiniferum}
 				Spotfin Squirrelfish
 					{Neoniphon sammara}
 				Squirrelfish
 				Tailspot Squirrelfish
+					{Sargocentron caudimaculatum}
 		Scorpionfish & Flatheads
 			{Scorpaeniformes}
 			Flatheads
@@ -1312,6 +1385,7 @@ Animals
 					{Taenianotus triacanthus}
 				Lionfishes
 					Clearfin Lionfish
+						{Pterois radiata}
 					Cleartail Lionfish
 						{Pterois russelli}
 					Indian Lionfish
@@ -1360,6 +1434,7 @@ Animals
 			Grey Reef Shark
 			Hammerhead Shark
 			Longimanus
+				{Carcharhinus longimanus}
 			Nurse Shark
 			Reef Shark
 			Swell Shark
@@ -1386,19 +1461,22 @@ Animals
 					{Solenostomus paegnius}
 			Pipefishes & Seahorses
 				{Family Syngnathidae}
-				Broadnosed Pipefish
-				Double-ended Pipefish
-				Harlequin Pipefish
-				Network Pipefish
-					{Corythoichthys flavofasciatus}
 				Pipefishes
 					{Subfamily Syngnathinae}
+					Broadnosed Pipefish
+					Double-ended Pipefish
+					Harlequin Pipefish
+					Network Pipefish
+						{Corythoichthys flavofasciatus}
 					Pygmy PIpefish
 						{Micrognathus pygmaeus}
+					Red Sea Pipefish
 					Ringed Pipefish
 						{Dunckerocampus dactyliophorus}
 					Short-tailed Pipefish
 						{Trachyrhamphus bicoarctatus}
+					Shortfin Pipefish
+						{Cosmocampus elucens}
 					Shortnose Pipefish
 						{Micrognathus andersonii}
 					Shortpouch Pygmy Pipehorse
@@ -1407,7 +1485,6 @@ Animals
 						{Trachyrhamphus longirostris}
 					Winged Pipefish
 						{Halicampus macrorhynchus}
-				Red Sea Pipefish
 				Seahorses
 					{Subfamily Hippocampinae}
 					Common Seahorse
@@ -1427,8 +1504,6 @@ Animals
 						{Hippocampus hystrix}
 					Zebra-snout Seahorse
 						{Hippocampus barbouri}
-				Shortfin Pipefish
-					{Cosmocampus elucens}
 			Snipefishes and Shrimpfishes
 				{Centriscidae}
 				Razorfish
@@ -1437,6 +1512,7 @@ Animals
 					{Centriscus scutatus}
 			Trumpetfishes
 				Smooth Cornetfish
+					{Fistularia commersonii}
 				Trumpetfish
 		Tarpon
 		Toadfishes
@@ -1522,6 +1598,8 @@ Animals
 							Charybdis sp.
 							Harlequin Swimming Crab
 							Portunus sp.
+							Red Swimming Crab
+								{Charybdis paucidentata}
 							Redhair Swimming Crab
 							Sea Cucumber Swimming Crab
 								{Lissocarcinus orbicularis}
@@ -1539,6 +1617,8 @@ Animals
 							{Dardanus lagopodes}
 						Giant Hermit Crab
 							{Petrochirus diogenes}
+						Haig's Hermit Crab
+							{Calcinus haigae}
 						Hermit Crab
 							{Aniculus Aniculus}
 						Orange Hermit Crab
@@ -1597,8 +1677,6 @@ Animals
 							{Heteropenaeus longimanus}
 						Long-arm Cleaner Shrimp
 							{Periclimenes longicarpus}
-						Long-arm Shrimp
-							{Periclimenes tenuipes}
 						Magnificent Anemone Shrimp
 							{Ancylomenes magnificus}
 						Mushroom Coral Shrimp
@@ -1609,6 +1687,9 @@ Animals
 							{Periclimenes brevicarpalis}
 						Pederson Cleaner Shrimp
 						Peppermint Shrimp
+						Red Claw Cuapetes Shrimp
+							{Cuapetes tenuipes}
+							{Periclimenes tenuipes}
 						Sarasvati Anemone Shrimp
 							{Periclimenes sarasvati}
 						Scarlet-striped Cleaning Shrimp
@@ -1740,6 +1821,7 @@ Animals
 							Common Sea Fan
 								{Gorgonia ventalina}
 							Giant Sea Fan
+								{Annella mollis}
 							Wide-mesh Sea Fan
 								{Gorgonia mariae}
 						Sea Plumes
@@ -1858,14 +1940,19 @@ Animals
 			Brittle and Basket Stars
 				Banded-arm Brittle Star
 					{Ophioderma appressum}
-				Basket Star
-				Basket Star - Gorgon Head
 				Dark Red-Spined Brittle Star
 					{Ophiothrix purpurea}
+				Giant Basket Star (Atlantic)
+					{Astrophyton muricatum}
+				Giant Basket Star (Pacific)
+					{Astroboa nuda}
+					{Gorgon Head}
 				Janus' Brittle Star
 					{Ophiomastix janualis}
 				Ophiothrix sp
 					{Ophiothrix sp}
+				Savigny's Brittle Star
+					{Ophiothrix savignyi}
 				Snake Brittle Star
 					{Ophioderma longicauda}
 				Sponge Brittle Star
@@ -1880,7 +1967,8 @@ Animals
 				Golden Crinoid
 				Klunzinger's Feather Star
 				Savigny's Feather Star
-				Sawtooth Feather Star
+				Sawtoothed Feather Star
+					{Oligometra serripinna}
 			Sea Cucumbers
 				Amberfish Sea Cucumber
 					{Thelenota anax}
@@ -1927,6 +2015,8 @@ Animals
 					{Nardoa galatheae}
 				Chocolate Chip Sea Star
 					{Protoreaster nodosus}
+				Crown-of-Thorns Sea Star
+					{Acanthaster planci}
 				Cushion Sea Star
 					{Oreaster reticulatus}
 				Cushion Star
@@ -1987,6 +2077,7 @@ Animals
 					{Diadema savignyi}
 				Six-Keyhole Sand Dollar
 				Slate-pencil Urchin
+					{Heterocentrotus mammillatus}
 				Stained Urchin
 					{Pseudoboletia maculata}
 				Variable Fire Urchin
@@ -2022,7 +2113,6 @@ Animals
 				Atlantic Thorny-oyster
 				Common Giant Clam
 				Common Pearl Oyster
-				Coral Scallop
 				Electric Fileclam
 					{Ctenoides ales}
 				Fluted Giant Clam
@@ -2031,6 +2121,7 @@ Animals
 					{Hyoyissa hyotis}
 				Iridescent Scallop
 					{Pedum spondyloideum}
+					{Coral Scallop}
 				Rough Fileclam
 				Variable Thorny Oyster
 					{Spondylus varians}
@@ -2045,6 +2136,8 @@ Animals
 						{Sepia bandensis}
 					Flamboyant Cuttlefish
 						{Metasepia pfefferi}
+					Hooded Cuttlefish
+						{Sepia prashadi}
 					Pharao Cuttlefish
 				Octopuses
 					{Order Octopoda}
@@ -2145,8 +2238,6 @@ Animals
 								{Black-margined Doriprismatica}
 							Doris odhneri
 								{White Knight Dorid}
-							Fryeria rueppelii
-								{Rueppell's Wart Slug}
 							Glossodoris cincta
 								{Girdled Glossodoris}
 							Gymnodoris sp.
@@ -2154,6 +2245,8 @@ Animals
 								{Batangas Halgerda}
 							Halgerda carlsoni
 								{Carlson's Halgerda}
+							Hexabranchus sanguineus
+								{Spanish Dancer}
 							Hypselodoris infucata
 								{Colorful Hypselodoris}
 								{Painted Hypselodoris}
@@ -2190,6 +2283,9 @@ Animals
 								{Ocellated Phyllidia}
 							Phyllidia picta
 								{Black-rayed Phyllidia}
+							Phyllidia rueppelii
+								{Rueppell's Wart Slug}
+								{Fryeria rueppelii}
 							Phyllidia varicosa
 								{Swollen Phyllidia}
 							Phyllidiella annulata
@@ -2860,11 +2956,6 @@ Dive Sites
 			Tuble Point
 			White Beach
 	Red Sea
-		Abu Ramada
-		Abu Ramada Plateau
-		Balena
-		Big Gota (St. Johns)
-		Big Habili (St. Johns)
 		Dahab
 			Canyon
 			Canyon Coral Gardens
@@ -2876,21 +2967,37 @@ Dive Sites
 			The Blue Hole
 			The Islands
 			Um El Sid
-		El Fanous
-		Gota El Ghadir
-		Rocky Island
-		Sabina
-		Shaab Claude
-		Shaab Marsa Alam
-		Shaab Moksar N
-		Shaab Sataia SW
-		Shaab Sharm
-		Shaab Torfa
-		Shilineat
-		Small Gota (St. Johns)
-		Umm Erug (St.  Johns)
-		Umm Hararim
-		Zabargad SW/E?
+		Hurghada
+			Balena
+			El Fanous
+			Sabina
+			Shaab Torfa
+		Southern Red Sea
+			Abu Dabab II
+			Abu Dabab III
+			Abu Galawa Soghayr
+			Abu Ramada
+			Abu Ramada Plateau
+			Dahra Wadi Elgemal
+			Elphinstone South Plateau
+			Gota El Ghadir
+			Rocky Island
+			Shaab Claude
+			Shaab Marsa Alam
+			Shaab Moksor N
+			Shaab Sataia SW
+			Shaab Sharm
+			Shaab Shuna
+			Shaab Suleiman
+			Shilineat
+			Zabargad SW/E?
+		St. Johns
+			Big Gota
+			Big Habili
+			Small Gota
+			Small Habili
+			Umm Erug
+			Umm Hararim
 	Roatan
 		Calvin's Crack
 		CoCo View Bay
@@ -2906,7 +3013,9 @@ Dive Sites
 		Prince Albert
 		Tulio's Reef
 Element
+	Fire
 	Sky
+	Smoke
 	Water
 Event
 	Concert
@@ -2924,6 +3033,7 @@ Event
 		Christmas
 		Halloween
 		St. Patricks Day
+	Marriage
 	Parade
 	Party
 Land
@@ -2972,7 +3082,10 @@ Number
 		Small group
 Object
 	Artifact
+	Bag
+		Shopping bag
 	Bird nest
+	Bottle
 	Clock
 		Analog clock
 		Sun dial
@@ -2986,6 +3099,7 @@ Object
 	Flag
 	Food and drink
 		Bread
+		Cake
 		Cheese
 		Wine
 	Footprint
@@ -2994,11 +3108,13 @@ Object
 		Bed
 		Chair
 		Closet
+		Picnic table
 		Table
 	Kitchen utensil
 		Drinking straw
 	Laundry
 	Lighting
+		Candle
 		Chandelier
 		Lamp
 	Machine
@@ -3024,9 +3140,11 @@ Object
 		Informative
 		Lighted sign
 		Plaque
+	Termite mound
 	Tire
 	Toy
 		Building block
+		Puppet
 People
 	Aquaintances
 		Anna Stenson
@@ -3070,9 +3188,14 @@ People
 		Liz Sexton-Kennedy
 		Lorenzo Agostino
 		Lothar Bauerdick
+		Manuel
+		Marco
+		Marco Mascheroni
+		Maria Girone
 		Matt Norman
 		Mattia Cinquilli
 		Mike Hildreth
+		Nicolo
 		Oliver Gutsche
 		Patrick Gartung
 		Petar Maksimovic
@@ -3091,28 +3214,45 @@ People
 	Diveheart
 		Andrew
 		Andy
+		Ariana
 		Bradley
+		Connor
+		Dan
 		Dave
 		Duncan
+		Dylan
 		Erin
+		Estaban
 		Glenn
-		Howard
+		Howard Oestry
+		Jack
+		James
+		Jerry
 		Jim Elliot
+		Jim Flory
 		Jodi Santeford
 		Julio
 		Karen Repsys
 		Keith
+		Marcia Weflen
 		Max
+		Melonie Middleton
 		Mike Brutlag
-		Mike Weffler
+		Mike Weflen
 		Nick
+		Oswaldo
+		Rick
 		Ron Rispoli
 		Ruth Magnus
-		Sara Repka
+		Ryan
+		Sarah Repka
+		Scott
 		Scott Alm
 		Serene
+		Shane
 		Tinamarie Hernandez
 		Todd
+		Zach
 	Eric Vaandering
 	Family
 		Amy Huizenga
@@ -3174,6 +3314,7 @@ People
 	Friends
 		Abhishek Agarwal
 		Adam Schumaker
+		Alex Rose
 		Amy Admiraal
 		Andrew Melo
 		Andy Orr
@@ -3193,7 +3334,6 @@ People
 		Joan Marler
 		John Admiraal
 		Josephine O'Shea
-		Kerstin Kirschenbaum
 		Kevin Stenson
 		Kimberly Myles
 		Lewis Vissia
@@ -3208,13 +3348,16 @@ People
 		Peter Kasper
 		Rory Myles
 		Sue Sheldon
-		Tina Hernandez
 		Will Johns
 		Yvonne Palmer
 	Identity
 		Masai
 		Turkana
 		Ugandans
+	Relationship
+		Father
+			{Dad}
+		Son
 	Santa Claus
 	Travel companions
 		Africa 2002 companions
@@ -3248,9 +3391,11 @@ People
 		Essam Rose
 		Golden Dolphin Companions
 			Daniele Hazard
+			George
+			Nicole Lindegger
 		Graham
 		Heather Sieloff
-		Jodi
+		Jody Russell
 		Laurel Creech
 		Pam
 		Patrica Hewitt
@@ -3367,10 +3512,12 @@ Plants
 		Duckweed
 	Wild Fruit
 Profession
+	Acrobat
 	Artist
 		Performance artist
 	Athlete
 		Skier
+	Clown
 	Guard
 	Guide
 	Journalist
@@ -3382,6 +3529,8 @@ Profession
 	Vendor
 Sport
 	Boating
+	Bocce ball
+	Bungee Jumping
 	Camping
 	Falconry
 	Hiking
@@ -3389,8 +3538,10 @@ Sport
 	Jousting
 	Kayaking
 	Mountaineering
+	Paddle boarding
 	Paragliding
 	Rafting
+	Rowing
 	SCUBA Diving
 	Skiing
 	Swimming
@@ -3448,8 +3599,12 @@ Structures & architecture
 			Wine cellar
 		Dining room
 		Kitchen
+		Living room
+		Lounge
 	Structure
 		Amphitheater
+		Apartment block
+		Bar
 		Barn
 		Basilica
 		Bathhouse
@@ -3466,6 +3621,7 @@ Structures & architecture
 		Dock
 		Dormitory
 			{Dorm}
+		Excavation
 		Fence
 		Ferris wheel
 		Fort
@@ -3479,6 +3635,7 @@ Structures & architecture
 		Memorial
 		Monastery
 		Mosque
+		Museum
 		My House
 		Office building
 		Palace
@@ -3503,12 +3660,14 @@ Structures & architecture
 			Bell Tower
 			Clock Tower
 		University
+		Walkway
 	Transit station
 		Airport
 			Airport terminal
 		Harbor
 			{Harbour}
 			{Haven}
+		Marina
 		Metro station
 		Train station
 			{Railroad station}
@@ -3546,6 +3705,7 @@ Technical Specs
 		Unknown
 Thoroughfare
 	Path
+	Road
 	Street
 	Tunnel
 Time
@@ -3579,6 +3739,7 @@ Transportation
 				Experimental aircraft
 				Fighter
 				Jet aircraft
+				Military airplane
 				Other airplane
 				Propeler plane
 				Surveillance aircraft
@@ -3627,10 +3788,12 @@ Transportation
 		Sailboat
 			{Sailing boat}
 		Schooner
+		Ship
 	Human Powered
 Water
 	Canal
 		{Channel}
+	Coral reef
 	Flowing water
 	Lake
 	Marsh
