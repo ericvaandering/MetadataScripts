@@ -36,7 +36,7 @@ stampedRaw = re.compile(r'([0-9a-f]){8}\.(cr2|crw|CR2|CRW|tif|TIF|DNG|orf|ORF)')
 if options.jpeg:
     print "Doing jpeg files instead"
     #continue
-    rawFile = re.compile(r'\w+\.(jpg|JPG|MOV|mov|mpg|MPG|avi|AVI|png|PNG|mp4|MP4|m4v|M4V)$')
+    rawFile = re.compile(r'[ \w\-\s]+\.(jpg|JPG|MOV|mov|mpg|MPG|avi|AVI|png|PNG|mp4|MP4|m4v|M4V)$')
     stampedRaw = re.compile(r'([1-9a-f][0-9a-f]{7})\.(jpg|JPG|MOV|mov|mpg|MPG|avi|AVI|png|PNG|mp4|MP4|m4v|M4V)')
 
 
@@ -139,12 +139,8 @@ for infile in sorted(filenames):
         sideExts = ['xmp', 'jpg', 'JPG', 'png', 'PNG', 'cbz2', 'ojpg', 'ufraw', 'pcd']
     fullExt = '.' + extension
     for ext in sideExts:
-        # This may be too risky (screwed up once already) Try with part/ext directly?
-        #newExt = '.' + ext
-        #print "Constructing",infile,newFilename,fullExt,newExt
         oldXMP = inString  + '.' + ext
         newXMP = outString + '.' + ext.lower()
-#        print "Checking for ",oldXMP
         if os.path.exists(oldXMP):
             outList.append(outMap[ext.lower()])
             if options.test:
