@@ -31,6 +31,7 @@ Age
 	Baby animal
 		Elephant calf
 		Infant monkey
+		Piglet
 		Puppy
 			{Pup}
 	Boy
@@ -554,6 +555,8 @@ Animals
 			Blennies
 				Aron's Blenny
 					{Ecsenius aroni}
+				Blackline fangblenny
+					{Meiacanthus nigrolineatus}
 				Bluestriped Fangblenny
 					{Plagiotremus rhinorhynchos}
 				Chestnut Blenny
@@ -1062,6 +1065,9 @@ Animals
 						{Mycteroperca tigris}
 					Tomato Grouper
 						{Cephalopholis sonnerati}
+					Yellow-edged Lyretail
+						{Lyretail Grouper}
+						{Variola louti}
 					Yellowfin Grouper
 						{Mycteroperca venenosa}
 				Hamlets
@@ -1174,6 +1180,8 @@ Animals
 				Broomtail Wrasse
 				Canary Wrasse
 					{Halichoeres chrysus}
+				Checkerboard Wrasse
+					{Halichoeres hortulanus}
 				Chequerboard Wrasse
 					{Halichoeres hortulanus}
 				Cigar Wrasse
@@ -1236,6 +1244,8 @@ Animals
 				Slingjaw Wrasse
 				Slippery Dick
 				Spottail Coris
+				Surge Wrasse
+					{Thalassoma purpureum}
 				Twospot Wrasse
 					{Oxycheilinus bimaculatus}
 				Unknown Wrasse
@@ -1553,6 +1563,7 @@ Animals
 						Decorator Crab
 						Decorator Crabs
 							{Family Inachidae}
+							Achaeus sp.
 							Corallimorph Decorator Crab
 								{Cyclocoeloma tuberculata}
 							Orangutan Crab
@@ -1605,6 +1616,10 @@ Animals
 								{Lissocarcinus orbicularis}
 						Unknown Crab
 						Unknown Sponge Crab
+						Urchin & Crinoid Crabs
+							{Eumedonidae}
+							Zebra Urchin Crab
+								{Zebrida adamsii}
 					Hermit Crabs
 						Anemone Hermit Crab
 							{Dardanus pedunculatus}
@@ -1753,6 +1768,8 @@ Animals
 						{Odontodactylus latirostris}
 					Purple Spot Mantis
 						{Gonodactylus smithii}
+					Short Beak Mantis
+						{Odontodactylus brevirostris}
 					Tiger Mantis
 						{Lysiosquilla maculata}
 				Unknown crustacean
@@ -1793,8 +1810,8 @@ Animals
 					Leathery Anemone
 						{Heteractis crispa}
 					Magnificent Anemone
-						{Ritteri Anemone}
 						{Heteractis magnifica}
+						{Ritteri Anemone}
 					Merten's Anemone
 						{Stichodactyla mertensii}
 					Orange Ball Corallimorph
@@ -1837,6 +1854,8 @@ Animals
 						Leather Corals
 							Rough Leather Coral
 								{Sarcophyton glaucum}
+							Slimy Leather Coral
+								{Sarcophyton trocheliophorum}
 						Nephtheidae
 						Organ-pipe Corals
 							{Stolonifera}
@@ -1850,16 +1869,17 @@ Animals
 							Gomerate Tree Coral
 								{Dendronephthya (Spongodes)}
 							Siphonogorgia godeffroyi
-						Umbrella Xenia
-							{Xenia umbellata}
 						Xenids
 							Feathery Xenid
 							Pulsating Xenid
 								{Heteroxenia fuscescens}
+							Umbrella xenia
+								{Xenia umbrellata}
 				Stony Corals
-					Acropora cerealis
 					Anacropora forbesi
 					Anemone Coral
+						Dome Coral
+							{Porites nodifera}
 						Goniopora columna
 						Goniopora sp.
 						Mountain Coral
@@ -1911,7 +1931,9 @@ Animals
 					Smooth Flower Coral
 					Spiny Flower Coral
 					Staghorn Corals
+						Acropora cerealis
 						Acropora cervicornis
+						Acropora lamarcki
 						Acropora microlados
 						Acropora pharaonis
 					Star Corals
@@ -1926,6 +1948,10 @@ Animals
 					Golden Zoanthid
 			Hydrocorals
 				Fire Coral
+					Net Fire Coral
+						{Millpora dichotoma}
+					Plate Fire Coral
+						{Millepora platyphylla}
 				Lace Corals
 					Stylaster sp.
 			Hydroids
@@ -2214,18 +2240,14 @@ Animals
 								{Anna's Chromodoris}
 							Chromodoris annulata
 								{Ringed Chromodorid}
-							Chromodoris coi
-								{Co's Chromodoris}
+							Chromodoris dianae
 							Chromodoris geometrica
 								{Geometric Chromodoris}
-							Chromodoris kuniei
-								{Kunie's Chromodoris}
+							Chromodoris joshi
 							Chromodoris magnifica
 								{Magnificent Chromodoris}
 							Chromodoris quadricolor
 								{Pyjama Chromodorid}
-							Chromodoris reticulata
-								{Reticulated Chromodoris}
 							Chromodoris willani
 								{Willan's Chromodoris}
 							Discodoris boholiensis
@@ -2236,22 +2258,40 @@ Animals
 								{Glossodoris astromarginata}
 								{Black-margined Glossodoris}
 								{Black-margined Doriprismatica}
+							Doriprismatica sibogae
 							Doris odhneri
 								{White Knight Dorid}
 							Glossodoris cincta
 								{Girdled Glossodoris}
-							Gymnodoris sp.
+							Goniobranchus albopunctatus
+							Goniobranchus coi
+							Goniobranchus kuniei
+							Goniobranchus leopardus
+							Goniobranchus reticulatus
+							Gymnodoris sp. 44
+							Gymnodoris sp. 59
 							Halgerda batangas
 								{Batangas Halgerda}
 							Halgerda carlsoni
 								{Carlson's Halgerda}
+							Halgerda tessellata
 							Hexabranchus sanguineus
 								{Spanish Dancer}
+							Hypselodoris apolegma
+							Hypselodoris bollandi
+							Hypselodoris bullockii
 							Hypselodoris infucata
 								{Colorful Hypselodoris}
 								{Painted Hypselodoris}
 							Hypselodoris kanga
 								{Kanga Hypselodoris}
+							Hypselodoris maculosa
+							Hypselodoris pulchella
+								{Beautiful Risbecia}
+							Hypselodoris sp. 15
+							Hypselodoris tryoni
+								{Tryon's Risbecia}
+								{Tryon's Hypselodoris}
 							Hypselodoris whitei
 								{White's Hypselodoris}
 							Hypselodoris zephyra
@@ -2260,6 +2300,7 @@ Animals
 								{Funeral Jorunna}
 							Jorunna rubescens
 								{Red-lined Jorunna}
+							Kalinga Ornata
 							Mexichromis multituberculata
 								{Multi-pustuled Mexichromis}
 							Nemobratha chamberlaini
@@ -2272,6 +2313,7 @@ Animals
 								{Lined Nemobratha}
 							Nemobratha milleri
 								{Miller's Nemobratha}
+							Nemobratha mullineri
 							Peltodoris atromaculata
 							Peltodoris nobilis
 								{Sea Lemon}
@@ -2279,6 +2321,7 @@ Animals
 								{Diaulula nobilis}
 							Phyllidia coelestis
 								{Sky Blue Phyllidia}
+							Phyllidia exquisita
 							Phyllidia ocellata
 								{Ocellated Phyllidia}
 							Phyllidia picta
@@ -2297,16 +2340,14 @@ Animals
 								{Black-spotted Nudibranch}
 							Polycera abei
 								{Pale Polycera}
-							Risbecia pulchella
-								{Beautiful Risbecia}
-							Risbecia tryoni
-								{Tryon's Risbecia}
 							Roboastra gracilis
 								{Slender Roboastra}
 							Tambja morosa
 								{Gloomy Tambja}
-							Thecacera sp.
-								{Thecacera sp. 1}
+							Thecacera picta
+							Thecacera sp. 8
+								{Thecacera sp. 8}
+							Thorunna furtiva
 					Sapsucking Slugs
 						{Order Sacoglossa}
 						Costasiella kuroshimae
@@ -2325,6 +2366,7 @@ Animals
 							{Freckled Sea Hare}
 					Side-gilled Slugs
 						Grand Pleurobranch
+				Slug
 				Snails
 					Abalone
 						{Haliotis sp}
@@ -2649,6 +2691,8 @@ Animals
 			Bonaire Whiptail Lizard
 				{Cnemidophorus murinus}
 			Brown basilisk
+			Cuban Rock Iguana
+				{Cyclura nubila}
 			Giant Plated Lizard
 				{Gerrhosaurus validus}
 			Green Iguana
@@ -2923,6 +2967,26 @@ Dive Sites
 		St. George Bay
 		Um El Faroud (tanker) Wreck
 	Philippines
+		Anilao
+			Aiyanar House Reef
+			Aphol's Point
+			Aqua Garden
+			Bethlehem
+			Cathedral
+			Coconuts
+			Dari Laut
+			Dead Palm
+			Devil's Point
+			Hydee's Point
+			Kieser Point
+			Kirby's Rock
+			Koala
+			Matu
+			Mini Log
+			Onad's Point
+			Red Rock
+			Secret Garden
+			The Pier
 		Dumaguette
 			Apo Island
 				Chapel
@@ -2955,6 +3019,29 @@ Dive Sites
 			Tongo Sanctuary
 			Tuble Point
 			White Beach
+		Puerta Galera
+			Alma Jane
+			Boatyard
+			Canyons
+			Coral Cove
+			Dungon Wall
+			Fantasea Reef
+			Giant Clam
+			Hole in the Wall
+			Kilima Steps
+			Manila Channel
+			Monkey Beach
+			Montani
+			Sabang Wrecks
+			Secret Bay
+			Sinandigan Wall
+			The Boulders
+			West Escarceo
+	Puerto Rico
+		Vieques
+			El Faro
+			Mosquito Pier
+			Tindo's Drift
 	Red Sea
 		Dahab
 			Canyon
@@ -3086,6 +3173,7 @@ Object
 		Shopping bag
 	Bird nest
 	Bottle
+	Camera
 	Clock
 		Analog clock
 		Sun dial
@@ -3094,6 +3182,7 @@ Object
 	Computing
 		Computer
 			{Pc}
+	Electronics
 	Fireplace
 	Firework
 	Flag
@@ -3145,11 +3234,13 @@ Object
 	Toy
 		Building block
 		Puppet
+	Tropical aquarium
 People
 	Aquaintances
 		Anna Stenson
 		Chuck Miller
 		David Rowe
+		Irina
 		John Bell
 		Kathleen Kennedy
 		Kirsten Dunne
@@ -3167,62 +3258,77 @@ People
 		Taliver Heath
 	Celebrities
 		Christiane Amanpour
+		John Kasich
 		Lyle Lovett
 		Temple Grandin
 	CMS Collaborators
 		Anzar Afaq
+		Bo Jayatilaka
 		Brian Bockelman
 		Charles Plager
 		Chih-Hao
 		Chris Jones
+		Christoph Paus
 		Daniele Spiga
 		Dave Evans
 		David Lange
 		Dirk Hufnagel
+		Eduardo Ramirez
 		Eric Brownson
 		Federica Fanzago
 		Hassen Riahi
 		Ian Fisk
 		Jacob Linacre
+		Jose Hernandez
 		Keith Ulmer
+		Ken Bloom
+		Kenyi Anampa
+		Kevin Lannon
+		Liz Ramirez
 		Liz Sexton-Kennedy
 		Lorenzo Agostino
 		Lothar Bauerdick
 		Manuel
-		Marco
 		Marco Mascheroni
 		Maria Girone
 		Matt Norman
+		Matteo CMS
 		Mattia Cinquilli
 		Mike Hildreth
+		Natalia Ratnikova
 		Nicolo
 		Oliver Gutsche
 		Patrick Gartung
 		Petar Maksimovic
 		Phillipe Canal
-		Rich Wilkenson
 		Rick Wilkinson
 		Robert Harris
 		Sal Rappacio
+		Seangchan Ryu
 		Simon Metson
+		Slava
 		Stephen Gowdy
 		Steve Foulkes
 		Stuart Wakefield
 		Sudhir Malik
+		Tommaso Boccali
 		Tony Wildish
-	Dave Lent
+		Valentin Kuznetzov
+		Yuyi Guo
 	Diveheart
 		Andrew
-		Andy
+		Andy Ferraro
 		Ariana
+		Blake
 		Bradley
-		Connor
+		Conner
 		Dan
 		Dave
 		Duncan
 		Dylan
 		Erin
-		Estaban
+		Estaban E.
+		Gian Seeto
 		Glenn
 		Howard Oestry
 		Jack
@@ -3249,13 +3355,15 @@ People
 		Scott
 		Scott Alm
 		Serene
-		Shane
+		Shane Muellner
+		Sharon
 		Tinamarie Hernandez
 		Todd
-		Zach
+		Zack Bunda
 	Eric Vaandering
 	Family
 		Amy Huizenga
+		Annette Huizenga
 		Beth Miedema
 		Brian Huizenga
 		Carson Natte
@@ -3269,6 +3377,7 @@ People
 		Jack Huizenga
 		Jackie Huizenga
 		Jerry Huizenga
+		Jim Miedema
 		John Fabien
 		Joyce Huizenga
 		Judy Vaandering
@@ -3328,7 +3437,6 @@ People
 		Erin Gill
 		Harry Cheung
 		Heather Robinson
-		Jeff S
 		Jeff Schumaker
 		Jennifer Johnson
 		Joan Marler
@@ -3362,8 +3470,10 @@ People
 	Travel companions
 		Africa 2002 companions
 			Bernard Kihunghi
+			Edward the Masaii
 			Peterson
 		Africa 2007 companions
+			Alan
 		Africa 2012 companions
 			Angela
 			Brian
@@ -3379,59 +3489,66 @@ People
 			Max
 			Stephan
 			Yolanda Winter
-		Alan
 		Bahamas 2006 companions
 		Bahamas 2008 companions
 		Belize 2005 companions
-		Bob Sieloff
 		Costa Rica Companions
-		Daniel Hazard
+			Graham
+			Laurel Creech
+			Pam
+			Ron
+			Stefan
 		Danny
-		Edward the Masaii
-		Essam Rose
 		Golden Dolphin Companions
 			Daniele Hazard
+			Essam Rose
 			George
 			Nicole Lindegger
-		Graham
-		Heather Sieloff
-		Jody Russell
-		Laurel Creech
-		Pam
-		Patrica Hewitt
-		Ron
 		SCUBA Divers
 			Adelfa
 			Beth Plotner
 			Bill King
+			Bob Sieloff
+			Brian Siegel
 			Carol Haack
 			Craig Stenson
+			Daniel Hazard
+			Dave Lent
 			David Lent
 			Dean Nolan
 			Deana Pillard
 			Gary Stenson
 			Gina Castro
+			Gloria CSM
 			Gordon Maney
+			Heather Sieloff
 			Jackie Rae
+			Jody Russell
 			Joni Gilbert
 			Katie Wolfe
+			Lauren Davis
+			Leandro Blanco
+			Ludo
+			Lynn Funkhouser
 			Michelle Hartzler
 			Mike Bartenfelder
 			Mike Tapper
 			Pam McPherson
+			Patrica Hewitt
 			Patricia Hewitt
 			Richard Delany
+			Ryan CSM
+			Scott Reimer
 			Steve James
 			Steve Wilkinson
 			Sue Momsen
 			Tabitha Schneider
 			Tanya Lape
+			Tommy
 			Tonya Wegner
 			Tracy Kittrell
 			YiChung Law
-		Stefan
 		Tonga companions
-		Tracy
 	University of Colorado
 		Brian King
 		Jake Roberts
@@ -3507,6 +3624,8 @@ Plants
 	Mushrooms
 	Trees and Bushes
 		Palm tree
+		Red Mangrove
+			{Rhizophora mangle}
 		Stump
 	Water Plants
 		Duckweed
@@ -3593,6 +3712,7 @@ Structures & architecture
 			{Square}
 			{Plaza}
 	Room
+		Basement
 		Bathroom
 		Bedroom
 		Cellar
@@ -3601,6 +3721,7 @@ Structures & architecture
 		Kitchen
 		Living room
 		Lounge
+		Office
 	Structure
 		Amphitheater
 		Apartment block
@@ -3783,6 +3904,7 @@ Transportation
 			Aircraft carrier
 			Destroyer
 			Patrol vessel
+			Submarine
 		Sail ship
 			{Sailing ship}
 		Sailboat

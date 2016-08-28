@@ -39,18 +39,27 @@ ID-Fish
 	ID-Puffer
 		ID-BoxCow
 	ID-Razorfish
-	ID-Scorp
+	ID-ScorpLike
+		ID-Flathead
 		ID-Frogfish
+		ID-LeafScorp
 		ID-Lionfish
+		ID-Rhinopias
+		ID-Scorpionfish
 		ID-Toadfish
 		ID-Waspfish
 	ID-Seahorse
+		ID-GhostPipe
+		ID-Pipefish
+		ID-Pygmy
 	ID-Shark Ray
 	ID-ShrimpFish
 	ID-Squirrelfish
 	ID-SurgeonTang
 	ID-Sweeper
 	ID-Trigger
+		ID-Filefish
+	ID-TrumpetFish
 	ID-Wrasse
 ID-Huh
 ID-Invert
@@ -86,7 +95,18 @@ ID-Invert
 	ID-Mollusc
 		ID-Bivalve
 		ID-Cephelopod
+			ID-Cuttlefish
+			ID-Octopus
+			ID-Squid
 		ID-Slug-Nudi
+			ID-Aeolid
+			ID-Arminid
+			ID-Chromodoris
+			ID-Dorid
+			ID-HeadShield
+			ID-Hypselodoris
+			ID-Nemobratha
+			ID-Slug
 		ID-Snail
 	ID-Tunicate
 	ID-Worm
@@ -102,3 +122,5 @@ ID-More
 ID-NotNeeded
 ID-People
 ID-Reptile
+ID-Tree
+ID-Uncertain
