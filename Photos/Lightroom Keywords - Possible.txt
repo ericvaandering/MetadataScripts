@@ -1610,7 +1610,7 @@ Animals
 			Crustaceans
 				Amphipods
 					{Order Amphipoda}
-					Skelton Shrimp
+					Skeleton Shrimp
 						{Caprella spp}
 				Decapods
 					{Order Decapoda}
@@ -1618,6 +1618,7 @@ Animals
 						Arrowhead Crab
 							{Huenia heraldica}
 						Batwing Coral Crab
+							{Carpilius corallinus}
 						Box Crabs
 							{Family Calappidae}
 							Rough Box Crab
@@ -1626,13 +1627,15 @@ Animals
 								{Calappa philargius}
 						Common Sally-light-foot
 							{Grapsus tenuicristatus}
+							{Surf Rock Crab}
 						Coral Crabs
 							{Trapeziidae}
 							Red-spotted Guard Crab
 							Yellow Dot Guard Crab
 								{Trapezia lutea}
+						Cryptic Teardrop Crab
+							{Pelia mutica}
 						Cyrique River Crab
-						Decorator Crab
 						Decorator Crabs
 							{Family Inachidae}
 							Achaeus sp.
@@ -1656,6 +1659,7 @@ Animals
 							Wire Coral Crab
 								{Xenocarcinus tuberculatus}
 						Nimble Spray Crab
+							{Percnon gibbesi}
 						Purse Crabs
 							Bulbous Purse Crab
 								{Umalana purarensis}
@@ -1733,74 +1737,101 @@ Animals
 							Caribbean Spiny Lobster
 					Shrimp
 						Alpheus sp.
-						Anker's Whip Coral Shrimp
-							{Pontonides ankeri}
 						Banded Coral Shrimp
 							{Stenopus hispidus}
-						Banded Tozeuma Shrimp
-							{Tozeuma armatum}
-						Bubble Coral Shrimp
-							{Vir philippinensis}
-						Bumblebee Shrimp
-							{Gnathophyllum americanum}
-						Coleman Shrimp
-							{Periclimenes colemani}
-						Cuapetes sp.
-						Dancing Shrimp
-							{Rhynchocinetes durbanensis}
-						Emperor Shrimp
-							{Periclimenes imperator}
+						Broken-back Shrimp
+							{Hippolytidae}
+							Algae Shrimp
+								{Phycocaris simulans}
+							Banded Tozeuma Shrimp
+								{Tozeuma armatum}
+							Bignose Seagrass Shrimp
+								{Latreutes pymoeus}
+							Common Marbled Shrimp
+								{Saron marmoratus}
+								{Saron spp.}
+							Squat Anemone Shrimp
+								{Thor amboinensis}
+							White-banded Cleaner Shrimp
+								{Lysmata amboinensis}
+						Commensal Shrimp
+							{Palaemonidae}
+							Anker's Whip Coral Shrimp
+								{Pontonides ankeri}
+							Brook's Urchin Shrimp
+								{Allopontonia brooki}
+							Bubble Coral Shrimp
+								{Vir philippinensis}
+							Coleman Shrimp
+								{Periclimenes colemani}
+							Cuapetes sp.
+							Donald Duck Shrimp
+								{Leander plumosus}
+							Emperor Shrimp
+								{Periclimenes imperator}
+							Graceful Anemone Shrimp
+								{Ancylomenes venustus}
+							Hidden Corallimorph Shrimp
+								{Pliopontonia furtiva}
+							Holthuis' Anemone Shrimp
+								{Ancylomenes holthuisi}
+							Laomenes sp.
+							Magnificent Anemone Shrimp
+								{Ancylomenes magnificus}
+							Mushroom Coral Shrimp
+								{Periclimenes kororensis}
+							Ornate Anemone Shrimp
+								{Periclimenes ornata}
+							Peacock-tail Anemone Shrimp
+								{Periclimenes brevicarpalis}
+							Red Claw Cuapetes Shrimp
+								{Cuapetes tenuipes}
+								{Periclimenes tenuipes}
+							Sarasvati Anemone Shrimp
+								{Periclimenes sarasvati}
+							Sea Star Shrimp
+								{Periclimenes soror}
+							Zanzibar Whip Coral Shrimp
+								{Dasycaris zanzibarica}
+						Dragon Shrimp
+							{Miropandalus hardingi}
 						Golden Coral Shrimp
-						Graceful Anemone Shrimp
-							{Ancylomenes venustus}
 						Harlequin Shrimp
 							{Hymenocera elegans}
-						Hidden Corallimorph Shrimp
-							{Pliopontonia furtiva}
-						Humpback Prawn
-							{Metapenaeopsis lamellata}
-						Laomenes sp.
-						Long Arm Prawn
-							{Heteropenaeus longimanus}
+						Hinge-beak Shrimp
+							{Rhynchocinetidae}
+							Dancing Shrimp
+								{Rhynchocinetes durbanensis}
 						Long-arm Cleaner Shrimp
 							{Periclimenes longicarpus}
-						Magnificent Anemone Shrimp
-							{Ancylomenes magnificus}
-						Mushroom Coral Shrimp
-							{Periclimenes kororensis}
-						Ornate Partner Shrimp
-							{Periclimenes ornata}
-						Peacock-tail Anemone Shrimp
-							{Periclimenes brevicarpalis}
 						Pederson Cleaner Shrimp
 						Peppermint Shrimp
-						Red Claw Cuapetes Shrimp
-							{Cuapetes tenuipes}
-							{Periclimenes tenuipes}
-						Sarasvati Anemone Shrimp
-							{Periclimenes sarasvati}
+						Prawns
+							{Penaeidae}
+							Humpback Prawn
+								{Metapenaeopsis lamellata}
+							Long Arm Prawn
+								{Heteropenaeus longimanus}
 						Scarlet-striped Cleaning Shrimp
-						Sea Star Shrimp
-							{Periclimenes soror}
 						Snapping Shrimp
 							{Alpheidae}
 							Randall's Snapping Shrimp
 								{Alpheus randalli}
 							Red Snapping Shrimp
 								{Alpheus armatus}
+							Stimpson's Snapping Shrimp
+								{Synalpheus stimpsoni}
 							Tiger Snapping Shrimp
 								{Alpheus bellulus}
+						Spiny Tiger Shrimp
+							{Phyllognathia ceratophthalmus}
 						Spotted Cleaner Shrimp
 							{Periclimenes rathbunae}
-						Squat Anemone Shrimp
-							{Thor amboinensis}
+						Striped Bumblebee Shrimp
+							{Gnathophyllum americanum}
 						Unknown Night Shrimp
 						Urocaridella sp.
 						Velvet Shrimp
-						White-banded Cleaner Shrimp
-							{Lysmata amboinensis}
-						Zanzibar Whip Coral Shrimp
-							{Dasycaris zanzibarica}
 					Squat Lobsters & Porcelain Crabs
 						Porcelain Crabs
 							{Family Porcellanidae}
@@ -2295,6 +2326,7 @@ Animals
 						Arminid Nudibranchs
 							{Suborder Arminina}
 							Armina semperi
+							Janolus sp. 7
 						Dendronotid Nudibranchs
 							Doto sp.
 								{Donut Doto}
@@ -2330,7 +2362,6 @@ Animals
 								{Glossodoris astromarginata}
 								{Black-margined Glossodoris}
 								{Black-margined Doriprismatica}
-							Doriprismatica sibogae
 							Doris odhneri
 								{White Knight Dorid}
 							Glossodoris cincta
@@ -2360,6 +2391,7 @@ Animals
 							Hypselodoris maculosa
 							Hypselodoris pulchella
 								{Beautiful Risbecia}
+							Hypselodoris sp. 7
 							Hypselodoris sp. 15
 							Hypselodoris tryoni
 								{Tryon's Risbecia}
@@ -4472,7 +4504,6 @@ People
 		Seangchan Ryu
 		Simon Metson
 		Slava
-		Stephan Lammel
 		Stephen Gowdy
 		Steve Foulkes
 		Stuart Wakefield
@@ -5286,7 +5317,7 @@ Technical Specs
 	Process Tags
 		B&W virtual
 		Check location
-		ID Uncertain
+		[ID Uncertain]
 		More WB correction
 		Need for ID
 		Need more 7D NR
