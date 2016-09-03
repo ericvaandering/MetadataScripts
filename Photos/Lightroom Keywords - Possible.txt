@@ -1641,6 +1641,7 @@ Animals
 							Achaeus sp.
 							Corallimorph Decorator Crab
 								{Cyclocoeloma tuberculata}
+							Oncinopus sp. 2
 							Orangutan Crab
 								{Oncinopus sp.}
 							Unknown Decorator Crab
@@ -1667,6 +1668,8 @@ Animals
 								{Leucosia anatum}
 						Redeye Sponge Crab
 						Round Crabs
+							Mosaic Boxer Crab
+								{Lybia tesselata}
 							Teddy Bear Crab
 								{Polydectus cupulifer}
 						Spider Crabs
@@ -1678,6 +1681,10 @@ Animals
 								{Achaeus spinosus}
 							Yellowline Arrow Crab
 								{Stenorhynchus seticornis}
+						Sumo Crabs
+							{Ethusidae}
+							Jellyfish Carry Crab
+								{Ethusa sp.}
 						Swimming Crabs
 							{Family Portunidae}
 							Blue Crabs
@@ -1730,6 +1737,8 @@ Animals
 					Lobsters
 						Crayfish
 						Slipper Lobsters
+							Fijian Locust Lobster
+								{Biarctus vitiensis}
 							Locust Slipper Lobsters
 							Spanish Lobster
 						Spiny Lobsters
@@ -1750,6 +1759,7 @@ Animals
 							Common Marbled Shrimp
 								{Saron marmoratus}
 								{Saron spp.}
+							Latreutes sp. 3
 							Squat Anemone Shrimp
 								{Thor amboinensis}
 							White-banded Cleaner Shrimp
@@ -1802,6 +1812,8 @@ Animals
 							{Rhynchocinetidae}
 							Dancing Shrimp
 								{Rhynchocinetes durbanensis}
+						Inshore Hairy Shrimp
+							{Neostylodactylus litoralis}
 						Long-arm Cleaner Shrimp
 							{Periclimenes longicarpus}
 						Pederson Cleaner Shrimp
@@ -1850,6 +1862,8 @@ Animals
 							Galathea sp.
 							Hairy Squat Lobster
 								{Lauriea siagiani}
+							Olivar's Squat Lobster
+								{Munida olivarae}
 							Spider Squat Lobster
 								{Chirostylus sandyi}
 				Mantis Shrimp
@@ -1882,6 +1896,8 @@ Animals
 				Moths
 				Praying Mantis
 			Millipedes
+			Sea Spiders
+				{Pycnogonida}
 		Bryozoans
 			{Phylum Ectoprocta}
 		Cnidarians
@@ -2302,10 +2318,14 @@ Animals
 						{Order Cephalaspidea}
 						Chelidonura amoena
 							{Lovely Headshield Slug}
+						Chelidonura hirundinina
+							{Swallowtail Headshield Slug}
 						Chelidonura inornata
 							{Headband Headshield Slug}
 						Chelidonura varians
 							{Blue Velvet Headshield Slug}
+						Philinopsis speciosa
+							{Showy Headshield Slug}
 						Yellow Lip Shield Slug
 							{Chelidonura flavolobata}
 					Nudibranchs
@@ -2315,12 +2335,18 @@ Animals
 								{Indian Caloria}
 							Cuthona yamasui
 								{Yamasu's Cuthona}
+							Favorinus tsurganus
+								{Ringed Favorinus}
 							Flabellina iodinea
+							Flabellina rubrolineata
+								{Redline Flabellina}
 							Hermissenda crassicornis
 							Phyllodesmium briareum
 								{Yellow-tipped Phyllodesmium}
 							Phyllodesmium colemani
 								{Coleman's Phyllodesmium}
+							Phyllodesmium rudmani
+								{Rudman's Phyllodesmium}
 							Pteraeolida ianthina
 								{Blue Dragon}
 						Arminid Nudibranchs
@@ -2337,16 +2363,14 @@ Animals
 							{Suborder Doridina}
 							Aegires albopunctatus
 							Archidoris montereyensis
+							Ardeadoris electra
 							Ceratosoma trilobatum
 								{Three-lobed T-bar Nudibranch}
 								{Three-lobed Ceratosoma}
 							Chromodoris annae
 								{Anna's Chromodoris}
-							Chromodoris annulata
-								{Ringed Chromodorid}
 							Chromodoris dianae
-							Chromodoris geometrica
-								{Geometric Chromodoris}
+							Chromodoris elisabethina
 							Chromodoris joshi
 							Chromodoris magnifica
 								{Magnificent Chromodoris}
@@ -2357,6 +2381,7 @@ Animals
 							Discodoris boholiensis
 								{Bohol Discodoris}
 								{Flatworm Discodoris}
+							Diversidoris crocea
 							Doriopsilla albopunctata
 							Doriprismatica atromarginata
 								{Glossodoris astromarginata}
@@ -2367,9 +2392,13 @@ Animals
 							Glossodoris cincta
 								{Girdled Glossodoris}
 							Goniobranchus albopunctatus
+							Goniobranchus annulatus
 							Goniobranchus coi
+							Goniobranchus geometrica
+							Goniobranchus hintuanensis
 							Goniobranchus kuniei
 							Goniobranchus leopardus
+							Goniobranchus preciosus
 							Goniobranchus reticulatus
 							Gymnodoris sp. 44
 							Gymnodoris sp. 59
@@ -2451,6 +2480,7 @@ Animals
 							Thecacera picta
 							Thecacera sp. 8
 								{Thecacera sp. 8}
+							Thorunna cf. purpuropedis
 							Thorunna furtiva
 					Sapsucking Slugs
 						{Order Sacoglossa}
@@ -2469,7 +2499,11 @@ Animals
 						Aplysia parvula
 							{Freckled Sea Hare}
 					Side-gilled Slugs
-						Grand Pleurobranch
+						{Pleurobranchidae}
+						Euselenops luniceps
+							{Moon-headed Sidegill Slug}
+						Pleurobranchus grandis
+							{Grand Pleurobranch}
 				Slug
 				Snails
 					Abalone
@@ -4214,6 +4248,7 @@ Object
 		Clarinet
 		Cornett
 			{Cornetto}
+		Drum
 		Drum kit
 		Flute
 		Gaida
@@ -4411,6 +4446,7 @@ Object
 	Tropical aquarium
 	Tyre
 	Umbrella
+	Vending machine
 	Video camera
 		{Camcorder}
 	Wallet
@@ -5191,6 +5227,7 @@ Structures & architecture
 		Florist shop
 		Food court
 		Fort
+		Fortification
 		Foundry
 		Fusegate
 		Gas station
@@ -5324,6 +5361,7 @@ Technical Specs
 		Needs ID
 		Relocate
 		Rename
+		Scientific name needed
 		Set Date
 		Stitch
 	Scans

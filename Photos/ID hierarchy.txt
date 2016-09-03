@@ -36,8 +36,11 @@ ID-Fish
 	ID-Jack
 	ID-Lizardfish
 	ID-Parrot
-	ID-Puffer
+	ID-PufferTriggerFile
 		ID-BoxCow
+		ID-Filefish
+		ID-Puffer
+		ID-Trigger
 	ID-Razorfish
 	ID-ScorpLike
 		ID-Flathead
@@ -57,8 +60,6 @@ ID-Fish
 	ID-Squirrelfish
 	ID-SurgeonTang
 	ID-Sweeper
-	ID-Trigger
-		ID-Filefish
 	ID-TrumpetFish
 	ID-Wrasse
 ID-Huh
