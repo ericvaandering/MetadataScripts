@@ -425,6 +425,8 @@ Animals
 			Conger Eels
 				Banded Garden Eel
 					{Heteroconger polyzona}
+				Bigeye Conger
+					{Ariosoma anagoides}
 				Brown Garden Eel
 				Many-toothed Garden Eel
 					{Heteroconger perissodon}
@@ -438,10 +440,14 @@ Animals
 				Blackspotted Moray
 					{Gymnothorax favagineus}
 				Chain Moray
+				Fimbriated Moray
+					{Gymnothorax fimbriatus}
 				Giant Moray
 					{Gymnothorax javanicus}
 				Goldentail Moray
 				Green Moray Eel
+				Indian Mud Moray
+					{Gymnothorax tile}
 				Peppered Moray
 				Ribbon Eel
 					{Rhinomuraena quaesita}
@@ -452,6 +458,8 @@ Animals
 					{Gymnothorax undulatus}
 				White-eyed Moray
 					{Gymnothorax thyrsoideus}
+				White-margined Moray
+					{Gymnothorax albimarginatus}
 				Yellowmargin Moray
 				Yellowmouth Moray
 					{Gymnothorax nudivomer}
@@ -517,6 +525,8 @@ Animals
 			Angelfishes
 				Bicolor Angelfish
 					{Centropyge bicolor}
+				Blackstriped Angelfish
+					{Genicanthus lamarck}
 				Blue Angelfish
 					{Holacanthus bermudensis}
 				Emperor Angelfish
@@ -555,6 +565,8 @@ Animals
 			Blennies
 				Aron's Blenny
 					{Ecsenius aroni}
+				Black and Red Triplefin
+					{Enneapterygius similis}
 				Blackline fangblenny
 					{Meiacanthus nigrolineatus}
 				Bluestriped Fangblenny
@@ -589,6 +601,8 @@ Animals
 					{Acanthemblemaria maria}
 				Shorthead Fangblenny
 					{Petroscirtes breviceps}
+				Snake Blenny
+					{Xiphasia setifer}
 				Spinyhead Blenny
 					{Acanthemblemaria spinosa}
 				Striped Triplefin
@@ -596,18 +610,25 @@ Animals
 				Tentacled Blenny
 				Twinspot Blenny
 					{Ecsenius bimaculatus}
+				Unknown blenny
 				Yellowtail Fangblenny
 					{Meiacanthus atrodorsalis}
 			Butterflyfishes
 				Banded Butterflyfish
 				Black-backed Butterflyfish
 					{Chaetodon melannotus}
+				Blacklip Butterflyfish
+					{Chaetodon kleinii}
 				Chevron Butterflyfish
 					{Chaetodon trifascialis}
+				Crosshatch Butterflyfish
+					{Chaetodon xanthurus}
 				Crown Butterflyfish
 					{Chaetodon paucifasciatus}
 				Eastern Triangular Butterflyfish
 					{Chaetodon baronessa}
+				Eight-banded Butterflyfish
+					{Chaetodon octofsciatus}
 				Exquisite Butterflyfish
 					{Chaetodon austriacus}
 				Foureye Butterflyfish
@@ -648,7 +669,8 @@ Animals
 					{Chaetodon triangulum}
 				Two-eyed Coralfish
 					{Coradion melanopus}
-				Unknown butterflyfish
+				Vagabond Butterflyfish
+					{Chaetodon vagabundus}
 			Cardinalfishes
 				Bargill Cardinalfish
 					{Apogon sealei}
@@ -657,6 +679,8 @@ Animals
 					{Archamia melasma}
 				Fivelined Cardinalfish
 					{Cheilodipterus quinquelineatus}
+				Frostfin Cardinalfish
+					{Ostorhinchus hoevenii}
 				Goldbelly Cardinalfish
 					{Apogon apogonides}
 				Komodo Cardinalfish
@@ -674,14 +698,20 @@ Animals
 					{Apogon robinsi}
 				Sawcheek Cardinalfish
 					{Apogon quadrisquamatus}
-				Split-banded Cardinalfish
-					{Apogon compressus}
+				Splitband Cardinalfish
+					{Ostorhinchus compressus}
 				Striped Cardinalfish
 					{Apogon angustatus}
 				Tailspot Cardinalfish
 					{Apogon ocellicaudus}
+				Toothy Cardinalfish
+					{Cheilodipterus isostigmus}
 				Yellow Cardinalfish
 					{Apogon luteus}
+				Yellowlined Cardinalfish
+					{Ostorhinchus chrysotaenia}
+				Yellowstriped Cardinalfish
+					{Ostorhinchus cyansoma}
 			Chubs
 				{Kyphosidae}
 				Topsail Drummer
@@ -712,6 +742,8 @@ Animals
 				Bicolor Chromis
 					{Chromis margaritifer}
 				Bicolor Damselfish
+				Black-banded Damsel
+					{Amblypomacentrus breviceps}
 				Blue Chromis
 				Blue Devil
 					{Chrysiptera cyanea}
@@ -753,6 +785,8 @@ Animals
 				Three-spot Dascyllus
 					{Dascyllus trimiculatus}
 				Threespot Damselfish
+				Ward's Damsel
+					{Pomacentrus wardi}
 				Yellow Chromis
 					{Chromis analis}
 				Yellowtail Damselfish
@@ -822,18 +856,24 @@ Animals
 					{Lepidogobius lepidus}
 				Blackeye Goby
 					{Rhinogobiops nicholsii}
+				Blotched Sandgoby
+					{Fusigobius inframaculatus}
 				Blue-speckled Shrimpgoby
 					{Cryptocentrus caeruleopunctatus}
 				Bluedot Goby
 					{Asterropteryx ensiferus}
 				Bridled Goby
 					{Coryphopterus glaucofraenum}
+				Broad-banded Shrimpgoby
+					{Amblyeleotris periophthalma}
 				Candycane Pygmygoby
 					{Trimma cana}
 				Common Ghostgoby
 					{Pleurosicya mossambica}
 				Crosshatch Goby
 					{Amblygobius decussatus}
+				Decorated Sandgoby
+					{Istigobius decoratus}
 				Flagfin Shrimpgoby
 					{Mahidolia mystacina}
 				Goldspot Goby
@@ -847,6 +887,8 @@ Animals
 					{Valenciennea puellaris}
 				Orangespotted Goby
 					{Istigobius rigilius}
+				Ornate Goby
+					{Lubricogobius exiguus}
 				Peppermint Goby
 				Red-margin Shrimpgoby
 					{Amblyeleotris rubrimarginatus}
@@ -861,15 +903,20 @@ Animals
 					{Signigobius biocellatus}
 				Sixspot Goby
 					{Valenciennea sexguttata}
+				Slantbar Shrimpgoby
+					{Amblyeleotris diagonalis}
+				Soft Coral Ghostgoby
+					{Pleurosicya boldinghi}
 				Spangled Shrimpgoby
 					{Vanderhorstia dorsomacula}
-				Sphinx Goby
+				Sphynx Goby
 					{Amblygobius sphynx}
 				Spotted Dwarfgoby
 					{Eviota guttata}
 				Steinitz' Shrimpgoby
 					{Amblyeleotris steinitzi}
 				Unknown goby
+				Unknown shrimpgoby
 				Wire Coral Goby
 					{Bryaninops yongei}
 				Yellownose Goby
@@ -1267,12 +1314,18 @@ Animals
 				Smooth Trunkfish
 				Solar Boxfish
 					{Ostracion solorensis}
+				Spotted Boxfish
+					{Ostracion meleagris}
 				Spotted Trunkfish
+				Thornback Cowfish
+					{Lactoria fornasini}
 				Yellow Boxfish
 					{Ostracion cubicus}
 			Filefishes
 				Bristle-tailed Filefish
 					{Acreichthys tomentosus}
+				Diamond Filefish
+					{Rudarius excelsus}
 				Honeycomb filefish
 					{Cantherinus pardalis}
 				Orangespotted Filefish
@@ -1283,8 +1336,14 @@ Animals
 				Pygmy Filefish
 				Scrawled Filefish
 					{Aluterus scriptus}
+				Shortsnout Filefish
+					{Paramonacanthus curtothynchos}
 				Slender Filefish
 					{Monacanthus tuckeri}
+				Strapweed Filefish
+					{Pseudomonacanthus macrurus}
+				Whitebar Filefish
+					{Paramonacanthus choirocephalus}
 				Whitespotted Filefish
 			Porcupinefishes
 				Balloonfish
@@ -1369,22 +1428,25 @@ Animals
 				Indian Ocean Crocodilefish
 				Longsnout Flathead
 					{Thysanophyrs chiltonae}
-			Flying Gurnard
+			Flying Gurnards
+				{Dactylopteridae}
+				Flying Gurnard
+				Helmut Gurnard
+					{Dactyloptena orientalis}
 			Greenlings
 				{Hexagrammidae}
 				Lingcod
 					{Ophiodon elongatus}
 				Painted Greenling
 					{Oxylebius pictus}
-			Helmet Gurnard
-				{Dactyloptena orientalis}
 			Scorpionfishes
+				Ambon Scorpionfish
+					{Pteroidichthys amboinensis}
 				Bandtail Scorpionfish
 					{Scorpaenopsis neglecta}
 				Black Rockfish
 					{Sebastes melanops}
 				Black Scorpionfish
-				California Scorpionfish
 				Copper Rockfish
 					{Sebastes casurinus}
 				Devil Scorpionfish
@@ -1409,6 +1471,8 @@ Animals
 					Zebra Lionfish
 						{Dendrochirus zebra}
 				Madeira Rockfish
+				Paddle-flap Scorpionfish
+					{Rhinopias eschmeyeri}
 				Raggy Scorpionfish
 					{Scorpaenopsis venosa}
 				Rainbow Scorpionfish
@@ -1419,7 +1483,13 @@ Animals
 				Tasseled Scorpionfish
 					{Scorpaenopsis oxycephala}
 					{Smallscale Scorpionfish}
-			Sculpin
+				Weedy Scorpionfish
+					{Rhinopias frondosa}
+			Sculpins
+				{Cottidae}
+				Cabezon
+					{Scorpaenichthys marmoratus}
+				Sculpin
 			Stonefishes
 				Estuarine Stonefish
 					{Synanceia horrida}
@@ -1545,25 +1615,19 @@ Animals
 					Crabs
 						Arrowhead Crab
 							{Huenia heraldica}
-						Batwing Coral Crab
-							{Carpilius corallinus}
 						Box Crabs
 							{Family Calappidae}
 							Rough Box Crab
 								{Calappa gallus}
 							Spotted Box Crab
 								{Calappa philargius}
-						Common Sally-light-foot
-							{Grapsus tenuicristatus}
-							{Surf Rock Crab}
 						Coral Crabs
 							{Trapeziidae}
 							Red-spotted Guard Crab
 							Yellow Dot Guard Crab
 								{Trapezia lutea}
-						Cryptic Teardrop Crab
-							{Pelia mutica}
 						Cyrique River Crab
+							{Guinotia dentata}
 						Decorator Crabs
 							{Family Inachidae}
 							Achaeus sp.
@@ -1587,8 +1651,10 @@ Animals
 								{Hoplophrys oatesii}
 							Wire Coral Crab
 								{Xenocarcinus tuberculatus}
-						Nimble Spray Crab
-							{Percnon gibbesi}
+						Mud Crabs
+							{Xanthidae}
+							Batwing Coral Crab
+								{Carpilius corallinus}
 						Purse Crabs
 							Bulbous Purse Crab
 								{Umalana purarensis}
@@ -1600,8 +1666,17 @@ Animals
 								{Lybia tesselata}
 							Teddy Bear Crab
 								{Polydectus cupulifer}
+						Shore Crabs
+							{Graspidae}
+							Common Sally-light-foot
+								{Grapsus tenuicristatus}
+								{Surf Rock Crab}
+							Nimble Spray Crab
+								{Percnon gibbesi}
 						Spider Crabs
 							Channel Clinging Crab
+							Cryptic Teardrop Crab
+								{Pelia mutica}
 							Hairy Clinging Crab
 							Neck Crab
 								{Podochela sp.}
@@ -1871,6 +1946,7 @@ Animals
 					White-plumed Anemone (Metridium)
 				Black Corals
 					Branching Black Coral
+					Cirrhipathes anguina
 					Cirripathes sp.
 					Feather Black Coral
 						{Antipathes pennacea}
@@ -2680,8 +2756,16 @@ Animals
 					Eland
 			Deer
 				Moose
-			Giraffe
-				{Giraffa camelopardalis}
+			Giraffes
+				Masai Giraffe
+					{Giraffa tippelskirchi}
+				Northern Giraffe
+					{Giraffa camelopardalis}
+					{Nubian Giraffe}
+				Reticulated Giraffe
+					{Giraffa reticulata}
+				Southern Giraffe
+					{Giraffa Giraffa}
 			Hippopotamus
 				{Hippopotamus amphibius}
 			Pigs
