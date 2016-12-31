@@ -116,26 +116,34 @@ Animals
 			Bullfrog
 				{Rana catesbeiana}
 			Green and Black Poison Dart Frog
+				{Dendrobates auratus}
 			Strawberry Poison-dart Frog
+				{Oophaga pumilio}
 		Toads
 	Birds
 		Cranes & Coots & Rails
 			{Gruiformes}
 			Bustards
 				Kori Bustard
+					{Ardeotis kori}
 				Red-crested Korhaan
 					{Lophotus ruficrista}
 				Secretary Bird
 					{Sagittarius serpentarius}
 				White-bellied Bustard
+					{Eupodotis senegalensis}
 			Cranes
 				Grey Crowned Crane
+					{Balearica regulorum}
 				Limpkin
+					{Aramus guarauna}
 				Sandhill Crane
+					{Grus canadensis}
 				Wattled Crane
 					{Bugeranus carunculatus}
 			Rails
 				American Coot
+					{Fulica americana}
 				Eurasian Coot
 					{Fulica atra}
 		Doves & Pigeons
@@ -143,36 +151,51 @@ Animals
 			Cape Turtle-dove
 				{Streptopelia capicola}
 			Feral Rock Pigeon
+				{Columba livia}
 			Mourning Dove
+				{Zenaida macroura}
 		Ducks & Geese & Swans
 			{Anseriformes}
 			Ducks
 				Blue-winged Teal
+					{Anas discors}
 				Bufflehead
+					{Bucephala albeola}
 				Eurasian Teal
 					{Anas crecca}
 				Knob-billed Duck
 					{Sarkidiornis melanotos}
 				Mallard Duck
+					{Anas platyrhynchos}
 				Northern Shoveler
+					{Anas clypeata}
 				Red-billed Teal
 					{Anas erythrorhyncha}
 				Red-crested Pochard
+					{Netta rufina}
 				Ruddy Duck
+					{Oxyura jamaicensis}
 				Tufted Duck
+					{Aythya fuligula}
 				White-faced Whistling Duck
 					{Dendrocygna viduata}
 				Wood Duck
+					{Aix sponsa}
 			Geese
 				Canada Goose
+					{Branta canadensis}
 				Egyptian Goose
+					{Alopochen aegyptiacus}
 				Spur-winged Goose
 					{Plectropterus gambensis}
 			Mergansers
 				Common Merganser
+					{Mergus merganser}
 				Red-breasted Merganser
+					{Mergus serrator}
 			Scaups
 				Lesser Scaup
+					{Aythya affinis}
 			Swans
 				Mute Swan
 					{Cygnus olor}
@@ -181,24 +204,34 @@ Animals
 				American Kestrel
 					{Falco Sparverius}
 				Peregrine Falcon
+					{Falco peregrinus}
 			New World Vultures
 				Turkey Vulture
+					{Cathartes aura}
 		Flamingos
+			{Phoenicopteridae}
 			American Flamingo
 				{Phoenicopterus ruber}
 			Greater Flamingo
 				{Phoenicopterus roseus}
 			Lesser Flamingo
+				{Phoeniconaias minor}
 		Flightless
-			American Rhea
 			Common Ostrich
+				{Struthio camelus}
+			Greater Rhea
+				{Rhea americana}
 			Somali Ostrich
+				{Struthio molybdophanes}
 		Galliformes
 			Domesticated Turkey
+				{Meleagris gallopavo}
 			Guineafowl
+				{Acryllium vulturinum}
 				Helmeted Guineafowl
 					{Numida meleagris}
 				Vulturine Guineafowl
+					{Acryllium vulturinum}
 			Quails
 				Crested Francolin
 					{Dendroperdix sephaena}
@@ -207,19 +240,26 @@ Animals
 				Swainson's Spurfowl
 					{Pternistis swainsonii}
 			Wild Turkey
+				{Meleagris gallopavo}
 		Grebes
 			Great Crested Grebe
+				{Podiceps cristatus}
 			Little Grebe
 				{Tachybaptus ruficollis}
 			Pied-Billed Grebe
+				{Podilymbus podiceps}
 		Hawks & Eagles & Vultures
 			{Accipitriformes}
+			{Pandion haliaetus}
 			Eagles
 				African Fish Eagle
+					{Haliaeetus vocifer}
 				African Hawk Eagle
 					{Aquila spilogaster}
 				Bald Eagle
+					{Haliaeetus leucocephalus}
 				Bateleur
+					{Terathopius ecaudatus}
 				Martial Eagle
 					{Polemaetus bellicosus}
 				Steppe Eagle
@@ -229,13 +269,16 @@ Animals
 				Wahlberg's Eagle
 					{Hieraaetus wahlbergi}
 			Hawks
+				African Goshawk (Black Morph)
 				Black-collared Hawk
+					{Busarellus nigricollis}
 				Common Black Hawk
+					{Buteogallus anthracinus}
 				Cooper's Hawk
-				Goshawks
-					African Goshawk (Black Morph)
-					Pale Chanting Goshawk
+				Pale Chanting Goshawk
+					{Melierax canorus}
 				Red-tailed Hawk
+					{Buteo jamaicensis}
 			Kites
 				Yellow-billed Kite
 					{Milvus parasitus}
@@ -244,7 +287,9 @@ Animals
 				African White-backed Vulture
 					{Gyps africanus}
 				Lappet-faced Vulture
-				Rueppel's Vulture
+					{Torgos tracheliotos}
+				Rüppell's Vulture
+					{Gyps rueppellii}
 		Kingfishers and relatives
 			{Coraciiformes}
 			Bee-eaters
@@ -488,6 +533,7 @@ Animals
 				{Albula vulpes}
 		Carp
 			Goldfish
+				{Carassius auratus}
 		Catfish
 			{Siluriformes}
 			Eeltail Catfishes
@@ -535,6 +581,7 @@ Animals
 				Indian Mud Moray
 					{Gymnothorax tile}
 				Peppered Moray
+					{Gymnothorax pictus}
 				Ribbon Eel
 					{Rhinomuraena quaesita}
 				Snowflake Moray
@@ -1035,12 +1082,14 @@ Animals
 				Blubberlip
 					{Plectorhincus gibbosus}
 				Bluestriped Grunt
+					{Haemulon sciurus}
 				Cottonwick
 				Diagnoal-banded Sweetlips
 					{Plectorhinchus lineatus}
 				Dotted Sweetlips
 					{Plectorhincus picus}
 				French Grunt
+					{Haemulon flavolineatum}
 				Giant Sweetlips
 					{Plectorhinchus albovittatus}
 				Many-spotted Sweetlips
@@ -1053,6 +1102,7 @@ Animals
 				Silver Sweetlips
 					{Diagramma pictum}
 				Smallmouth Grunt
+					{Haemulon chrysargyreum}
 				Spanish Grunt
 					{Haemulon macrostomum}
 				Striped Sweetlips
@@ -1275,6 +1325,7 @@ Animals
 				Indian Snapper
 					{Lutjanus madras}
 				Lane Snapper
+					{Lutjanus synagris}
 				Mahogany Snapper
 				Mangrove Snapper
 				Margate
@@ -1405,6 +1456,7 @@ Animals
 				Peacock Wrasse
 					{Symphodus tinca}
 				Puddingwife
+					{Halichoeres radiatus}
 				Red Sea Thicklip Wrasse
 					{Hemigymnus sexfasciatus}
 				Redbreasted Wrasse
@@ -1550,6 +1602,7 @@ Animals
 				Spotfin Squirrelfish
 					{Neoniphon sammara}
 				Squirrelfish
+					{Holocentrus adscensionis}
 				Tailspot Squirrelfish
 					{Sargocentron caudimaculatum}
 		Scorpionfish & Flatheads
@@ -1846,6 +1899,7 @@ Animals
 							Red Swimming Crab
 								{Charybdis paucidentata}
 							Redhair Swimming Crab
+								{Portunus ordwayi}
 							Scissor Swimming Crab
 								{Lupocyclus sp. 1}
 							Sea Cucumber Swimming Crab
@@ -2276,6 +2330,7 @@ Animals
 				Amberfish Sea Cucumber
 					{Thelenota anax}
 				Black sea cucumber
+					{Holothuria atra}
 				Blackspotted Sea Cucumber
 					{Bohadschia graeffei}
 					{Personothuria graeffei}
@@ -2305,6 +2360,8 @@ Animals
 				Tubercle Cucumber
 					{Stichopus pseudohorrens}
 				Unknown Sea Cucumber
+				White Spot Sea Cucumber
+					{Holothuria poli}
 				Whiteline Sea Cucumber
 					{Synaptula media}
 				Worm Cucumber
@@ -2370,7 +2427,8 @@ Animals
 						{Brissiosis sp. or Metalia sp.}
 				Imperial Urchin
 					{Phyllacanthus imperialis}
-				Long-Spined Urchin
+				Long-spined Urchin
+					{Diadema antillarum}
 				Purple Sea Urchin
 				Radiant Sea Urchin
 					{Astropyga radiata}
@@ -2379,6 +2437,7 @@ Animals
 				Red Sea Urchin
 					{Strongylocentrotus franciscanus}
 				Rock-boring Urchin
+					{Echinometra lucunter lucunter}
 				Sand Dollars
 					Inflated Sea Biscuit
 						{Clypeaster rosaceus}
@@ -2401,6 +2460,7 @@ Animals
 			Fuscia Flatworm
 				{Pseudoceros ferrugineus}
 			Gold-dotted Flatworm
+				{Thysanozoon sp.}
 			Gravier's Flatworm
 				{Pseudoceros gravieri}
 			Hancock's Flatworm
@@ -2429,8 +2489,11 @@ Animals
 		Mollusks
 			Bivalves
 				Amber Penshell
+					{Pinna camea}
 				Common Giant Clam
+					{Tridacna maxima}
 				Common Pearl Oyster
+					{Pinctada margaritifera}
 				Electric Fileclam
 					{Ctenoides ales}
 				Fluted Giant Clam
@@ -2441,6 +2504,7 @@ Animals
 					{Pedum spondyloideum}
 					{Coral Scallop}
 				Rough Fileclam
+					{Lima scabra}
 				Thorny Oysters
 					{Spondylidae}
 					Atlantic Thorny-oyster
@@ -2468,11 +2532,13 @@ Animals
 					Atlantic Longarm Octopus
 						{Octopus defilippi}
 					Atlantic Pygmy Octopus
+						{Octopus joubini}
 					Blue Ringed Octopuses
 						{Hapalchlaena spp.}
 					Coconut Octopus
 						{Amphioctopus marginatus}
 					Common Octopus
+						{Octopus vulgaris}
 					Day Octopus
 						{Octopus cyanea}
 					Greater Blue-ringed Octopus
@@ -2735,6 +2801,7 @@ Animals
 						Common Egg Cowrie
 							{Ovula ovum}
 						Flamingo Tongue
+							{Cyphoma gibbosum}
 						Formosa Egg Cowrie
 							{Cuspivolva formosa}
 						Margarita Egg Cowrie
@@ -2769,6 +2836,7 @@ Animals
 						Atlantic Deer Cowrie
 							{Cypraea cervus}
 						Panther Cowrie
+							{Cypraea pantherina}
 						Sieve Cowrie
 							{Cypraea bribraria}
 						Tiger Cowrie
@@ -2849,6 +2917,7 @@ Animals
 			Spaghetti Worm
 		Sponges
 			Azure Vase Sponge
+				{Callyspongia plicifera}
 			Barrel Sponge (Indo-Pacific)
 				{Xestospongia testudinaria}
 			Black Ball Sponge
