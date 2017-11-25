@@ -460,6 +460,7 @@ Animals
 				Grey-headed Gull
 					{Chroicophalus cirrocephalus}
 				Laughing Gull
+					{Larus atricilla}
 				Lesser Black-backed Gull
 			Jacanas
 				{Jacanidae}
@@ -587,6 +588,7 @@ Animals
 				Snowflake Moray
 					{Echidna nebulosa}
 				Spotted Moray Eel
+					{Gymnothorax moringa}
 				Undulated Moray
 					{Gymnothorax undulatus}
 				White-eyed Moray
@@ -607,6 +609,7 @@ Animals
 				Sharpsnout Snake Eel
 					{Apterichtus klazingai}
 				Sharptail Eel
+					{Myrichthys breviceps}
 				Spotted Snake Eel
 				Spotted Spoon-nose Eel
 		Flatfishes
@@ -677,6 +680,7 @@ Animals
 					{Holacanthus bermudensis}
 				Emperor Angelfish
 				French Angelfish
+					{Pomacanthus paru}
 				Gray Angelfish
 				Queen Angelfish
 				Regal Angelfish
@@ -700,6 +704,7 @@ Animals
 				Blackcap Basslet
 					{Gramma melacara}
 				Fairy Basslet
+					{Gramma loreto}
 			Bermuda (or Yellow) Chub
 				{Kyphosus sectatrix}
 				{Kyphosus incisor}
@@ -740,6 +745,7 @@ Animals
 				Redlip Blenny
 				Roughhead Triplefin
 				Saddled Blenny
+					{Malacoctenus triangulatus}
 				Sailfin Blenny
 				Seaweed Blenny
 					{Parablennius marmoreus}
@@ -758,6 +764,8 @@ Animals
 				Twinspot Blenny
 					{Ecsenius bimaculatus}
 				Unknown blenny
+				Yellowface Pikeblenny
+					{Chaenopsis limbaughi}
 				Yellowtail Fangblenny
 					{Meiacanthus atrodorsalis}
 			Butterflyfishes
@@ -780,6 +788,7 @@ Animals
 				Exquisite Butterflyfish
 					{Chaetodon austriacus}
 				Foureye Butterflyfish
+					{Chaetodon capistratus}
 				Humphead Bannerfish
 					{Heniochus varius}
 				Latticed Butterflyfish
@@ -864,6 +873,14 @@ Animals
 				{Kyphosidae}
 				Topsail Drummer
 					{Kyphosus cinerascens}
+			Convict Blennies
+				{Pholidichthyidae}
+				Convict Fish
+					{Pholidichthys leucotaenia}
+			Coral Breams
+				{Nemipteridae}
+				Bridled Monocle Bream
+					{Scolopsis binlineata}
 			Damselfishes
 				Anemonefishes
 					Clark's Anemonefish
@@ -900,6 +917,8 @@ Animals
 				Blue Devil
 					{Chrysiptera cyanea}
 				Bluegreen Chromis
+				Bluespot Damsel
+					{Chrysiptera oxycephala}
 				Brown Chromis
 				Garibaldi
 				Goldbelly Damsel
@@ -929,6 +948,8 @@ Animals
 				Scissortail Sergeant
 					{Abudefduf sexfasciatus}
 				Sergeant Major
+				Spiny Chromis
+					{Acanthochromis polyacanthus}
 				Staghorn Damsel
 					{Amblyglyphidodon curacao}
 				Sulphur Damsel
@@ -964,6 +985,7 @@ Animals
 					{Diplogrammus goramensis}
 			Drums
 				Highhat
+					{Pareques acuminatus}
 				Jackknife Fish
 				Spotted Drum
 					{Equetus punctatus}
@@ -1097,6 +1119,7 @@ Animals
 				Oriental Sweetlips
 					{Plectorhinchus vittatus}
 				Porkfish
+					{Anisostremus virginicus}
 				Ribbon Sweetlips
 					{Plectorhinchus polytaenia}
 				Silver Sweetlips
@@ -1110,6 +1133,7 @@ Animals
 				Tomtate
 					{Haemulon aurolineatum}
 				White Grunt
+					{Haemulon plumierii}
 			Hawkfishes
 				Arc-eye Hawkfish
 					{Paracirrhites arcatus}
@@ -1125,11 +1149,14 @@ Animals
 					{Cirrhitichthys oxycephalus}
 				Redspotted Hawkfish
 					{Amblycirrhitus pinos}
+				Threadfin Hawkfish
+					{Cirrhitichthys aprinus}
 			Jacks
 				Bar Jack
 				Bluefin Trevally
 					{Caranx melampygus}
 				Horse-eye Jack
+					{Caranx latus}
 				Orangespotted Trevally
 				Palometa
 					{Trachinotus goodei}
@@ -1140,8 +1167,10 @@ Animals
 				Yellowbarred Jawfish
 					{Opistognathus randalli}
 				Yellowhead Jawfish
+					{Opistognathus aurifons}
 			Mackerels
 				Cero
+					{Scomberomorus regalis}
 				Long-jawed Mackerel
 					{Rastrelliger kanagurta}
 			Moorish Idol
@@ -1167,6 +1196,7 @@ Animals
 				Mediterranean Parrotfish
 				Midnight Parrotfish
 				Princess Parrotfish
+					{Scarus taeniopterus}
 				Queen Parrotfish
 					{Scarus vetula}
 				Rainbow Parrotfish
@@ -1185,11 +1215,13 @@ Animals
 			Perch
 				Rubberlip Perch
 			Porgies
+				{Sparidae}
 				Common two-banded sea bream
 				Jolthead Porgy
 				Saddled Sea Bream
 				Salema
 				Saucereye Porgy
+					{Calamus calamus}
 				Sheepshead
 					{Archosargus probatocephalus}
 				Sheepshead Porgy
@@ -1270,6 +1302,7 @@ Animals
 					Malabar Grouper
 						{Epinephelus malabaricus}
 					Nassau Grouper
+						{Epinephelus striatus}
 					Peacock Grouper
 					Potato Grouper
 					Red Hind
@@ -1307,6 +1340,7 @@ Animals
 					{Grammistes sexlineatus}
 				Tobaccofish
 			Snappers
+				{Lutjanidae}
 				Black Margate
 					{Anisotremus surinamensis}
 				Black Snapper
@@ -1316,6 +1350,8 @@ Animals
 				Checkered Snapper
 					{Lutjanus decussatus}
 				Cubera Snapper
+				Dog Snapper
+					{Lutjanus jocu}
 				Ehrenberg's Snapper
 					{Lutjanus ehrenbergi}
 				Gray Snapper
@@ -1327,8 +1363,10 @@ Animals
 				Lane Snapper
 					{Lutjanus synagris}
 				Mahogany Snapper
+					{Lutjanus mahogoni}
 				Mangrove Snapper
 				Margate
+					{Haemulon album}
 				Midnight Snapper
 					{Macolor macularis}
 				Mutton Snapper
@@ -1337,7 +1375,11 @@ Animals
 				Russel's Snapper
 					{Lutjanus russelli}
 				Schoolmaster
+					{Lutjanus apodus}
+				Twospot Snapper
+					{Lutjanus biguttatus}
 				Yellowtail Snapper
+					{Ocyurus chrysurus}
 			Spadefishes
 				Atlantic Spadefish
 					{Chaetodipterus faber}
@@ -1368,6 +1410,7 @@ Animals
 					{Zebrasoma desjardinii}
 				Lined Bristletooth
 				Ocean Surgeonfish
+					{Acanthurus bahianus}
 				Orangeband Surgeonfish
 					{Acanthurus olivaceus}
 				Orangespine Unicornfish
@@ -1407,6 +1450,8 @@ Animals
 					{Halichoeres chrysus}
 				Checkerboard Wrasse
 					{Halichoeres hortulanus}
+				Cheek-lined Wrasse
+					{Oxycheilinus digramma}
 				Chequerboard Wrasse
 					{Halichoeres hortulanus}
 				Cigar Wrasse
@@ -1465,6 +1510,8 @@ Animals
 				Rosy Razorfish
 					{Xyrichtys martinicensis}
 				Señorita
+				Shoulderspot Wrasse
+					{Leptojulis cyanopleura}
 				Slender Wrasse
 					{Oxycheilinus orientalis}
 				Slingjaw Wrasse
@@ -1486,6 +1533,7 @@ Animals
 			Boxfishes
 				Bluetail Trunkfish
 				Honeycomb Cowfish
+					{Acanthostracion polygonia}
 				Longhorn Cowfish
 					{Lactoria conuta}
 				Scrawled Cowfish
@@ -1505,6 +1553,8 @@ Animals
 					{Acreichthys tomentosus}
 				Diamond Filefish
 					{Rudarius excelsus}
+				Fringed Filefish
+					{Monacanthus ciliatus}
 				Honeycomb filefish
 					{Cantherinus pardalis}
 				Orangespotted Filefish
@@ -1528,6 +1578,7 @@ Animals
 					{Cantherhines macrocerus}
 			Porcupinefishes
 				Balloonfish
+					{Diodon holocanthus}
 				Black-blotched Porcupinefish
 					{Diodon liturosus}
 				Orbicular Burrfish
@@ -1562,6 +1613,7 @@ Animals
 				Whitespotted Puffer
 			Triggerfishes
 				Black Durgon
+					{Melichthys niger}
 				Bluethroat Triggerfish
 				Clown Triggerfish
 					{Balistoides conspicillum}
@@ -1573,6 +1625,7 @@ Animals
 				Picassofish
 					{Rhinecanthus assasi}
 				Queen Triggerfish
+					{Balistes vetula}
 				Redtooth Triggerfish
 				Sargassum Triggerfish
 				Titan Triggerfish
@@ -1580,10 +1633,13 @@ Animals
 			Bluespotted Stingray
 				{Neotrygon kuhlii}
 			Lesser Electric Ray
+			Roughtail Stingray
+				{Dasyatis centroura}
 			Southern Stingray
 				{Dasyatis americana}
 			Spotted Eagle Ray
 			Yellow Stingray
+				{Urolophus jamaicensis}
 		Sawbellies
 			{Beryciformes}
 			Squirrelfishes
@@ -1691,6 +1747,8 @@ Animals
 					{Synanceia verrucosa}
 			Velvetfishes
 				Crested Velvetfish
+				Ghost Velvetfish
+					{Cocotropus larvatus}
 			Waspfishes
 				{Tetrarogidae}
 				Cockatoo Waspfish
@@ -1709,7 +1767,9 @@ Animals
 			Longimanus
 				{Carcharhinus longimanus}
 			Nurse Shark
+				{Ginglymostoma cirratum}
 			Reef Shark
+				{Carcharhinus perezii}
 			Swell Shark
 			Whitetip Reef Shark
 				{Triaenodon obesus}
@@ -1739,6 +1799,7 @@ Animals
 					Broadnosed Pipefish
 					Brown-banded Pipefish
 						{Corythoichthys amplexus}
+					Diamond Pipefish
 					Double-ended Pipefish
 					Harlequin Pipefish
 					Network Pipefish
@@ -1874,11 +1935,15 @@ Animals
 								{Surf Rock Crab}
 							Nimble Spray Crab
 								{Percnon gibbesi}
+							Tidal Spray Crab
+								{Plagusia depressa}
 						Spider Crabs
 							Channel Clinging Crab
+								{Mithrax spinosissimus}
 							Cryptic Teardrop Crab
 								{Pelia mutica}
 							Hairy Clinging Crab
+								{Mithrax pilosus}
 							Neck Crab
 								{Podochela sp.}
 							Soft Coral Spider Crab
@@ -1936,6 +2001,8 @@ Animals
 							{Dardanus lagopodes}
 						Small White Hermit Crab
 							{Calcinus minutus}
+						Stareye Hermit
+							{Dardanus venosus}
 						Unknown Hermit Crab
 						White Speckled Hermit Crab
 							{Paguristes punticeps}
@@ -1959,6 +2026,8 @@ Animals
 							{Hippolytidae}
 							Algae Shrimp
 								{Phycocaris simulans}
+							Arrow Shrimp
+								{Tozeuma carolinense}
 							Banded Tozeuma Shrimp
 								{Tozeuma armatum}
 							Bignose Seagrass Shrimp
@@ -2008,6 +2077,8 @@ Animals
 								{Periclimenes sarasvati}
 							Sea Star Shrimp
 								{Periclimenes soror}
+							Sun Anemone Shrimp
+								{Periclimenes rathbunae}
 							Zanzibar Whip Coral Shrimp
 								{Dasycaris zanzibarica}
 						Dragon Shrimp
@@ -2143,11 +2214,11 @@ Animals
 					Merten's Anemone
 						{Stichodactyla mertensii}
 					Orange Ball Corallimorph
+						{Pseudocorynactis sp.}
 					Snake Tentacle Anemone
 						{Actinostephanus haeckeli}
 					Sun Anemone
 						{Stichodactyla helianthus}
-					Tube-dwelling Anemone
 					Unknown anemone
 					White-plumed Anemone (Metridium)
 				Black Corals
@@ -2163,6 +2234,8 @@ Animals
 				Octocorals
 					Gorgonians
 						Encrusting Gorgorian
+						Red Polyp Octocoral
+							{Swiftia exserta}
 						Sea Fans
 							Common Sea Fan
 								{Gorgonia ventalina}
@@ -2172,6 +2245,10 @@ Animals
 								{Gorgonia mariae}
 						Sea Plumes
 						Sea Rods
+							Bent Sea Rod
+								{Plexaura flexuosa}
+							Orange Spiny Sea Rod
+								{Muricea elongata}
 							Swollen-knob Candelabrum
 								{Eunicea mammosa}
 						Sea Whip
@@ -2195,18 +2272,21 @@ Animals
 						Tree Corals
 							Divaricate Tree Coral
 								{Dendronephthya (Roxasia)}
-							Gomerate Tree Coral
+							Glomerate Tree Coral
 								{Dendronephthya (Spongodes)}
 							Siphonogorgia godeffroyi
 						Xenids
 							Feathery Xenid
+							Heteroxenia sp.
 							Pulsating Xenid
 								{Heteroxenia fuscescens}
 							Umbrella xenia
 								{Xenia umbrellata}
+							Xenia sp.
 				Stony Corals
 					Anacropora forbesi
 					Anemone Coral
+						Alveopora sp.
 						Dome Coral
 							{Porites nodifera}
 						Goniopora columna
@@ -2225,16 +2305,19 @@ Animals
 					Bubble Coral
 						{Plerogyra sinuosa}
 					Cactus Coral
-					Cup Coral
+					Cup Corals
+						{Dendrophylliidae}
+						Orange Cup Coral
+							{Tubastraea coccinea}
+						Tubastraea cf. faulkneri
 					Disc Corals
 					Euphyllia ancora
 					Finger Coral
 						Pocillopora verrucosa
 						Stylophora subseriata
 					Fleshy Corals
-						Artichoke Coral
-						Atlantic Mushroom Coral
-							{Scolymia lacera}
+						Disc corals (Mushroom & Artichoke)
+							{Scolymia sp.}
 						Fungia scutaria
 						Knobby Cactus Coral
 							{Mycetophyllia aliciae}
@@ -2271,7 +2354,10 @@ Animals
 						Great Star Coral
 							{Montastraea cavernosa}
 						Star Coral
+					Stylophora pistillata
 					Yellow Pencil Coral
+				Tube-dwelling Anemone
+					{Ceriantharia}
 				Zoanthids
 					Corynactis californica
 					Golden Zoanthid
@@ -2344,6 +2430,7 @@ Animals
 				Five-toothed Sea Cucumber
 					{Actinopygia agassizii}
 				Furry Sea Cucumber
+					{Astichopus multifidus}
 				Greenfish Sea Cucumber
 					{Stichopus chloronotus}
 				Lampert's Sea Cucumber
@@ -2356,6 +2443,7 @@ Animals
 				Synaptula reciprocans
 					{Synaptula reciprocans}
 				Three-rowed Sea Cucumber
+					{Isotichopus badionotus}
 				Tiger Tail Sea Cucumber
 				Tubercle Cucumber
 					{Stichopus pseudohorrens}
@@ -2535,6 +2623,8 @@ Animals
 						{Octopus joubini}
 					Blue Ringed Octopuses
 						{Hapalchlaena spp.}
+					Caribbean Reef Octopus
+						{Octopus briareus}
 					Coconut Octopus
 						{Amphioctopus marginatus}
 					Common Octopus
@@ -2585,6 +2675,7 @@ Animals
 							{Miniature Melo}
 						Philinopsis speciosa
 							{Showy Headshield Slug}
+						Sagaminopteron nigropunctatum
 						Sagaminopteron psychedelicum
 							{Psychedelic Batwing Slug}
 						Yellow Lip Shield Slug
@@ -2627,135 +2718,144 @@ Animals
 							Marionia sp.
 							Tritonia festiva
 						Dorid Nudibranchs
-							{Suborder Doridina}
-							Aegires albopunctatus
-							Aegires villosus
-								{Hairy Norse God}
-							Archidoris montereyensis
-							Ardeadoris electra
-							Cadlinella ornatissima
-								{Ornamental Cadlinella}
-							Ceratosoma trilobatum
-								{Three-lobed T-bar Nudibranch}
-								{Three-lobed Ceratosoma}
-							Chromodoris annae
-								{Anna's Chromodoris}
-							Chromodoris dianae
-							Chromodoris elisabethina
-							Chromodoris joshi
-							Chromodoris magnifica
-								{Magnificent Chromodoris}
-							Chromodoris quadricolor
-								{Pyjama Chromodorid}
-							Chromodoris willani
-								{Willan's Chromodoris}
-							Discodoris boholiensis
-								{Bohol Discodoris}
-								{Flatworm Discodoris}
-							Diversidoris crocea
-							Doriopsilla albopunctata
-							Doriprismatica atromarginata
-								{Glossodoris astromarginata}
-								{Black-margined Glossodoris}
-								{Black-margined Doriprismatica}
-							Doris odhneri
-								{White Knight Dorid}
-							Glossodoris cincta
-								{Girdled Glossodoris}
-							Goniobranchus albopunctatus
-							Goniobranchus annulatus
-							Goniobranchus coi
-							Goniobranchus geometrica
-							Goniobranchus hintuanensis
-							Goniobranchus kuniei
-							Goniobranchus leopardus
-							Goniobranchus preciosus
-							Goniobranchus reticulatus
-							Gymnodoris sp. 44
-							Gymnodoris sp. 59
-							Halgerda batangas
-								{Batangas Halgerda}
-							Halgerda carlsoni
-								{Carlson's Halgerda}
-							Halgerda tessellata
-							Hexabranchus sanguineus
-								{Spanish Dancer}
-							Hypselodoris apolegma
-							Hypselodoris bollandi
-							Hypselodoris bullockii
-							Hypselodoris infucata
-								{Colorful Hypselodoris}
-								{Painted Hypselodoris}
-							Hypselodoris kanga
-								{Kanga Hypselodoris}
-							Hypselodoris krakatoa
-								{Krakatoa Hypselodoris}
-							Hypselodoris maculosa
-							Hypselodoris pulchella
-								{Beautiful Risbecia}
-							Hypselodoris reidi
-							Hypselodoris sp. 7
-							Hypselodoris sp. 15
-							Hypselodoris tryoni
-								{Tryon's Risbecia}
-								{Tryon's Hypselodoris}
-							Hypselodoris whitei
-								{White's Hypselodoris}
-							Hypselodoris zephyra
-								{West Wind Hypselodoris}
-							Jorunna funebris
-								{Funeral Jorunna}
-							Jorunna rubescens
-								{Red-lined Jorunna}
-							Kalinga Ornata
-							Mexichromis multituberculata
-								{Multi-pustuled Mexichromis}
-							Nemobratha chamberlaini
-								{Chamberlain's Nemobratha}
-							Nemobratha cristata
-								{Crested Nemobratha}
-							Nemobratha kubaryana
-								{Kubaryana's Nemobratha}
-							Nemobratha lineolata
-								{Lined Nemobratha}
-							Nemobratha milleri
-								{Miller's Nemobratha}
-							Nemobratha mullineri
-							Peltodoris atromaculata
-							Peltodoris nobilis
-								{Sea Lemon}
-								{Anisodoris nobilis}
-								{Diaulula nobilis}
-							Phyllidia coelestis
-								{Sky Blue Phyllidia}
-							Phyllidia exquisita
-							Phyllidia ocellata
-								{Ocellated Phyllidia}
-							Phyllidia picta
-								{Black-rayed Phyllidia}
-							Phyllidia rueppelii
-								{Rueppell's Wart Slug}
-								{Fryeria rueppelii}
-							Phyllidia varicosa
-								{Swollen Phyllidia}
-							Phyllidiella annulata
-								{Ringed Phyllidiella}
-							Phyllidiella pustulosa
-								{Pimpled Phyllidiella}
-								{Pustulose Wart Slug}
-							Phyllidiopsis papilligera
-								{Black-spotted Nudibranch}
-							Polycera abei
-								{Pale Polycera}
-							Roboastra gracilis
-								{Slender Roboastra}
-							Tambja morosa
-								{Gloomy Tambja}
-							Thecacera picta
-							Thecacera sp. 8
-								{Thecacera sp. 8}
-							Thorunna cf. purpuropedis
-							Thorunna furtiva
+							{Euctenidiacea}
+							Aegiridae
+								Aegires albopunctatus
+								Aegires villosus
+									{Hairy Norse God}
+							Chromodorididae
+								Cadlinella ornatissima
+									{Ornamental Cadlinella}
+								Ceratosoma trilobatum
+									{Three-lobed T-bar Nudibranch}
+									{Three-lobed Ceratosoma}
+								Chromodoris annae
+									{Anna's Chromodoris}
+								Chromodoris dianae
+								Chromodoris elisabethina
+								Chromodoris joshi
+								Chromodoris magnifica
+									{Magnificent Chromodoris}
+								Chromodoris quadricolor
+									{Pyjama Chromodorid}
+								Chromodoris willani
+									{Willan's Chromodoris}
+								Diversidoris crocea
+								Doriprismatica atromarginata
+									{Glossodoris astromarginata}
+									{Black-margined Glossodoris}
+									{Black-margined Doriprismatica}
+								Glossodoris cincta
+									{Girdled Glossodoris}
+								Goniobranchus albopunctatus
+								Goniobranchus annulatus
+								Goniobranchus coi
+								Goniobranchus geometrica
+								Goniobranchus hintuanensis
+								Goniobranchus kuniei
+								Goniobranchus leopardus
+								Goniobranchus preciosus
+								Goniobranchus reticulatus
+								Hypselodoris apolegma
+								Hypselodoris bollandi
+								Hypselodoris bullockii
+								Hypselodoris infucata
+									{Colorful Hypselodoris}
+									{Painted Hypselodoris}
+								Hypselodoris kanga
+									{Kanga Hypselodoris}
+								Hypselodoris krakatoa
+									{Krakatoa Hypselodoris}
+								Hypselodoris maculosa
+								Hypselodoris pulchella
+									{Beautiful Risbecia}
+								Hypselodoris reidi
+								Hypselodoris sp. 7
+								Hypselodoris sp. 15
+								Hypselodoris tryoni
+									{Tryon's Risbecia}
+									{Tryon's Hypselodoris}
+								Hypselodoris whitei
+									{White's Hypselodoris}
+								Hypselodoris zephyra
+									{West Wind Hypselodoris}
+								Mexichromis multituberculata
+									{Multi-pustuled Mexichromis}
+								Thorunna cf. purpuropedis
+								Thorunna furtiva
+							Dendrodorididae
+								Doriopsilla albopunctata
+							Discodorididae
+								Discodoris boholiensis
+									{Bohol Discodoris}
+									{Flatworm Discodoris}
+								Halgerda batangas
+									{Batangas Halgerda}
+								Halgerda carlsoni
+									{Carlson's Halgerda}
+								Halgerda tessellata
+								Jorunna funebris
+									{Funeral Jorunna}
+								Jorunna rubescens
+									{Red-lined Jorunna}
+								Peltodoris atromaculata
+								Peltodoris nobilis
+									{Sea Lemon}
+									{Anisodoris nobilis}
+									{Diaulula nobilis}
+							Dorididae
+								Doris electra
+								Doris montereyensis
+								Doris odhneri
+									{White Knight Dorid}
+							Gymnodorididae
+								Gymnodoris sp. 44
+								Gymnodoris sp. 59
+							Hexabranchidae
+								Hexabranchus sanguineus
+									{Spanish Dancer}
+							Phyllidiidae
+								Phyllidia coelestis
+									{Sky Blue Phyllidia}
+								Phyllidia exquisita
+								Phyllidia ocellata
+									{Ocellated Phyllidia}
+								Phyllidia picta
+									{Black-rayed Phyllidia}
+								Phyllidia rueppelii
+									{Rueppell's Wart Slug}
+									{Fryeria rueppelii}
+								Phyllidia varicosa
+									{Swollen Phyllidia}
+								Phyllidiella annulata
+									{Ringed Phyllidiella}
+								Phyllidiella pustulosa
+									{Pimpled Phyllidiella}
+									{Pustulose Wart Slug}
+								Phyllidiopsis papilligera
+									{Black-spotted Nudibranch}
+							Polyceridae
+								Kalinga Ornata
+								Nembrotha chamberlaini
+									{Chamberlain's Nembrotha}
+								Nembrotha cristata
+									{Crested Nembrotha}
+								Nembrotha kubaryana
+									{Kubaryana's Nembrotha}
+								Nembrotha lineolata
+									{Lined Nembrotha}
+								Nembrotha milleri
+									{Miller's Nembrotha}
+								Nembrotha mullineri
+								Polycera abei
+									{Pale Polycera}
+								Roboastra gracilis
+									{Slender Roboastra}
+								Tambja morosa
+									{Gloomy Tambja}
+								Thecacera picta
+								Thecacera sp. 8
+									{Thecacera sp. 8}
 					Sapsucking Slugs
 						{Sacoglossa}
 						{Order Sacoglossa}
@@ -2767,6 +2867,7 @@ Animals
 							{Ornate Sapsucking Slug}
 						Elysia picta
 							{Painted Elysia}
+						Lobiger viridis
 						Oxynoe viridis
 							{Green Longtail Sapsucking Slug}
 						Plakobranchus sp.
@@ -2800,6 +2901,7 @@ Animals
 							{Calpumus verrucosus}
 						Common Egg Cowrie
 							{Ovula ovum}
+						Cyphoma signatum
 						Flamingo Tongue
 							{Cyphoma gibbosum}
 						Formosa Egg Cowrie
@@ -2891,6 +2993,7 @@ Animals
 				{Eunice aphroditois}
 			Calcareous Tube Worms
 				Christmas Tree Worm
+					{Spirobranchus giganteus}
 				Magnificent Tube Worm
 					{Protula magnifica}
 				Star Horseshoe Worm
@@ -2960,6 +3063,7 @@ Animals
 			Variable Boring Sponge
 				{Siphonodictyon coralliphagum}
 			Yellow Tube Sponge
+				{Aplysina fistularis}
 		Tunicates
 			Bluebell Tunicate
 				{Clavelina moluccensis}
@@ -2968,7 +3072,11 @@ Animals
 				{Bulb Tunicates}
 			Eusynstyela misakiensis
 			Herdman's Ascidian
+			Nephtheis fascicularis
+				{Oxycorynia fascicularis}
+				{Lollipop tunicate}
 			Painted Tunicate
+				{Clavelina picta}
 			Pelagic Tunicate
 			Polycarpa aurata
 	Livestock
@@ -3020,6 +3128,7 @@ Animals
 				California Sea Lion
 		Dolphins & Whales
 			Atlantic Bottlenose Dolphin
+				{Tursiops truncatus}
 			Dolphins
 			Humpback Whale
 			Little Bottlenose Dolphin
@@ -3091,6 +3200,11 @@ Animals
 				Warthog
 					{Phacochoerus africanus}
 		Hoffman's Two-toed Sloth
+		Lagomorphs
+			{Lagomorpha}
+			Hares & Rabbits
+				Eastern Cottontail
+				Scrub Hare
 		Odd Toed Ungulates
 			Horses & Asses
 				Common Zebra
@@ -3125,13 +3239,10 @@ Animals
 				Common Marmoset
 				Howler Monkey
 		Rodents
-			Hares & Rabbits
-				Eastern Cottontail
-				Scrub Hare
 			Mice and Rats
 				Grass Rat
 			Muskrat
-			Springhare
+			South African Springhare
 				{Pedetes capensis}
 			Squirrels
 				Eastern Gray Squirrel
@@ -3170,6 +3281,8 @@ Animals
 				{Varanus niloticus}
 			Rock Monitor
 				{Varanus albigularis}
+			Silver Key Anole
+				{Anolis scriptus}
 			Spiny-tailed Iguana
 				{Ctenosaura oedirhina}
 			Turner's Thick-toed Gecko
@@ -3720,18 +3833,25 @@ Dive Sites
 			Ruby E
 			Yukon
 	Cozumel
+		Chankanap
 		Columbia Reef
+		Delilah
 		Palancar Bricks
 		Palancar Caves
 		Palancar Gardens
+		Paradise Reef
 		Paso del Cedral
 		Paso del Cedral Shallows
 		Punta Dalila
 		Punta Tunich
 		San Francisco Wall
 		Santa Rosa
+		Scuba Club Cozumel
 		Spanish Galleon
+		Tormentos
+		Villa Blanca
 		Xhanah
+		Yucab
 	Dominica
 		Castle Comfort Reef
 		Champagne
@@ -3833,7 +3953,7 @@ Dive Sites
 			Bethlehem
 			Cathedral
 			Coconuts
-			Dari Laut
+			Daryl Laut
 			Dead Palm
 			Devil's Point
 			Hydee's Point
@@ -3958,6 +4078,14 @@ Dive Sites
 		Newman's Wall
 		Prince Albert
 		Tulio's Reef
+	Turks and Caicos
+		Providenciales
+			Cathedral
+			Chimney
+			Eel Garden
+			Pinnacles
+			Rugged Ledge
+			Tons of Sponge
 Element
 	Air
 	Ash
@@ -4249,6 +4377,7 @@ Object
 	Aiguillette
 		{Aiglet}
 	Air condition
+	Anchor
 	Artifact
 	Axle
 	Bag
@@ -4420,6 +4549,7 @@ Object
 		Bread
 		Cake
 		Cheese
+		Cocktail
 		Wine
 	Footprint
 	Fossil
@@ -4548,6 +4678,7 @@ Object
 		Nightlight
 		Recessed light
 		Sconce
+		Street lamp
 		Street light
 		Strobe light
 		Table lamp
@@ -4603,6 +4734,7 @@ Object
 		Saxophone
 		Sitar
 		Steel drum
+		Street organ
 		Tabla
 		Triangle
 		Trumpet
@@ -4803,6 +4935,7 @@ People
 		Anna Stenson
 		Chuck Miller
 		David Rowe
+		George Veldman
 		Irina
 		John Bell
 		Kathleen Kennedy
@@ -4811,6 +4944,7 @@ People
 		Lisa Reisselman
 		Mia Fedanzo
 		Pamela Hewitt
+		Stewart Leiwakabessy
 	Argonne
 		David Rainwater
 		Eugene
@@ -4866,6 +5000,7 @@ People
 		Patrick Gartung
 		Petar Maksimovic
 		Phillipe Canal
+		Rich Wilkenson
 		Rick Wilkinson
 		Robert Harris
 		Sal Rappacio
@@ -4907,13 +5042,17 @@ People
 		Julio
 		Karen Repsys
 		Keith
+		Kelly
 		Marcia Weflen
+		Matt M
 		Max
 		Melonie Middleton
 		Mike Brutlag
+		Mike F
 		Mike Weflen
 		Nick
 		Oswaldo
+		Patrick
 		Rick
 		Ron Rispoli
 		Ruth Magnus
@@ -4929,14 +5068,17 @@ People
 		Zack Bunda
 	Eric Vaandering
 	Family
+		Ad Vaandering
 		Amy Huizenga
 		Annette Huizenga
+		Ben van Rooijen
 		Beth Miedema
 		Brian Huizenga
 		Carson Natte
 		Case Vaandering
 		Cathy Miedema
 		Dave Miedema
+		Dini Vaandering
 		Donna Huizenga
 		Ed Huizenga
 		Edward Huizenga
@@ -4955,6 +5097,8 @@ People
 		Lucas Miedema
 		Marion Huizenga
 		Mark Huizenga
+		Mein Wilderom
+		Mia van Rooijen
 		Robert Huizenga
 		Robert Osterman II
 		Robert Osterman III
@@ -5005,15 +5149,20 @@ People
 		Harry Cheung
 		Heather Robinson
 		Jeff Schumaker
+		Jennifer F
 		Jennifer Johnson
 		Joan Marler
 		John Admiraal
 		Josephine O'Shea
 		Kevin Stenson
 		Kimberly Myles
+		Krista Majewski
+		Kristen Sikkenga
 		Lewis Vissia
+		Lisabeth Kochanski
 		Luca Cinquini
 		Mary Admiraal
+		Matt Vanderwel
 		Maya Agostino
 		Mu-Chun Chen
 		Pam Admiraal
@@ -5108,6 +5257,7 @@ People
 			Gordon Maney
 			Heather Sieloff
 			Jackie Rae
+			Jeff Springer
 			Jody Russell
 			Joni Gilbert
 			Katie Wolfe
@@ -5119,7 +5269,6 @@ People
 			Mike Tapper
 			Obet Corpuz
 			Pam McPherson
-			Patrica Hewitt
 			Patricia Hewitt
 			Richard Delany
 			Ryan CSM
@@ -5397,6 +5546,7 @@ Sport
 	Underwater diving
 		{Diving}
 		Freediving
+		Night Dive
 		Snorkeling
 	Volleyball
 	Water polo
@@ -5454,6 +5604,7 @@ Structures & architecture
 		Pinnacle
 		Porch
 		Pylon
+		Roof
 		Spire
 		Stair
 			{Staircase}
