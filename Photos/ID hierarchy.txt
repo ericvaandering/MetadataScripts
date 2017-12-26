@@ -41,6 +41,7 @@ ID-Fish
 		ID-Filefish
 		ID-Puffer
 		ID-Trigger
+	ID-Rabbitfish
 	ID-Razorfish
 	ID-ScorpLike
 		ID-Flathead
@@ -57,6 +58,7 @@ ID-Fish
 		ID-Pygmy
 	ID-Shark Ray
 	ID-ShrimpFish
+	ID-Spadefish
 	ID-Squirrelfish
 	ID-SurgeonTang
 	ID-Sweeper

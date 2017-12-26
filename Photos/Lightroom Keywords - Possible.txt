@@ -817,11 +817,14 @@ Animals
 					{Chaetodon lunulatus}
 				Spot-banded Butterflyfish
 					{Chaetodon punctatofasciatus}
+				Spot-nape Butterflyfish
+					{Chaetodon oxycephalus}
 				Spot-tail Butterflyfish
 					{Chaetodon ocellicaudus}
 				Spotfin Butterflyfish
 					{Chaetodon ocellatus}
 				Threadfin Butterflyfish
+					{Chaetodon auriga}
 				Triangular Butterflyfish
 					{Chaetodon triangulum}
 				Two-eyed Coralfish
@@ -829,6 +832,8 @@ Animals
 				Vagabond Butterflyfish
 					{Chaetodon vagabundus}
 			Cardinalfishes
+				Banggai Cardinalfish
+					{Pterapogon kauderni}
 				Bargill Cardinalfish
 					{Apogon sealei}
 				Belted Cardinalfish
@@ -844,7 +849,7 @@ Animals
 					{Apogon komodoensis}
 				Moluccan Cardinalfish
 					{Apogon moluccensis}
-					{Ostorhinchus monospilus}
+					{Ostorhinchus moluccensis}
 				Orangespot Cardinalfish
 					{Apogon rubrimacula}
 				Pajama Cardinalfish
@@ -857,6 +862,8 @@ Animals
 					{Apogon quadrisquamatus}
 				Splitband Cardinalfish
 					{Ostorhinchus compressus}
+				Spotgill Cardinalfish
+					{Ostorhinchus chrysopomus}
 				Striped Cardinalfish
 					{Apogon angustatus}
 				Tailspot Cardinalfish
@@ -945,6 +952,8 @@ Animals
 					{Dascyllus reticulatus}
 				Rolland's Demoiselle
 					{Chrysiptera rollandi}
+				Scaly Damsel
+					{Pomacentrus lepidogenys}
 				Scissortail Sergeant
 					{Abudefduf sexfasciatus}
 				Sergeant Major
@@ -971,6 +980,12 @@ Animals
 					{Blackfin Dartfish}
 					{Ptereleo evides}
 			Dolphin Fish
+			Dottybacks
+				{Pseudochromidae}
+				Orchid Dottyback
+					{Pseudochromis fridmani}
+				Royal Dottyback
+					{Pictichromis paccagnellae}
 			Dragonets
 				{Family Callionymidae}
 				Fingered Dragonet
@@ -1039,12 +1054,16 @@ Animals
 					{Cryptocentrus caeruleopunctatus}
 				Bluedot Goby
 					{Asterropteryx ensiferus}
+				Bluestreak Goby
+					{Valenciennea strigata}
 				Bridled Goby
 					{Coryphopterus glaucofraenum}
 				Broad-banded Shrimpgoby
 					{Amblyeleotris periophthalma}
 				Candycane Pygmygoby
 					{Trimma cana}
+				Centrescale Goby
+					{Callogobius centrolepis}
 				Common Ghostgoby
 					{Pleurosicya mossambica}
 				Crosshatch Goby
@@ -1058,6 +1077,8 @@ Animals
 					{Amblyeleotris wheeleri}
 				Linesnout Goby
 					{Elacatinus lori}
+				Majestic Shrimpgoby
+					{Vanderhorstia nobilis}
 				Neon Goby
 					{Gobiosoma oceanops}
 				Orange-dashed Goby
@@ -1151,6 +1172,8 @@ Animals
 					{Amblycirrhitus pinos}
 				Threadfin Hawkfish
 					{Cirrhitichthys aprinus}
+				Twinspot Hawkfish
+					{Amblycirrhitus bimacula}
 			Jacks
 				Bar Jack
 				Bluefin Trevally
@@ -1175,10 +1198,10 @@ Animals
 					{Rastrelliger kanagurta}
 			Moorish Idol
 				{Zanclus cornutus}
-			Orchid Dottyback
-				{Pseudochromis fridmani}
 			Parrotfishes
 				Bicolor Parrotfish
+				Bleeker's Parrtofish
+					{Chlorurus bleekeri}
 				Blue Parrotfish
 				Bluelip Parrotfish
 					{Cryptotomus roseus}
@@ -1228,6 +1251,8 @@ Animals
 					{Calamus penna}
 				White Sea Bream
 			Rabbitfishes
+				Foxface Rabbitfish
+					{Siganus vulpinus}
 				Golden Rabbitfish
 					{Siganus guttatus}
 				Masked Rabbitfish
@@ -1282,6 +1307,7 @@ Animals
 					Black Grouper
 						{Mycteroperca bonaci}
 					Blacktip Grouper
+						{Epinephelus fasciatus}
 					Bluespotted Grouper
 						{Cephalopholis cynanostigma}
 					Brown-marbled Grouper
@@ -1345,6 +1371,8 @@ Animals
 					{Anisotremus surinamensis}
 				Black Snapper
 					{Macolor niger}
+				Blacktail Snapper
+					{Lutjanus fulvus}
 				Bluestripe Snapper
 					{Lutjanus kasmira}
 				Checkered Snapper
@@ -1406,6 +1434,8 @@ Animals
 				Convict Surgeonfish
 					{Acanthurus triostegus}
 				Doctorfish
+				Humpback Unicornfish
+					{Naso brachycentron}
 				Indian Sailfin Tang
 					{Zebrasoma desjardinii}
 				Lined Bristletooth
@@ -1440,6 +1470,8 @@ Animals
 					{Coris cuvieri}
 				Bird Wrasse
 					{Gomphosus varius}
+				Black Leopard Wrasse
+					{Macropharyngodon negrosensis}
 				Blackspot Cleaner Wrasse
 					{Labroides pectoralis}
 				Bluehead
@@ -1512,6 +1544,8 @@ Animals
 				Señorita
 				Shoulderspot Wrasse
 					{Leptojulis cyanopleura}
+				Sixbar Wrasse
+					{Thalassoma hardwicke}
 				Slender Wrasse
 					{Oxycheilinus orientalis}
 				Slingjaw Wrasse
@@ -1545,7 +1579,7 @@ Animals
 					{Ostracion meleagris}
 				Spotted Trunkfish
 				Thornback Cowfish
-					{Lactoria fornasini}
+					{Lactoria fomasini}
 				Yellow Boxfish
 					{Ostracion cubicus}
 			Filefishes
@@ -1576,6 +1610,8 @@ Animals
 					{Paramonacanthus choirocephalus}
 				Whitespotted Filefish
 					{Cantherhines macrocerus}
+			Ocean Sunfish
+				{Mola Mola}
 			Porcupinefishes
 				Balloonfish
 					{Diodon holocanthus}
@@ -1627,12 +1663,16 @@ Animals
 				Queen Triggerfish
 					{Balistes vetula}
 				Redtooth Triggerfish
+					{Odonus niger}
 				Sargassum Triggerfish
 				Titan Triggerfish
+					{Balistoides viridescens}
 		Rays
 			Bluespotted Stingray
 				{Neotrygon kuhlii}
 			Lesser Electric Ray
+			Reef Manta Ray
+				{Manta alfredi}
 			Roughtail Stingray
 				{Dasyatis centroura}
 			Southern Stingray
@@ -1661,6 +1701,8 @@ Animals
 					{Holocentrus adscensionis}
 				Tailspot Squirrelfish
 					{Sargocentron caudimaculatum}
+				Whitetip Soldierfish
+					{Myripristis vittata}
 		Scorpionfish & Flatheads
 			{Scorpaeniformes}
 			Flatheads
@@ -1695,6 +1737,8 @@ Animals
 					{Sebastes casurinus}
 				Devil Scorpionfish
 					{Scorpaenopsis diabolus}
+				Flasher Scorpionfish
+					{Scorpaenopsis macrochir}
 				Kelp Rockfish
 					{Sebastes atrovirens}
 				Leaf Scorpionfish
@@ -1957,6 +2001,8 @@ Animals
 						Swimming Crabs
 							{Family Portunidae}
 							Blue Crabs
+							Blue Swimming Crab
+								{Portunus pelagicus}
 							Carupa sp.
 							Charybdis sp.
 							Harlequin Swimming Crab
@@ -2014,6 +2060,8 @@ Animals
 							Fijian Locust Lobster
 								{Biarctus vitiensis}
 							Locust Slipper Lobsters
+							Painted Spiny Lobster
+								{Panulirus versicolor}
 							Spanish Lobster
 						Spiny Lobsters
 							{Palinuridae}
@@ -2048,6 +2096,8 @@ Animals
 								{Allopontonia brooki}
 							Bubble Coral Shrimp
 								{Vir philippinensis}
+							Clear Cleaner Shrimp
+								{Urocaridella antonbruunii}
 							Coleman Shrimp
 								{Periclimenes colemani}
 							Cuapetes sp.
@@ -2424,6 +2474,8 @@ Animals
 				Bohadschia sp.
 				Conical Sea Cucumber
 					{Eostichopus amesoni}
+				Conspicuous Sea Cucumber
+					{Opheodesoma spectabilis}
 				Creamy Sea Cucumber
 				Donkey Dung Sea Cucumber
 				Euapta sp
@@ -2561,6 +2613,7 @@ Animals
 				{Callioplana marginata}
 			Persian Carpet Flatworm
 				{Pseudobiceros bedfordi}
+			Prostheceraeus sp. 1
 			Pseudoceros sp.
 			Pseudoceros sp. 14
 			Racing Stripe Flatworm
@@ -2572,6 +2625,7 @@ Animals
 			Single Stripe Flatworm
 				{Pseudoceros monostichos}
 			Thysanozoon sp.
+			Undescribed Polyclad Flatworm
 			Unknown Flatworm
 			Waminoa sp. 1
 		Mollusks
@@ -2580,8 +2634,6 @@ Animals
 					{Pinna camea}
 				Common Giant Clam
 					{Tridacna maxima}
-				Common Pearl Oyster
-					{Pinctada margaritifera}
 				Electric Fileclam
 					{Ctenoides ales}
 				Fluted Giant Clam
@@ -2591,6 +2643,11 @@ Animals
 				Iridescent Scallop
 					{Pedum spondyloideum}
 					{Coral Scallop}
+				Pearl Oysters
+					{Pteriidae}
+					Common Wing Oyster
+					Pacific Pearl Oyster
+						{Pinctada margaritifera}
 				Rough Fileclam
 					{Lima scabra}
 				Thorny Oysters
@@ -2612,6 +2669,8 @@ Animals
 						{Sepia bandensis}
 					Flamboyant Cuttlefish
 						{Metasepia pfefferi}
+					Golden Cuttlefish
+						{Sepia esculenta}
 					Hooded Cuttlefish
 						{Sepia prashadi}
 					Pharao Cuttlefish
@@ -2691,6 +2750,8 @@ Animals
 							Eubranchus sp. 22
 							Favorinus tsurganus
 								{Ringed Favorinus}
+							Flabelina exopata
+								{Desirable Flabelina}
 							Flabellina iodinea
 							Flabellina rubrolineata
 								{Redline Flabellina}
@@ -2723,6 +2784,9 @@ Animals
 								Aegires albopunctatus
 								Aegires villosus
 									{Hairy Norse God}
+								Notodoris serenae
+									{Gray Norse God}
+									{Aegires serenae}
 							Chromodorididae
 								Cadlinella ornatissima
 									{Ornamental Cadlinella}
@@ -2731,6 +2795,7 @@ Animals
 									{Three-lobed Ceratosoma}
 								Chromodoris annae
 									{Anna's Chromodoris}
+								Chromodoris colemani
 								Chromodoris dianae
 								Chromodoris elisabethina
 								Chromodoris joshi
@@ -2747,6 +2812,8 @@ Animals
 									{Black-margined Doriprismatica}
 								Glossodoris cincta
 									{Girdled Glossodoris}
+								Glossodoris hikuerensis
+									{Hikueru Glossodoris}
 								Goniobranchus albopunctatus
 								Goniobranchus annulatus
 								Goniobranchus coi
@@ -2767,11 +2834,13 @@ Animals
 								Hypselodoris krakatoa
 									{Krakatoa Hypselodoris}
 								Hypselodoris maculosa
+									{Spotted Hypselodoris}
 								Hypselodoris pulchella
 									{Beautiful Risbecia}
 								Hypselodoris reidi
 								Hypselodoris sp. 7
 								Hypselodoris sp. 15
+								Hypselodoris sp. 17
 								Hypselodoris tryoni
 									{Tryon's Risbecia}
 									{Tryon's Hypselodoris}
@@ -2803,6 +2872,8 @@ Animals
 									{Sea Lemon}
 									{Anisodoris nobilis}
 									{Diaulula nobilis}
+								Platydoris cinerobranchiata
+									{Grey Gill Platydoris}
 							Dorididae
 								Doris electra
 								Doris montereyensis
@@ -2834,6 +2905,9 @@ Animals
 									{Pustulose Wart Slug}
 								Phyllidiopsis papilligera
 									{Black-spotted Nudibranch}
+								Phyllidiopsis pipeki
+									{Pipek's Phyllidiopsis}
+								Phyllidiopsis shireenae
 							Polyceridae
 								Kalinga Ornata
 								Nembrotha chamberlaini
@@ -2861,6 +2935,8 @@ Animals
 						{Order Sacoglossa}
 						Costasiella kuroshimae
 							{Kuro Sapsucking Slug}
+						Costasiella usagi
+							{Rabbit Sapsucking Slug}
 						Elysia crispata
 							{Lettuce Sea Slug}
 						Elysia ornata
@@ -3019,6 +3095,8 @@ Animals
 				{Gastrolepidia clavigera}
 			Spaghetti Worm
 		Sponges
+			Amphimedon sp.
+				{Vase Sponges}
 			Azure Vase Sponge
 				{Callyspongia plicifera}
 			Barrel Sponge (Indo-Pacific)
@@ -3078,7 +3156,9 @@ Animals
 			Painted Tunicate
 				{Clavelina picta}
 			Pelagic Tunicate
+			Perophora modificata
 			Polycarpa aurata
+			Rhopalaea sp.
 	Livestock
 		Camel
 		Cattle
@@ -5241,6 +5321,7 @@ People
 		SCUBA Divers
 			Adelfa
 			Beth Plotner
+			Bianca Schumann
 			Bill King
 			Bob Sieloff
 			Brian Siegel
