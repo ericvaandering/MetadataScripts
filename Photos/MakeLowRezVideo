@@ -1,0 +1,50 @@
+#! /usr/bin/env python
+# -*- coding: utf-8 -*-
+
+from __future__ import absolute_import, division, print_function
+
+import commands
+import os
+import re
+
+NEW_DIR = '/Users/ewv/data/Premiere/LowRezClips/'
+
+
+if __name__ == "__main__":
+
+    """
+    Convert video from native resolution to 720p for fast editing.
+    Works for GoPro, iPhone 6, and Olympus Quicktime 
+    """
+
+    cmd = 'mkdir -p "%s"' % (NEW_DIR)
+    status, output = commands.getstatusoutput(cmd)
+
+    metaFile = re.compile(r'[ \w\-]+\.(mp4|m4v)')
+    # Collect list of MP4/M4V files
+    for fileName in os.listdir('.'):
+        if metaFile.match(fileName):
+            if os.path.exists(os.path.join(NEW_DIR, fileName)):
+                print('Exists. Skipping ', fileName)
+            else:
+                print('Making new', fileName)
+                cmd = 'HandBrakeCLI -i "%s" -Z "Fast 720p30" -o "%s/%s"' % (fileName, NEW_DIR, fileName)
+                try:
+                    status, output = commands.getstatusoutput(cmd)
+                except:
+                    pass
+
+    # Find Quicktime files that do not exist yet
+
+    metaFile = re.compile(r'[ \w\-]+\.(mov)')
+    for fileName in os.listdir('.'):
+        if metaFile.match(fileName):
+            if os.path.exists(os.path.join(NEW_DIR, fileName)):
+                print('Exists. Skipping ', fileName)
+            else:
+                print('Making new', fileName)
+                cmd = 'ffmpeg -i "%s" -vf scale=-1:720 "%s/%s"' % (fileName, NEW_DIR, fileName)
+                try:
+                    status, output = commands.getstatusoutput(cmd)
+                except:
+                    pass

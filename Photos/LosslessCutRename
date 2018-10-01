@@ -1,0 +1,69 @@
+#! /usr/bin/env python
+# -*- coding: utf-8 -*-
+
+from __future__ import print_function
+
+import commands
+import optparse
+import os
+import re
+import sys
+
+offset = 1  # Make new files not collide with the original
+
+parser = optparse.OptionParser(usage="usage: %prog [options]")
+
+parser.add_option(
+        "-n",
+        action="store_true", dest="test",
+        help="Don't change any files, print what would happen")
+
+args = sys.argv
+(options, args) = parser.parse_args(args)
+
+filenames = []
+
+# Patterns for output of LosslessCut files and already renamed files
+losslessPattern = re.compile(r'([0-9a-f]){8}\.(mp4)\-[0-9\.]{12}\-[0-9\.]{12}\.(mp4)')
+renamedPattern = re.compile(r'([0-9a-f]){8}\.(mp4)')
+
+existingTimes = {}
+
+# Collect and categorize filenames
+for fileName in os.listdir('.'):
+    if losslessPattern.match(fileName):
+        filenames.append(fileName)
+        continue
+    if renamedPattern.match(fileName):
+        existingTimes[int(fileName.split('.')[0], 16)] = True
+        continue
+
+bumpedShots = 0
+for infile in sorted(filenames):
+    bumped = False
+    seconds = int(infile.split('.')[0], 16) + offset
+    extension = infile.split('.')[-1]
+
+    # Find the next available slot for this file
+    while seconds in existingTimes:
+        bumped = True
+        seconds += 1
+    existingTimes[seconds] = True
+    if bumped:
+        bumpedShots += 1
+
+    newFilename = ("%x.%s" % (seconds, extension)).lower()
+
+    if options.test:
+        pass
+    else:
+        cmd = 'mv -n "%s" %s' % (infile, newFilename)
+        status, output = commands.getstatusoutput(cmd)
+        if status:
+            sys.exit()
+
+    print ('Rename %s to %s' % (infile, newFilename))
+print ("Number of videos:             ", len(filenames))
+print ("Total number of clips bumped: ", bumpedShots)
+
+
