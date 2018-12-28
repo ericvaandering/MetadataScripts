@@ -32,6 +32,7 @@ Action
 	Drinking
 	Driving
 	Eating
+	Farming
 	Fighting
 	Food preparation
 	Gambling
@@ -529,6 +530,75 @@ Animals
 				Warty Frogfish
 					{Antennarius maculatus}
 		Baitfish
+		Blennies
+			{Blenniiformes}
+			Combtooth Blennies
+				{Blennidae}
+				Aron's Blenny
+					{Ecsenius aroni}
+				Blackline Fangblenny
+					{Meiacanthus nigrolineatus}
+				Bluestriped Fangblenny
+					{Plagiotremus rhinorhynchos}
+				Chestnut Blenny
+					{Cirripectes castaneus}
+				Dentex Blenny
+					{Ecsenius dentex}
+				False Cleanerfish
+					{Aspidontus taeniatus}
+				Jeweled Blenny
+					{Salarias fasciatus}
+				Midas Blenny
+					{Ecsenius midas}
+				Nalolo Blenny
+					{Ecsenius nalolo}
+				Piano Fangblenny
+					{Plagiotremus tapeinosoma}
+				Pictus Blenny
+					{Ecsenius pictus}
+				Redlip Blenny
+				Seaweed Blenny
+					{Parablennius marmoreus}
+				Shorthead Fangblenny
+					{Petroscirtes breviceps}
+				Snake Blenny
+					{Xiphasia setifer}
+					{Hairtail blenny}
+				Tentacled Blenny
+					{Parablennius tentacularis}
+				Twinspot Blenny
+					{Ecsenius bimaculatus}
+				Yellowtail Fangblenny
+					{Meiacanthus atrodorsalis}
+			Scaly Blennies
+				{Labrisomidae}
+				Hairy Blenny
+					{Labrisomus nuchipinnis}
+				Hairy Blenny (complex)
+					{Labrisomus spp.}
+				Masquerader Hairy Blenny
+					{Labrisomus conditus}
+				Saddled Blenny
+					{Malacoctenus triangulatus}
+			Triplefins
+				{Tripterygiidae}
+				Black and Red Triplefin
+					{Enneapterygius similis}
+				Roughhead Triplefin
+				Striped Triplefin
+					{Helcogramma striatum}
+			Tube Blennies
+				{Chaenopsidae}
+				Darkheaded Blenny
+					{Emblemariopsis sp.}
+				Sailfin Blenny
+				Secretary Blenny
+					{Acanthemblemaria maria}
+				Spinyhead Blenny
+					{Acanthemblemaria spinosa}
+				Yellowface Pikeblenny
+					{Chaenopsis limbaughi}
+			Unknown blenny
 		Bonefishes
 			Bonefish
 				{Albula vulpes}
@@ -540,6 +610,13 @@ Animals
 			Eeltail Catfishes
 				Striped Eel Catfish
 					{Plotosus lineatus}
+		Cichliformes
+			{Cichliformes}
+			Convict Blennies
+				{Pholidichthyidae}
+				Convict Fish
+					{Pholidichthys leucotaenia}
+					{Engineer Goby}
 		Clingfishes
 			{Gobiesociformes}
 			Crinoid Clingfish
@@ -629,6 +706,10 @@ Animals
 					{Engyophrys senta}
 				Wide-eyed Flounder
 					{Bothus podas}
+			Sand Flounders
+				{Paralichthyidae}
+				Dusky Flounder
+					{Syacium papillosum}
 			Soles
 				{Soleidae}
 				Blotched Sole
@@ -640,6 +721,94 @@ Animals
 				Strange Sole
 					{Aseraggodes xenicus}
 				Unknown sole
+		Gobies
+			{Gobiiformes}
+			Ambanoro Shrimpgoby
+				{Vanderhorstia ambanoro}
+			Banded Goby
+				{Amblygobius phalaena}
+			Banded Shrimpgoby
+				{Cryptocentrus cinctus}
+			Bay Goby
+				{Lepidogobius lepidus}
+			Blackeye Goby
+				{Rhinogobiops nicholsii}
+			Blotched Sandgoby
+				{Fusigobius inframaculatus}
+			Blue-speckled Shrimpgoby
+				{Cryptocentrus caeruleopunctatus}
+			Bluedot Goby
+				{Asterropteryx ensiferus}
+			Bluestreak Goby
+				{Valenciennea strigata}
+			Bridled Goby
+				{Coryphopterus glaucofraenum}
+			Broad-banded Shrimpgoby
+				{Amblyeleotris periophthalma}
+			Candycane Pygmygoby
+				{Trimma cana}
+			Centrescale Goby
+				{Callogobius centrolepis}
+			Common Ghostgoby
+				{Pleurosicya mossambica}
+			Crosshatch Goby
+				{Amblygobius decussatus}
+			Decorated Sandgoby
+				{Istigobius decoratus}
+			Flagfin Shrimpgoby
+				{Mahidolia mystacina}
+			Goldspot Goby
+			Gorgeous Shrimpgoby
+				{Amblyeleotris wheeleri}
+			Linesnout Goby
+				{Elacatinus lori}
+			Majestic Shrimpgoby
+				{Vanderhorstia nobilis}
+			Neon Goby
+				{Gobiosoma oceanops}
+			Orange-dashed Goby
+				{Valenciennea puellaris}
+			Orangespotted Goby
+				{Istigobius rigilius}
+			Ornate Goby
+				{Lubricogobius exiguus}
+			Peppermint Goby
+				{Coryphopterus lipernes}
+			Red-margin Shrimpgoby
+				{Amblyeleotris rubrimarginatus}
+			Redeye Goby
+			Round Goby (FW)
+				{Neogobius melanostomus}
+			Seychelles Shrimpgoby
+				{Ctenogobiops maculosus}
+				{Red Sea Shrimpgoby}
+			Sharknose Goby
+				{Gobiosoma evelynae}
+			Signal Goby
+				{Signigobius biocellatus}
+			Sixspot Goby
+				{Valenciennea sexguttata}
+			Slantbar Shrimpgoby
+				{Amblyeleotris diagonalis}
+			Soft Coral Ghostgoby
+				{Pleurosicya boldinghi}
+			Spangled Shrimpgoby
+				{Vanderhorstia dorsomacula}
+			Sphynx Goby
+				{Amblygobius sphynx}
+			Spotted Dwarfgoby
+				{Eviota guttata}
+			Steinitz' Shrimpgoby
+				{Amblyeleotris steinitzi}
+			Tiger Goby
+				{Tigrigobius macrodon}
+			Unknown goby
+			Unknown shrimpgoby
+			Wire Coral Goby
+				{Bryaninops yongei}
+			Yellownose Goby
+			Yellownose Shrimpgoby
+				{Stonogobiops xanthorhinica}
 		Grinners
 			{Aulopiformes}
 			Lizardfishes
@@ -713,62 +882,8 @@ Animals
 					{Priacanthus hamrur}
 				Glasseye Snapper
 					{Heteropriacanthus cruentatus}
-			Blennies
-				Aron's Blenny
-					{Ecsenius aroni}
-				Black and Red Triplefin
-					{Enneapterygius similis}
-				Blackline fangblenny
-					{Meiacanthus nigrolineatus}
-				Bluestriped Fangblenny
-					{Plagiotremus rhinorhynchos}
-				Chestnut Blenny
-					{Cirripectes castaneus}
-				Darkheaded Blenny
-					{Emblemariopsis sp.}
-				Dentex Blenny
-					{Ecsenius dentex}
-				False Cleanerfish
-					{Aspidontus taeniatus}
-				Hairy Blenny
-					{Labrisomus nuchipinnis}
-				Jeweled Blenny
-					{Salarias fasciatus}
-				Midas Blenny
-					{Ecsenius midas}
-				Nalolo Blenny
-					{Ecsenius nalolo}
-				Piano Fangblenny
-					{Plagiotremus tapeinosoma}
-				Pictus Blenny
-					{Ecsenius pictus}
-				Redlip Blenny
-				Roughhead Triplefin
-				Saddled Blenny
-					{Malacoctenus triangulatus}
-				Sailfin Blenny
-				Seaweed Blenny
-					{Parablennius marmoreus}
-				Secretary Blenny
-					{Acanthemblemaria maria}
-				Shorthead Fangblenny
-					{Petroscirtes breviceps}
-				Snake Blenny
-					{Xiphasia setifer}
-				Spinyhead Blenny
-					{Acanthemblemaria spinosa}
-				Striped Triplefin
-					{Helcogramma striatum}
-				Tentacled Blenny
-					{Parablennius tentacularis}
-				Twinspot Blenny
-					{Ecsenius bimaculatus}
-				Unknown blenny
-				Yellowface Pikeblenny
-					{Chaenopsis limbaughi}
-				Yellowtail Fangblenny
-					{Meiacanthus atrodorsalis}
 			Butterflyfishes
+				{Chaetodontidae}
 				Banded Butterflyfish
 					{Chaetodon striatus}
 				Black-backed Butterflyfish
@@ -880,10 +995,6 @@ Animals
 				{Kyphosidae}
 				Topsail Drummer
 					{Kyphosus cinerascens}
-			Convict Blennies
-				{Pholidichthyidae}
-				Convict Fish
-					{Pholidichthys leucotaenia}
 			Coral Breams
 				{Nemipteridae}
 				Bridled Monocle Bream
@@ -1013,6 +1124,8 @@ Animals
 				Striped Large-eye Bream
 					{Gnathodentex aureolineatus}
 			Fusiliers
+				Blue and Yellow Fusilier
+					{Caesio teres}
 				Bluestream Fusilier
 					{Pterocaesio tile}
 				Red Sea Fusilier
@@ -1037,90 +1150,6 @@ Animals
 				Yellowfin Goatfish
 				Yellowsaddle Goatfish
 					{Parupeneus cyclostomus}
-			Gobies
-				Ambanoro Shrimpgoby
-					{Vanderhorstia ambanoro}
-				Banded Goby
-					{Amblygobius phalaena}
-				Banded Shrimpgoby
-					{Cryptocentrus cinctus}
-				Bay Goby
-					{Lepidogobius lepidus}
-				Blackeye Goby
-					{Rhinogobiops nicholsii}
-				Blotched Sandgoby
-					{Fusigobius inframaculatus}
-				Blue-speckled Shrimpgoby
-					{Cryptocentrus caeruleopunctatus}
-				Bluedot Goby
-					{Asterropteryx ensiferus}
-				Bluestreak Goby
-					{Valenciennea strigata}
-				Bridled Goby
-					{Coryphopterus glaucofraenum}
-				Broad-banded Shrimpgoby
-					{Amblyeleotris periophthalma}
-				Candycane Pygmygoby
-					{Trimma cana}
-				Centrescale Goby
-					{Callogobius centrolepis}
-				Common Ghostgoby
-					{Pleurosicya mossambica}
-				Crosshatch Goby
-					{Amblygobius decussatus}
-				Decorated Sandgoby
-					{Istigobius decoratus}
-				Flagfin Shrimpgoby
-					{Mahidolia mystacina}
-				Goldspot Goby
-				Gorgeous Shrimpgoby
-					{Amblyeleotris wheeleri}
-				Linesnout Goby
-					{Elacatinus lori}
-				Majestic Shrimpgoby
-					{Vanderhorstia nobilis}
-				Neon Goby
-					{Gobiosoma oceanops}
-				Orange-dashed Goby
-					{Valenciennea puellaris}
-				Orangespotted Goby
-					{Istigobius rigilius}
-				Ornate Goby
-					{Lubricogobius exiguus}
-				Peppermint Goby
-					{Coryphopterus lipernes}
-				Red-margin Shrimpgoby
-					{Amblyeleotris rubrimarginatus}
-				Redeye Goby
-				Round Goby (FW)
-				Seychelles Shrimpgoby
-					{Ctenogobiops maculosus}
-					{Red Sea Shrimpgoby}
-				Sharknose Goby
-					{Gobiosoma evelynae}
-				Signal Goby
-					{Signigobius biocellatus}
-				Sixspot Goby
-					{Valenciennea sexguttata}
-				Slantbar Shrimpgoby
-					{Amblyeleotris diagonalis}
-				Soft Coral Ghostgoby
-					{Pleurosicya boldinghi}
-				Spangled Shrimpgoby
-					{Vanderhorstia dorsomacula}
-				Sphynx Goby
-					{Amblygobius sphynx}
-				Spotted Dwarfgoby
-					{Eviota guttata}
-				Steinitz' Shrimpgoby
-					{Amblyeleotris steinitzi}
-				Unknown goby
-				Unknown shrimpgoby
-				Wire Coral Goby
-					{Bryaninops yongei}
-				Yellownose Goby
-				Yellownose Shrimpgoby
-					{Stonogobiops xanthorhinica}
 			Grunts and Sweetlips
 				Blubberlip
 					{Plectorhincus gibbosus}
@@ -1423,6 +1452,8 @@ Animals
 				{Uranoscopidae}
 				Reticulate Stargazer
 					{Uranoscopus bicinctus}
+				Southern Stargazer
+					{Astrocopus y-graecum}
 			Surgeonfishes & Tangs & Unicornfishes
 				Bignose Unicornfish
 					{Nasao vlamingii}
@@ -1677,7 +1708,10 @@ Animals
 				{Dasyatis centroura}
 			Southern Stingray
 				{Dasyatis americana}
-			Spotted Eagle Ray
+			Spotted Eagle Ray (Atlantic)
+				{Aetobatus narinari}
+			Spotted Eagle Ray (Pacific)
+				{Aetobatus ocellatus}
 			Yellow Stingray
 				{Urolophus jamaicensis}
 		Sawbellies
@@ -1781,6 +1815,12 @@ Animals
 				{Cottidae}
 				Cabezon
 					{Scorpaenichthys marmoratus}
+			Searobins
+				{Triglidae}
+				Bandtail Searobin
+					{Prionotus ophryas}
+				Bluewing Searobin
+					{Prionotus punctatus}
 			Stonefishes
 				Estuarine Stonefish
 					{Synanceia horrida}
@@ -1805,6 +1845,8 @@ Animals
 		Sharks
 			Blacktip Reef Shark
 				{Carcharhinus melanopterus}
+			Bull Shark
+				{Carcharhinus leucas}
 			Caribbean Black-tipped Reef Shark
 			Grey Reef Shark
 			Hammerhead Shark
@@ -1814,6 +1856,8 @@ Animals
 				{Ginglymostoma cirratum}
 			Reef Shark
 				{Carcharhinus perezii}
+			Sand Tiger
+				{Carcharias taurus}
 			Swell Shark
 			Whitetip Reef Shark
 				{Triaenodon obesus}
@@ -1851,6 +1895,8 @@ Animals
 					Pygmy PIpefish
 						{Micrognathus pygmaeus}
 					Red Sea Pipefish
+					Reeftop Pipefish
+						{Corythoichthys haematopterus}
 					Ringed Pipefish
 						{Dunckerocampus dactyliophorus}
 					Short-tailed Pipefish
@@ -2222,7 +2268,9 @@ Animals
 				Unknown crustacean
 			Insects
 				Bees
+				Caterpillar
 				Dragonflies
+				Grasshoppers
 				Moths
 				Praying Mantis
 			Millipedes
@@ -2646,6 +2694,7 @@ Animals
 				Pearl Oysters
 					{Pteriidae}
 					Common Wing Oyster
+						{Pteria penguin}
 					Pacific Pearl Oyster
 						{Pinctada margaritifera}
 				Rough Fileclam
@@ -3285,6 +3334,10 @@ Animals
 			Hares & Rabbits
 				Eastern Cottontail
 				Scrub Hare
+		Marsupials
+			Opossum
+				Virginia Opossum
+					{Didelphis virginiana}
 		Odd Toed Ungulates
 			Horses & Asses
 				Common Zebra
@@ -3301,23 +3354,27 @@ Animals
 				Chimpanzee
 				Mountain Gorilla
 				Orang Utan
-			Cheek-pouch Monkeys
-				Chacma Baboon
-					{Papio ursinus}
-				Grey-cheeked Mangabey
-				Olive Baboon
-				Vervet Monkey
-					{Cercopithecus pygerythrus}
-				Yellow Baboon
-			Colobid Monkeys
-				Central African Red Colobus
-				Guereza Colobus
 			Galagos
 				Southern Lesser Galago
 					{Galago moholi}
 			New World Monkeys
 				Common Marmoset
 				Howler Monkey
+			Old World Monkeys
+				{Cercopithecidae}
+				Cheek-pouch Monkeys
+					Chacma Baboon
+						{Papio ursinus}
+					Crab-eating Macaque
+						{Macaca fascicularis}
+					Grey-cheeked Mangabey
+					Olive Baboon
+					Vervet Monkey
+						{Cercopithecus pygerythrus}
+					Yellow Baboon
+				Colobid Monkeys
+					Central African Red Colobus
+					Guereza Colobus
 		Rodents
 			Mice and Rats
 				Grass Rat
@@ -3335,6 +3392,7 @@ Animals
 				{Trichechus manatus}
 	Pets
 		Cats
+			Fluffy
 		Dogs
 			Amber
 			Memphis
@@ -3390,6 +3448,7 @@ Art
 	Ancient manuscript
 	Carpet
 	Drawing
+	Graffiti
 	Interior art
 	Modern art
 	Mosaic
@@ -3947,11 +4006,16 @@ Dive Sites
 		Witches Point
 	Florida
 		Florida Atlantic Coast
+			Ana Cecilia
 			Blue Heron Bridge
 			Corridor Wrecks
 				{Mizpah Corridor}
 			Juno Ledge
 				{Monkey's Ledge}
+			MG-111
+			Split Reef
+			Toybox & Playpen
+			West Palm Beach Deep Ledge
 		Florida Keys
 			Banana Reef (Grecian Rocks)
 			Betty's Reef
@@ -3972,15 +4036,28 @@ Dive Sites
 	Haigh Quarry
 	Indonesia
 		Bali
-			Batuniti
-			Coral Gardens
-			Dropoff
-			Liberty Wreck
-			Melasti North
-			Melasti South
-			Noisy Reef
-			Seraya Secrets
-			Two Trees
+			Pemuteran
+				Anchor Wreck
+				Bio Wreck
+				Coral Garden
+				Eel Garden
+				Mangrove Point
+				Napolean
+				Nudi Garden
+				Pemuteran Jetty
+				Sandy Slope
+				Secret Bay
+				Temple Wall
+			Tulamben
+				Batuniti
+				Coral Gardens
+				Dropoff
+				Liberty Wreck
+				Melasti North
+				Melasti South
+				Noisy Reef
+				Seraya Secrets
+				Two Trees
 		Gili Islands
 			Bounty Wreck
 			Deep Turbo
@@ -3991,6 +4068,11 @@ Dive Sites
 			Mantigi Bay
 			Shark Point
 			Sunset Reef
+		Nusa Penida
+			Buyak Point
+			Crystal Bay
+			Manta Point
+			Pura Ped
 	Lake Michigan
 		Buccaneer
 		Car Ferry #2
@@ -4025,6 +4107,12 @@ Dive Sites
 		Soltan Rock
 		St. George Bay
 		Um El Faroud (tanker) Wreck
+	North Carolina
+		Aeolus
+		Carib Sea
+		Hutton
+		Indra
+		U-352
 	Philippines
 		Anilao
 			Aiyanar House Reef
@@ -5019,11 +5107,14 @@ People
 		Irina
 		John Bell
 		Kathleen Kennedy
+		Kevin VU
 		Kirsten Dunne
 		Kurt Reiselmann
 		Lisa Reisselman
 		Mia Fedanzo
+		Norma Gelderloos
 		Pamela Hewitt
+		Ron Volkers
 		Stewart Leiwakabessy
 	Argonne
 		David Rainwater
@@ -5063,11 +5154,13 @@ People
 		Ken Bloom
 		Kenyi Anampa
 		Kevin Lannon
+		Lisa Giachetti
 		Liz Ramirez
 		Liz Sexton-Kennedy
 		Lorenzo Agostino
 		Lothar Bauerdick
 		Manuel
+		Manuel Giffels
 		Marco Mascheroni
 		Maria Girone
 		Matt Norman
@@ -5110,6 +5203,7 @@ People
 		Dylan
 		Erin
 		Estaban E.
+		Gene Hasiak
 		Gian Seeto
 		Glenn
 		Howard Oestry
@@ -5151,6 +5245,7 @@ People
 		Ad Vaandering
 		Amy Huizenga
 		Annette Huizenga
+		Avery Miedema
 		Ben van Rooijen
 		Beth Miedema
 		Brian Huizenga
@@ -5174,6 +5269,7 @@ People
 		Karen Osterman
 		Ken Huizenga
 		Laura Huizenga
+		Leeling Yuen
 		Lucas Miedema
 		Marion Huizenga
 		Mark Huizenga
@@ -5186,12 +5282,19 @@ People
 		Ted Huizenga
 		Trent Miedema
 		Tricia Huizenga
+	Fermilab
+		Heidi S
+		Igor M
+		Ken Herner
+		Steve Timm
 	FOCUS Collaborators
 		Alberto Reis
 		Angel Lopez
 		Carla Gobel
 		Cecilia Uribe
+		Christina Riccardi
 		Daniele Pedrini
+		David Lopez
 		Edgar Casimiro
 		Eduardo Luiggi
 		Erik Gottschalk
@@ -5211,6 +5314,7 @@ People
 		Phil Yager
 		Silvano Sala
 		Stefano Bianco
+		Vincenzo
 	Friends
 		Abhishek Agarwal
 		Adam Schumaker
@@ -5251,6 +5355,7 @@ People
 		Penny Kasper
 		Peter Kasper
 		Rory Myles
+		Stacy St. Clair
 		Sue Sheldon
 		Will Johns
 		Yvonne Palmer
@@ -5320,44 +5425,57 @@ People
 			Nicole Lindegger
 		SCUBA Divers
 			Adelfa
+			Aileen
 			Beth Plotner
 			Bianca Schumann
 			Bill King
 			Bob Sieloff
 			Brian Siegel
 			Carol Haack
+			Chris Newman
+			Christine Labaza
 			Craig Stenson
 			Daniel Hazard
 			Dave Lent
 			David Lent
 			Dean Nolan
 			Deana Pillard
+			Dee
 			Gary Stenson
 			Gina Castro
 			Gloria CSM
 			Gordon Maney
 			Heather Sieloff
 			Jackie Rae
+			Jeff Karr
 			Jeff Springer
 			Jody Russell
+			Joli Riley
 			Joni Gilbert
+			Kathyrn Ellis
 			Katie Wolfe
 			Leandro Blanco
 			Ludo
 			Lynn Funkhouser
+			Mark
 			Michelle Hartzler
 			Mike Bartenfelder
 			Mike Tapper
+			Nelson
 			Obet Corpuz
 			Pam McPherson
 			Patricia Hewitt
+			Randy Kettering
+			Renee
 			Richard Delany
+			Robert CSM
 			Ryan CSM
 			Scott Reimer
 			Steve James
 			Steve Wilkinson
 			Sue Momsen
 			Tabitha Schneider
+			Tae
 			Tanya Lape
 			Tommy
 			Tonya Wegner
@@ -5380,6 +5498,7 @@ People
 		Julie Sturm
 		Kevin Siek
 		Kimberly Faulstich
+		Nancy
 		Paul Blumka
 		Paul Steinbreuk
 		Topher
@@ -5449,6 +5568,7 @@ Photography
 		Sport photography
 		Still life photography
 		Street photography
+		Timelapse photography
 		Underwater photography
 		Urban photgraphy
 		Wildlife photography
@@ -5497,10 +5617,12 @@ Profession
 	Athlete
 		Boxer
 		Golfer
+		Jockey
 		Player
 		Runner
 		Skier
 	Baker
+	Band
 	Barber
 	Clown
 	Doctor
@@ -5571,6 +5693,7 @@ Sport
 		Rythmic gymnastics
 		Trampoline
 	Handball
+	Hanggliding
 	Hiking
 	Hockey
 		Ice hockey
@@ -5730,6 +5853,7 @@ Structures & architecture
 			{Class}
 		Darkroom
 		Dining room
+		Garage
 		Hallway
 		Kitchen
 		Living room
@@ -5766,6 +5890,7 @@ Structures & architecture
 		Chicken coop
 		Church
 		Cinema
+		Cistern
 		Citadel
 		City hall
 		Clinic
@@ -5954,6 +6079,7 @@ Thoroughfare
 	Sidewalk
 		{Pavement}
 	Street
+	Street scene
 	Trail
 	Tunnel
 Time
@@ -5990,17 +6116,23 @@ Transportation
 				Fighter
 				Jet aircraft
 				Military airplane
+					Bomber
+					Cargo plane
+					Fighter
+					Surveillance aircraft
 				Other airplane
 				Propeler plane
-				Surveillance aircraft
 			Glider
 			Helicopter
 				{Chopper}
 			Seaplane
 				{Hydroplane}
 		Airship
+		Bomb
 		Hot air balloon
+		Missle
 		Spacecraft
+			Satellite
 	By land
 		Ambulance
 		Bicycle
@@ -6090,10 +6222,12 @@ Transportation
 		Ferry
 		Fishing boat
 		Fractional rig sloop
+		Freighter
 		Gondola
 		Hovercraft
 		Kayak
 		Ketch
+		Military ship
 		Motorboat
 		Naval vessel
 			Aircraft carrier
