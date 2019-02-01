@@ -1178,6 +1178,8 @@ Animals
 					{Haemulon chrysargyreum}
 				Spanish Grunt
 					{Haemulon macrostomum}
+				Striped Grunt
+					{Haemulon striatum}
 				Striped Sweetlips
 					{Plectorhinchus lessonii}
 				Tomtate
@@ -1204,11 +1206,15 @@ Animals
 				Twinspot Hawkfish
 					{Amblycirrhitus bimacula}
 			Jacks
+				Almaco Jack
+					{Seriola rivoliana}
 				Bar Jack
 				Bluefin Trevally
 					{Caranx melampygus}
 				Horse-eye Jack
 					{Caranx latus}
+				Mackerel Scad
+					{Decapterus macarellus}
 				Orangespotted Trevally
 				Palometa
 					{Trachinotus goodei}
@@ -2007,6 +2013,8 @@ Animals
 							{Xanthidae}
 							Batwing Coral Crab
 								{Carpilius corallinus}
+							Florida Stone Crab
+								{Menippe mercenaria}
 						Purse Crabs
 							Bulbous Purse Crab
 								{Umalana purarensis}
@@ -2330,7 +2338,9 @@ Animals
 						{Ricordea florida}
 					Rhodactis rhodostoma
 				Octocorals
+					{Octocorallia}
 					Gorgonians
+						{Gorgonacea}
 						Encrusting Gorgorian
 						Red Polyp Octocoral
 							{Swiftia exserta}
@@ -2470,6 +2480,7 @@ Animals
 			Hydroids
 			Jellyfishes
 				Moon Jelly
+					{Aurelia aurita}
 				Upsidedown Jellyfishes
 					Cassiopea andromeda
 					Cassiopea frondosa
@@ -2795,12 +2806,16 @@ Animals
 								{Indian Caloria}
 							Cuthona yamasui
 								{Yamasu's Cuthona}
+							Dondice occidentalis
+								{Fringe-back Nudibranch}
 							Eubranchus mandapamensis
 							Eubranchus sp. 22
 							Favorinus tsurganus
 								{Ringed Favorinus}
 							Flabelina exopata
 								{Desirable Flabelina}
+							Flabellina engeli
+								{White-patch Aeolid}
 							Flabellina iodinea
 							Flabellina rubrolineata
 								{Redline Flabellina}
