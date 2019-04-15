@@ -1,0 +1,86 @@
+#! /usr/bin/env python
+# -*- coding: utf-8 -*-
+
+import commands
+import optparse
+import os
+import re
+import sys
+
+outMap = {'mp4': 'm', 'lrv': 'l', }
+
+parser = optparse.OptionParser(usage="usage: %prog [options]")
+
+parser.add_option("-n",
+                  action="store_true", dest="test",
+                  help="Don't change any files, print what would happen")
+args = sys.argv
+(options, args) = parser.parse_args(args)
+
+filenames = []
+
+# Patterns for video files and already renamed files
+rawFile = re.compile(r'[ \w\-]+\.(MP4|mp4)')
+stampedRaw = re.compile(r'([0-9a-f]){8}(\.proxy)?\.(MP4|mp4)')
+
+existingTimes = {}
+
+# Collect and categorize filenames
+for fileName in os.listdir('.'):
+    if not rawFile.match(fileName):
+        continue
+    if stampedRaw.match(fileName):
+        existingTimes[int(fileName.split('.')[0], 16)] = True
+        continue
+    filenames.append(fileName)
+
+# Rename the found files
+bumped_shots = 0
+for infile in sorted(filenames):
+    bumped = False
+    file_codes = []
+
+    base_filename, extension = infile.split('.', 1)
+
+    # Take timestamp from file and increment if needed
+    seconds = int(os.path.getmtime(infile))
+    timeSource = 't'
+    while seconds in existingTimes:
+        bumped = True
+        seconds += 1
+    existingTimes[seconds] = True
+
+    if bumped:
+        bumped_shots += 1
+
+    hex_ts = "%x" % seconds
+    newFilename = ("%s.%s" % (hex_ts, extension)).lower()
+    file_codes.append(outMap[extension.lower()])
+
+    cmd = 'mv -n "%s" %s' % (infile, newFilename)
+    if options.test:
+        print(cmd)
+    else:
+        pass
+        status, output = commands.getstatusoutput(cmd)
+        if status:
+            sys.exit()
+
+    # Rename the proxy files as well
+    old_proxy = base_filename + '.' + 'LRV'
+    new_proxy = hex_ts + '.' + 'proxy.mp4'
+    if os.path.exists(old_proxy):
+        file_codes.append(outMap['lrv'])
+        cmd = 'mv -n "%s" %s' % (old_proxy, new_proxy)
+        if options.test:
+            print(cmd)
+        else:
+            status, output = commands.getstatusoutput(cmd)
+            if status:
+                sys.exit()
+
+    print base_filename, hex_ts, timeSource, ''.join(file_codes)
+print "Number of clips:              ", len(filenames)
+print "Total number of shots bumped: ", bumped_shots
+
+exit

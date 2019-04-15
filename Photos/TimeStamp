@@ -32,13 +32,13 @@ args = sys.argv
 
 filenames = []
 # Patterns for RAW files and already re-stamped RAW files
-rawFile = re.compile(r'[ \w\-]+\.(cr2|crw|CR2|CRW|tif|TIF|DNG|orf|ORF)')
-stampedRaw = re.compile(r'([0-9a-f]){8}\.(cr2|crw|CR2|CRW|tif|TIF|DNG|orf|ORF)')
+rawFile = re.compile(r'[ \w\-]+\.(cr2|crw|CR2|CRW|tif|TIF|DNG|orf|ORF|HEIC)')
+stampedRaw = re.compile(r'([0-9a-f]){8}\.(cr2|crw|CR2|CRW|tif|TIF|DNG|orf|ORF|HEIC)')
 if options.jpeg:
     print "Doing jpeg files instead"
     #continue
-    rawFile = re.compile(r'[ \w\-\s]+\.(jpg|JPG|MOV|mov|mpg|MPG|avi|AVI|png|PNG|mp4|MP4|m4v|M4V|HEIC|heic)$')
-    stampedRaw = re.compile(r'([1-9a-f][0-9a-f]{7})\.(jpg|JPG|MOV|mov|mpg|MPG|avi|AVI|png|PNG|mp4|MP4|m4v|M4V|HEIC|heic)')
+    rawFile = re.compile(r'[ \w\-\s]+\.(jpg|JPG|MOV|mov|mpg|MPG|avi|AVI|png|PNG|mp4|MP4|m4v|M4V)$')
+    stampedRaw = re.compile(r'([1-9a-f][0-9a-f]{7})\.(jpg|JPG|MOV|mov|mpg|MPG|avi|AVI|png|PNG|mp4|MP4|m4v|M4V)')
 
 
 def exivTS(fileName):
