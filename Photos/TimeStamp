@@ -9,15 +9,15 @@ import re
 import time
 
 outMap = {'xmp': 'x', 'jpg': 'j', 'cr2': 'c', 'crw': 'w', 'mov': 'm', 'tif': 't', 'png': 'p',
-          'pcd': 'k','mpg': 'm', 'cbz2': 'b', 'dng': 'd', 'ojpg': 'o', 'ufraw': 'u', 'avi': 'a', 'orf': 'o',
+          'pcd': 'k', 'mpg': 'm', 'cbz2': 'b', 'dng': 'd', 'ojpg': 'o', 'ufraw': 'u', 'avi': 'a', 'orf': 'o',
           'mp4': 'm', 'm4v': 'v', 'heic': 'h'}
 
 parser = optparse.OptionParser(usage="usage: %prog [options]")
 
 parser.add_option(
-        "-n",
-        action="store_true", dest="test",
-        help="Don't change any files, print what would happen")
+    "-n",
+    action="store_true", dest="test",
+    help="Don't change any files, print what would happen")
 
 parser.add_option("-j", "--jpeg",
                   action="store_true", dest="jpeg",
@@ -42,7 +42,6 @@ if options.jpeg:
 
 
 def alphaHex(hex):
-
     # Convert hex codes into all letters so they sort properly in filenames
 
     char_map = dict(zip(['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'a', 'b', 'c', 'd', 'e', 'f'],
@@ -53,22 +52,23 @@ def alphaHex(hex):
 
 def exivTS(fileName):
     seconds = 0
-    cmd =  'exiv2 pr "%s" | grep --binary-files=text "Image timestamp"' % (fileName)
+    cmd = 'exiv2 pr "%s" | grep --binary-files=text "Image timestamp"' % (fileName)
     try:
         status, output = commands.getstatusoutput(cmd)
         for line in output.split('\n'):
             if line.find("Image timestamp") > -1:
                 timeString = line.split(' : ')[1]
-                #print "Time is ",timeString
+                # print "Time is ",timeString
                 dt = time.strptime(timeString, '%Y:%m:%d %H:%M:%S')
                 seconds = int(time.mktime(dt))
     except:
         pass
     return seconds
 
+
 def exivAll(fileName):
     seconds = 0
-    cmd =  'exiv2 pr -P EIX "%s" | grep -i time' % (fileName)
+    cmd = 'exiv2 pr -P EIX "%s" | grep -i time' % (fileName)
     try:
         status, output = commands.getstatusoutput(cmd)
         for line in output.split('\n'):
@@ -96,7 +96,7 @@ bumpedShots = 0
 for infile in sorted(filenames):
     bumped = False
     seconds = 0
-    #inString = ''
+    # inString = ''
     outString = ''
     outList = []
 
@@ -152,26 +152,25 @@ for infile in sorted(filenames):
         sideExts = ['xmp', 'jpg', 'JPG', 'png', 'PNG', 'cbz2', 'ojpg', 'ufraw', 'pcd']
     fullExt = '.' + extension
     for ext in sideExts:
-        oldXMP = inString  + '.' + ext
+        oldXMP = inString + '.' + ext
         newXMP = outString + '.' + ext.lower()
         if os.path.exists(oldXMP):
             outList.append(outMap[ext.lower()])
             if options.test:
                 pass
-                #print "Rename %s to %s" % (oldXMP, newXMP)
+                # print "Rename %s to %s" % (oldXMP, newXMP)
             else:
-                cmd =  'mv -n "%s" %s' % (oldXMP, newXMP)
+                cmd = 'mv -n "%s" %s' % (oldXMP, newXMP)
                 status, output = commands.getstatusoutput(cmd)
                 if status:
                     sys.exit()
-                if options.backup and ext in ['jpg','JPG']:
+                if options.backup and ext in ['jpg', 'JPG']:
                     backup = outString + '-b.' + ext.lower()
-                    cmd =  'cp -n "%s" %s' % (newXMP, backup)
+                    cmd = 'cp -n "%s" %s' % (newXMP, backup)
                     status, output = commands.getstatusoutput(cmd)
 
-    print inString, outString, timeSource, ''.join(outList) #,seconds
+    print inString, outString, timeSource, ''.join(outList)  # ,seconds
 print "Number of photos:             ", len(filenames)
 print "Total number of shots bumped: ", bumpedShots
 
 exit
-
