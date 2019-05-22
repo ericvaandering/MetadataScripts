@@ -30,7 +30,7 @@ def alphaHex(hex):
     # Convert hex codes into all letters so they sort properly in filenames
 
     char_map = dict(zip(['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'a', 'b', 'c', 'd', 'e', 'f'],
-                        ['a', 'b', 'c', 'd', 'e', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q']))
+                        ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p']))
     alpha_hex = ''.join([char_map[l] for l in hex])
     return alpha_hex
 
@@ -40,7 +40,7 @@ for fileName in os.listdir('.'):
     if not rawFile.match(fileName):
         continue
     if stampedRaw.match(fileName):
-        existingTimes[int(fileName.split('.')[0], 16)] = True
+#        existingTimes[int(fileName.split('.')[0], 16)] = True
         continue
     filenames.append(fileName)
 
