@@ -3459,6 +3459,8 @@ Animals
 					{Eretmochelys imbriocota}
 				Loggerhead Turtle
 					{Caretta caretta}
+			Snapping Turtle
+				{Chelydra serpentina}
 Art
 	Ancient manuscript
 	Carpet
@@ -4319,6 +4321,22 @@ Event
 Gender
 	Female
 	Male
+ID-Bird
+	ID-Heron
+ID-Fish
+	ID-Cardinal
+	ID-Goby-Blennie
+	ID-Wrasse
+ID-Invert
+	ID-Coral
+		ID-Gorgonian
+			ID-Soft Coral
+		ID-Sponge
+		ID-Stony Coral
+	ID-Echinoderm
+		ID-Urchin
+ID-People
+ID-Uncertain
 Land
 	Arete
 	Beach
@@ -5117,6 +5135,7 @@ People
 	Aquaintances
 		Anna Stenson
 		Chuck Miller
+		Cindy Jones
 		David Rowe
 		George Veldman
 		Irina
@@ -5140,12 +5159,30 @@ People
 		Petra
 		Taliver Heath
 	Celebrities
+		Buddy Guy
 		Christiane Amanpour
 		Emmylou Harris
 		John Kasich
 		Lyle Lovett
 		Temple Grandin
 		Tony Bennet
+	Classmates
+		Adam Prince
+		April R
+		Bradley Borgman
+		Craig De Young
+		David Slater
+		Dean Johnson
+		Kara Koster
+		Kari Wolfiss
+		Marcia Holwerda
+		Matt Holtrop
+		Matt Vanderkoi
+		Mike Osborne
+		Sara Van Toll
+		Scott Vanderploeg
+		Tim Koens
+		Todd Alexander
 	CMS Collaborators
 		Anzar Afaq
 		Bo Jayatilaka
@@ -5165,6 +5202,7 @@ People
 		Ian Fisk
 		Jacob Linacre
 		Jose Hernandez
+		Katy Ellis
 		Keith Ulmer
 		Ken Bloom
 		Kenyi Anampa
@@ -5195,6 +5233,7 @@ People
 		Seangchan Ryu
 		Simon Metson
 		Slava
+		Stephan Lammel
 		Stephen Gowdy
 		Steve Foulkes
 		Stuart Wakefield
@@ -5716,6 +5755,7 @@ Sport
 	Horse racing
 	Horse riding
 	Hurdles
+	Ice skating
 	Jousting
 	Kayaking
 	Marathon
@@ -5879,6 +5919,7 @@ Structures & architecture
 		Suite
 	Structure
 		Amphitheater
+		Apartment
 		Apartment block
 		Arena
 		Art gallery
