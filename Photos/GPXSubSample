@@ -1,0 +1,58 @@
+>>> import gpxpy
+>>> import gpxpy.gpx
+>>> gpx_file = open('All Tanzania.gpx')
+>>> gpx = gpxpy.parse(gpx_file)
+>>> print len(gpx.tracks)
+1
+>>> print len(gpx.tracks[0].segments)
+1
+>>> print len(gpx.tracks[0].segments[0].points)
+80497
+>>> print gpx.tracks[0].segments[0].points[0:10]
+[GPXTrackPoint(-3.3779034, 37.343519, elevation=779.971, time=datetime.datetime(2019, 6, 25, 5, 40, 31, tzinfo=SimpleTZ("Z"))), GPXTrackPoint(-3.3779034, 37.343519, elevation=779.907, time=datetime.datetime(2019, 6, 25, 5, 41, 20, tzinfo=SimpleTZ("Z"))), GPXTrackPoint(-3.3779034, 37.343519, elevation=779.706, time=datetime.datetime(2019, 6, 25, 5, 44, 17, tzinfo=SimpleTZ("Z"))), GPXTrackPoint(-3.3779978, 37.3434486, elevation=779.147, time=datetime.datetime(2019, 6, 25, 5, 44, 32, tzinfo=SimpleTZ("Z"))), GPXTrackPoint(-3.3780952, 37.3434375, elevation=779.107, time=datetime.datetime(2019, 6, 25, 5, 44, 41, tzinfo=SimpleTZ("Z"))), GPXTrackPoint(-3.3780952, 37.3434375, elevation=778.891, time=datetime.datetime(2019, 6, 25, 5, 44, 51, tzinfo=SimpleTZ("Z"))), GPXTrackPoint(-3.3780503, 37.3435206, elevation=778.538, time=datetime.datetime(2019, 6, 25, 5, 45, 2, tzinfo=SimpleTZ("Z"))), GPXTrackPoint(-3.3779714, 37.343475, elevation=778.227, time=datetime.datetime(2019, 6, 25, 5, 45, 8, tzinfo=SimpleTZ("Z"))), GPXTrackPoint(-3.3779714, 37.343475, elevation=778.03, time=datetime.datetime(2019, 6, 25, 5, 45, 29, tzinfo=SimpleTZ("Z"))), GPXTrackPoint(-3.3779714, 37.343475, elevation=777.849, time=datetime.datetime(2019, 6, 25, 5, 56, 18, tzinfo=SimpleTZ("Z")))]
+>>> import pprint
+>>> pprint.pprint(gpx.tracks[0].segments[0].points[0:10])
+[GPXTrackPoint(-3.3779034, 37.343519, elevation=779.971, time=datetime.datetime(2019, 6, 25, 5, 40, 31, tzinfo=SimpleTZ("Z"))),
+ GPXTrackPoint(-3.3779034, 37.343519, elevation=779.907, time=datetime.datetime(2019, 6, 25, 5, 41, 20, tzinfo=SimpleTZ("Z"))),
+ GPXTrackPoint(-3.3779034, 37.343519, elevation=779.706, time=datetime.datetime(2019, 6, 25, 5, 44, 17, tzinfo=SimpleTZ("Z"))),
+ GPXTrackPoint(-3.3779978, 37.3434486, elevation=779.147, time=datetime.datetime(2019, 6, 25, 5, 44, 32, tzinfo=SimpleTZ("Z"))),
+ GPXTrackPoint(-3.3780952, 37.3434375, elevation=779.107, time=datetime.datetime(2019, 6, 25, 5, 44, 41, tzinfo=SimpleTZ("Z"))),
+ GPXTrackPoint(-3.3780952, 37.3434375, elevation=778.891, time=datetime.datetime(2019, 6, 25, 5, 44, 51, tzinfo=SimpleTZ("Z"))),
+ GPXTrackPoint(-3.3780503, 37.3435206, elevation=778.538, time=datetime.datetime(2019, 6, 25, 5, 45, 2, tzinfo=SimpleTZ("Z"))),
+ GPXTrackPoint(-3.3779714, 37.343475, elevation=778.227, time=datetime.datetime(2019, 6, 25, 5, 45, 8, tzinfo=SimpleTZ("Z"))),
+ GPXTrackPoint(-3.3779714, 37.343475, elevation=778.03, time=datetime.datetime(2019, 6, 25, 5, 45, 29, tzinfo=SimpleTZ("Z"))),
+ GPXTrackPoint(-3.3779714, 37.343475, elevation=777.849, time=datetime.datetime(2019, 6, 25, 5, 56, 18, tzinfo=SimpleTZ("Z")))]
+>>> pprint.pprint(gpx.tracks[0].segments[0].points[0:10:2])
+[GPXTrackPoint(-3.3779034, 37.343519, elevation=779.971, time=datetime.datetime(2019, 6, 25, 5, 40, 31, tzinfo=SimpleTZ("Z"))),
+ GPXTrackPoint(-3.3779034, 37.343519, elevation=779.706, time=datetime.datetime(2019, 6, 25, 5, 44, 17, tzinfo=SimpleTZ("Z"))),
+ GPXTrackPoint(-3.3780952, 37.3434375, elevation=779.107, time=datetime.datetime(2019, 6, 25, 5, 44, 41, tzinfo=SimpleTZ("Z"))),
+ GPXTrackPoint(-3.3780503, 37.3435206, elevation=778.538, time=datetime.datetime(2019, 6, 25, 5, 45, 2, tzinfo=SimpleTZ("Z"))),
+ GPXTrackPoint(-3.3779714, 37.343475, elevation=778.03, time=datetime.datetime(2019, 6, 25, 5, 45, 29, tzinfo=SimpleTZ("Z")))]
+>>> gpx2 = gpxpy.gpx.GPX()
+>>> gpx_track = gpxpy.gpx.GPXTrack()
+>>> gpx2.tracks.append(gpx_track)
+>>> gpx_segment = gpxpy.gpx.GPXTrackSegment()
+>>> gpx_track.segments.append(gpx_segment)
+>>> gpx_segment.points.extend(gpx.tracks[0].segments[0].points[::2])
+>>> print len(gpx.tracks[0].segments[0].points)
+80497
+>>> print len(gpx2.tracks[0].segments[0].points)
+40249
+>>> sub = open('subsample.gpx', 'w')
+>>> sub.write(gpx.to_xml())
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+  File "/Library/Python/2.7/site-packages/gpxpy/gpx.py", line 2698, in to_xml
+    raise GPXException('Invalid version %s' % version)
+gpxpy.gpx.GPXException: Invalid version 5.8
+>>> print gpx.to_xml()
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+  File "/Library/Python/2.7/site-packages/gpxpy/gpx.py", line 2698, in to_xml
+    raise GPXException('Invalid version %s' % version)
+gpxpy.gpx.GPXException: Invalid version 5.8
+>>> sub.write(gpx2.to_xml())
+>>> sub.close
+<built-in method close of file object at 0x1098259c0>
+>>> sub.close()
+
