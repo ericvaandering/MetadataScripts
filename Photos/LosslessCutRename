@@ -9,14 +9,14 @@ import os
 import re
 import sys
 
-offset = 1  # Make new files not collide with the original
+offset = 1  # Make new files not collide with the original, even if it's not there. Makes Lightroom happier
 
 parser = optparse.OptionParser(usage="usage: %prog [options]")
 
 parser.add_option(
-        "-n",
-        action="store_true", dest="test",
-        help="Don't change any files, print what would happen")
+    "-n",
+    action="store_true", dest="test",
+    help="Don't change any files, print what would happen")
 
 args = sys.argv
 (options, args) = parser.parse_args(args)
@@ -24,10 +24,34 @@ args = sys.argv
 filenames = []
 
 # Patterns for output of LosslessCut files and already renamed files
-losslessPattern = re.compile(r'([0-9a-f]){8}\.(mp4)\-[0-9\.]{12}\-[0-9\.]{12}\.(mp4)')
-renamedPattern = re.compile(r'([0-9a-f]){8}\.(mp4)')
+losslessPattern = re.compile(r'([0-9a-p]){8}\.(mp4|mov)\-[0-9\.]{12}\-[0-9\.]{12}\.(mp4|mov)')
+renamedPattern = re.compile(r'([0-9a-p]){8}\.(mp4|mov)')
 
 existingTimes = {}
+
+
+def alpha_to_timestamp(alpha_ts):
+    alpha_num_chars = '0123456789abcdefghijklmnop'
+    hex_ts = ''
+    for letter in alpha_ts:
+        index_val = alpha_num_chars.index(letter) - 10
+        hex_ts += alpha_num_chars[index_val]
+
+    timestamp = int(hex_ts, 16)
+    return timestamp
+
+
+def timestamp_to_alpha(timestamp):
+    alpha_num_chars = '0123456789abcdefghijklmnop'
+    alpha_ts = ''
+    hex_ts = ("%x" % timestamp).lower()
+
+    for letter in hex_ts:
+        index_val = alpha_num_chars.index(letter) + 10
+        alpha_ts += alpha_num_chars[index_val]
+
+    return alpha_ts
+
 
 # Collect and categorize filenames
 for fileName in os.listdir('.'):
@@ -35,13 +59,13 @@ for fileName in os.listdir('.'):
         filenames.append(fileName)
         continue
     if renamedPattern.match(fileName):
-        existingTimes[int(fileName.split('.')[0], 16)] = True
+        existingTimes[alpha_to_timestamp(fileName.split('.')[0])] = True
         continue
 
 bumpedShots = 0
 for infile in sorted(filenames):
     bumped = False
-    seconds = int(infile.split('.')[0], 16) + offset
+    seconds = alpha_to_timestamp(infile.split('.')[0]) + offset
     extension = infile.split('.')[-1]
 
     # Find the next available slot for this file
@@ -52,7 +76,7 @@ for infile in sorted(filenames):
     if bumped:
         bumpedShots += 1
 
-    newFilename = ("%x.%s" % (seconds, extension)).lower()
+    newFilename = ("%s.%s" % (timestamp_to_alpha(seconds), extension)).lower()
 
     if options.test:
         pass
@@ -62,8 +86,6 @@ for infile in sorted(filenames):
         if status:
             sys.exit()
 
-    print ('Rename %s to %s' % (infile, newFilename))
-print ("Number of videos:             ", len(filenames))
-print ("Total number of clips bumped: ", bumpedShots)
-
-
+    print('Rename %s to %s' % (infile, newFilename))
+print("Number of videos:             ", len(filenames))
+print("Total number of clips bumped: ", bumpedShots)
