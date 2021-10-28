@@ -48,7 +48,9 @@ Action
 	Laughing
 	Lifting
 	Listening
+	Metalworking
 	Performing music
+		Singing
 	Physics
 	Playing
 	Punching
@@ -129,8 +131,6 @@ Animals
 					{Ardeotis kori}
 				Red-crested Korhaan
 					{Lophotus ruficrista}
-				Secretary Bird
-					{Sagittarius serpentarius}
 				White-bellied Bustard
 					{Eupodotis senegalensis}
 			Cranes
@@ -234,6 +234,8 @@ Animals
 				Vulturine Guineafowl
 					{Acryllium vulturinum}
 			Quails
+				Coqui Francolin
+					{Fracncolinus coqui}
 				Crested Francolin
 					{Dendroperdix sephaena}
 				Red-billed Spurfowl
@@ -251,7 +253,9 @@ Animals
 				{Podilymbus podiceps}
 		Hawks & Eagles & Vultures
 			{Accipitriformes}
-			{Pandion haliaetus}
+			Buzzards
+				Augur Buzzard
+					{Buteo augur}
 			Eagles
 				African Fish Eagle
 					{Haliaeetus vocifer}
@@ -261,6 +265,8 @@ Animals
 					{Haliaeetus leucocephalus}
 				Bateleur
 					{Terathopius ecaudatus}
+				Brown Snake Eagle
+					{Circaetus cinereus}
 				Martial Eagle
 					{Polemaetus bellicosus}
 				Steppe Eagle
@@ -271,11 +277,14 @@ Animals
 					{Hieraaetus wahlbergi}
 			Hawks
 				African Goshawk (Black Morph)
+					{Accipiter tachiro}
 				Black-collared Hawk
 					{Busarellus nigricollis}
 				Common Black Hawk
 					{Buteogallus anthracinus}
 				Cooper's Hawk
+				Dark Chanting-Goshawk
+					{Melierax metabates}
 				Pale Chanting Goshawk
 					{Melierax canorus}
 				Red-tailed Hawk
@@ -284,29 +293,44 @@ Animals
 				Yellow-billed Kite
 					{Milvus parasitus}
 			Osprey
+			Secretary Bird
+				{Sagittarius serpentarius}
 			Vultures
 				African White-backed Vulture
 					{Gyps africanus}
+				Hooded Vulture
+					{Necrosyrtes monachus}
 				Lappet-faced Vulture
 					{Torgos tracheliotos}
 				Rüppell's Vulture
 					{Gyps rueppellii}
+				White-headed Vulture
+					{Trigonoceps occipitalis}
+		Hornbills and Hoopoes
+			{Bucerotiformes}
+			African Hoopoe
+				{Uppupa africana}
+			Bradfield's Hornbill
+				{Tockus bradfieldi}
+			Red-billed Hornbill
+				{Tockus erythrorhynchus}
+			Southern Ground Hornbill
+				{Bucorvus leadbeateri}
+			Southern Yellow-billed Hornbill
+				{Tockus leucomelas}
+			Von der Decken's Hornbill
+				{Tockus deckeni}
 		Kingfishers and relatives
 			{Coraciiformes}
 			Bee-eaters
+				Little Bee-eater
+					{Merops pusillus}
 				Southern Carmine Bee-eater
 					{Merops nubicoides}
-			Hornbills
-				Bradfield's Hornbill
-					{Tockus bradfieldi}
-				Red-billed Hornbill
-				Southern Ground Hornbill
-					{Bucorvus leadbeateri}
-				Southern Yellow-billed Hornbill
-					{Tockus leucomelas}
 			Kingfishers
 				Belted Kingfisher
 				Grey-headed Kingfisher
+					{Halcyon leucocephala}
 				Pied Kingfisher
 			Lilac-breasted Roller
 				{Coracias caudatus}
@@ -330,9 +354,14 @@ Animals
 			Verreaux's Eagle Owl
 		Parrots
 			{Psittaciformes}
+			Fischer's Lovebird
+				{Agapornis fischeri}
 			Mackaws
 				Hyacinth Mackaw
 		Passeriformes
+			Bishops & Widowbirds
+				Black Bishop
+					{Euplectes gierowii}
 			Blackbirds & Orioles & Medowlarks
 				Baltimore Oriole
 				Red-winged Blackbird
@@ -342,6 +371,9 @@ Animals
 				{Corvidae}
 				Blue Jay
 				Clark's Nutcracker
+			Estrildid Finches
+				Red-billed Firefinch
+					{Lagonostica senegala}
 			Finches
 				American Goldfinch
 				Purple Finch
@@ -358,6 +390,8 @@ Animals
 					{Lanius collaris}
 				Crimson-breasted Shrike
 					{Laniarius atrococcineus}
+				Grey-backed Fiscal
+					{Lanius excubitoroides}
 				Magpie Shrike
 					{Urolestes melanoleucus}
 			Sparrows
@@ -371,6 +405,7 @@ Animals
 				Meves's Starling
 					{Lamprotornis mevesii}
 				Superb Starling
+					{Lamprotornis superbus}
 			Swallows
 				Barn Swallow
 				Tree Swallow
@@ -387,10 +422,19 @@ Animals
 			Tufted Titmouse
 			Tyrant Flycatchers
 				Eastern Phoebe
+			Wagtails
+				African Pied Wagtail
+					{Motacilla aguimp}
 			Weavers
+				Baglafecht Weaver
+					{Ploceus baglafecht}
 				Golden-backed Weaver
 				Red-billed Buffalo Weaver
 					{Bubalornis niger}
+				Speke's Weaver
+					{Ploceus speki}
+				White-headed Buffalo-Weaver
+					{Dinemellia dinemelli}
 		Pelicaniformes
 			African Spoonbill
 				{Platalea alba}
@@ -411,6 +455,7 @@ Animals
 				African Sacred Ibis
 					{Threskiornis aethiopicus}
 				Black-headed Heron
+					{Ardea melanocephala}
 				Cattle Egret
 					{Bubulcus ibis}
 				Glossy Ibis
@@ -418,9 +463,12 @@ Animals
 				Goliath Heron
 				Great Blue Heron
 				Great Egret
+					{Casmerodius albus}
 				Green Heron
 				Grey Heron
 					{Ardea cinerea}
+				Hadada Ibis
+					{Bostrychia hagedash}
 				Ibis
 				Little Egret
 					{Egretta garzetta}
@@ -440,6 +488,7 @@ Animals
 				American White Pelican
 				Brown Pelican
 				Great White Pelican
+					{Pelecanus onocrotalus}
 				Pink-backed Pelican
 					{Pelecanus rufescens}
 		Sandgrouse
@@ -460,9 +509,13 @@ Animals
 					{Chroicocephalus ridibundus}
 				Grey-headed Gull
 					{Chroicophalus cirrocephalus}
+				Herring Gull
+					{Larus argentatus}
 				Laughing Gull
 					{Larus atricilla}
 				Lesser Black-backed Gull
+				Ring-billed Gull
+					{Larus delawarensis}
 			Jacanas
 				{Jacanidae}
 				African Jacana
@@ -486,9 +539,11 @@ Animals
 					{Scopus umbretta}
 				Jabiru Stork
 				Marabou Stork
+					{Leptoptilos crumeniferus}
 				Saddle Billed Stork
 				Woolly-necked Stork
 				Yellow-billed Stork
+					{Mycteria ibis}
 		Turacos
 			{Musophagiformes}
 			Grey Go-away-bird
@@ -498,6 +553,7 @@ Animals
 			{Piciformes}
 			Barbets
 				D'Arnaud's Barbet
+					{Trachyphonus darnaudii}
 			Toucans
 				Keel-billed Toucan
 			Woodpeckers
@@ -1084,6 +1140,7 @@ Animals
 				Yellow Chromis
 					{Chromis analis}
 				Yellowtail Damselfish
+					{Microspathodon chrysurus}
 			Dartfishes
 				Fire Dartfish
 					{Nemateleotris magnifica}
@@ -1155,6 +1212,8 @@ Animals
 					{Plectorhincus gibbosus}
 				Bluestriped Grunt
 					{Haemulon sciurus}
+				Caesar Grunt
+					{Haemulon carbonarium}
 				Cottonwick
 				Diagnoal-banded Sweetlips
 					{Plectorhinchus lineatus}
@@ -1206,6 +1265,8 @@ Animals
 				Twinspot Hawkfish
 					{Amblycirrhitus bimacula}
 			Jacks
+				African Pompano
+					{Alectis ciliaris}
 				Almaco Jack
 					{Seriola rivoliana}
 				Bar Jack
@@ -1693,6 +1754,7 @@ Animals
 				Flagtail Triggerfish
 					{Sufflamen chrysopterus}
 				Ocean Triggerfish
+					{Canthidermis sufflamen}
 				Orange-lined Triggerfish
 					{Balistapus undulatus}
 				Picassofish
@@ -1777,6 +1839,8 @@ Animals
 					{Sebastes casurinus}
 				Devil Scorpionfish
 					{Scorpaenopsis diabolus}
+				Filamentous scorpionfish
+					{Hipposcorpaena filamentosa}
 				Flasher Scorpionfish
 					{Scorpaenopsis macrochir}
 				Kelp Rockfish
@@ -1955,6 +2019,7 @@ Animals
 			Large Eye Toadfish
 				{Batrachoides gilberti}
 			Splendid Toadfish
+		Trout
 		Unknown fish
 	Invertebrates
 		Arthropods
@@ -2276,7 +2341,9 @@ Animals
 				Unknown crustacean
 			Insects
 				Bees
+				Beetles
 				Caterpillar
+				Damselflies
 				Dragonflies
 				Grasshoppers
 				Moths
@@ -2371,12 +2438,12 @@ Animals
 							Slimy Leather Coral
 								{Sarcophyton trocheliophorum}
 						Nephtheidae
-						Organ-pipe Corals
+						Pachyclavularia violacea
+						Stolonifera
 							{Stolonifera}
 							Daisy Corals
-						Organpipe Coral
-							{Tubipora musica}
-						Pachyclavularia violacea
+							Organpipe Coral
+								{Tubipora musica}
 						Tree Corals
 							Divaricate Tree Coral
 								{Dendronephthya (Roxasia)}
@@ -2517,6 +2584,7 @@ Animals
 				Comantheria briareus
 				Comaster gracilis
 				Golden Crinoid
+					{Davidaster rubiginosa}
 				Klunzinger's Feather Star
 				Savigny's Feather Star
 				Sawtoothed Feather Star
@@ -3119,6 +3187,10 @@ Animals
 							{Heliacus variegatus}
 					Tapestry Turban
 						{Turbo petholatus}
+					Tulip Shells
+						{Fasciolariidae}
+						True Tulip
+							{Fasciolaria tulipa}
 					Whelks
 						{Buccinidae}
 						Kellet's whelk
@@ -3237,15 +3309,22 @@ Animals
 		Afrotheria
 			African Elephant
 				{Loxodonta africana}
-			Hyrax
+			Black-necked Rock Hyrax
+				{Procavia johnstoni}
+			Yellow-spotted Hyrax
+				{Heterohyrax brucei}
 		Bats
 			Leaf-nosed Bats
 		Carnivores
 			Canines
 				Bat-eared Fox
+					{Otocyon megalotis}
 				Coyote
 				Jackals
 					Black-backed Jackal
+						{Canis mesomalis}
+					Common (Golden) Jackal
+						{Canis aureus}
 					Side-striped Jackal
 						{Canis adustus}
 				Wild Dog
@@ -3256,10 +3335,13 @@ Animals
 					{Panthera pardus}
 				Lion
 					{Panthera Leo}
+				Serval
+					{Felis serval}
 			Common Genet
 			Giant River Otter
 			Hyenas
 				Spotted Hyena
+					{Crocuta crocuta}
 				Striped Hyena
 			Mongooses
 				Banded Mongoose
@@ -3280,53 +3362,69 @@ Animals
 		Even Toed Ungulates
 			Bovids
 				African Buffalo
+					{Syncerus caffer}
 				Alcelaphines
 					Hartebeest
+						{Alcelaphus buselaphus}
 					Topi
+						{Damaliscus lunatus jimela}
 					Tsessebe
 						{Damaliscus lunatus lunatus}
 				American Bison
 				Antelope
-					Dik Dik
 					Dwarf Antelope
 						Klipspringer
+							{Oreotragus oreotragus}
 						Steinbuck
 							{Raphicerus campestris}
+							{Steenbok}
 					Gazelles
 						Gerenuk
 						Grant's Gazelle
+							{Gazella granti}
+						Springbok
+							{Antidorcas marsupialis}
 						Thompson's Gazelle
+							{Gazella rufifrons}
 					Gnus
-						Beisa Oryx
 						Brindled Gnu
 							{Connochaetes taurinus}
-					Greater Kudu
-						{Tragelaphus strepsiceros}
+					Horse-like Antelope
+						{Hippotraginae}
+						Beisa Oryx
+						Roan Antelope
+							{Hippotragus equinus}
+						Sable Antelope
+							{Hippotragus niger}
 					Impala
 						{Aepyceros melampus}
-					Lesser Kudu
-					Reedbucks
-						Bohor Reedbuck
+					Kirk's Dik Dik
+						{Madoqua kirkii}
+					Kobs
+						{Kobus}
 						Kob
 						Lechwe
 							{Kobus leche}
-					Roan Antelope
-						{Hippotragus equinus}
-					Sable Antelope
-						{Hippotragus niger}
-					Springbok
-						{Antidorcas marsupialis}
-					Steenbok
-						{Raphicerus campestris}
-					Waterbuck
-						{Kobus ellipsiprymnus}
+						Waterbuck
+							{Kobus ellipsiprymnus}
+					Reedbucks
+						Bohor Reedbuck
+							{Redunca redunca}
 				Common Duiker
+					{Bush Duiker}
 					{Sylvicapra grimmia}
 				Spiral-horned Bovines
 					Bushbuck
+						{Tragelaphus scriptus}
 					Eland
+						{Taurotragus oryx}
+					Greater Kudu
+						{Tragelaphus strepsiceros}
+					Lesser Kudu
 			Deer
 				Moose
+				White-tailed Deer
+					{Odocoileus virginianus}
 			Giraffes
 				Masai Giraffe
 					{Giraffa tippelskirchi}
@@ -3360,6 +3458,7 @@ Animals
 				Grevy's Zebra
 			Rhinoceros
 				Black Rhinoceros
+					{Diceros bicornis}
 				White Rhinoceros
 		Pangolins
 			Ground Pangolin
@@ -3368,6 +3467,7 @@ Animals
 			Apes
 				Chimpanzee
 				Mountain Gorilla
+					{Gorilla beringei}
 				Orang Utan
 			Galagos
 				Southern Lesser Galago
@@ -3378,12 +3478,15 @@ Animals
 			Old World Monkeys
 				{Cercopithecidae}
 				Cheek-pouch Monkeys
+					Blue Monkey
+						{Cercopithecus mitis}
 					Chacma Baboon
 						{Papio ursinus}
 					Crab-eating Macaque
 						{Macaca fascicularis}
 					Grey-cheeked Mangabey
 					Olive Baboon
+						{Papio anubis}
 					Vervet Monkey
 						{Cercopithecus pygerythrus}
 					Yellow Baboon
@@ -3397,6 +3500,8 @@ Animals
 			South African Springhare
 				{Pedetes capensis}
 			Squirrels
+				Eastern Chipmunk
+					{Tamias striatus}
 				Eastern Gray Squirrel
 				Golden-mantled Ground Squirrel
 				North American Red Squirrel
@@ -3418,6 +3523,7 @@ Animals
 			American Crocodile
 			Caiman
 			Nile Crocodile
+				{Crocodylus niloticus}
 		Lizards
 			Agama Agama
 			Bonaire Whiptail Lizard
@@ -3430,10 +3536,14 @@ Animals
 			Green Iguana
 			Ground Agama
 				{Agama aculeata}
+			Mwanza Flat-headed Rock Agama
+				{Agama mwanzae}
 			Nile Monitor
 				{Varanus niloticus}
 			Rock Monitor
 				{Varanus albigularis}
+			Rough-scaled Plated Lizard
+				{Broadleysaurus major}
 			Silver Key Anole
 				{Anolis scriptus}
 			Spiny-tailed Iguana
@@ -3444,12 +3554,15 @@ Animals
 			Banded Sea Krait
 				{Laticauda colubrina}
 			Coral Snake (Micrurus sp.)
+			Eastern Hognose Snake
+				{Heterodon platirhinos}
 			Striped Belly Sand Snake
 				{Psammophis subtaeniatus}
 			Urutu Pit Viper
 		Turtles and Tortoises
 			Common Map Turtle
 			Leopard Tortoise
+				{Stigmochelys pardalis}
 			Painted Turtle
 			Red-eared Slider
 			Sea Turtles
@@ -4321,25 +4434,10 @@ Event
 Gender
 	Female
 	Male
-ID-Bird
-	ID-Heron
-ID-Fish
-	ID-Cardinal
-	ID-Goby-Blennie
-	ID-Wrasse
-ID-Invert
-	ID-Coral
-		ID-Gorgonian
-			ID-Soft Coral
-		ID-Sponge
-		ID-Stony Coral
-	ID-Echinoderm
-		ID-Urchin
-ID-People
-ID-Uncertain
 Land
 	Arete
 	Beach
+	Bluff
 	Canyon
 		{Gorge}
 	Cave
@@ -4348,6 +4446,7 @@ Land
 	Coast
 		{Coastline}
 		{Seashore}
+	Crater
 	Desert
 		Dune
 		Oasis
@@ -4366,6 +4465,7 @@ Land
 		{Woods}
 	Glacier
 	Hill
+		Kopje
 	Island
 	Isthmus
 	Levee
@@ -4579,6 +4679,7 @@ Object
 		{Aiglet}
 	Air condition
 	Anchor
+	Animal skin
 	Artifact
 	Axle
 	Bag
@@ -4747,6 +4848,7 @@ Object
 		{Fishing pole}
 	Flag
 	Food and drink
+		Beer
 		Bread
 		Cake
 		Cheese
@@ -4788,6 +4890,7 @@ Object
 				{Footrest}
 		Table
 			Coffee table
+		Throne
 		Wardrobe
 		Workbench
 	Garter
@@ -5134,11 +5237,14 @@ Object
 People
 	Aquaintances
 		Anna Stenson
+		Christy Gutowski
 		Chuck Miller
 		Cindy Jones
 		David Rowe
 		George Veldman
 		Irina
+		Jennifer Smith Richards
+		Jodi Cohen
 		John Bell
 		Kathleen Kennedy
 		Kevin VU
@@ -5162,6 +5268,7 @@ People
 		Buddy Guy
 		Christiane Amanpour
 		Emmylou Harris
+		Francine Reed
 		John Kasich
 		Lyle Lovett
 		Temple Grandin
@@ -5285,57 +5392,104 @@ People
 		Ron Rispoli
 		Ruth Magnus
 		Ryan
-		Sarah Repka
 		Scott
 		Scott Alm
 		Serene
 		Shane Muellner
 		Sharon
-		Tinamarie Hernandez
 		Todd
 		Zack Bunda
 	Eric Vaandering
 	Family
 		Ad Vaandering
+		Agnes Hoeksema
 		Amy Huizenga
+		AnneMarie Wilderom-Rangitsch
 		Annette Huizenga
 		Avery Miedema
 		Ben van Rooijen
 		Beth Miedema
+		Betty Vaandering
+		Bettylene Schaub
 		Brian Huizenga
+		Bridgette St. Clair
+		Caleb Keehan
+		Carolyn Gorry
 		Carson Natte
 		Case Vaandering
 		Cathy Miedema
+		Cheryl Natte
+		Chrisinta Meyer
+		Collin Craft
+		Conner Gorry
 		Dave Miedema
 		Dini Vaandering
 		Donna Huizenga
 		Ed Huizenga
 		Edward Huizenga
 		Elizabeth Huizenga
+		Emilia Craft
+		Garret St. Clair
+		GiGi St. Clair
+		Halie Keehan
 		Jack Huizenga
 		Jackie Huizenga
+		Jen St. Clair
+		Jeremiah Rosario
 		Jerry Huizenga
 		Jim Miedema
+		Jim Vaandering
 		John Fabien
+		John Tilburt
+		Jonathon Nickens
+		Jonna Normington
 		Joyce Huizenga
 		Judy Vaandering
 		Kaeyley Osterman
+		Kaitlyn St. Clair
+		Kara Craft
 		Karen Osterman
+		Kassidy St. Clair
+		Kelly Van Dross
 		Ken Huizenga
+		Kiara St. Clair
+		Kris Huizenga
+		Krista Jewell
+		Larry Meyer
 		Laura Huizenga
+		Leanne Nickens
 		Leeling Yuen
+		Lena Vaandering
+		Leslie Huizenga
 		Lucas Miedema
 		Marion Huizenga
 		Mark Huizenga
+		Megan Craft Keehan
 		Mein Wilderom
+		Melissa Natte
+		Mellisa Zeier
 		Mia van Rooijen
+		Michelle St. Clair
+		Mike Luce
+		Missy Zeier
+		Nancy Craft
+		Pearl Huizenga
 		Robert Huizenga
 		Robert Osterman II
 		Robert Osterman III
+		Scott St. Clair
+		Sean St. Clair
+		Shannon St. Clair
+		Sophia Rodriguez
+		Steve Bearer
 		Steve Miedema
+		Steve Schaub
 		Ted Huizenga
+		Tim Normington
 		Trent Miedema
 		Tricia Huizenga
+		Wayne St. Clair
+		Zonna Hoffman
 	Fermilab
 		Heidi S
 		Igor M
@@ -5373,47 +5527,132 @@ People
 		Abhishek Agarwal
 		Adam Schumaker
 		Alex Rose
+		Alexandra Sala
+		Allison Kendall
+		Alyssa DeWall
+		Amanda Kaschube
+		Amanda Spake
 		Amy Admiraal
+		Andreas K
+		Andrew Johnson
 		Andrew Melo
 		Andy Orr
 		Anna Saunders
+		Anne Halston
 		Ash Fedanzo
+		Ben Jones
+		Bill Buckzinski
+		Bill DeWall
+		Bob Storrs
+		Brian Cassella
 		Brian O'Reilly
+		Burt Holzman
 		Chris Jacobsen
 		Christine Buckley
+		Christine Webb
+		Connie Nichols
 		Cynthia
 		Cynthia Coutre
+		Dan Hinkel
+		Dan Mihalopous
+		Dario Sala
+		David Heinzmann
+		David Schwartz
+		Deb Finken
+		Diana Bessler
+		Diana Wallace
+		Eric Libolt
 		Erin Gill
+		Francesca Sala
+		Gigi Seng
+		Gina Hunter
+		Greg Pratt
+		Hana
 		Harry Cheung
 		Heather Robinson
+		Holly Jacobsen
+		Jackson Finken
+		Jared Rutecki
+		Jeff Coen
 		Jeff Schumaker
 		Jennifer F
 		Jennifer Johnson
+		Jennifer Jones
+		Jeremy Gorner
 		Joan Marler
 		John Admiraal
+		John Chase
 		Josephine O'Shea
+		Julliana Mihalopous
+		Kaarin Tisue
+		Kara Spak
+		Karen Eizenga
+		Kelly DeWall
 		Kevin Stenson
 		Kimberly Myles
 		Krista Majewski
+		Kristen Mack
 		Kristen Sikkenga
+		Kyle Stenson
 		Lewis Vissia
+		Lindsey Nordmark
 		Lisabeth Kochanski
 		Luca Cinquini
+		Margot Sala
+		Marilyn Admiraal
 		Mary Admiraal
 		Matt Vanderwel
+		Matti K
 		Maya Agostino
+		Megan Crepeau
+		Michelle Daniel
+		Mike Joyce
+		Mike Kirby
+		Mike Spake
 		Mu-Chun Chen
+		Nathan Enns
+		Nirmal Seenu
+		Nora Kaschube
 		Pam Admiraal
 		Paul Sheldon
 		Paul Steinbrueck
+		Peg Rob
 		Penny Kasper
 		Peter Kasper
+		Peter Kendall
+		Quinn Ruff
+		Rev. John Oliver
+		Rex Chekal
+		Rick Neighbor
+		Ron Friday
 		Rory Myles
+		Ross Drever
+		Sally Stein
+		Sandy Volkers
+		Sara Drever
+		Sarah Repka
+		Sarah Shepard
+		Satu K
+		Scott Majewski
+		Shawn Keehan
+		Shia Kapos
+		Sloane Coen
 		Stacy St. Clair
+		Steve Hoffman
+		Steve Warmbier
 		Sue Sheldon
+		Tinamarie Hernandez
+		Tracy Schwartz
+		Tracy Van Moorlehem
+		Tricia Wake
+		Valentina Sala
 		Will Johns
 		Yvonne Palmer
+		Zach Finken
 	Identity
+		Datooga
+		Ethiopians
+		Hadzabe
 		Masai
 		Turkana
 		Ugandans
@@ -5452,7 +5691,6 @@ People
 			Brian
 			Chris
 			Dani Winter
-			Danny Winter
 			Frank
 			Greg
 			Greg F
@@ -5462,6 +5700,16 @@ People
 			Max
 			Stephan
 			Yolanda Winter
+		[Africa 2019 companions]
+			Angelena McCurry
+			Denise Fisher
+			Jonathon Smith
+			Katie Knoll
+			Lori Smith
+			Matumbo
+			Nora Bolke
+			Sam
+			Steph Stengaard
 		Bahamas 2006 companions
 		Bahamas 2008 companions
 		Belize 2005 companions
@@ -5472,6 +5720,7 @@ People
 			Ron
 			Stefan
 		Danny
+		Edwin Huaman
 		Golden Dolphin Companions
 			Daniele Hazard
 			Essam Rose
@@ -5655,9 +5904,17 @@ Plants
 	Grasses
 	Mushrooms
 	Trees and Bushes
+		Acacia tree
+		African Baobab
+			{Adansonia digitata}
+		Coffee plant
+		Desert Rose
+			{Adenium obesum}
 		Palm tree
 		Red Mangrove
 			{Rhizophora mangle}
+		Sausage Tree
+			{Kigelia africana}
 		Stump
 	Water Plants
 		Duckweed
@@ -5973,11 +6230,13 @@ Structures & architecture
 		Fire station
 		Florist shop
 		Food court
+		Forge
 		Fort
 		Fortification
 		Foundry
 		Fusegate
 		Gas station
+		Gazebo
 		Granary
 		Greenhouse
 		Grocery store
@@ -6222,6 +6481,7 @@ Transportation
 		Cart
 		Construction equipment
 		Firetruck
+		Golf Cart
 		Gondola
 		Motorcycle
 			{Bike}
@@ -6307,6 +6567,7 @@ Transportation
 		Ship
 		Sloop
 		Tanker
+		Tugboat
 		Yacht
 		Yawl
 	Human Powered
