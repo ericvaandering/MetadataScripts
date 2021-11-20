@@ -1,6 +1,8 @@
 #! /usr/bin/env python
 # -*- coding: utf-8 -*-
 
+from __future__ import print_function
+
 import commands
 import optparse
 import os
@@ -20,12 +22,12 @@ args = sys.argv
 filenames = []
 
 # Patterns for video files and already renamed files
-rawFile = re.compile(r'[ \w\-]+\.(MP4|mp4)')
+rawFile = re.compile(r'[ \.\w\-]+\.(MP4|mp4)')
 stampedRaw = re.compile(r'([0-9a-q]){8}(\.proxy)?\.(MP4|mp4)')
 
 existingTimes = {}
 
-
+# FIXME: Adopt the timestamp functions from LosslessCutRename
 def alphaHex(hex):
     # Convert hex codes into all letters so they sort properly in filenames
 
@@ -40,7 +42,7 @@ for fileName in os.listdir('.'):
     if not rawFile.match(fileName):
         continue
     if stampedRaw.match(fileName):
-#        existingTimes[int(fileName.split('.')[0], 16)] = True
+        # existingTimes[int(fileName.split('.')[0], 16)] = True
         continue
     filenames.append(fileName)
 
@@ -50,7 +52,7 @@ for infile in sorted(filenames):
     bumped = False
     file_codes = []
 
-    base_filename, extension = infile.split('.', 1)
+    base_filename, extension = infile.rsplit('.', 1)
 
     # Take timestamp from file and increment if needed
     seconds = int(os.path.getmtime(infile))
@@ -80,18 +82,30 @@ for infile in sorted(filenames):
     # Rename the proxy files as well
     old_proxy = base_filename + '.' + 'LRV'
     new_proxy = alpha_ts + '.' + 'proxy.mp4'
+    new_preview = alpha_ts + '-html5ified-slowest.mp4'
+    print('Checking for %s' % old_proxy)
+    if not os.path.exists(old_proxy):
+        # Try HERO8 style
+        old_proxy = old_proxy.replace('GX', 'GL')
+    print('Checking for %s' % old_proxy)
+
     if os.path.exists(old_proxy):
         file_codes.append(outMap['lrv'])
         cmd = 'mv -n "%s" %s' % (old_proxy, new_proxy)
+        copy_command = 'cp -n "%s" %s' % (old_proxy, new_preview)
         if options.test:
+            print(copy_command)
             print(cmd)
         else:
+            status, output = commands.getstatusoutput(copy_command)
+            if status:
+                sys.exit()
             status, output = commands.getstatusoutput(cmd)
             if status:
                 sys.exit()
 
-    print base_filename, alpha_ts, timeSource, ''.join(file_codes)
-print "Number of clips:              ", len(filenames)
-print "Total number of shots bumped: ", bumped_shots
+    print(base_filename, alpha_ts, timeSource, ''.join(file_codes))
+print("Number of clips:              %s" % len(filenames))
+print("Total number of shots bumped: %s" % bumped_shots)
 
-exit
+exit()

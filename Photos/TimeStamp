@@ -40,6 +40,7 @@ if options.jpeg:
     rawFile = re.compile(r'[ \w\-\s]+\.(jpg|JPG|MOV|mov|mpg|MPG|avi|AVI|png|PNG|mp4|MP4|m4v|M4V)$')
     stampedRaw = re.compile(r'([1-9a-p][0-9a-p]{7})\.(jpg|JPG|MOV|mov|mpg|MPG|avi|AVI|png|PNG|mp4|MP4|m4v|M4V)')
 
+# FIXME: Adopt the timestamp functions from LosslessCutRename
 
 def alphaHex(hex):
     # Convert hex codes into all letters so they sort properly in filenames
