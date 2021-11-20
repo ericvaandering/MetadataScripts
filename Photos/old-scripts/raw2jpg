@@ -1,0 +1,15 @@
+#! /usr/bin/perl
+
+mkdir "gen_jpg",oct 755;
+
+opendir FILES, ".";
+@CRWs = grep /\.crw$/,readdir FILES;
+closedir FILES;
+
+foreach $CRW (@CRWs) {
+  ($Prefix) = split /\./,$CRW;
+  unless (-e "gen_jpg/$Prefix.jpg") {
+    print "Converting $Prefix\n";
+    system("dcraw -w -c $CRW  | ppmtojpeg > gen_jpg/$Prefix.jpg");
+  }  
+} 

@@ -1,0 +1,15 @@
+#! /usr/bin/perl
+
+opendir FILES, ".";
+@CRWs = grep /\.pcd$/,readdir FILES;
+closedir FILES;
+
+foreach $CRW (@CRWs) {
+  ($Prefix) = split /\./,$CRW;
+  if (-e "$Prefix.png") {
+    print "Already converted $Prefix\n";
+  } else {  
+    print "Converting $Prefix\n";
+    system("convert $Prefix.pcd[5] $Prefix.png");
+  }  
+} 

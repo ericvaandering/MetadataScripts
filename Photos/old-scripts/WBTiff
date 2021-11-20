@@ -1,0 +1,23 @@
+#! /usr/bin/perl
+
+my @Nums = (748,776,881,892,938);
+my $TIFPath = "/home/vondo/data/Photos/Process/Intermediate/2008 Bahamas";
+my $DNGPath = "/home/vondo/data/Photos/Central & South America/2008 Bahamas";
+my $UFRPath = $DNGPath;
+
+#@Options = ("--black-point=auto","--wb=auto","--saturation=1.2");
+@Options = ("--gamma=0.45", "--linearity=0.10", "--exposure=0", "--saturation=1.0", "--base-curve=linear", "--black-point=0", "--out-type=tiff16", "--create-id=also", "--wavelet-denoising-threshold=0");
+
+foreach my $Num (@Nums) {
+  my $ID = sprintf "%4.4d",$Num;
+  my $TIFFile = $TIFPath."/"."img_$ID.tif";
+  my $DNGFile = $DNGPath."/"."img_$ID.DNG";
+  my $UFRFile = $UFRPath."/"."img_$ID.ufraw";
+
+  @TrueOptions = (@Options,"--conf=$UFRFile","--output=$TIFFile");
+  print join ' ',"ufraw-batch",@TrueOptions,$DNGFile;
+  print "\n";
+#  next;
+
+  system("ufraw-batch",@TrueOptions,$DNGFile);
+}

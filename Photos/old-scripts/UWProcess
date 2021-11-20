@@ -1,0 +1,28 @@
+#! /usr/bin/perl
+
+opendir DIR,".";
+my @Files = readdir DIR;
+closedir DIR;
+
+my @TargetFiles = grep /img\_(\d+)\.DNG/,@Files;
+
+@Options = ("--black-point=auto","--wb=auto","--saturation=1.2","--out-type=jpeg","--create-id=also");
+
+my %DeNoise = ("100" => 20.0,
+               "50"  => 10.0);
+
+foreach my $File (@TargetFiles) {
+  my @Lines = `exiv2 pr $File`;
+  my ($ISOLine) = grep /ISO/,@Lines;
+  chomp $ISOLine;
+  my ($Junk,$ISO) = split /:/,$ISOLine;
+  $ISO = int($ISO);
+  print "File $File has ISO of $ISO\n";
+  my ($Name,$Ext) = split /\./,$File;
+#  my $NewFile = $Name."_o.jpg";
+  my $Thresh = $DeNoise{$ISO} || 18.0;
+  @TrueOptions = (@Options,"--wavelet-denoising-threshold=$Thresh");
+  print join ' ',"ufraw-batch","--conf=$Name.ufraw","--output=$Name.jpg",@TrueOptions,"$Name.DNG";
+  print "\n";
+  system("ufraw-batch",,"--output=$Name.jpg",@TrueOptions,"$Name.DNG");
+}
