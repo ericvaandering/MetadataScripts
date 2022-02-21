@@ -1,5 +1,5 @@
 [ID-Hierarchy]
-	ID-Algae
+	ID-Activity
 	[ID-Animal]
 		ID-Bird
 			ID-BustardOstrich
@@ -141,7 +141,10 @@
 	ID-More
 	ID-NotNeeded
 	ID-People
+	ID-Plant
+		ID-Algae
+		ID-Tree
 	ID-Scenery
-	ID-Tree
+	ID-Structure
 	[ID-Uncertain]
 	ID-Vehicle

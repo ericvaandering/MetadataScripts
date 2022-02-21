@@ -306,6 +306,7 @@ Animals
 					{Gyps rueppellii}
 				White-headed Vulture
 					{Trigonoceps occipitalis}
+		Hoatzin
 		Hornbills and Hoopoes
 			{Bucerotiformes}
 			African Hoopoe
@@ -356,8 +357,15 @@ Animals
 			{Psittaciformes}
 			Fischer's Lovebird
 				{Agapornis fischeri}
-			Mackaws
-				Hyacinth Mackaw
+			Macaws
+				Blue-and-yellow Macaw
+					{Ara ararauna}
+				Hyacinth Macaw
+					{Anodorhynchus hyacinthinus}
+				Red-and-green Macaw
+					{Ara chloropterus}
+				Scarlet Macaw
+					{Ara macao}
 		Passeriformes
 			Bishops & Widowbirds
 				Black Bishop
@@ -443,6 +451,8 @@ Animals
 			Cormorants
 				Double-Crested Cormorant
 				Long-tailed Cormorant
+				Neotropic Cormorant
+					{Phalacrocorax brasilianus}
 				Reed Cormorant
 					{Microcarbo africanus}
 			Darters
@@ -458,6 +468,8 @@ Animals
 					{Ardea melanocephala}
 				Cattle Egret
 					{Bubulcus ibis}
+				Cocoi Heron
+					{Ardea cocoi}
 				Glossy Ibis
 					{Plegadis falcinellus}
 				Goliath Heron
@@ -556,6 +568,8 @@ Animals
 					{Trachyphonus darnaudii}
 			Toucans
 				Keel-billed Toucan
+				White-throated Toucan
+					{Ramphastos tucanus}
 			Woodpeckers
 				Downy Woodpecker
 	Fish
@@ -777,6 +791,10 @@ Animals
 				Strange Sole
 					{Aseraggodes xenicus}
 				Unknown sole
+		Gars
+			{Lepisosteiformes}
+			Florida Gar
+				{Lepisosteus platyrhincus}
 		Gobies
 			{Gobiiformes}
 			Ambanoro Shrimpgoby
@@ -3315,6 +3333,8 @@ Animals
 				{Heterohyrax brucei}
 		Bats
 			Leaf-nosed Bats
+			Proboscis Bats
+				{Rhynchonycteris naso}
 		Carnivores
 			Canines
 				Bat-eared Fox
@@ -3473,10 +3493,25 @@ Animals
 				Southern Lesser Galago
 					{Galago moholi}
 			New World Monkeys
+				Colombian Red Howler
+					{Alouatta seniculus}
 				Common Marmoset
 				Howler Monkey
 			Old World Monkeys
 				{Cercopithecidae}
+				Cheek-pouch Monkeys
+					Blue Monkey
+						{Cercopithecus mitis}
+					Chacma Baboon
+						{Papio ursinus}
+					Crab-eating Macaque
+						{Macaca fascicularis}
+					Grey-cheeked Mangabey
+					Olive Baboon
+						{Papio anubis}
+					Vervet Monkey
+						{Cercopithecus pygerythrus}
+					Yellow Baboon
 				Cheek-pouch Monkeys
 					Blue Monkey
 						{Cercopithecus mitis}
@@ -3521,6 +3556,7 @@ Animals
 	Reptiles
 		Crocodilians
 			American Crocodile
+			Black Caiman
 			Caiman
 			Nile Crocodile
 				{Crocodylus niloticus}
@@ -3563,6 +3599,8 @@ Animals
 			Common Map Turtle
 			Leopard Tortoise
 				{Stigmochelys pardalis}
+			Loggerhead Musk Turtle
+				{Sternotherus minor}
 			Painted Turtle
 			Red-eared Slider
 			Sea Turtles
@@ -6139,6 +6177,7 @@ Structures & architecture
 			{Graveyard}
 		Courtyard
 			{Patio}
+		Grave
 		Market
 		Mountain town
 		Park
@@ -6252,6 +6291,7 @@ Structures & architecture
 		Kiosk
 		Library
 		Lighthouse
+		Lodge
 		Mansion
 		Market house
 		Martyrium
