@@ -1,7 +1,7 @@
-ID-Amphibean
 [ID-Hierarchy]
 	ID-Activity
 	[ID-Animal]
+		ID-Amphibean
 		ID-Bird
 			ID-BustardOstrich
 			ID-Crane
@@ -100,6 +100,7 @@ ID-Amphibean
 				ID-SeaCucumber
 				ID-SeaStar
 				ID-Urchin
+			ID-Insect
 			ID-Jelly
 			ID-Mollusc
 				ID-Bivalve
@@ -149,4 +150,3 @@ ID-Amphibean
 	ID-Structure
 	[ID-Uncertain]
 	ID-Vehicle
-ID-Insect
