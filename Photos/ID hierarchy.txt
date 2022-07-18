@@ -1,3 +1,4 @@
+ID-Amphibean
 [ID-Hierarchy]
 	ID-Activity
 	[ID-Animal]
@@ -41,7 +42,7 @@
 			ID-Hawkfish
 			ID-Jack
 			ID-Lizardfish
-			ID-Parrot
+			ID-Parrotfish
 			ID-PufferTriggerFile
 				ID-BoxCow
 				ID-Filefish
@@ -148,3 +149,4 @@
 	ID-Structure
 	[ID-Uncertain]
 	ID-Vehicle
+ID-Insect
