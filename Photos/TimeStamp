@@ -1,7 +1,7 @@
-#! /usr/bin/env python
+#! /usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-import commands
+import subprocess
 import os
 import sys
 import optparse
@@ -35,7 +35,7 @@ filenames = []
 rawFile = re.compile(r'[ \w\-]+\.(cr2|crw|CR2|CRW|tif|TIF|DNG|orf|ORF|HEIC)')
 stampedRaw = re.compile(r'([0-9a-p]){8}\.(cr2|crw|CR2|CRW|tif|TIF|DNG|orf|ORF|HEIC)')
 if options.jpeg:
-    print "Doing jpeg files instead"
+    print ("Doing jpeg files instead")
     # continue
     rawFile = re.compile(r'[ \w\-\s]+\.(jpg|JPG|MOV|mov|mpg|MPG|avi|AVI|png|PNG|mp4|MP4|m4v|M4V)$')
     stampedRaw = re.compile(r'([1-9a-p][0-9a-p]{7})\.(jpg|JPG|MOV|mov|mpg|MPG|avi|AVI|png|PNG|mp4|MP4|m4v|M4V)')
@@ -45,8 +45,8 @@ if options.jpeg:
 def alphaHex(hex):
     # Convert hex codes into all letters so they sort properly in filenames
 
-    char_map = dict(zip(['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'a', 'b', 'c', 'd', 'e', 'f'],
-                        ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p']))
+    char_map = dict(list(zip(['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'a', 'b', 'c', 'd', 'e', 'f'],
+                        ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p'])))
     alpha_hex = ''.join([char_map[l] for l in hex])
     return alpha_hex
 
@@ -55,7 +55,7 @@ def exivTS(fileName):
     seconds = 0
     cmd = 'exiv2 pr "%s" | grep --binary-files=text "Image timestamp"' % (fileName)
     try:
-        status, output = commands.getstatusoutput(cmd)
+        status, output = subprocess.getstatusoutput(cmd)
         for line in output.split('\n'):
             if line.find("Image timestamp") > -1:
                 timeString = line.split(' : ')[1]
@@ -71,7 +71,7 @@ def exivAll(fileName):
     seconds = 0
     cmd = 'exiv2 pr -P EIX "%s" | grep -i time' % (fileName)
     try:
-        status, output = commands.getstatusoutput(cmd)
+        status, output = subprocess.getstatusoutput(cmd)
         for line in output.split('\n'):
             if line.find("Exif.Image.DateTime") > -1:
                 timeString = line.split()[3] + ' ' + line.split()[4]
@@ -146,7 +146,7 @@ for infile in sorted(filenames):
         pass
     else:
         cmd = 'mv -n "%s" %s' % (infile, newFilename)
-        status, output = commands.getstatusoutput(cmd)
+        status, output = subprocess.getstatusoutput(cmd)
         if status:
             sys.exit()
     sideExts = []
@@ -163,16 +163,16 @@ for infile in sorted(filenames):
                 # print "Rename %s to %s" % (oldXMP, newXMP)
             else:
                 cmd = 'mv -n "%s" %s' % (oldXMP, newXMP)
-                status, output = commands.getstatusoutput(cmd)
+                status, output = subprocess.getstatusoutput(cmd)
                 if status:
                     sys.exit()
                 if options.backup and ext in ['jpg', 'JPG']:
                     backup = outString + '-b.' + ext.lower()
                     cmd = 'cp -n "%s" %s' % (newXMP, backup)
-                    status, output = commands.getstatusoutput(cmd)
+                    status, output = subprocess.getstatusoutput(cmd)
 
-    print inString, outString, timeSource, ''.join(outList)  # ,seconds
-print "Number of photos:             ", len(filenames)
-print "Total number of shots bumped: ", bumpedShots
+    print((inString, outString, timeSource, ''.join(outList)))
+print(("Number of photos:             ", len(filenames)))
+print(("Total number of shots bumped: ", bumpedShots))
 
 exit

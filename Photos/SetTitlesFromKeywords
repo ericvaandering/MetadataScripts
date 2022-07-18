@@ -1,4 +1,4 @@
-#! /usr/bin/env python
+#! /usr/bin/env python3
 # -*- coding: utf-8 -*-
 
 import subprocess
@@ -45,7 +45,7 @@ def exivSetCaption(fileName, caption=None, override=False):
         cmd =  'exiv2 -M"set Iptc.Application2.Caption String %s" "%s"' % (caption, fileName)
         status, output = subprocess.getstatusoutput(cmd)
     except:
-        print("Could not set caption for ", fileName)
+        print("Could not set caption for %s" % fileName)
         return False
 
     return True
@@ -73,7 +73,7 @@ def exivSetTitle(fileName, title=None, override=False):
         cmd =  'exiv2 -M"set Iptc.Application2.ObjectName String %s" "%s"' % (title, fileName)
         status, output = subprocess.getstatusoutput(cmd)
     except:
-        print("Could not set title for ", fileName)
+        print("Could not set title for %s" % fileName)
         return False
 
     return True
@@ -108,9 +108,10 @@ if __name__ == "__main__":
         needsID = False
         hasAnimal = False
         titles = []
-
+        print(f'Checking {fileName}')
         # Find photos that satisfy the rules (one more more Animals, nothing needing further ID)
         keywords = exivKeywords(fileName)
+        print(f'Keywords: {keywords}')
         for keyword in keywords:
             if keyword[0].find('ID-') > -1:
                 needsID = True
@@ -119,6 +120,8 @@ if __name__ == "__main__":
                 titles.append(keyword[-1])
 
         # Build an English title for these
+        print(f'Eval {needsID} {hasAnimal} {titles}')
+
         if not needsID and hasAnimal and titles:
             if len(titles) < 3:
                 title = ' and '.join(titles)
@@ -129,4 +132,4 @@ if __name__ == "__main__":
             setCaption = exivSetCaption(fileName, caption=title, override=False)
             setTitle = exivSetTitle(fileName, title=title, override=False)
             if setCaption or setTitle:
-                print(fileName, 'set to "%s"' % title)
+                print(fileName+ ' set to "%s"' % title)

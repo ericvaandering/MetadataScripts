@@ -15,11 +15,13 @@ Action
 		Swimming
 		With eggs
 	Birdwatching
+	Clothes making
 	Creating art
 		Drawing
 		Sculpting
 	Dancing
 		Traditional dancing
+	Demonstrating
 	Drinking
 	Driving
 	Eating
@@ -27,9 +29,13 @@ Action
 	Food preparation
 	Historical re-enactment
 	Metalworking
+	Mining
+	Movie making
 	Performing music
 		Singing
+	Photography
 	Physics
+	Running
 	Street performance
 	Washing clothes
 Age
@@ -50,12 +56,17 @@ Animals
 		Frogs
 			Bullfrog
 				{Rana catesbeiana}
+			Common Coqui
+				{Eleutherodactylus coqui}
 			Green and Black Poison Dart Frog
 				{Dendrobates auratus}
 			Strawberry Poison-dart Frog
 				{Oophaga pumilio}
 		Toads
 	Birds
+		Chachalacas & Guans & Curassows
+			Crested Guan
+				{Penelope purpurascens}
 		Cranes & Coots & Rails
 			{Gruiformes}
 			Bustards
@@ -79,6 +90,8 @@ Animals
 					{Fulica americana}
 				Eurasian Coot
 					{Fulica atra}
+				Gray-cowled Wood-Rail
+					{Aramides cajaneus}
 		Doves & Pigeons
 			{Columbiformes}
 			Cape Turtle-dove
@@ -87,6 +100,8 @@ Animals
 				{Columba livia}
 			Mourning Dove
 				{Zenaida macroura}
+			Plumbeous Pigeon
+				{Patagioenas plumbea}
 		Ducks & Geese & Swans
 			{Anseriformes}
 			Ducks
@@ -139,6 +154,8 @@ Animals
 				Peregrine Falcon
 					{Falco peregrinus}
 			New World Vultures
+				Black Vulture
+					{Coragyps atratus}
 				Turkey Vulture
 					{Cathartes aura}
 		Flamingos
@@ -238,6 +255,7 @@ Animals
 					{Gyps rueppellii}
 				White-headed Vulture
 					{Trigonoceps occipitalis}
+		Hoatzin
 		Hornbills and Hoopoes
 			{Bucerotiformes}
 			African Hoopoe
@@ -252,6 +270,10 @@ Animals
 				{Tockus leucomelas}
 			Von der Decken's Hornbill
 				{Tockus deckeni}
+		Hummingbirds
+			{Trochilidae}
+			Chestnut-breasted Coronet
+				{Boissonneaua matthewsii}
 		Kingfishers and relatives
 			{Coraciiformes}
 			Bee-eaters
@@ -271,12 +293,16 @@ Animals
 			Potoos
 				Northern Potoo
 		Nightjars
+			Ladder-tailed Nightjar
+				{Hydropsalis climacocerca}
 			Square-tailed Nightjar
 				{Caprimulgus fossii}
 		Owls
 			{Strigiformes}
 			Barn Owl
 				{Tyto alba}
+			Barred Owl
+				{Strix varia}
 			Eastern Screech Owl
 				{Megascops asio}
 			Great Horned Owl
@@ -286,10 +312,31 @@ Animals
 			Verreaux's Eagle Owl
 		Parrots
 			{Psittaciformes}
+			Blue-headed Parrot
+				{Pionus menstruus}
+			Dusky-headed Parakeet
+				{Aratinga weddellii}
 			Fischer's Lovebird
 				{Agapornis fischeri}
-			Mackaws
-				Hyacinth Mackaw
+			Macaws
+				Blue-and-yellow Macaw
+					{Ara ararauna}
+				Chestnut-fronted Macaw
+					{Ara severus}
+				Hyacinth Macaw
+					{Anodorhynchus hyacinthinus}
+				Red-and-green Macaw
+					{Ara chloropterus}
+				Scarlet Macaw
+					{Ara macao}
+			Mealy Parrot
+				{Amazona farinosa}
+			Orange-cheeked Parrot
+				{Pyrilia barrabandi}
+			White-eyed Parakeet
+				{Psittacara leucophthalmus}
+			Yellow-crowned Parrot
+				{Amazona ochrocephala}
 		Passeriformes
 			Bishops & Widowbirds
 				Black Bishop
@@ -302,6 +349,7 @@ Animals
 			Crows & Jays & Nutcrackers
 				{Corvidae}
 				Blue Jay
+					{Cyanocitta cristata}
 				Clark's Nutcracker
 			Estrildid Finches
 				Red-billed Firefinch
@@ -313,6 +361,10 @@ Animals
 				{Dicrurus adsimilis}
 			Kinglets
 				Golden-crowned Kinglet
+			New World Blackbirds
+				{Icteridae}
+				Russet-backed Oropendola
+					{Psarocolius angustifrons}
 			Northern Cardinal
 			Oxpeckers
 				Yellow-billed Oxpecker
@@ -343,6 +395,12 @@ Animals
 				Tree Swallow
 				Wire-tailed Swallow
 					{Hirundo smithii}
+			Tanagers
+				{Thraupidae}
+				Blue-gray Tanager
+					{Thraupis episcopus}
+				Red-capped Cardinal
+					{Paroaria gularis}
 			Thrashers & Mockingbirds
 				{Mimidae}
 				Brown Thrasher
@@ -351,6 +409,10 @@ Animals
 				Eastern Bluebird
 				Groundscraper Thrush
 					{Psophocichla litsitsirupa}
+			Tityras & Mourners & Allies
+				{Tityridae}
+				Black-tailed Tityra
+					{Tityra cayana}
 			Tufted Titmouse
 			Tyrant Flycatchers
 				Eastern Phoebe
@@ -368,13 +430,13 @@ Animals
 				White-headed Buffalo-Weaver
 					{Dinemellia dinemelli}
 		Pelicaniformes
-			African Spoonbill
-				{Platalea alba}
 			Boobies
 				Red-footed Booby
 			Cormorants
 				Double-Crested Cormorant
 				Long-tailed Cormorant
+				Neotropic Cormorant
+					{Phalacrocorax brasilianus}
 				Reed Cormorant
 					{Microcarbo africanus}
 			Darters
@@ -384,14 +446,12 @@ Animals
 			Frigate Birds
 				Magnificent Frigate Bird
 			Herons
-				African Sacred Ibis
-					{Threskiornis aethiopicus}
 				Black-headed Heron
 					{Ardea melanocephala}
 				Cattle Egret
 					{Bubulcus ibis}
-				Glossy Ibis
-					{Plegadis falcinellus}
+				Cocoi Heron
+					{Ardea cocoi}
 				Goliath Heron
 				Great Blue Heron
 				Great Egret
@@ -399,23 +459,37 @@ Animals
 				Green Heron
 				Grey Heron
 					{Ardea cinerea}
-				Hadada Ibis
-					{Bostrychia hagedash}
-				Ibis
 				Little Egret
 					{Egretta garzetta}
 				Night Heron
 				Purple Heron
 					{Ardea pupurea}
 				Reddish Egret
+				Rufescent Tiger-Heron
+					{Tigrisoma lineatum}
 				Slaty Egret
 					{Egretta vinaceigula}
 				Snowy Egret
 					{Egretta thula}
 				Squacco Heron
 					{Ardeola ralloides}
+				Striated Heron
+					{Butorides striata}
 				Western Great Egret
 					{Ardea alba}
+			Ibises & Spoonbills
+				{Threskiornithidae}
+				African Sacred Ibis
+					{Threskiornis aethiopicus}
+				African Spoonbill
+					{Platalea alba}
+				Glossy Ibis
+					{Plegadis falcinellus}
+				Green Ibis
+					{Mesembrinibis cayennensis}
+				Hadada Ibis
+					{Bostrychia hagedash}
+				Ibis
 			Pelicans
 				American White Pelican
 				Brown Pelican
@@ -462,6 +536,8 @@ Animals
 				Killdeer
 				Long-toed Lapwing
 					{Vanellus crassirostris}
+			Large-billed Tern
+				{Phaetusa simplex}
 		Storks and relatives
 			{Ciconiiformes}
 			Storks
@@ -488,8 +564,12 @@ Animals
 					{Trachyphonus darnaudii}
 			Toucans
 				Keel-billed Toucan
+				White-throated Toucan
+					{Ramphastos tucanus}
 			Woodpeckers
 				Downy Woodpecker
+				Red-bellied Woodpecker
+					{Melanerpes carolinus}
 	Fish
 		American Paddlefish
 			{Psephurus gladius}
@@ -504,6 +584,7 @@ Animals
 				Giant Frogfish
 					{Antennarius commersoni}
 				Longlure Frogfish
+					{Antennarius multiocellatus}
 				Ocellated Frogfish
 					{Antennarius sp.}
 				Painted Frogfish
@@ -545,6 +626,7 @@ Animals
 				Pictus Blenny
 					{Ecsenius pictus}
 				Redlip Blenny
+					{Ophioblennius macclurei}
 				Seaweed Blenny
 					{Parablennius marmoreus}
 				Shorthead Fangblenny
@@ -593,6 +675,7 @@ Animals
 		Carp
 			Goldfish
 				{Carassius auratus}
+			Koi
 		Catfish
 			{Siluriformes}
 			Eeltail Catfishes
@@ -709,6 +792,10 @@ Animals
 				Strange Sole
 					{Aseraggodes xenicus}
 				Unknown sole
+		Gars
+			{Lepisosteiformes}
+			Florida Gar
+				{Lepisosteus platyrhincus}
 		Gobies
 			{Gobiiformes}
 			Ambanoro Shrimpgoby
@@ -1026,6 +1113,7 @@ Animals
 				Bluespot Damsel
 					{Chrysiptera oxycephala}
 				Brown Chromis
+					{Chromis multilineata}
 				Garibaldi
 				Goldbelly Damsel
 					{Pomacentrus auriventris}
@@ -1056,6 +1144,7 @@ Animals
 				Scissortail Sergeant
 					{Abudefduf sexfasciatus}
 				Sergeant Major
+					{Abudefduf saxatilis}
 				Spiny Chromis
 					{Acanthochromis polyacanthus}
 				Staghorn Damsel
@@ -1261,6 +1350,7 @@ Animals
 				Stoplight Parrotfish
 					{Sparisoma viride}
 				Striped Parrotfish
+					{Scarus iserti}
 				Yellowtail Parrotfish
 					{Sparisoma rubripinne}
 			Perch
@@ -1329,6 +1419,7 @@ Animals
 				Graysby
 					{Cephalopholis cruentatus}
 				Greater Soapfish
+					{Rypticus saponaceus}
 				Groupers
 					Barramundi
 						{Cromileptes altivelis}
@@ -1485,6 +1576,7 @@ Animals
 				Copper Sweeper
 					{Pempheris oualensis}
 				Glassy Sweeper
+					{Pempheris schomburgki}
 				Golden Sweeper
 					{Parapriacanthus ransonneti}
 				Vanikoro Sweeper
@@ -1524,6 +1616,7 @@ Animals
 					{Halichoeres maculipinna}
 				Corkwing Wrasse
 				Creole Wrasse
+					{Clepticus parrae}
 				Crescent Wrasse
 					{Thalassoma lunare}
 				Fivefinger Razorfish
@@ -1647,6 +1740,8 @@ Animals
 					{Diodon holocanthus}
 				Black-blotched Porcupinefish
 					{Diodon liturosus}
+				Bridled Burrfish
+					{Chilomycterus antennatus}
 				Orbicular Burrfish
 					{Cyclichthys orbicularis}
 				Porcupinefish
@@ -1957,6 +2052,13 @@ Animals
 		Arthropods
 			Arachnids
 				Scorpions
+				Spiders
+					Larinia directa
+					Longspinneret Spiders
+						{Hersiliidae}
+					Pamphobeteus sp Tarantula
+					Pink-toed Tarantula
+						{Avicularia avicularia}
 			Crustaceans
 				Amphipods
 					{Order Amphipoda}
@@ -1996,6 +2098,10 @@ Animals
 							{Parthenopidae}
 							Horrid Elbow Crab
 								{Daldorfia horrida}
+						Ghost & Fiddler Crabs
+							{Ocypodidae}
+							Tufted Ghost Crab
+								{Ocypode cursor}
 						Imitator Crabs
 							{Family Epialtidae}
 							Conical Spider Crab
@@ -2113,10 +2219,14 @@ Animals
 							Locust Slipper Lobsters
 							Painted Spiny Lobster
 								{Panulirus versicolor}
+							Sculpted Slipper Lobster
+								{Parribacus antarcticus}
 							Spanish Lobster
+								{Scyllarides aequinoctialis}
 						Spiny Lobsters
 							{Palinuridae}
 							Caribbean Spiny Lobster
+								{Panulirus argus}
 					Shrimp
 						Alpheus sp.
 						Banded Coral Shrimp
@@ -2178,8 +2288,6 @@ Animals
 								{Periclimenes sarasvati}
 							Sea Star Shrimp
 								{Periclimenes soror}
-							Sun Anemone Shrimp
-								{Periclimenes rathbunae}
 							Zanzibar Whip Coral Shrimp
 								{Dasycaris zanzibarica}
 						Dragon Shrimp
@@ -2195,7 +2303,15 @@ Animals
 							{Neostylodactylus litoralis}
 						Long-arm Cleaner Shrimp
 							{Periclimenes longicarpus}
-						Pederson Cleaner Shrimp
+						Palaemonid Shrimps
+							{Palaemonida}
+							Pederson Cleaner Shrimp
+							Spotted Cleaner Shrimp
+								{Periclimenes rathbunae}
+							Striped Bumblebee Shrimp
+								{Gnathophyllum americanum}
+							Sun Anemone Shrimp
+								{Periclimenes rathbunae}
 						Peppermint Shrimp
 						Prawns
 							{Penaeidae}
@@ -2216,10 +2332,6 @@ Animals
 								{Alpheus bellulus}
 						Spiny Tiger Shrimp
 							{Phyllognathia ceratophthalmus}
-						Spotted Cleaner Shrimp
-							{Periclimenes rathbunae}
-						Striped Bumblebee Shrimp
-							{Gnathophyllum americanum}
 						Unknown Night Shrimp
 						Urocaridella sp.
 						Velvet Shrimp
@@ -2272,8 +2384,18 @@ Animals
 						{Lysiosquilla maculata}
 				Unknown crustacean
 			Insects
+				Ants
 				Bees
 				Beetles
+				Butterflies and Moths
+					Acacia Butterfly
+					Glasswing Butterfly
+					Leaf Butterfly
+					Long-tail Swallowtail
+					Sphinx Moths
+						Tetrio Sphinx
+							{Pseudosphinx tetrio}
+					Yellow Swallowtail
 				Caterpillar
 				Damselflies
 				Dragonflies
@@ -2311,6 +2433,8 @@ Animals
 						{Calliactis polypus}
 					Hermit Crab Anemone (Philippines)
 						{Calliactis sp.}
+					Hidden Anemone
+						{Lebrunia coralligens}
 					Leathery Anemone
 						{Heteractis crispa}
 					Magnificent Anemone
@@ -3152,6 +3276,7 @@ Animals
 				Sabellastarte indica
 				Shy Feather Duster
 				Social Feather Duster
+					{Bispira brunnea}
 				Split-crown Feather Duster
 					{Anamobaea orstedii}
 				Variegated Feather Duster
@@ -3228,6 +3353,8 @@ Animals
 			Polycarpa aurata
 			Rhopalaea sp.
 	Livestock
+		Alpaca
+			{Lama pacos}
 		Camel
 		Cattle
 		Chicken
@@ -3236,6 +3363,8 @@ Animals
 		Geese
 		Goat
 		Horse
+		Llama
+			{Lama glama}
 		Sheep
 	Mammals
 		Afrotheria
@@ -3247,6 +3376,8 @@ Animals
 				{Heterohyrax brucei}
 		Bats
 			Leaf-nosed Bats
+			Proboscis Bat
+				{Rhynchonycteris naso}
 		Carnivores
 			Canines
 				Bat-eared Fox
@@ -3354,6 +3485,8 @@ Animals
 						{Tragelaphus strepsiceros}
 					Lesser Kudu
 			Deer
+				Gray Brocket
+					{Mazama gouazoubira}
 				Moose
 				White-tailed Deer
 					{Odocoileus virginianus}
@@ -3369,6 +3502,9 @@ Animals
 					{Giraffa giraffa}
 			Hippopotamus
 				{Hippopotamus amphibius}
+			Peccaries
+				Collared Peccary
+					{Dicotyles tajacu)}
 			Pigs
 				Giant Hog
 				Warthog
@@ -3378,6 +3514,8 @@ Animals
 			{Lagomorpha}
 			Hares & Rabbits
 				Eastern Cottontail
+				European Rabbit
+					{Oryctolagus cuniculus}
 				Scrub Hare
 		Marsupials
 			Opossum
@@ -3405,8 +3543,16 @@ Animals
 				Southern Lesser Galago
 					{Galago moholi}
 			New World Monkeys
+				Brown-mantled Tamarin
+					{Saguinus fuscicollis}
+				Colombian Red Howler
+					{Alouatta seniculus}
 				Common Marmoset
+				Common squirrel monkey
+					{Saimiri sciureus}
 				Howler Monkey
+				Tufted Capuchin
+					{Sapajus apella}
 			Old World Monkeys
 				{Cercopithecidae}
 				Cheek-pouch Monkeys
@@ -3426,6 +3572,12 @@ Animals
 					Central African Red Colobus
 					Guereza Colobus
 		Rodents
+			Central American Agouti
+				{Dasyprocta punctata}
+			Guinea Pig
+				{Cavia porcellus}
+			Long-tailed Chinchilla
+				{Chinchilla lanigera}
 			Mice and Rats
 				Grass Rat
 			Muskrat
@@ -3437,6 +3589,7 @@ Animals
 				Eastern Gray Squirrel
 				Golden-mantled Ground Squirrel
 				North American Red Squirrel
+					{Tamiasciurus hudsonicus}
 				Smith's Bush Squirrel
 					{Paraxerus cepapi}
 		Sea Cows
@@ -3453,9 +3606,17 @@ Animals
 	Reptiles
 		Crocodilians
 			American Crocodile
-			Caiman
+			Black Caiman
+			Dwarf Caiman
+				{Paleosuchus palpebrosus}
 			Nile Crocodile
 				{Crocodylus niloticus}
+			Spectacled caiman
+				{Caiman crocodilus}
+				{Common Caiman}
+				{White Caiman}
+			Yacare Caiman
+				{Caiman yacare}
 		Lizards
 			Agama Agama
 			Bonaire Whiptail Lizard
@@ -3478,6 +3639,8 @@ Animals
 				{Broadleysaurus major}
 			Silver Key Anole
 				{Anolis scriptus}
+			Spiny Whorltail Iguana
+				{Stenocercus crassicaudatus}
 			Spiny-tailed Iguana
 				{Ctenosaura oedirhina}
 			Turner's Thick-toed Gecko
@@ -3488,6 +3651,8 @@ Animals
 			Coral Snake (Micrurus sp.)
 			Eastern Hognose Snake
 				{Heterodon platirhinos}
+			Mussurana
+				{Clelia clelia}
 			Striped Belly Sand Snake
 				{Psammophis subtaeniatus}
 			Urutu Pit Viper
@@ -3495,6 +3660,8 @@ Animals
 			Common Map Turtle
 			Leopard Tortoise
 				{Stigmochelys pardalis}
+			Loggerhead Musk Turtle
+				{Sternotherus minor}
 			Painted Turtle
 			Red-eared Slider
 			Sea Turtles
@@ -3506,6 +3673,10 @@ Animals
 					{Caretta caretta}
 			Snapping Turtle
 				{Chelydra serpentina}
+			Yellow-spotted Amazon River Turtle
+				{Podocnemis unifilis}
+				{Yellow-headed Sideneck Turtle}
+Arbor
 Art
 	Ancient manuscript
 	Carpet
@@ -3530,6 +3701,7 @@ Body parts
 	Eye
 	Eyelash
 	Fruit
+	Leaf
 	Paw
 	Shell
 	Skeleton
@@ -3540,6 +3712,7 @@ Body parts
 	Tree trunk
 		{Trunk}
 	Tusk
+Brandon White
 Celestial body
 	Galaxy
 	Moon
@@ -3553,6 +3726,8 @@ Colors
 		Dark blue
 		Electric blue
 		Electric indigo
+	Shades of brown
+		Coffee
 	Shades of gray
 		Black
 		Gray
@@ -3982,6 +4157,7 @@ Land
 	Savanna
 	Shore
 		{Shoreline}
+	Valley
 	Vineyard
 	Volcano
 	Waterfront
@@ -4417,7 +4593,6 @@ People
 		Burt Holzman
 		Chris Jacobsen
 		Christine Buckley
-		Christine Webb
 		Connie Nichols
 		Cynthia
 		Cynthia Coutre
@@ -4708,9 +4883,17 @@ Plants
 		Sea Pearl
 	Cactus
 	Flowers
+		Orchids
+			{Orchidaceae}
+			Sobralia dichotoma
 		Tulip
-	Grasses
+	Grasses & Sedges & Cattails & Allies
+		Tillandsia fendleri
 	Mushrooms
+	Nightshades
+		{Solanaceae}
+		Angel's Trumpet
+			{Brugmansia arborea}
 	Trees and Bushes
 		Acacia tree
 		African Baobab
@@ -4718,6 +4901,8 @@ Plants
 		Coffee plant
 		Desert Rose
 			{Adenium obesum}
+		Olive Tree
+			{Olea europaea}
 		Palm tree
 		Red Mangrove
 			{Rhizophora mangle}
@@ -4748,6 +4933,7 @@ Profession
 	Vendor
 	Worker
 Sport
+	Baseball
 	Boating
 	Bocce ball
 	Bungee Jumping
@@ -4765,6 +4951,7 @@ Sport
 	Paragliding
 	Rafting
 	Rowing
+	Sailing
 	SCUBA Diving
 	Skiing
 	Swimming
@@ -4802,6 +4989,7 @@ Structures & architecture
 			{Stairway}
 		Steeple
 		Swimming pool
+		Terrace
 		Wall
 		Window
 	Place
@@ -4810,6 +4998,7 @@ Structures & architecture
 			{Graveyard}
 		Courtyard
 			{Patio}
+		Grave
 		Market
 		Mountain town
 		Park
@@ -4870,6 +5059,7 @@ Structures & architecture
 		Hut
 		Library
 		Lighthouse
+		Lodge
 		Mansion
 		Market house
 		Memorial
@@ -4925,6 +5115,7 @@ Structures & architecture
 		Industrial structure
 		Modern architecture
 		Monument
+		Religious structure
 		Residential structure
 		Ruins
 Technical Specs
