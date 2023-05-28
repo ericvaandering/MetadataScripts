@@ -32,8 +32,8 @@ args = sys.argv
 
 filenames = []
 # Patterns for RAW files and already re-stamped RAW files
-rawFile = re.compile(r'[ \w\-]+\.(cr2|crw|CR2|CRW|tif|TIF|DNG|orf|ORF|HEIC)')
-stampedRaw = re.compile(r'([0-9a-p]){8}\.(cr2|crw|CR2|CRW|tif|TIF|DNG|orf|ORF|HEIC)')
+rawFile = re.compile(r'[ \w\-]+\.(cr2|crw|CR2|CRW|tif|TIF|DNG|orf|ORF|HEIC|heic)')
+stampedRaw = re.compile(r'([0-9a-p]){8}\.(cr2|crw|CR2|CRW|tif|TIF|DNG|orf|ORF|HEIC|heic)')
 if options.jpeg:
     print ("Doing jpeg files instead")
     # continue
