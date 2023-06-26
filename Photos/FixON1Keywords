@@ -1,0 +1,104 @@
+#! /usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+"""
+Take keywords added by ON1 AI Keyworder and make sure they are compatible with Lightroom and stuck in a hierarchical
+place.
+"""
+
+import os
+import re
+import subprocess
+
+
+def hierarchicalKeywords(fileName):
+    keywordList = []
+    cmd = 'exiv2 -Pt -g Xmp.lr.hierarchicalSubject "%s"' % (fileName)
+    try:
+        status, output = subprocess.getstatusoutput(cmd)
+        for keyword in output.split(', '):
+            hierarchy = keyword.split('|')
+            keywordList.append(hierarchy)
+    except:
+        pass
+
+    return keywordList
+
+
+def flatKeywords(fileName):
+    keywordList = []
+    cmd = 'exiv2 -Pt -g Xmp.dc.subject "%s"' % (fileName)
+    try:
+        status, output = subprocess.getstatusoutput(cmd)
+        keywordList = output.split(', ')
+    except:
+        pass
+
+    return keywordList
+
+
+def exivAddHierarchicalKeyword(fileName, hierarchy=None, override=False):
+    """
+    Set (by setting one) the following EXIF tags:
+
+        Exif.Image.ImageDescription                  Ascii       8  caption
+        Iptc.Application2.Caption                    String      7  caption
+        Xmp.dc.description                           LangAlt     1  lang="x-default" caption
+    """
+
+    if not hierarchy:
+        return False
+
+    keyword = '|'.join(hierarchy)
+
+    try:
+        cmd = f'exiv2 -M"set Xmp.lr.hierarchicalSubject {keyword}" "{fileName}"'
+        status, output = subprocess.getstatusoutput(cmd)
+    except:
+        print("Could not set keyword for %s" % fileName)
+        return False
+
+    return True
+
+
+if __name__ == "__main__":
+
+    """
+    Take keywords added by ON1 AI Keyworder and make sure they are compatible with Lightroom and stuck in a hierarchical
+    place.
+    """
+
+    fileNames = []
+    totalCount = 0
+    metaFile = re.compile(r'[ \w\-]+\.(xmp)')
+
+    # Collect list of XMP files
+    for fileName in os.listdir('.'):
+        if metaFile.match(fileName):
+            fileNames.append(fileName)
+
+    for fileName in fileNames:
+        goodKeywords = hierarchicalKeywords(fileName)
+        checkKeywords = flatKeywords(fileName)
+
+        count = 0
+        for keyWord in checkKeywords:
+            if keyWord.startswith('ON1'):
+                continue
+            found = False
+            for testKeyword in goodKeywords:
+                if testKeyword[-1] == keyWord:
+                    found = True
+                else:
+                    pass
+
+            if found:
+                pass
+            else:
+                exivAddHierarchicalKeyword(fileName=fileName, hierarchy=['ON1 AI', keyWord])
+                count += 1
+        if count:
+            print(f'{fileName} added {count} hierarchical keywords')
+            totalCount += count
+
+    print(f'Added a total of {totalCount} hierarchical keywords')
