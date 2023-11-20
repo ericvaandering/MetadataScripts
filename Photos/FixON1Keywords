@@ -70,7 +70,7 @@ if __name__ == "__main__":
 
     fileNames = []
     totalCount = 0
-    metaFile = re.compile(r'[ \w\-]+\.(xmp)')
+    metaFile = re.compile(r'[ \w\-]+\.(xmp|XMP)')
 
     # Collect list of XMP files
     for fileName in os.listdir('.'):
