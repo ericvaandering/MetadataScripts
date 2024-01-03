@@ -1,0 +1,7237 @@
+Include On Export,Export Containing Keywords,Export Synonyms,Person Type Keyword,
+Y,Y,Y,N,Action
+Y,Y,Y,N,	Animal behavior
+Y,Y,Y,N,		Animal eggs
+Y,Y,N,N,		Bathing
+Y,Y,Y,N,		Drinking
+Y,Y,Y,N,		Feeding
+Y,Y,Y,N,		Flying
+Y,Y,Y,N,		Grooming
+Y,Y,Y,N,		Hatching eggs
+Y,Y,Y,N,		Hunting
+Y,Y,Y,N,		Kills
+Y,Y,Y,N,		Mating
+Y,Y,N,N,		Mother animal & child
+Y,Y,N,N,		Nursing
+Y,Y,Y,N,		Predation
+Y,Y,Y,N,		Running
+Y,Y,N,N,		Scratching
+Y,Y,Y,N,		Swimming
+Y,Y,Y,N,		With eggs
+Y,Y,Y,N,		With parasite
+Y,Y,Y,N,	Balancing
+Y,Y,Y,N,	Bathing
+Y,Y,Y,N,	Betting
+Y,Y,Y,N,	Birdwatching
+Y,Y,Y,N,	Blowing
+Y,Y,Y,N,	Burning
+Y,Y,Y,N,	Chopping
+Y,Y,Y,N,	Climbing
+Y,Y,Y,N,	Clothes making
+Y,Y,Y,N,	Creating art
+Y,Y,Y,N,		Drawing
+Y,Y,Y,N,		Glass blowing
+Y,Y,Y,N,		Sculpting
+Y,Y,Y,N,	Crying
+Y,Y,Y,N,	Cutting
+Y,Y,Y,N,	Dancing
+Y,Y,N,N,		Traditional dancing
+Y,Y,Y,N,	Demonstrating
+Y,Y,Y,N,	Drinking
+Y,Y,Y,N,	Driving
+Y,Y,Y,N,	Eating
+Y,Y,Y,N,	Farming
+Y,Y,Y,N,	Feeding animal
+Y,Y,Y,N,	Fighting
+Y,Y,N,N,	Food preparation
+Y,Y,Y,N,	Gambling
+Y,Y,Y,N,	Grabing
+Y,Y,Y,N,	Hammering
+Y,Y,Y,N,	Historical re-enactment
+Y,Y,Y,N,	Hitting
+Y,Y,Y,N,	Holding
+Y,Y,Y,N,	Hugging
+Y,Y,Y,N,	Jumping
+Y,Y,Y,N,	Kicking
+Y,Y,Y,N,	Kissing
+Y,Y,Y,N,	Laughing
+Y,Y,Y,N,	Lifting
+Y,Y,Y,N,	Listening
+Y,Y,Y,N,	Metalworking
+Y,Y,Y,N,	Mining
+Y,Y,Y,N,	Movie making
+Y,Y,Y,N,	Performing music
+Y,Y,Y,N,		Singing
+Y,Y,Y,N,	Photography
+Y,Y,Y,N,	Physics
+Y,Y,Y,N,	Playing
+Y,Y,Y,N,	Punching
+Y,Y,Y,N,	Raising
+Y,Y,Y,N,	Reading
+Y,Y,Y,N,	Riding
+Y,Y,Y,N,	Running
+Y,Y,Y,N,	Sawing
+Y,Y,Y,N,	Sewing
+Y,Y,Y,N,	Shaving
+Y,Y,Y,N,	Showering
+Y,Y,Y,N,	Sleeping
+Y,Y,Y,N,	Smiling
+Y,Y,Y,N,	Smoking
+Y,Y,Y,N,	Soldering
+Y,Y,Y,N,	Street performance
+Y,Y,Y,N,	Studying
+Y,Y,Y,N,	Travelling
+Y,Y,Y,N,	Typing
+Y,Y,Y,N,	Voting
+Y,Y,Y,N,	Waking up
+Y,Y,Y,N,	Walking
+Y,Y,Y,N,	Washing clothes
+Y,Y,Y,N,	Welding
+Y,Y,Y,N,	Working
+Y,Y,Y,N,	Writing
+Y,Y,Y,N,Age
+Y,Y,Y,N,	Adult
+Y,Y,Y,N,	Baby
+Y,Y,Y,N,	Baby animal
+Y,Y,Y,N,		Calf
+Y,Y,Y,N,		Chick
+Y,Y,Y,N,		Chrysalis
+Y,Y,Y,N,		Colt
+Y,Y,Y,N,		Duckling
+Y,Y,Y,N,		Elephant calf
+Y,Y,Y,N,		Filly
+Y,Y,Y,N,		Fingerling
+Y,Y,Y,N,		Foal
+Y,Y,Y,N,		Fry
+Y,Y,Y,N,		Infant monkey
+Y,Y,Y,N,		Joey
+Y,Y,Y,N,		Kitten
+Y,Y,Y,N,		Larva
+Y,Y,Y,N,		Nymph
+Y,Y,Y,N,		Piglet
+Y,Y,Y,N,		Puppy
+,,,,			{Pup}
+Y,Y,Y,N,		Squab
+Y,Y,Y,N,		Tadpole
+Y,Y,Y,N,	Boy
+Y,Y,Y,N,	Child
+,,,,		{Kid}
+Y,Y,Y,N,	Elder
+Y,Y,Y,N,	Girl
+Y,Y,Y,N,	Man
+Y,Y,Y,N,	Newborn
+Y,Y,Y,N,	Senior
+Y,Y,Y,N,	Teenager
+Y,Y,Y,N,	Toddler
+Y,Y,Y,N,	Woman
+Y,Y,Y,N,	Young
+Y,Y,Y,N,Animals
+Y,Y,Y,N,	Amphibians
+Y,Y,Y,N,		Frogs
+Y,Y,Y,N,			Bullfrog
+,,,,				{Rana catesbeiana}
+Y,Y,Y,N,			Common Coqui
+,,,,				{Eleutherodactylus coqui}
+Y,Y,Y,N,			Green and Black Poison Dart Frog
+,,,,				{Dendrobates auratus}
+Y,Y,Y,N,			Strawberry Poison-dart Frog
+,,,,				{Oophaga pumilio}
+Y,Y,Y,N,		Salamanders
+Y,Y,Y,N,			Red Salamander
+,,,,				{Pseudotriton ruber}
+Y,Y,N,N,		Toads
+Y,Y,Y,N,	Birds
+Y,Y,N,N,		Chachalacas & Guans & Curassows
+Y,Y,Y,N,			Crested Guan
+,,,,				{Penelope purpurascens}
+Y,Y,N,N,		Cranes & Coots & Rails
+,,,,			{Gruiformes}
+Y,Y,N,N,			Bustards
+Y,Y,Y,N,				Kori Bustard
+,,,,					{Ardeotis kori}
+Y,Y,Y,N,				Red-crested Korhaan
+,,,,					{Lophotus ruficrista}
+Y,Y,Y,N,				White-bellied Bustard
+,,,,					{Eupodotis senegalensis}
+Y,Y,N,N,			Cranes
+Y,Y,Y,N,				Grey Crowned Crane
+,,,,					{Balearica regulorum}
+Y,Y,Y,N,				Limpkin
+,,,,					{Aramus guarauna}
+Y,Y,Y,N,				Sandhill Crane
+,,,,					{Grus canadensis}
+Y,Y,Y,N,				Wattled Crane
+,,,,					{Bugeranus carunculatus}
+Y,Y,N,N,			Rails
+Y,Y,Y,N,				American Coot
+,,,,					{Fulica americana}
+Y,Y,Y,N,				Eurasian Coot
+,,,,					{Fulica atra}
+Y,Y,Y,N,				Gray-cowled Wood-Rail
+,,,,					{Aramides cajaneus}
+Y,Y,N,N,		Doves & Pigeons
+,,,,			{Columbiformes}
+Y,Y,Y,N,			Cape Turtle-dove
+,,,,				{Streptopelia capicola}
+Y,Y,Y,N,			Feral Rock Pigeon
+,,,,				{Columba livia}
+Y,Y,Y,N,			Mourning Dove
+,,,,				{Zenaida macroura}
+Y,Y,Y,N,			Plumbeous Pigeon
+,,,,				{Patagioenas plumbea}
+Y,Y,Y,N,		Ducks & Geese & Swans
+,,,,			{Anseriformes}
+Y,Y,Y,N,			Ducks
+Y,Y,Y,N,				Blue-winged Teal
+,,,,					{Anas discors}
+Y,Y,Y,N,				Bufflehead
+,,,,					{Bucephala albeola}
+Y,Y,Y,N,				Eurasian Teal
+,,,,					{Anas crecca}
+Y,Y,Y,N,				Knob-billed Duck
+,,,,					{Sarkidiornis melanotos}
+Y,Y,Y,N,				Mallard Duck
+,,,,					{Anas platyrhynchos}
+Y,Y,Y,N,				Muscovy Duck
+,,,,					{Cairina moschata}
+Y,Y,Y,N,				Northern Shoveler
+,,,,					{Anas clypeata}
+Y,Y,Y,N,				Red-billed Teal
+,,,,					{Anas erythrorhyncha}
+Y,Y,Y,N,				Red-crested Pochard
+,,,,					{Netta rufina}
+Y,Y,Y,N,				Ruddy Duck
+,,,,					{Oxyura jamaicensis}
+Y,Y,Y,N,				Tufted Duck
+,,,,					{Aythya fuligula}
+Y,Y,Y,N,				White-faced Whistling Duck
+,,,,					{Dendrocygna viduata}
+Y,Y,Y,N,				Wood Duck
+,,,,					{Aix sponsa}
+Y,Y,Y,N,			Geese
+Y,Y,Y,N,				Canada Goose
+,,,,					{Branta canadensis}
+Y,Y,Y,N,				Egyptian Goose
+,,,,					{Alopochen aegyptiacus}
+Y,Y,Y,N,				Spur-winged Goose
+,,,,					{Plectropterus gambensis}
+Y,Y,N,N,			Mergansers
+Y,Y,Y,N,				Common Merganser
+,,,,					{Mergus merganser}
+Y,Y,Y,N,				Red-breasted Merganser
+,,,,					{Mergus serrator}
+Y,Y,N,N,			Scaups
+Y,Y,Y,N,				Lesser Scaup
+,,,,					{Aythya affinis}
+Y,Y,N,N,			Swans
+Y,Y,Y,N,				Mute Swan
+,,,,					{Cygnus olor}
+Y,Y,N,N,		Falconiformes
+Y,Y,N,N,			Falcons
+Y,Y,Y,N,				American Kestrel
+,,,,					{Falco Sparverius}
+Y,Y,Y,N,				Peregrine Falcon
+,,,,					{Falco peregrinus}
+Y,Y,N,N,			New World Vultures
+Y,Y,Y,N,				Black Vulture
+,,,,					{Coragyps atratus}
+Y,Y,Y,N,				Turkey Vulture
+,,,,					{Cathartes aura}
+Y,Y,N,N,		Flamingos
+,,,,			{Phoenicopteridae}
+Y,Y,Y,N,			American Flamingo
+,,,,				{Phoenicopterus ruber}
+Y,Y,Y,N,			Greater Flamingo
+,,,,				{Phoenicopterus roseus}
+Y,Y,Y,N,			Lesser Flamingo
+,,,,				{Phoeniconaias minor}
+Y,Y,Y,N,		Flightless
+Y,Y,Y,N,			Common Ostrich
+,,,,				{Struthio camelus}
+Y,Y,Y,N,			Greater Rhea
+,,,,				{Rhea americana}
+Y,Y,Y,N,			Somali Ostrich
+,,,,				{Struthio molybdophanes}
+Y,Y,N,N,		Galliformes
+Y,Y,Y,N,			Domesticated Turkey
+,,,,				{Meleagris gallopavo}
+Y,Y,N,N,			Guineafowl
+,,,,				{Acryllium vulturinum}
+Y,Y,Y,N,				Helmeted Guineafowl
+,,,,					{Numida meleagris}
+Y,Y,Y,N,				Vulturine Guineafowl
+,,,,					{Acryllium vulturinum}
+Y,Y,N,N,			Quails
+Y,Y,Y,N,				Coqui Francolin
+,,,,					{Fracncolinus coqui}
+Y,Y,Y,N,				Crested Francolin
+,,,,					{Dendroperdix sephaena}
+Y,Y,Y,N,				Red-billed Spurfowl
+,,,,					{Pternistis adspersus}
+Y,Y,Y,N,				Swainson's Spurfowl
+,,,,					{Pternistis swainsonii}
+Y,Y,Y,N,			Wild Turkey
+,,,,				{Meleagris gallopavo}
+Y,Y,N,N,		Grebes
+Y,Y,Y,N,			Great Crested Grebe
+,,,,				{Podiceps cristatus}
+Y,Y,Y,N,			Little Grebe
+,,,,				{Tachybaptus ruficollis}
+Y,Y,Y,N,			Pied-Billed Grebe
+,,,,				{Podilymbus podiceps}
+Y,Y,N,N,		Hawks & Eagles & Vultures
+,,,,			{Accipitriformes}
+Y,Y,N,N,			Buzzards
+Y,Y,Y,N,				Augur Buzzard
+,,,,					{Buteo augur}
+Y,Y,Y,N,			Eagles
+Y,Y,Y,N,				African Fish Eagle
+,,,,					{Haliaeetus vocifer}
+Y,Y,Y,N,				African Hawk Eagle
+,,,,					{Aquila spilogaster}
+Y,Y,Y,N,				Bald Eagle
+,,,,					{Haliaeetus leucocephalus}
+Y,Y,Y,N,				Bateleur
+,,,,					{Terathopius ecaudatus}
+Y,Y,Y,N,				Brown Snake Eagle
+,,,,					{Circaetus cinereus}
+Y,Y,Y,N,				Martial Eagle
+,,,,					{Polemaetus bellicosus}
+Y,Y,Y,N,				Steppe Eagle
+,,,,					{Aquila nipalensis}
+Y,Y,Y,N,				Tawny Eagle
+,,,,					{Aquila rapax}
+Y,Y,Y,N,				Wahlberg's Eagle
+,,,,					{Hieraaetus wahlbergi}
+Y,Y,N,N,			Hawks
+Y,Y,Y,N,				African Goshawk (Black Morph)
+,,,,					{Accipiter tachiro}
+Y,Y,Y,N,				Black-collared Hawk
+,,,,					{Busarellus nigricollis}
+Y,Y,Y,N,				Common Black Hawk
+,,,,					{Buteogallus anthracinus}
+Y,Y,Y,N,				Cooper's Hawk
+Y,Y,Y,N,				Dark Chanting-Goshawk
+,,,,					{Melierax metabates}
+Y,Y,Y,N,				Pale Chanting Goshawk
+,,,,					{Melierax canorus}
+Y,Y,Y,N,				Red-tailed Hawk
+,,,,					{Buteo jamaicensis}
+Y,Y,N,N,			Kites
+Y,Y,Y,N,				Yellow-billed Kite
+,,,,					{Milvus parasitus}
+Y,Y,Y,N,			Osprey
+Y,Y,Y,N,			Secretary Bird
+,,,,				{Sagittarius serpentarius}
+Y,Y,Y,N,			Vultures
+Y,Y,Y,N,				African White-backed Vulture
+,,,,					{Gyps africanus}
+Y,Y,Y,N,				Hooded Vulture
+,,,,					{Necrosyrtes monachus}
+Y,Y,Y,N,				Lappet-faced Vulture
+,,,,					{Torgos tracheliotos}
+Y,Y,Y,N,				Rüppell's Vulture
+,,,,					{Gyps rueppellii}
+Y,Y,Y,N,				White-headed Vulture
+,,,,					{Trigonoceps occipitalis}
+Y,Y,Y,N,		Hoatzin
+Y,Y,N,N,		Hornbills and Hoopoes
+,,,,			{Bucerotiformes}
+Y,Y,Y,N,			African Hoopoe
+,,,,				{Uppupa africana}
+Y,Y,Y,N,			Bradfield's Hornbill
+,,,,				{Tockus bradfieldi}
+Y,Y,Y,N,			Red-billed Hornbill
+,,,,				{Tockus erythrorhynchus}
+Y,Y,Y,N,			Southern Ground Hornbill
+,,,,				{Bucorvus leadbeateri}
+Y,Y,Y,N,			Southern Yellow-billed Hornbill
+,,,,				{Tockus leucomelas}
+Y,Y,Y,N,			Von der Decken's Hornbill
+,,,,				{Tockus deckeni}
+Y,Y,Y,N,		Hummingbirds
+,,,,			{Trochilidae}
+Y,Y,Y,N,			Chestnut-breasted Coronet
+,,,,				{Boissonneaua matthewsii}
+Y,N,Y,N,			Ruby-throated Hummingbird
+,,,,				{Archilochus colubris}
+Y,Y,Y,N,		Kingfishers and relatives
+,,,,			{Coraciiformes}
+Y,Y,Y,N,			Bee-eaters
+Y,Y,Y,N,				Little Bee-eater
+,,,,					{Merops pusillus}
+Y,Y,Y,N,				Southern Carmine Bee-eater
+,,,,					{Merops nubicoides}
+Y,Y,Y,N,			Kingfishers
+Y,Y,Y,N,				Belted Kingfisher
+Y,Y,Y,N,				Grey-headed Kingfisher
+,,,,					{Halcyon leucocephala}
+Y,Y,Y,N,				Pied Kingfisher
+Y,Y,Y,N,			Lilac-breasted Roller
+,,,,				{Coracias caudatus}
+Y,Y,N,N,		Nightbirds
+,,,,			{Caprimulgiformes}
+Y,Y,N,N,			Potoos
+Y,Y,Y,N,				Northern Potoo
+Y,Y,Y,N,		Nightjars
+Y,Y,Y,N,			Ladder-tailed Nightjar
+,,,,				{Hydropsalis climacocerca}
+Y,Y,Y,N,			Square-tailed Nightjar
+,,,,				{Caprimulgus fossii}
+Y,Y,Y,N,		Owls
+,,,,			{Strigiformes}
+Y,Y,Y,N,			Barn Owl
+,,,,				{Tyto alba}
+Y,Y,Y,N,			Barred Owl
+,,,,				{Strix varia}
+Y,Y,Y,N,			Eastern Screech Owl
+,,,,				{Megascops asio}
+Y,Y,Y,N,			Great Horned Owl
+,,,,				{Bubo virgianus}
+Y,Y,Y,N,			Pearl-spotted Owlet
+,,,,				{Glaucidium perlatum}
+Y,Y,Y,N,			Verreaux's Eagle Owl
+Y,Y,N,N,		Parrots
+,,,,			{Psittaciformes}
+Y,Y,Y,N,			Blue-headed Parrot
+,,,,				{Pionus menstruus}
+Y,Y,Y,N,			Cockatiel
+,,,,				{Nymphicus hollandicus}
+Y,Y,Y,N,			Dusky-headed Parakeet
+,,,,				{Aratinga weddellii}
+Y,Y,Y,N,			Fischer's Lovebird
+,,,,				{Agapornis fischeri}
+Y,Y,N,N,			Macaws
+Y,Y,Y,N,				Blue-and-yellow Macaw
+,,,,					{Ara ararauna}
+Y,Y,Y,N,				Chestnut-fronted Macaw
+,,,,					{Ara severus}
+Y,Y,Y,N,				Hyacinth Macaw
+,,,,					{Anodorhynchus hyacinthinus}
+Y,Y,Y,N,				Red-and-green Macaw
+,,,,					{Ara chloropterus}
+Y,Y,Y,N,				Scarlet Macaw
+,,,,					{Ara macao}
+Y,Y,Y,N,			Mealy Parrot
+,,,,				{Amazona farinosa}
+Y,Y,Y,N,			Orange-cheeked Parrot
+,,,,				{Pyrilia barrabandi}
+Y,Y,Y,N,			White-eyed Parakeet
+,,,,				{Psittacara leucophthalmus}
+Y,Y,Y,N,			Yellow-crowned Parrot
+,,,,				{Amazona ochrocephala}
+Y,Y,Y,N,		Passeriformes
+Y,Y,N,N,			Bishops & Widowbirds
+Y,Y,Y,N,				Black Bishop
+,,,,					{Euplectes gierowii}
+Y,Y,N,N,			Blackbirds & Orioles & Medowlarks
+Y,Y,Y,N,				Baltimore Oriole
+Y,Y,Y,N,				Red-winged Blackbird
+Y,Y,N,N,			Chickadees
+Y,Y,Y,N,				Black-capped Chickadee
+Y,Y,N,N,			Crows & Jays & Nutcrackers
+,,,,				{Corvidae}
+Y,Y,Y,N,				Blue Jay
+,,,,					{Cyanocitta cristata}
+Y,Y,Y,N,				Clark's Nutcracker
+Y,Y,Y,N,				Violaceous Jay
+,,,,					{Cyanocorax violaceus}
+Y,Y,N,N,			Estrildid Finches
+Y,Y,Y,N,				Red-billed Firefinch
+,,,,					{Lagonostica senegala}
+Y,Y,N,N,			Finches
+Y,Y,Y,N,				American Goldfinch
+Y,Y,Y,N,				Purple Finch
+Y,Y,Y,N,			Fork-tailed Drongo
+,,,,				{Dicrurus adsimilis}
+Y,Y,N,N,			Kinglets
+Y,Y,Y,N,				Golden-crowned Kinglet
+Y,Y,Y,N,			New World Blackbirds
+,,,,				{Icteridae}
+Y,Y,Y,N,				Russet-backed Oropendola
+,,,,					{Psarocolius angustifrons}
+Y,Y,Y,N,			Northern Cardinal
+Y,Y,Y,N,			Oxpeckers
+Y,Y,Y,N,				Yellow-billed Oxpecker
+,,,,					{Buphagus africanus}
+Y,Y,N,N,			Shrikes
+Y,Y,Y,N,				Common Fiscal
+,,,,					{Lanius collaris}
+Y,Y,Y,N,				Crimson-breasted Shrike
+,,,,					{Laniarius atrococcineus}
+Y,Y,Y,N,				Grey-backed Fiscal
+,,,,					{Lanius excubitoroides}
+Y,Y,Y,N,				Magpie Shrike
+,,,,					{Urolestes melanoleucus}
+Y,Y,N,N,			Sparrows
+,,,,				{Passeridae}
+Y,Y,Y,N,				House Sparrow
+Y,Y,Y,N,				Yellow-throated Petronia
+,,,,					{Gymnoris superciliaris}
+Y,Y,N,N,			Starlings
+Y,Y,Y,N,				Common Starling
+,,,,					{Sturnus vulgaris}
+Y,Y,Y,N,				Meves's Starling
+,,,,					{Lamprotornis mevesii}
+Y,Y,Y,N,				Superb Starling
+,,,,					{Lamprotornis superbus}
+Y,Y,N,N,			Swallows
+Y,Y,Y,N,				Barn Swallow
+Y,Y,Y,N,				Tree Swallow
+Y,Y,Y,N,				Wire-tailed Swallow
+,,,,					{Hirundo smithii}
+Y,Y,Y,N,			Tanagers
+,,,,				{Thraupidae}
+Y,Y,Y,N,				Blue-gray Tanager
+,,,,					{Thraupis episcopus}
+Y,Y,Y,N,				Red-capped Cardinal
+,,,,					{Paroaria gularis}
+Y,Y,N,N,			Thrashers & Mockingbirds
+,,,,				{Mimidae}
+Y,Y,Y,N,				Brown Thrasher
+Y,Y,N,N,			Thrushes
+Y,Y,Y,N,				American Robin
+Y,Y,Y,N,				Eastern Bluebird
+Y,Y,Y,N,				Groundscraper Thrush
+,,,,					{Psophocichla litsitsirupa}
+Y,Y,N,N,			Tityras & Mourners & Allies
+,,,,				{Tityridae}
+Y,Y,Y,N,				Black-tailed Tityra
+,,,,					{Tityra cayana}
+Y,Y,Y,N,			Tufted Titmouse
+Y,Y,N,N,			Tyrant Flycatchers
+Y,Y,Y,N,				Eastern Phoebe
+Y,Y,N,N,			Wagtails
+Y,Y,Y,N,				African Pied Wagtail
+,,,,					{Motacilla aguimp}
+Y,Y,N,N,			Weavers
+Y,Y,Y,N,				Baglafecht Weaver
+,,,,					{Ploceus baglafecht}
+Y,Y,Y,N,				Golden-backed Weaver
+Y,Y,Y,N,				Red-billed Buffalo Weaver
+,,,,					{Bubalornis niger}
+Y,Y,Y,N,				Speke's Weaver
+,,,,					{Ploceus speki}
+Y,Y,Y,N,				White-headed Buffalo-Weaver
+,,,,					{Dinemellia dinemelli}
+Y,Y,Y,N,		Pelicaniformes
+Y,Y,N,N,			Boobies
+Y,Y,Y,N,				Red-footed Booby
+Y,Y,Y,N,			Cormorants
+Y,Y,Y,N,				Double-Crested Cormorant
+Y,Y,Y,N,				Long-tailed Cormorant
+Y,Y,Y,N,				Neotropic Cormorant
+,,,,					{Phalacrocorax brasilianus}
+Y,Y,Y,N,				Reed Cormorant
+,,,,					{Microcarbo africanus}
+Y,Y,Y,N,			Darters
+Y,Y,Y,N,				African Darter
+,,,,					{Anhinga rufa}
+Y,Y,Y,N,				Anhinga
+Y,Y,N,N,			Frigate Birds
+Y,Y,Y,N,				Magnificent Frigate Bird
+Y,Y,Y,N,			Herons
+Y,Y,Y,N,				Black-headed Heron
+,,,,					{Ardea melanocephala}
+Y,Y,Y,N,				Cattle Egret
+,,,,					{Bubulcus ibis}
+Y,Y,Y,N,				Cocoi Heron
+,,,,					{Ardea cocoi}
+Y,Y,Y,N,				Goliath Heron
+Y,Y,Y,N,				Great Blue Heron
+Y,Y,Y,N,				Great Egret
+,,,,					{Casmerodius albus}
+Y,Y,Y,N,				Green Heron
+Y,Y,Y,N,				Grey Heron
+,,,,					{Ardea cinerea}
+Y,Y,Y,N,				Little Egret
+,,,,					{Egretta garzetta}
+Y,Y,Y,N,				Night Heron
+Y,Y,Y,N,				Purple Heron
+,,,,					{Ardea pupurea}
+Y,Y,Y,N,				Reddish Egret
+Y,Y,Y,N,				Rufescent Tiger-Heron
+,,,,					{Tigrisoma lineatum}
+Y,Y,Y,N,				Slaty Egret
+,,,,					{Egretta vinaceigula}
+Y,Y,Y,N,				Snowy Egret
+,,,,					{Egretta thula}
+Y,Y,Y,N,				Squacco Heron
+,,,,					{Ardeola ralloides}
+Y,Y,Y,N,				Striated Heron
+,,,,					{Butorides striata}
+Y,Y,Y,N,				Western Great Egret
+,,,,					{Ardea alba}
+Y,Y,Y,N,			Ibises & Spoonbills
+,,,,				{Threskiornithidae}
+Y,Y,Y,N,				African Sacred Ibis
+,,,,					{Threskiornis aethiopicus}
+Y,Y,Y,N,				African Spoonbill
+,,,,					{Platalea alba}
+Y,Y,Y,N,				Glossy Ibis
+,,,,					{Plegadis falcinellus}
+Y,Y,Y,N,				Green Ibis
+,,,,					{Mesembrinibis cayennensis}
+Y,Y,Y,N,				Hadada Ibis
+,,,,					{Bostrychia hagedash}
+Y,Y,Y,N,				Ibis
+Y,Y,Y,N,				Roseate Spoonbill
+,,,,					{Platalea ajaja}
+Y,Y,N,N,			Pelicans
+Y,Y,Y,N,				American White Pelican
+Y,Y,Y,N,				Brown Pelican
+Y,Y,Y,N,				Great White Pelican
+,,,,					{Pelecanus onocrotalus}
+Y,Y,Y,N,				Pink-backed Pelican
+,,,,					{Pelecanus rufescens}
+Y,Y,N,N,		Sandgrouse
+Y,Y,Y,N,			Burchell's Sandgrouse
+,,,,				{Pterocles burchelli}
+Y,Y,Y,N,		Shorebirds and relatives
+,,,,			{Order Charadriiformes}
+Y,Y,Y,N,			African Skimmer
+,,,,				{Rynchops flavirostris}
+Y,Y,Y,N,			Avocets and Stilts
+,,,,				{Recurvirostridae}
+Y,Y,Y,N,				Black-winged Stilt
+,,,,					{Himantopus himantopus}
+Y,Y,Y,N,			Gulls
+Y,Y,Y,N,				Black Skimmer
+,,,,					{Rynchops niger}
+Y,Y,Y,N,				Black-headed Gull
+,,,,					{Chroicocephalus ridibundus}
+Y,Y,Y,N,				Grey-headed Gull
+,,,,					{Chroicophalus cirrocephalus}
+Y,Y,Y,N,				Herring Gull
+,,,,					{Larus argentatus}
+Y,Y,Y,N,				Laughing Gull
+,,,,					{Larus atricilla}
+Y,Y,Y,N,				Lesser Black-backed Gull
+Y,Y,Y,N,				Ring-billed Gull
+,,,,					{Larus delawarensis}
+Y,Y,N,N,			Jacanas
+,,,,				{Jacanidae}
+Y,Y,Y,N,				African Jacana
+,,,,					{Actophilornis africanus}
+Y,Y,Y,N,				Northern Jacana
+Y,Y,Y,N,			Lapwings and Plovers
+,,,,				{Family Charadriidae}
+Y,Y,Y,N,				Blacksmith Lapwing
+,,,,					{Vanellus armatus}
+Y,Y,Y,N,				Crowned Lapwing
+,,,,					{Vanellus coronatus}
+Y,Y,Y,N,				Killdeer
+Y,Y,Y,N,				Long-toed Lapwing
+,,,,					{Vanellus crassirostris}
+Y,Y,Y,N,			Large-billed Tern
+,,,,				{Phaetusa simplex}
+Y,Y,Y,N,		Storks and relatives
+,,,,			{Ciconiiformes}
+Y,Y,Y,N,			Storks
+Y,Y,Y,N,				African Openbill
+,,,,					{Anastomus lamelligerus}
+Y,Y,Y,N,				Hamerkop
+,,,,					{Scopus umbretta}
+Y,Y,Y,N,				Jabiru Stork
+Y,Y,Y,N,				Marabou Stork
+,,,,					{Leptoptilos crumeniferus}
+Y,Y,Y,N,				Saddle Billed Stork
+Y,Y,Y,N,				Woolly-necked Stork
+Y,Y,Y,N,				Yellow-billed Stork
+,,,,					{Mycteria ibis}
+Y,Y,N,N,		Turacos
+,,,,			{Musophagiformes}
+Y,Y,Y,N,			Grey Go-away-bird
+,,,,				{Corythaixoides concolor}
+Y,Y,Y,N,			White-bellied Go-Away Bird
+Y,Y,N,N,		Woodpeckers and relatives
+,,,,			{Piciformes}
+Y,Y,N,N,			Barbets
+Y,Y,Y,N,				D'Arnaud's Barbet
+,,,,					{Trachyphonus darnaudii}
+Y,Y,N,N,			Toucans
+Y,Y,Y,N,				Keel-billed Toucan
+Y,Y,Y,N,				White-throated Toucan
+,,,,					{Ramphastos tucanus}
+Y,Y,N,N,			Woodpeckers
+Y,Y,Y,N,				Downy Woodpecker
+Y,Y,Y,N,				Red-bellied Woodpecker
+,,,,					{Melanerpes carolinus}
+Y,Y,Y,N,	Fish
+Y,Y,Y,N,		American Paddlefish
+,,,,			{Psephurus gladius}
+Y,Y,N,N,		Anglerfishes
+,,,,			{Lophiiformes}
+Y,Y,N,N,			Batfishes
+Y,Y,Y,N,				Polka-dot Batfish
+,,,,					{Ogcocephalus radiatus}
+Y,Y,Y,N,				Shortnose Batfish
+,,,,					{Ogcocephalus nasutus}
+Y,Y,N,N,			Frogfishes
+Y,Y,Y,N,				Freckled Frogfish
+,,,,					{Scarlet Frogfish}
+,,,,					{Antennatus coccineus}
+Y,Y,Y,N,				Giant Frogfish
+,,,,					{Antennarius commersoni}
+Y,Y,Y,N,				Longlure Frogfish
+,,,,					{Antennarius multiocellatus}
+Y,Y,Y,N,				Ocellated Frogfish
+,,,,					{Antennarius sp.}
+Y,Y,Y,N,				Painted Frogfish
+,,,,					{Antennarius pictus}
+Y,Y,Y,N,				Sargassumfish
+,,,,					{Histrio histrio}
+Y,Y,Y,N,				Spotfin Frogfish
+,,,,					{Antennarius nummifer}
+Y,Y,Y,N,				Striated Frogfish
+,,,,					{Antennarius striatus}
+,,,,					{Hairy Frogfish}
+Y,Y,Y,N,				Unknown frogfish
+Y,Y,Y,N,				Warty Frogfish
+,,,,					{Antennarius maculatus}
+Y,Y,Y,N,		Baitfish
+Y,Y,N,N,		Blennies
+,,,,			{Blenniiformes}
+Y,Y,N,N,			Combtooth Blennies
+,,,,				{Blennidae}
+Y,Y,Y,N,				Aron's Blenny
+,,,,					{Ecsenius aroni}
+Y,Y,Y,N,				Blackline Fangblenny
+,,,,					{Meiacanthus nigrolineatus}
+Y,Y,Y,N,				Bluestriped Fangblenny
+,,,,					{Plagiotremus rhinorhynchos}
+Y,Y,Y,N,				Chestnut Blenny
+,,,,					{Cirripectes castaneus}
+Y,Y,Y,N,				Dentex Blenny
+,,,,					{Ecsenius dentex}
+Y,Y,Y,N,				False Cleanerfish
+,,,,					{Aspidontus taeniatus}
+Y,Y,Y,N,				Jeweled Blenny
+,,,,					{Salarias fasciatus}
+Y,Y,Y,N,				Midas Blenny
+,,,,					{Ecsenius midas}
+Y,Y,Y,N,				Nalolo Blenny
+,,,,					{Ecsenius nalolo}
+Y,Y,Y,N,				Piano Fangblenny
+,,,,					{Plagiotremus tapeinosoma}
+Y,Y,Y,N,				Pictus Blenny
+,,,,					{Ecsenius pictus}
+Y,Y,Y,N,				Redlip Blenny
+,,,,					{Ophioblennius macclurei}
+Y,Y,Y,N,				Seaweed Blenny
+,,,,					{Parablennius marmoreus}
+Y,Y,Y,N,				Shorthead Fangblenny
+,,,,					{Petroscirtes breviceps}
+Y,Y,Y,N,				Snake Blenny
+,,,,					{Xiphasia setifer}
+,,,,					{Hairtail blenny}
+Y,Y,Y,N,				Striped Fangblenny
+,,,,					{Meiacanthus grammistes}
+Y,Y,Y,N,				Tentacled Blenny
+,,,,					{Parablennius tentacularis}
+Y,Y,Y,N,				Twinspot Blenny
+,,,,					{Ecsenius bimaculatus}
+Y,Y,Y,N,				Yellowtail Fangblenny
+,,,,					{Meiacanthus atrodorsalis}
+Y,Y,Y,N,			Scaly Blennies
+,,,,				{Labrisomidae}
+Y,Y,Y,N,				Hairy Blenny
+,,,,					{Labrisomus nuchipinnis}
+Y,Y,Y,N,				Hairy Blenny (complex)
+,,,,					{Labrisomus spp.}
+Y,Y,Y,N,				Masquerader Hairy Blenny
+,,,,					{Labrisomus conditus}
+Y,Y,Y,N,				Saddled Blenny
+,,,,					{Malacoctenus triangulatus}
+Y,Y,N,N,			Triplefins
+,,,,				{Tripterygiidae}
+Y,Y,Y,N,				Black and Red Triplefin
+,,,,					{Enneapterygius similis}
+Y,Y,Y,N,				Roughhead Triplefin
+Y,Y,Y,N,				Striped Triplefin
+,,,,					{Helcogramma striatum}
+Y,Y,Y,N,			Tube Blennies
+,,,,				{Chaenopsidae}
+Y,Y,Y,N,				Darkheaded Blenny
+,,,,					{Emblemariopsis sp.}
+Y,Y,Y,N,				Sailfin Blenny
+Y,Y,Y,N,				Secretary Blenny
+,,,,					{Acanthemblemaria maria}
+Y,Y,Y,N,				Spinyhead Blenny
+,,,,					{Acanthemblemaria spinosa}
+Y,Y,Y,N,				Yellowface Pikeblenny
+,,,,					{Chaenopsis limbaughi}
+Y,Y,Y,N,			Unknown blenny
+Y,Y,Y,N,		Bonefishes
+Y,Y,Y,N,			Bonefish
+,,,,				{Albula vulpes}
+Y,Y,N,N,		Carp
+Y,Y,Y,N,			Goldfish
+,,,,				{Carassius auratus}
+Y,Y,Y,N,			Koi
+Y,Y,N,N,		Catfish
+,,,,			{Siluriformes}
+Y,Y,Y,N,			Eeltail Catfishes
+Y,Y,Y,N,				Striped Eel Catfish
+,,,,					{Plotosus lineatus}
+Y,Y,N,N,		Cichliformes
+,,,,			{Cichliformes}
+Y,Y,N,N,			Convict Blennies
+,,,,				{Pholidichthyidae}
+Y,Y,Y,N,				Convict Fish
+,,,,					{Pholidichthys leucotaenia}
+,,,,					{Engineer Goby}
+Y,Y,N,N,		Clingfishes
+,,,,			{Gobiesociformes}
+Y,Y,Y,N,			Crinoid Clingfish
+,,,,				{Discotrema monogrammum}
+Y,Y,Y,N,			Red Clingfish
+Y,Y,N,N,		Cods
+,,,,			{Gadiformes}
+Y,Y,Y,N,			Burbot
+,,,,				{Lota lota}
+Y,Y,Y,N,		Eels & Morays
+,,,,			{Anguilliformes}
+Y,Y,Y,N,			Conger Eels
+Y,Y,Y,N,				Bigeye Conger
+,,,,					{Ariosoma anagoides}
+Y,Y,N,N,				Garden Eels
+,,,,					{Heterocongrinae}
+Y,Y,Y,N,					Banded Garden Eel
+,,,,						{Heteroconger polyzona}
+Y,Y,Y,N,					Barnes Garden Eel
+,,,,						{Gorgasia barnesi}
+Y,Y,Y,N,					Brown Garden Eel
+,,,,						{Heteroconger longissimus}
+Y,Y,Y,N,					Many-toothed Garden Eel
+,,,,						{Heteroconger perissodon}
+Y,Y,Y,N,					Red Sea Garden Eel
+,,,,						{Gorgasia sillneri}
+Y,Y,Y,N,					Spaghetti Garden Eel
+,,,,						{Gorgasia maculata}
+Y,Y,Y,N,					Spotted Garden Eel
+,,,,						{Heteroconger hassi}
+Y,Y,Y,N,					Taylor's Garden Eel
+,,,,						{Heteroconger taylori}
+Y,Y,Y,N,				Manytooth Conger
+Y,Y,Y,N,			Moray Eels
+Y,Y,Y,N,				Blackspotted Moray
+,,,,					{Gymnothorax favagineus}
+Y,Y,Y,N,				Chain Moray
+,,,,					{Echidna catenata}
+Y,Y,Y,N,				Fimbriated Moray
+,,,,					{Gymnothorax fimbriatus}
+Y,Y,Y,N,				Giant Moray
+,,,,					{Gymnothorax javanicus}
+Y,Y,Y,N,				Goldentail Moray
+,,,,					{Gymnothorax miliaris}
+Y,Y,Y,N,				Green Moray Eel
+,,,,					{Gymnothorax funebris}
+Y,Y,Y,N,				Indian Mud Moray
+,,,,					{Gymnothorax tile}
+Y,Y,Y,N,				Peppered Moray
+,,,,					{Gymnothorax pictus}
+Y,Y,Y,N,				Ribbon Eel
+,,,,					{Rhinomuraena quaesita}
+Y,Y,Y,N,				Snowflake Moray
+,,,,					{Echidna nebulosa}
+Y,Y,Y,N,				Spotted Moray Eel
+,,,,					{Gymnothorax moringa}
+Y,Y,Y,N,				Undulated Moray
+,,,,					{Gymnothorax undulatus}
+Y,Y,Y,N,				White-eyed Moray
+,,,,					{Gymnothorax thyrsoideus}
+Y,Y,Y,N,				White-margined Moray
+,,,,					{Gymnothorax albimarginatus}
+Y,Y,Y,N,				Whitemouth Moray
+,,,,					{Gymnothorax meleagris}
+Y,Y,Y,N,				Yellowmargin Moray
+,,,,					{Gymnothorax flavimarginatus}
+Y,Y,Y,N,				Yellowmouth Moray
+,,,,					{Gymnothorax nudivomer}
+Y,Y,Y,N,			Snake Eels
+Y,Y,Y,N,				Black-finned Snake Eel
+,,,,					{Ophichthus melanochir}
+Y,Y,Y,N,				Blacksaddle Snake Eel
+,,,,					{Ophichtus cephalozona}
+Y,Y,Y,N,				Crocodile Snake Eel
+,,,,					{Brachysomophis crocodilinus}
+Y,Y,Y,N,				Marbled Snake Eel
+,,,,					{Callechelys marmorata}
+Y,Y,Y,N,				Napoleon Snake Eel
+,,,,					{Ophichtus bonaparti}
+Y,Y,Y,N,				Sharpsnout Snake Eel
+,,,,					{Apterichtus klazingai}
+Y,Y,Y,N,				Sharptail Eel
+,,,,					{Myrichthys breviceps}
+Y,Y,Y,N,				Spotted Snake Eel
+Y,Y,Y,N,				Spotted Spoon-nose Eel
+Y,Y,Y,N,				Stargazer Snake Eel
+,,,,					{Brachysomophis cirrocheilos}
+Y,Y,Y,N,		Flatfishes
+,,,,			{Pleuronectiformes}
+Y,Y,N,N,			Lefteye Flounders
+,,,,				{Bothidae}
+Y,Y,Y,N,				Angler Flounder
+,,,,					{Asterorhombus intermedius}
+Y,Y,Y,N,				Eyed Flounder
+,,,,					{Bothus ocellatus}
+Y,Y,Y,N,				Leopard Flounder
+,,,,					{Bothus pantherinus}
+,,,,					{Panther Flounder}
+Y,Y,Y,N,				Peacock Flounder
+,,,,					{Bothus lunatus}
+Y,Y,Y,N,				Peacock Flounder (Pacific)
+,,,,					{Bothus mancus}
+Y,Y,Y,N,				Spiny Flounder
+,,,,					{Engyophrys senta}
+Y,Y,Y,N,				Wide-eyed Flounder
+,,,,					{Bothus podas}
+Y,Y,Y,N,			Sand Flounders
+,,,,				{Paralichthyidae}
+Y,Y,Y,N,				Dusky Flounder
+,,,,					{Syacium papillosum}
+Y,Y,N,N,			Soles
+,,,,				{Soleidae}
+Y,Y,Y,N,				Blotched Sole
+,,,,					{Brachirus marmoratus}
+Y,Y,Y,N,				Carpet Sole
+,,,,					{Liachirus melanospilos}
+Y,Y,Y,N,				Moses Sole
+,,,,					{Pardarchirus marmoratus}
+Y,Y,Y,N,				Strange Sole
+,,,,					{Aseraggodes xenicus}
+Y,Y,Y,N,				Unknown sole
+Y,Y,Y,N,				White Sole
+,,,,					{Aseraggodes albidus}
+Y,Y,N,N,		Gars
+,,,,			{Lepisosteiformes}
+Y,Y,Y,N,			Florida Gar
+,,,,				{Lepisosteus platyrhincus}
+Y,Y,N,N,		Gobies
+,,,,			{Gobiiformes}
+Y,Y,Y,N,			Ambanoro Shrimpgoby
+,,,,				{Vanderhorstia ambanoro}
+Y,Y,Y,N,			Banded Goby
+,,,,				{Amblygobius phalaena}
+Y,Y,Y,N,			Banded Shrimpgoby
+,,,,				{Cryptocentrus cinctus}
+Y,Y,Y,N,			Barred Shrimpgoby
+,,,,				{Cryptocentrus fasciatus}
+Y,Y,Y,N,			Bay Goby
+,,,,				{Lepidogobius lepidus}
+Y,Y,Y,N,			Blackeye Goby
+,,,,				{Rhinogobiops nicholsii}
+Y,Y,Y,N,			Blotched Sandgoby
+,,,,				{Fusigobius inframaculatus}
+Y,Y,Y,N,			Blue-speckled Shrimpgoby
+,,,,				{Cryptocentrus caeruleopunctatus}
+Y,Y,Y,N,			Bluedot Goby
+,,,,				{Asterropteryx ensiferus}
+Y,Y,Y,N,			Bluestreak Goby
+,,,,				{Valenciennea strigata}
+Y,Y,Y,N,			Bridled Goby
+,,,,				{Coryphopterus glaucofraenum}
+Y,Y,Y,N,			Broad-banded Shrimpgoby
+,,,,				{Amblyeleotris periophthalma}
+Y,Y,Y,N,			Candycane Pygmygoby
+,,,,				{Trimma cana}
+Y,Y,Y,N,			Centrescale Goby
+,,,,				{Callogobius centrolepis}
+Y,Y,Y,N,			Common Ghostgoby
+,,,,				{Pleurosicya mossambica}
+Y,Y,Y,N,			Crosshatch Goby
+,,,,				{Amblygobius decussatus}
+Y,Y,Y,N,			Decorated Sandgoby
+,,,,				{Istigobius decoratus}
+Y,Y,Y,N,			Flagfin Shrimpgoby
+,,,,				{Mahidolia mystacina}
+Y,Y,Y,N,			Flagtail Shrimpgoby
+,,,,				{Amblyeleotris yanoi}
+Y,Y,Y,N,			Goldspot Goby
+Y,Y,Y,N,			Gorgeous Shrimpgoby
+,,,,				{Amblyeleotris wheeleri}
+Y,Y,Y,N,			Linesnout Goby
+,,,,				{Elacatinus lori}
+Y,Y,Y,N,			Magnificent Shrimpgoby
+,,,,				{Tomiyamichthys emilyae}
+Y,Y,Y,N,			Majestic Shrimpgoby
+,,,,				{Vanderhorstia nobilis}
+Y,Y,Y,N,			Neon Goby
+,,,,				{Gobiosoma oceanops}
+Y,Y,Y,N,			Orange-dashed Goby
+,,,,				{Valenciennea puellaris}
+Y,Y,Y,N,			Orangespotted Goby
+,,,,				{Istigobius rigilius}
+Y,Y,Y,N,			Ornate Goby
+,,,,				{Lubricogobius exiguus}
+,,,,				{Yellow Pygmy Goby}
+Y,Y,Y,N,			Peppermint Goby
+,,,,				{Coryphopterus lipernes}
+Y,Y,Y,N,			Red-margin Shrimpgoby
+,,,,				{Amblyeleotris rubrimarginatus}
+Y,Y,Y,N,			Redeye Goby
+Y,Y,Y,N,			Round Goby (FW)
+,,,,				{Neogobius melanostomus}
+Y,Y,Y,N,			Seychelles Shrimpgoby
+,,,,				{Ctenogobiops maculosus}
+,,,,				{Red Sea Shrimpgoby}
+Y,Y,Y,N,			Sharknose Goby
+,,,,				{Gobiosoma evelynae}
+Y,Y,Y,N,			Signal Goby
+,,,,				{Signigobius biocellatus}
+Y,Y,Y,N,			Sixspot Goby
+,,,,				{Valenciennea sexguttata}
+Y,Y,Y,N,			Slantbar Shrimpgoby
+,,,,				{Amblyeleotris diagonalis}
+Y,Y,Y,N,			Soft Coral Ghostgoby
+,,,,				{Pleurosicya boldinghi}
+Y,Y,Y,N,			Spangled Shrimpgoby
+,,,,				{Vanderhorstia dorsomacula}
+Y,Y,Y,N,			Sphynx Goby
+,,,,				{Amblygobius sphynx}
+Y,Y,Y,N,			Spotted Dwarfgoby
+,,,,				{Eviota guttata}
+Y,Y,Y,N,			Spotted Shrimpgoby
+,,,,				{Amblyeleotris guttata}
+Y,Y,Y,N,			Steinitz' Shrimpgoby
+,,,,				{Amblyeleotris steinitzi}
+Y,Y,Y,N,			Tiger Goby
+,,,,				{Tigrigobius macrodon}
+Y,Y,Y,N,			Unknown goby
+Y,Y,Y,N,			Unknown shrimpgoby
+Y,Y,Y,N,			Wire Coral Goby
+,,,,				{Bryaninops yongei}
+Y,Y,Y,N,			Yellownose Goby
+Y,Y,Y,N,			Yellownose Shrimpgoby
+,,,,				{Stonogobiops xanthorhinica}
+Y,Y,N,N,		Grinners
+,,,,			{Aulopiformes}
+Y,Y,Y,N,			Lizardfishes
+Y,Y,Y,N,				Clearfin Lizardfish
+Y,Y,Y,N,				Goldbar Sand Diver
+,,,,					{Trichonotus halstead}
+Y,Y,Y,N,				Red Lizardfish
+,,,,					{Synodus synodus}
+Y,Y,Y,N,				Red Sea Sand Diver
+,,,,					{Trichonotus nikei}
+Y,Y,Y,N,				Reef Lizardfish
+,,,,					{Synodus variegatus}
+Y,Y,Y,N,				Sand Diver
+,,,,					{Synodus intermedius}
+Y,Y,Y,N,				Slender Lizardfish
+,,,,					{Saurida gracilis}
+Y,Y,Y,N,				Spotted Sand Diver
+,,,,					{Trichonotus setiger}
+Y,Y,Y,N,				Twospot Lizardfish
+,,,,					{Synodus binotatus}
+Y,Y,Y,N,				Unknown lizardfish
+Y,Y,Y,N,		Herrings and Sardines
+,,,,			{Family Clupeidae}
+Y,Y,Y,N,		Milkfish
+,,,,			{Gonorynchiformes}
+Y,Y,N,N,		Mullets
+,,,,			{Mugiliformes}
+Y,Y,Y,N,			Fringelip Mullet
+,,,,				{Crenimugil crenilabis}
+Y,Y,Y,N,			Thick-lipped Grey Mullet
+Y,Y,Y,N,		Perciformes
+Y,Y,Y,N,			Angelfishes
+Y,Y,Y,N,				Bicolor Angelfish
+,,,,					{Centropyge bicolor}
+Y,Y,Y,N,				Blackstriped Angelfish
+,,,,					{Genicanthus lamarck}
+Y,Y,Y,N,				Blue Angelfish
+,,,,					{Holacanthus bermudensis}
+Y,Y,Y,N,				Emperor Angelfish
+Y,Y,Y,N,				French Angelfish
+,,,,					{Pomacanthus paru}
+Y,Y,Y,N,				Gray Angelfish
+Y,Y,Y,N,				Queen Angelfish
+Y,Y,Y,N,				Regal Angelfish
+Y,Y,Y,N,				Rock Beauty
+Y,Y,Y,N,				Six-banded Angelfish
+,,,,					{Pomacanthus sexstriatus}
+Y,Y,Y,N,				Three-spot Angelfish
+,,,,					{Apolemichthys trimaculatus}
+Y,Y,Y,N,				Vermiculated Angelfish
+,,,,					{Chaetodontoplus mesoleucus}
+Y,Y,Y,N,				Yellow-mask Angelfish
+,,,,					{Pomacanthus xanthometopon}
+Y,Y,Y,N,				Yellowbar Angelfish
+Y,Y,Y,N,				Zebra Angelfish
+,,,,					{Genicanthus caudovittatus}
+Y,Y,N,N,			Barracudas
+Y,Y,Y,N,				Blackfin Barracuda
+Y,Y,Y,N,				Great Barracuda
+Y,Y,Y,N,				Southern Sennet
+,,,,					{Sphyraena picudilla}
+Y,Y,Y,N,				Yellow Barracuda
+Y,Y,N,N,			Basslets
+Y,Y,Y,N,				Blackcap Basslet
+,,,,					{Gramma melacara}
+Y,Y,Y,N,				Fairy Basslet
+,,,,					{Gramma loreto}
+Y,Y,Y,N,			Bermuda (or Yellow) Chub
+,,,,				{Kyphosus sectatrix}
+,,,,				{Kyphosus incisor}
+Y,Y,N,N,			Bigeyes
+Y,Y,Y,N,				Crescent-tail Bigeye
+,,,,					{Priacanthus hamrur}
+Y,Y,Y,N,				Glasseye Snapper
+,,,,					{Heteropriacanthus cruentatus}
+Y,Y,N,N,			Butterflyfishes
+,,,,				{Chaetodontidae}
+Y,Y,Y,N,				Banded Butterflyfish
+,,,,					{Chaetodon striatus}
+Y,Y,Y,N,				Black-backed Butterflyfish
+,,,,					{Chaetodon melannotus}
+Y,Y,Y,N,				Blacklip Butterflyfish
+,,,,					{Chaetodon kleinii}
+Y,Y,Y,N,				Chevron Butterflyfish
+,,,,					{Chaetodon trifascialis}
+Y,Y,Y,N,				Crosshatch Butterflyfish
+,,,,					{Chaetodon xanthurus}
+Y,Y,Y,N,				Crown Butterflyfish
+,,,,					{Chaetodon paucifasciatus}
+Y,Y,Y,N,				Eastern Triangular Butterflyfish
+,,,,					{Chaetodon baronessa}
+Y,Y,Y,N,				Eight-banded Butterflyfish
+,,,,					{Chaetodon octofsciatus}
+Y,Y,Y,N,				Exquisite Butterflyfish
+,,,,					{Chaetodon austriacus}
+Y,Y,Y,N,				Foureye Butterflyfish
+,,,,					{Chaetodon capistratus}
+Y,Y,Y,N,				Humphead Bannerfish
+,,,,					{Heniochus varius}
+Y,Y,Y,N,				Latticed Butterflyfish
+,,,,					{Chaetodon rafflesi}
+Y,Y,Y,N,				Longfin Bannerfish
+,,,,					{Heniochus acuminatus}
+Y,Y,Y,N,				Longnose Butterflyfish
+,,,,					{Forcipiger flavissimus}
+Y,Y,Y,N,				Longsnout Butterflyfish
+Y,Y,Y,N,				Masked Butteryflyfish
+,,,,					{Chaetodon semilarvatus}
+Y,Y,Y,N,				Orange-banded Coralfish
+,,,,					{Coradion chrysozonus}
+Y,Y,Y,N,				Ornate Butterflyfish
+,,,,					{Chaetodon ornatissimus}
+Y,Y,Y,N,				Oval-spot Butterflyfish
+,,,,					{Chaetodon speculum}
+Y,Y,Y,N,				Panda Butterflyfish
+,,,,					{Chaetodon adiergastos}
+Y,Y,Y,N,				Pennant Bannerfish
+,,,,					{Heniochus chrysostomus}
+Y,Y,Y,N,				Pyramid Butterflyfish
+,,,,					{Hemitaurichthys polylepis}
+Y,Y,Y,N,				Raccoon Butterflyfish
+,,,,					{Chaetodon lunula}
+Y,Y,Y,N,				Red Sea Bannerfish
+,,,,					{Heniochus intermedius}
+Y,Y,Y,N,				Red Sea Raccoon Butterflyfish
+Y,Y,Y,N,				Redfin Butterflyfish
+,,,,					{Chaetodon lunulatus}
+Y,Y,Y,N,				Spot-banded Butterflyfish
+,,,,					{Chaetodon punctatofasciatus}
+Y,Y,Y,N,				Spot-nape Butterflyfish
+,,,,					{Chaetodon oxycephalus}
+Y,Y,Y,N,				Spot-tail Butterflyfish
+,,,,					{Chaetodon ocellicaudus}
+Y,Y,Y,N,				Spotfin Butterflyfish
+,,,,					{Chaetodon ocellatus}
+Y,Y,Y,N,				Threadfin Butterflyfish
+,,,,					{Chaetodon auriga}
+Y,Y,Y,N,				Triangular Butterflyfish
+,,,,					{Chaetodon triangulum}
+Y,Y,Y,N,				Two-eyed Coralfish
+,,,,					{Coradion melanopus}
+Y,Y,Y,N,				Vagabond Butterflyfish
+,,,,					{Chaetodon vagabundus}
+Y,Y,N,N,			Cardinalfishes
+Y,Y,Y,N,				Banggai Cardinalfish
+,,,,					{Pterapogon kauderni}
+Y,Y,Y,N,				Bargill Cardinalfish
+,,,,					{Apogon sealei}
+Y,Y,Y,N,				Belted Cardinalfish
+Y,Y,Y,N,				Blackspot Cardinalfish
+,,,,					{Archamia melasma}
+Y,Y,Y,N,				Fivelined Cardinalfish
+,,,,					{Cheilodipterus quinquelineatus}
+Y,Y,Y,N,				Frostfin Cardinalfish
+,,,,					{Ostorhinchus hoevenii}
+Y,Y,Y,N,				Girdled Cardinalfish
+,,,,					{Taeniamia zosterophora}
+Y,Y,Y,N,				Goldbelly Cardinalfish
+,,,,					{Apogon apogonides}
+Y,Y,Y,N,				Komodo Cardinalfish
+,,,,					{Apogon komodoensis}
+Y,Y,Y,N,				Moluccan Cardinalfish
+,,,,					{Apogon moluccensis}
+,,,,					{Ostorhinchus moluccensis}
+Y,Y,Y,N,				Orangespot Cardinalfish
+,,,,					{Apogon rubrimacula}
+Y,Y,Y,N,				Pajama Cardinalfish
+,,,,					{Sphaeramia nematoptera}
+Y,Y,Y,N,				Ringtailed Cardinalfish
+,,,,					{Apogon aureus}
+Y,Y,Y,N,				Roughlip Cardinalfish
+,,,,					{Apogon robinsi}
+Y,Y,Y,N,				Sawcheek Cardinalfish
+,,,,					{Apogon quadrisquamatus}
+Y,Y,Y,N,				Splitband Cardinalfish
+,,,,					{Ostorhinchus compressus}
+Y,Y,Y,N,				Spotgill Cardinalfish
+,,,,					{Ostorhinchus chrysopomus}
+Y,Y,Y,N,				Striped Cardinalfish
+,,,,					{Apogon angustatus}
+Y,Y,Y,N,				Tailspot Cardinalfish
+,,,,					{Apogon ocellicaudus}
+Y,Y,Y,N,				Toothy Cardinalfish
+,,,,					{Cheilodipterus isostigmus}
+Y,Y,Y,N,				Yellow Cardinalfish
+,,,,					{Apogon luteus}
+Y,Y,Y,N,				Yellowlined Cardinalfish
+,,,,					{Ostorhinchus chrysotaenia}
+Y,Y,Y,N,				Yellowmouth Cardinalfish
+,,,,					{Archamia bleekeri}
+Y,Y,Y,N,				Yellowstriped Cardinalfish
+,,,,					{Ostorhinchus cyansoma}
+Y,Y,Y,N,			Chubs
+,,,,				{Kyphosidae}
+Y,Y,Y,N,				Topsail Drummer
+,,,,					{Kyphosus cinerascens}
+Y,Y,N,N,			Coral Breams
+,,,,				{Nemipteridae}
+Y,Y,Y,N,				Bridled Monocle Bream
+,,,,					{Scolopsis binlineata}
+Y,Y,Y,N,			Damselfishes
+Y,Y,Y,N,				Anemonefishes
+Y,Y,Y,N,					Clark's Anemonefish
+,,,,						{Amphiprion clarkii}
+Y,Y,Y,N,					False Clown Anemonefish
+,,,,						{Amphiprion ocellaris}
+Y,Y,Y,N,					Orange Anemonefish
+,,,,						{Amphiprion sandaracinos}
+Y,Y,Y,N,					Pink Anemonefish
+,,,,						{Amphiprion perideraion}
+Y,Y,Y,N,					Red and Black Anemonefish
+,,,,						{Amphiprion melanopus}
+Y,Y,Y,N,					Red Sea Anemonefish
+Y,Y,Y,N,					Saddleback Anemonefish
+,,,,						{Amphiprion polymnus}
+Y,Y,Y,N,					Sebae Anemonefish
+,,,,						{Amphiprion sebae}
+Y,Y,Y,N,					Spinecheek Anemonefish
+,,,,						{Premnas biaculeatus}
+Y,Y,Y,N,					Tomato Anemonefish
+,,,,						{Amphiprion frenatus}
+Y,Y,Y,N,				Arabian Chromis
+,,,,					{Chromis flavaxilla}
+Y,Y,Y,N,				Arnaz's Demoiselle
+,,,,					{Chrysiptera arnazae}
+Y,Y,Y,N,				Beaugregory
+,,,,					{Stegastes leucostictus}
+Y,Y,Y,N,				Bicolor Chromis
+,,,,					{Chromis margaritifer}
+Y,Y,Y,N,				Bicolor Damselfish
+,,,,					{Stegastes partitus}
+Y,Y,Y,N,				Black-banded Damsel
+,,,,					{Amblypomacentrus breviceps}
+Y,Y,Y,N,				Blue Chromis
+,,,,					{Chromis cyanea}
+Y,Y,Y,N,				Blue Devil
+,,,,					{Chrysiptera cyanea}
+Y,Y,Y,N,				Bluegreen Chromis
+Y,Y,Y,N,				Bluespot Damsel
+,,,,					{Chrysiptera oxycephala}
+Y,Y,Y,N,				Brown Chromis
+,,,,					{Chromis multilineata}
+Y,Y,Y,N,				Garibaldi
+Y,Y,Y,N,				Goldbelly Damsel
+,,,,					{Pomacentrus auriventris}
+Y,Y,Y,N,				Golden Damsel
+,,,,					{Amblyglyphidodon aureus}
+Y,Y,Y,N,				Half-and-Half Chromis
+Y,Y,Y,N,				Humbug Dascyllus
+,,,,					{Dascyllus aruanus}
+Y,Y,Y,N,				Indian Dascyllus
+,,,,					{Dascyllus carneus}
+Y,Y,Y,N,				Indo-Pacific Sergeant
+,,,,					{Abudefduf vaigiensis}
+Y,Y,Y,N,				Javanese Damsel
+,,,,					{Neoglyphidodon oxyodon}
+Y,Y,Y,N,				Jewel Damselfish
+,,,,					{Plectroglyphidodon lacrymatus}
+Y,Y,Y,N,				Longfin Damselfish
+,,,,					{Stegastes diencaeus}
+Y,Y,Y,N,				Pale Damselfish
+,,,,					{Amblyglyphidodon indicus}
+Y,Y,Y,N,				Red Sea Dascyllus
+,,,,					{Dascyllus marginatus}
+Y,Y,Y,N,				Reticulated Damsel
+Y,Y,Y,N,				Reticulated Dascyllus
+,,,,					{Dascyllus reticulatus}
+Y,Y,Y,N,				Rolland's Demoiselle
+,,,,					{Chrysiptera rollandi}
+Y,Y,Y,N,				Scaly Damsel
+,,,,					{Pomacentrus lepidogenys}
+Y,Y,Y,N,				Scissortail Sergeant
+,,,,					{Abudefduf sexfasciatus}
+Y,Y,Y,N,				Sergeant Major
+,,,,					{Abudefduf saxatilis}
+Y,Y,Y,N,				Spiny Chromis
+,,,,					{Acanthochromis polyacanthus}
+Y,Y,Y,N,				Staghorn Damsel
+,,,,					{Amblyglyphidodon curacao}
+Y,Y,Y,N,				Sulphur Damsel
+Y,Y,Y,N,				Ternate Chromis
+,,,,					{Chromis ternatensis}
+Y,Y,Y,N,				Three-spot Dascyllus
+,,,,					{Dascyllus trimiculatus}
+Y,Y,Y,N,				Threespot Damselfish
+,,,,					{Stegastes planifrons}
+Y,Y,Y,N,				Ward's Damsel
+,,,,					{Pomacentrus wardi}
+Y,Y,Y,N,				Yellow Chromis
+,,,,					{Chromis analis}
+Y,Y,Y,N,				Yellowtail Damselfish
+,,,,					{Microspathodon chrysurus}
+Y,Y,Y,N,			Dartfishes
+Y,Y,Y,N,				Fire Dartfish
+,,,,					{Nemateleotris magnifica}
+Y,Y,Y,N,				Twotone Dartfish
+,,,,					{Blackfin Dartfish}
+,,,,					{Ptereleo evides}
+Y,Y,Y,N,			Dolphin Fish
+Y,Y,N,N,			Dottybacks
+,,,,				{Pseudochromidae}
+Y,Y,Y,N,				Orchid Dottyback
+,,,,					{Pseudochromis fridmani}
+Y,Y,Y,N,				Royal Dottyback
+,,,,					{Pictichromis paccagnellae}
+Y,Y,N,N,			Dragonets
+,,,,				{Family Callionymidae}
+Y,Y,Y,N,				Fingered Dragonet
+,,,,					{Dactylopus dactylopus}
+Y,Y,Y,N,				Mandarinfish
+,,,,					{Synchiropus splendidus}
+Y,Y,Y,N,				Morrison's Dragonet
+,,,,					{Synchiropus morrisoni}
+Y,Y,Y,N,				Orange and Black Dragonet
+,,,,					{Dactylopus kuiteri}
+Y,Y,Y,N,				Superb Dragonet
+,,,,					{Diplogrammus goramensis}
+Y,Y,N,N,			Drums
+Y,Y,Y,N,				Highhat
+,,,,					{Pareques acuminatus}
+Y,Y,Y,N,				Jackknife Fish
+Y,Y,Y,N,				Spotted Drum
+,,,,					{Equetus punctatus}
+Y,Y,N,N,			Emperors
+,,,,				{Lethrinidae}
+Y,Y,Y,N,				Bigeye Emperor
+,,,,					{Monotaxis grandoculis}
+Y,Y,Y,N,				Longface Emperor
+,,,,					{Lethrinus olivaceus}
+Y,Y,Y,N,				Striped Large-eye Bream
+,,,,					{Gnathodentex aureolineatus}
+Y,Y,Y,N,			Fusiliers
+Y,Y,Y,N,				Blue and Yellow Fusilier
+,,,,					{Caesio teres}
+Y,Y,Y,N,				Bluestream Fusilier
+,,,,					{Pterocaesio tile}
+Y,Y,Y,N,				Red Sea Fusilier
+Y,Y,Y,N,				Striated Fusilier
+Y,Y,Y,N,				Yellowback fusilier
+,,,,					{Caesio xanthonata}
+Y,Y,Y,N,			Goatfishes
+Y,Y,Y,N,				Bicolor Goatfish
+,,,,					{Parupeneus barberinoides}
+Y,Y,Y,N,				Dash-dot Goatfish
+,,,,					{Parupeneus barberinus}
+Y,Y,Y,N,				Freckled Goatfish
+,,,,					{Upeneus tragula}
+Y,Y,Y,N,				Goldsaddle Goatfish
+,,,,					{Parupeneus cyclostomus}
+Y,Y,Y,N,				Manybar Goatfish
+,,,,					{Parupeneus multifasciatus}
+Y,Y,Y,N,				Red Sea Goatfish
+Y,Y,Y,N,				Spotted Goatfish
+Y,Y,Y,N,				Surmullet
+Y,Y,Y,N,				Yellow Goatfish
+Y,Y,Y,N,				Yellowfin Goatfish
+Y,Y,Y,N,				Yellowsaddle Goatfish
+,,,,					{Parupeneus cyclostomus}
+Y,Y,Y,N,			Grunts and Sweetlips
+Y,Y,Y,N,				Blubberlip
+,,,,					{Plectorhincus gibbosus}
+Y,Y,Y,N,				Bluestriped Grunt
+,,,,					{Haemulon sciurus}
+Y,Y,Y,N,				Caesar Grunt
+,,,,					{Haemulon carbonarium}
+Y,Y,Y,N,				Cottonwick
+Y,Y,Y,N,				Diagnoal-banded Sweetlips
+,,,,					{Plectorhinchus lineatus}
+Y,Y,Y,N,				Dotted Sweetlips
+,,,,					{Plectorhincus picus}
+Y,Y,Y,N,				French Grunt
+,,,,					{Haemulon flavolineatum}
+Y,Y,Y,N,				Giant Sweetlips
+,,,,					{Plectorhinchus albovittatus}
+Y,Y,Y,N,				Many-spotted Sweetlips
+,,,,					{Plectorhinchus chaetodonoides}
+Y,Y,Y,N,				Oriental Sweetlips
+,,,,					{Plectorhinchus vittatus}
+Y,Y,Y,N,				Porkfish
+,,,,					{Anisostremus virginicus}
+Y,Y,Y,N,				Ribbon Sweetlips
+,,,,					{Plectorhinchus polytaenia}
+Y,Y,Y,N,				Silver Sweetlips
+,,,,					{Diagramma pictum}
+Y,Y,Y,N,				Smallmouth Grunt
+,,,,					{Haemulon chrysargyreum}
+Y,Y,Y,N,				Spanish Grunt
+,,,,					{Haemulon macrostomum}
+Y,Y,Y,N,				Striped Grunt
+,,,,					{Haemulon striatum}
+Y,Y,Y,N,				Striped Sweetlips
+,,,,					{Plectorhinchus lessonii}
+Y,Y,Y,N,				Tomtate
+,,,,					{Haemulon aurolineatum}
+Y,Y,Y,N,				White Grunt
+,,,,					{Haemulon plumierii}
+Y,Y,Y,N,			Hawkfishes
+Y,Y,Y,N,				Arc-eye Hawkfish
+,,,,					{Paracirrhites arcatus}
+Y,Y,Y,N,				Dwarf Hawkfish
+,,,,					{Cirrhitichthys falco}
+Y,Y,Y,N,				Freckled Hawkfish
+,,,,					{Paracirrhites forsteri}
+Y,Y,Y,N,				Longnose Hawkfish
+,,,,					{Oxycirrhites typus}
+Y,Y,Y,N,				Lyretail Hawkfish
+,,,,					{Cyprinocirrhites polyactis}
+Y,Y,Y,N,				Pixy Hawkfish
+,,,,					{Cirrhitichthys oxycephalus}
+Y,Y,Y,N,				Redspotted Hawkfish
+,,,,					{Amblycirrhitus pinos}
+Y,Y,Y,N,				Threadfin Hawkfish
+,,,,					{Cirrhitichthys aprinus}
+Y,Y,Y,N,				Twinspot Hawkfish
+,,,,					{Amblycirrhitus bimacula}
+Y,Y,Y,N,			Jacks
+Y,Y,Y,N,				African Pompano
+,,,,					{Alectis ciliaris}
+Y,Y,Y,N,				Almaco Jack
+,,,,					{Seriola rivoliana}
+Y,Y,Y,N,				Bar Jack
+Y,Y,Y,N,				Bluefin Trevally
+,,,,					{Caranx melampygus}
+Y,Y,Y,N,				Horse-eye Jack
+,,,,					{Caranx latus}
+Y,Y,Y,N,				Mackerel Scad
+,,,,					{Decapterus macarellus}
+Y,Y,Y,N,				Orangespotted Trevally
+Y,Y,Y,N,				Palometa
+,,,,					{Trachinotus goodei}
+Y,Y,Y,N,				Pilot Fish
+,,,,					{Naucrates ductor}
+Y,Y,Y,N,			Jawfish
+Y,Y,Y,N,				Banded Jawfish
+Y,Y,Y,N,				Harlequin Jawfish
+,,,,					{Stalix Histrio}
+Y,Y,Y,N,				Solar Jawfish
+,,,,					{Opistognathus solorensis}
+Y,Y,Y,N,				Yellowbarred Jawfish
+,,,,					{Opistognathus randalli}
+Y,Y,Y,N,				Yellowhead Jawfish
+,,,,					{Opistognathus aurifons}
+Y,Y,N,N,			Mackerels
+Y,Y,Y,N,				Cero
+,,,,					{Scomberomorus regalis}
+Y,Y,Y,N,				Long-jawed Mackerel
+,,,,					{Rastrelliger kanagurta}
+Y,Y,Y,N,			Moorish Idol
+,,,,				{Zanclus cornutus}
+Y,Y,N,N,			Parrotfishes
+Y,Y,Y,N,				Bicolor Parrotfish
+Y,Y,Y,N,				Bleeker's Parrtofish
+,,,,					{Chlorurus bleekeri}
+Y,Y,Y,N,				Blue Parrotfish
+Y,Y,Y,N,				Bluelip Parrotfish
+,,,,					{Cryptotomus roseus}
+Y,Y,Y,N,				Bluepatch Parrotfish
+,,,,					{Scarus forsteni}
+Y,Y,Y,N,				Bullethead Parrotfish
+,,,,					{Chlorurus sordidus}
+Y,Y,Y,N,				Bumphead Parrotfish
+,,,,					{Bolbometopon muricatum}
+Y,Y,Y,N,				Dotted Parrotfish
+,,,,					{Calotomus viridescens}
+Y,Y,Y,N,				Dusky Parrotfish
+,,,,					{Scarus niger}
+Y,Y,Y,N,				Indian Longnose Parrotfish
+Y,Y,Y,N,				Mediterranean Parrotfish
+Y,Y,Y,N,				Midnight Parrotfish
+Y,Y,Y,N,				Princess Parrotfish
+,,,,					{Scarus taeniopterus}
+Y,Y,Y,N,				Queen Parrotfish
+,,,,					{Scarus vetula}
+Y,Y,Y,N,				Rainbow Parrotfish
+Y,Y,Y,N,				Red Sea Steephead Parrotfish
+Y,Y,Y,N,				Redband Parrotfish
+,,,,					{Sparisoma aurofrenatum}
+Y,Y,Y,N,				Redtail Parrotfish
+,,,,					{Sparisoma chrysopterum}
+Y,Y,Y,N,				Rusty Parrotfish
+,,,,					{Scarus ferrugineus}
+Y,Y,Y,N,				Stoplight Parrotfish
+,,,,					{Sparisoma viride}
+Y,Y,Y,N,				Striped Parrotfish
+,,,,					{Scarus iserti}
+Y,Y,Y,N,				Yellowtail Parrotfish
+,,,,					{Sparisoma rubripinne}
+Y,Y,N,N,			Perch
+Y,Y,Y,N,				Rubberlip Perch
+Y,Y,N,N,			Porgies
+,,,,				{Sparidae}
+Y,Y,Y,N,				Common two-banded sea bream
+Y,Y,Y,N,				Jolthead Porgy
+Y,Y,Y,N,				Saddled Sea Bream
+Y,Y,Y,N,				Salema
+Y,Y,Y,N,				Saucereye Porgy
+,,,,					{Calamus calamus}
+Y,Y,Y,N,				Sheepshead
+,,,,					{Archosargus probatocephalus}
+Y,Y,Y,N,				Sheepshead Porgy
+,,,,					{Calamus penna}
+Y,Y,Y,N,				White Sea Bream
+Y,Y,Y,N,			Rabbitfishes
+Y,Y,Y,N,				Foxface Rabbitfish
+,,,,					{Siganus vulpinus}
+Y,Y,Y,N,				Golden Rabbitfish
+,,,,					{Siganus guttatus}
+Y,Y,Y,N,				Masked Rabbitfish
+,,,,					{Siganus puellus}
+Y,Y,Y,N,				Squaretail Rabbitfish
+,,,,					{Siganus luridus}
+Y,Y,Y,N,				Stellate Rabbitfish
+,,,,					{Siganus stellatus laqueus}
+Y,Y,N,N,			Remoras
+,,,,				{Echeneidae}
+Y,Y,Y,N,				Sharksucker
+,,,,					{Echeneis naucrates}
+Y,Y,N,N,			Sandperches
+,,,,				{Pinguipedidae}
+Y,Y,Y,N,				Latticed Sandperch
+,,,,					{Parapercis clathrata}
+Y,Y,Y,N,				Red-spotted Sandperch
+,,,,					{Parapercis schauinslandi}
+Y,Y,Y,N,				Reticulated Sandperch
+,,,,					{Parapercis tetracanthus}
+Y,Y,Y,N,				Sharpnose Sandperch
+,,,,					{Parapercis cylindrica}
+Y,Y,Y,N,				Speckled Sandperch
+Y,Y,Y,N,			Sea Basses
+Y,Y,Y,N,				Anthiases
+Y,Y,Y,N,					Purple Anthias
+,,,,						{Pseudanthias tuka}
+Y,Y,Y,N,					Purple Queen
+,,,,						{Pseudanthias pascalus}
+Y,Y,Y,N,					Red Sea Anthias
+,,,,						{Pseudanthias taeniatus}
+Y,Y,Y,N,					Redfin Anthias
+,,,,						{Pseudanthias dispar}
+Y,Y,Y,N,					Scalefin Anthias
+,,,,						{Lyretail Anthias}
+,,,,						{Pseudanthias squamipinnis}
+Y,Y,Y,N,					Squarespot Anthias
+,,,,						{Pseudanthias pleurotaenia}
+Y,Y,Y,N,					Threadfin Anthias
+,,,,						{Pseudanthias huchti}
+Y,Y,Y,N,				Chalk Bass
+,,,,					{Serranus tortugarum}
+Y,Y,Y,N,				Coney
+,,,,					{Cephalopholis fulva}
+Y,Y,Y,N,				Creolefish
+Y,Y,Y,N,				Graysby
+,,,,					{Cephalopholis cruentatus}
+Y,Y,Y,N,				Greater Soapfish
+,,,,					{Rypticus saponaceus}
+Y,Y,Y,N,				Groupers
+Y,Y,Y,N,					Barramundi
+,,,,						{Cromileptes altivelis}
+Y,Y,Y,N,					Black Grouper
+,,,,						{Mycteroperca bonaci}
+Y,Y,Y,N,					Blacktip Grouper
+,,,,						{Epinephelus fasciatus}
+Y,Y,Y,N,					Bluespotted Grouper
+,,,,						{Cephalopholis cynanostigma}
+Y,Y,Y,N,					Brown-marbled Grouper
+,,,,						{Epinephelus fuscoguttatus}
+Y,Y,Y,N,					Comb Grouper
+Y,Y,Y,N,					Coral Grouper
+,,,,						{Coral Hind}
+,,,,						{Cephalopholis miniata}
+Y,Y,Y,N,					Dusky Grouper
+Y,Y,Y,N,					Freckled Grouper
+,,,,						{Cephalopholis microprion}
+Y,Y,Y,N,					Gag
+Y,Y,Y,N,					Goliath Grouper
+,,,,						{Epinephelus itajara}
+Y,Y,Y,N,					Greasy Grouper
+,,,,						{Epinephelus tauvina}
+Y,Y,Y,N,					Halfspotted Hind
+Y,Y,Y,N,					Highfin Grouper
+,,,,						{Epinephelus maculatus}
+Y,Y,Y,N,					Malabar Grouper
+,,,,						{Epinephelus malabaricus}
+Y,Y,Y,N,					Nassau Grouper
+,,,,						{Epinephelus striatus}
+Y,Y,Y,N,					Peacock Grouper
+Y,Y,Y,N,					Potato Grouper
+Y,Y,Y,N,					Red Hind
+Y,Y,Y,N,					Red Sea Coralgrouper
+Y,Y,Y,N,					Redmouth Grouper
+,,,,						{Aethaloperca rogaa}
+Y,Y,Y,N,					Rock Hind
+Y,Y,Y,N,					Speckled-fin Grouper
+,,,,						{Epinephelus ongus}
+Y,Y,Y,N,					Tiger Grouper
+,,,,						{Mycteroperca tigris}
+Y,Y,Y,N,					Tomato Grouper
+,,,,						{Cephalopholis sonnerati}
+Y,Y,Y,N,					Yellow-edged Lyretail
+,,,,						{Lyretail Grouper}
+,,,,						{Variola louti}
+Y,Y,Y,N,					Yellowfin Grouper
+,,,,						{Mycteroperca venenosa}
+Y,Y,Y,N,				Hamlets
+Y,Y,Y,N,					Barred Hamlet
+,,,,						{Hypoplectrus puella}
+Y,Y,Y,N,					Black Hamlet
+,,,,						{Hypoplectrus nigricans}
+Y,Y,Y,N,					Butter Hamlet
+,,,,						{Hypoplectrus unicolor}
+Y,Y,Y,N,					Indigo Hamlet
+,,,,						{Hypoplectrus indigo}
+Y,Y,Y,N,					Yellowbelly Hamlet
+,,,,						{Hypoplectrus aberrans}
+Y,Y,Y,N,				Harlequin Bass
+Y,Y,Y,N,				Lantern Bass
+,,,,					{Serranus baldwini}
+Y,Y,Y,N,				Painted Comber
+Y,Y,Y,N,				School Bass
+,,,,					{Schultzea beta}
+Y,Y,Y,N,				Sixstriped Soapfish
+,,,,					{Grammistes sexlineatus}
+Y,Y,Y,N,				Tobaccofish
+Y,Y,N,N,			Snappers
+,,,,				{Lutjanidae}
+Y,Y,Y,N,				Black Margate
+,,,,					{Anisotremus surinamensis}
+Y,Y,Y,N,				Black Snapper
+,,,,					{Macolor niger}
+Y,Y,Y,N,				Blacktail Snapper
+,,,,					{Lutjanus fulvus}
+Y,Y,Y,N,				Bluestripe Snapper
+,,,,					{Lutjanus kasmira}
+Y,Y,Y,N,				Checkered Snapper
+,,,,					{Lutjanus decussatus}
+Y,Y,Y,N,				Cubera Snapper
+Y,Y,Y,N,				Dog Snapper
+,,,,					{Lutjanus jocu}
+Y,Y,Y,N,				Ehrenberg's Snapper
+,,,,					{Lutjanus ehrenbergi}
+Y,Y,Y,N,				Gray Snapper
+,,,,					{Lutjanus griseus}
+Y,Y,Y,N,				Humpback Snapper
+,,,,					{Lutjanus gibbus}
+Y,Y,Y,N,				Indian Snapper
+,,,,					{Lutjanus madras}
+Y,Y,Y,N,				Lane Snapper
+,,,,					{Lutjanus synagris}
+Y,Y,Y,N,				Mahogany Snapper
+,,,,					{Lutjanus mahogoni}
+Y,Y,Y,N,				Mangrove Snapper
+Y,Y,Y,N,				Margate
+,,,,					{Haemulon album}
+Y,Y,Y,N,				Midnight Snapper
+,,,,					{Macolor macularis}
+Y,Y,Y,N,				Mutton Snapper
+Y,Y,Y,N,				Onespot Snapper
+,,,,					{Lutjanus monostigma}
+Y,Y,Y,N,				Russel's Snapper
+,,,,					{Lutjanus russelli}
+Y,Y,Y,N,				Schoolmaster
+,,,,					{Lutjanus apodus}
+Y,Y,Y,N,				Twospot Snapper
+,,,,					{Lutjanus biguttatus}
+Y,Y,Y,N,				Yellowtail Snapper
+,,,,					{Ocyurus chrysurus}
+Y,Y,Y,N,			Spadefishes
+Y,Y,Y,N,				Atlantic Spadefish
+,,,,					{Chaetodipterus faber}
+Y,Y,Y,N,				Circular Spadefish
+,,,,					{Platax orbicularis}
+Y,Y,Y,N,				Golden Spadefish
+,,,,					{Platax boersii}
+Y,Y,Y,N,				Longfin Spadefish
+,,,,					{Platax teira}
+Y,Y,Y,N,				Pinnate Spadefish
+,,,,					{Platax pinnatus}
+Y,Y,N,N,			Stargazers
+,,,,				{Uranoscopidae}
+Y,Y,Y,N,				Reticulate Stargazer
+,,,,					{Uranoscopus bicinctus}
+Y,Y,Y,N,				Southern Stargazer
+,,,,					{Astrocopus y-graecum}
+Y,Y,Y,N,			Surgeonfishes & Tangs & Unicornfishes
+Y,Y,Y,N,				Bignose Unicornfish
+,,,,					{Nasao vlamingii}
+Y,Y,Y,N,				Black Surgeonfish
+,,,,					{Acanthurus gahhm}
+Y,Y,Y,N,				Blue Tang
+,,,,					{Acanthurus coeruleus}
+Y,Y,Y,N,				Bluespine Unicornfish
+Y,Y,Y,N,				Convict Surgeonfish
+,,,,					{Acanthurus triostegus}
+Y,Y,Y,N,				Doctorfish
+Y,Y,Y,N,				Humpback Unicornfish
+,,,,					{Naso brachycentron}
+Y,Y,Y,N,				Indian Sailfin Tang
+,,,,					{Zebrasoma desjardinii}
+Y,Y,Y,N,				Lined Bristletooth
+Y,Y,Y,N,				Ocean Surgeonfish
+,,,,					{Acanthurus bahianus}
+Y,Y,Y,N,				Orangeband Surgeonfish
+,,,,					{Acanthurus olivaceus}
+Y,Y,Y,N,				Orangespine Unicornfish
+,,,,					{Naso elegans}
+Y,Y,Y,N,				Palette Surgeonfish
+,,,,					{Paracanthurus hepatus}
+Y,Y,Y,N,				Sohal Surgeonfish
+,,,,					{Acanthurus sohal}
+Y,Y,Y,N,				Spotted Unicornfish
+,,,,					{Naso brevirostris}
+Y,Y,Y,N,				Yellowtail Tang
+,,,,					{Zebrasoma xanthurum}
+Y,Y,N,N,			Sweepers
+Y,Y,Y,N,				Copper Sweeper
+,,,,					{Pempheris oualensis}
+Y,Y,Y,N,				Glassy Sweeper
+,,,,					{Pempheris schomburgki}
+Y,Y,Y,N,				Golden Sweeper
+,,,,					{Parapriacanthus ransonneti}
+Y,Y,Y,N,				Vanikoro Sweeper
+,,,,					{Pempheris vanicolensis}
+Y,Y,N,N,			Tilefishes
+Y,Y,Y,N,				Blue Blanquillo
+,,,,					{Malacanthus latovittatus}
+Y,Y,Y,N,				Flagtail Blanquillo
+Y,Y,Y,N,				Sand Tilefish
+,,,,					{Malacanthus plumieri}
+Y,Y,Y,N,			Wrasses
+Y,Y,Y,N,				African Coris
+,,,,					{Coris cuvieri}
+Y,Y,Y,N,				Bird Wrasse
+,,,,					{Gomphosus varius}
+Y,Y,Y,N,				Black Leopard Wrasse
+,,,,					{Macropharyngodon negrosensis}
+Y,Y,Y,N,				Blackspot Cleaner Wrasse
+,,,,					{Labroides pectoralis}
+Y,Y,Y,N,				Bluehead
+Y,Y,Y,N,				Bluestreak Cleaner Wrasse
+,,,,					{Labroides dimidiatus}
+Y,Y,Y,N,				Broomtail Wrasse
+Y,Y,Y,N,				Canary Wrasse
+,,,,					{Halichoeres chrysus}
+Y,Y,Y,N,				Checkerboard Wrasse
+,,,,					{Halichoeres hortulanus}
+Y,Y,Y,N,				Cheek-lined Wrasse
+,,,,					{Oxycheilinus digramma}
+Y,Y,Y,N,				Chequerboard Wrasse
+,,,,					{Halichoeres hortulanus}
+Y,Y,Y,N,				Cigar Wrasse
+,,,,					{Chelio inermis}
+Y,Y,Y,N,				Clown Coris
+,,,,					{Coris aygula}
+Y,Y,Y,N,				Clown Wrasse
+,,,,					{Halichoeres maculipinna}
+Y,Y,Y,N,				Corkwing Wrasse
+Y,Y,Y,N,				Creole Wrasse
+,,,,					{Clepticus parrae}
+Y,Y,Y,N,				Crescent Wrasse
+,,,,					{Thalassoma lunare}
+Y,Y,Y,N,				Fivefinger Razorfish
+,,,,					{Iniistius pentadactylus}
+Y,Y,Y,N,				Fourline Wrasse
+,,,,					{Larabicus quadrilineatus}
+Y,Y,Y,N,				Green Razorfish
+,,,,					{Xyrichtys splendens}
+Y,Y,Y,N,				Hogfishes
+Y,Y,Y,N,					Axilspot Hogfish
+,,,,						{Bodianus axillaris}
+Y,Y,Y,N,					Blackbelt Hogfish
+,,,,						{Bodianus mesothorax}
+Y,Y,Y,N,					Diana's Hogfish
+,,,,						{Bodianus diana}
+Y,Y,Y,N,					Hogfish
+,,,,						{Lachnolaimus maximus}
+Y,Y,Y,N,					Redfin Hogfish
+,,,,						{Bodianus dictynna}
+Y,Y,Y,N,					Spanish Hogfish
+,,,,						{Bodianus rufus}
+Y,Y,Y,N,				Indian Bird Wrasse
+,,,,					{Gomphosus caeruleus}
+Y,Y,Y,N,				Klunzinger's Wrasse
+Y,Y,Y,N,				Leopard Wrasse
+,,,,					{Macropharyngodon meleagris}
+Y,Y,Y,N,				Long-snouted wrasse
+,,,,					{Symphodus rostratus}
+Y,Y,Y,N,				Lyretail Hogish
+,,,,					{Bodianus anthioides}
+Y,Y,Y,N,				Mediterranean Rainbow Wrasse
+Y,Y,Y,N,				Napolean Wrasse
+Y,Y,Y,N,				Ornate Wrasse
+Y,Y,Y,N,				Oscellated Wrasse
+Y,Y,Y,N,				Peacock Razorfish
+,,,,					{Iniistius pavo}
+Y,Y,Y,N,				Peacock Wrasse
+,,,,					{Symphodus tinca}
+Y,Y,Y,N,				Puddingwife
+,,,,					{Halichoeres radiatus}
+Y,Y,Y,N,				Red Sea Thicklip Wrasse
+,,,,					{Hemigymnus sexfasciatus}
+Y,Y,Y,N,				Redbreasted Wrasse
+Y,Y,Y,N,				Rockmover Wrasse
+,,,,					{Novaculichthys taeniourus}
+Y,Y,Y,N,				Rosy Razorfish
+,,,,					{Xyrichtys martinicensis}
+Y,Y,Y,N,				Señorita
+Y,Y,Y,N,				Shoulderspot Wrasse
+,,,,					{Leptojulis cyanopleura}
+Y,Y,Y,N,				Sixbar Wrasse
+,,,,					{Thalassoma hardwicke}
+Y,Y,Y,N,				Slender Wrasse
+,,,,					{Oxycheilinus orientalis}
+Y,Y,Y,N,				Slingjaw Wrasse
+Y,Y,Y,N,				Slippery Dick
+Y,Y,Y,N,				Spottail Coris
+Y,Y,Y,N,				Surge Wrasse
+,,,,					{Thalassoma purpureum}
+Y,Y,Y,N,				Twospot Wrasse
+,,,,					{Oxycheilinus bimaculatus}
+Y,Y,Y,N,				Unknown Wrasse
+Y,Y,Y,N,				Whitepatch Razorfish
+,,,,					{Iniistius aneitensis}
+Y,Y,Y,N,				Yellowhead Wrasse
+,,,,					{Halichoeres garnoti}
+Y,Y,Y,N,				Yellowtail Coris
+,,,,					{Coris gaimard}
+Y,Y,N,N,		Puffers & Filefishes
+,,,,			{Tetraodontiformes}
+Y,Y,Y,N,			Boxfishes
+Y,Y,Y,N,				Bluetail Trunkfish
+Y,Y,Y,N,				Honeycomb Cowfish
+,,,,					{Acanthostracion polygonia}
+Y,Y,Y,N,				Longhorn Cowfish
+,,,,					{Lactoria conuta}
+Y,Y,Y,N,				Scrawled Cowfish
+,,,,					{Acanthostracion quadricornis}
+Y,Y,Y,N,				Smooth Trunkfish
+Y,Y,Y,N,				Solar Boxfish
+,,,,					{Ostracion solorensis}
+Y,Y,Y,N,				Spotted Boxfish
+,,,,					{Ostracion meleagris}
+Y,Y,Y,N,				Spotted Trunkfish
+Y,Y,Y,N,				Thornback Cowfish
+,,,,					{Lactoria fomasini}
+Y,Y,Y,N,				Yellow Boxfish
+,,,,					{Ostracion cubicus}
+Y,Y,Y,N,			Filefishes
+Y,Y,Y,N,				Bristle-tailed Filefish
+,,,,					{Acreichthys tomentosus}
+Y,Y,Y,N,				Diamond Filefish
+,,,,					{Rudarius excelsus}
+Y,Y,Y,N,				Fringed Filefish
+,,,,					{Monacanthus ciliatus}
+Y,Y,Y,N,				Honeycomb filefish
+,,,,					{Cantherinus pardalis}
+Y,Y,Y,N,				Orangespotted Filefish
+Y,Y,Y,N,				Orangetail Filefish
+,,,,					{Pervagor aspricaudus}
+Y,Y,Y,N,				Planehead Filefish
+,,,,					{Stephanolepsis hispidus}
+Y,Y,Y,N,				Pygmy Filefish
+,,,,					{Stephanolepis setifer}
+Y,Y,Y,N,				Scrawled Filefish
+,,,,					{Aluterus scriptus}
+Y,Y,Y,N,				Shortsnout Filefish
+,,,,					{Paramonacanthus curtothynchos}
+Y,Y,Y,N,				Slender Filefish
+,,,,					{Monacanthus tuckeri}
+Y,Y,Y,N,				Strapweed Filefish
+,,,,					{Pseudomonacanthus macrurus}
+Y,Y,Y,N,				Whitebar Filefish
+,,,,					{Paramonacanthus choirocephalus}
+Y,Y,Y,N,				Whitespotted Filefish
+,,,,					{Cantherhines macrocerus}
+Y,Y,Y,N,			Ocean Sunfish
+,,,,				{Mola Mola}
+Y,Y,N,N,			Porcupinefishes
+Y,Y,Y,N,				Balloonfish
+,,,,					{Diodon holocanthus}
+Y,Y,Y,N,				Black-blotched Porcupinefish
+,,,,					{Diodon liturosus}
+Y,Y,Y,N,				Bridled Burrfish
+,,,,					{Chilomycterus antennatus}
+Y,Y,Y,N,				Orbicular Burrfish
+,,,,					{Cyclichthys orbicularis}
+Y,Y,Y,N,				Porcupinefish
+,,,,					{Diodon hystrix}
+Y,Y,Y,N,				Striped Burrfish
+,,,,					{Chilomycterus schoepfi}
+Y,Y,Y,N,				Web Burrfish
+Y,Y,Y,N,				Yellowspotted Burrfish
+,,,,					{Cyclichthys spilostylus}
+Y,Y,N,N,			Puffers
+Y,Y,Y,N,				Bandtail Puffer
+Y,Y,Y,N,				Black-saddled Toby
+,,,,					{Canthigaster valentini}
+Y,Y,Y,N,				Blackspotted Puffer
+,,,,					{Arothron nigropunctatus}
+Y,Y,Y,N,				Blue-spotted Puffer
+,,,,					{Arothron caeruleopunctatus}
+Y,Y,Y,N,				Map Puffer
+,,,,					{Arothron mappa}
+Y,Y,Y,N,				Masked Puffer
+Y,Y,Y,N,				Papuan Toby
+,,,,					{Canthigaster papua}
+Y,Y,Y,N,				Red Sea Toby
+Y,Y,Y,N,				Sharpnose Puffer
+,,,,					{Canthigaster rostrata}
+Y,Y,Y,N,				Star Puffer
+,,,,					{Arothron stellatus}
+Y,Y,Y,N,				Striped Puffer
+,,,,					{Arothron manilensis}
+Y,Y,Y,N,				Whitespotted Puffer
+Y,Y,Y,N,			Triggerfishes
+Y,Y,Y,N,				Black Durgon
+,,,,					{Melichthys niger}
+Y,Y,Y,N,				Bluethroat Triggerfish
+Y,Y,Y,N,				Clown Triggerfish
+,,,,					{Balistoides conspicillum}
+Y,Y,Y,N,				Flagtail Triggerfish
+,,,,					{Sufflamen chrysopterus}
+Y,Y,Y,N,				Ocean Triggerfish
+,,,,					{Canthidermis sufflamen}
+Y,Y,Y,N,				Orange-lined Triggerfish
+,,,,					{Balistapus undulatus}
+Y,Y,Y,N,				Picassofish
+,,,,					{Rhinecanthus assasi}
+Y,Y,Y,N,				Queen Triggerfish
+,,,,					{Balistes vetula}
+Y,Y,Y,N,				Redtooth Triggerfish
+,,,,					{Odonus niger}
+Y,Y,Y,N,				Sargassum Triggerfish
+Y,Y,Y,N,				Titan Triggerfish
+,,,,					{Balistoides viridescens}
+Y,Y,Y,N,		Rays
+Y,Y,Y,N,			Bluespotted Stingray
+,,,,				{Neotrygon kuhlii}
+Y,Y,Y,N,			Lesser Electric Ray
+Y,Y,Y,N,			Reef Manta Ray
+,,,,				{Manta alfredi}
+Y,Y,Y,N,			Roughtail Stingray
+,,,,				{Dasyatis centroura}
+Y,Y,Y,N,			Southern Stingray
+,,,,				{Dasyatis americana}
+Y,Y,Y,N,			Spotted Eagle Ray (Atlantic)
+,,,,				{Aetobatus narinari}
+Y,Y,Y,N,			Spotted Eagle Ray (Pacific)
+,,,,				{Aetobatus ocellatus}
+Y,Y,Y,N,			Yellow Stingray
+,,,,				{Urolophus jamaicensis}
+Y,Y,N,N,		Sawbellies
+,,,,			{Beryciformes}
+Y,Y,Y,N,			Squirrelfishes
+Y,Y,Y,N,				Blackbar Soldierfish
+,,,,					{Myripristis jacobus}
+Y,Y,Y,N,				Blotcheye Soldierfish
+Y,Y,Y,N,				Cardinalfish
+Y,Y,Y,N,				Epaulette Soldierfish
+,,,,					{Myripristis kuntee}
+Y,Y,Y,N,				Longjaw Squirrelfish
+Y,Y,Y,N,				Longspine Squirrelfish
+,,,,					{Holocentrus rufus}
+Y,Y,Y,N,				Sabre Squirrelfish
+,,,,					{Longjawed Squirrelfish}
+,,,,					{Sargocentron spiniferum}
+Y,Y,Y,N,				Spotfin Squirrelfish
+,,,,					{Neoniphon sammara}
+Y,Y,Y,N,				Squirrelfish
+,,,,					{Holocentrus adscensionis}
+Y,Y,Y,N,				Tailspot Squirrelfish
+,,,,					{Sargocentron caudimaculatum}
+Y,Y,Y,N,				Whitetip Soldierfish
+,,,,					{Myripristis vittata}
+Y,Y,N,N,		Scorpionfish & Flatheads
+,,,,			{Scorpaeniformes}
+Y,Y,Y,N,			Flatheads
+Y,Y,Y,N,				Crocodile Flathead
+,,,,					{Cymbacephalus beauforti}
+Y,Y,Y,N,				Indian Ocean Crocodilefish
+,,,,					{Papilloculiceps longiceps}
+Y,Y,Y,N,				Longsnout Flathead
+,,,,					{Thysanophyrs chiltonae}
+Y,Y,Y,N,				Spiny Flathead
+,,,,					{Onigocia spinosa}
+Y,Y,N,N,			Flying Gurnards
+,,,,				{Dactylopteridae}
+Y,Y,Y,N,				Flying Gurnard
+,,,,					{Dactylopterus volitans}
+Y,Y,Y,N,				Helmut Gurnard
+,,,,					{Dactyloptena orientalis}
+Y,Y,N,N,			Greenlings
+,,,,				{Hexagrammidae}
+Y,Y,Y,N,				Lingcod
+,,,,					{Ophiodon elongatus}
+Y,Y,Y,N,				Painted Greenling
+,,,,					{Oxylebius pictus}
+Y,Y,Y,N,			Scorpionfishes
+Y,Y,Y,N,				Ambon Scorpionfish
+,,,,					{Pteroidichthys amboinensis}
+Y,Y,Y,N,				Bandtail Scorpionfish
+,,,,					{Scorpaenopsis neglecta}
+Y,Y,Y,N,				Black Rockfish
+,,,,					{Sebastes melanops}
+Y,Y,Y,N,				Black Scorpionfish
+,,,,					{Scorpaena porcus}
+Y,Y,Y,N,				Copper Rockfish
+,,,,					{Sebastes casurinus}
+Y,Y,Y,N,				Devil Scorpionfish
+,,,,					{Scorpaenopsis diabolus}
+Y,Y,Y,N,				Filamentous scorpionfish
+,,,,					{Hipposcorpaena filamentosa}
+Y,Y,Y,N,				Flasher Scorpionfish
+,,,,					{Scorpaenopsis macrochir}
+,,,,					{Rough Humpback Scorpionfish}
+Y,Y,Y,N,				Kelp Rockfish
+,,,,					{Sebastes atrovirens}
+Y,Y,Y,N,				Leaf Scorpionfish
+,,,,					{Taenianotus triacanthus}
+Y,Y,N,N,				Lionfishes
+Y,Y,Y,N,					Clearfin Lionfish
+,,,,						{Pterois radiata}
+Y,Y,Y,N,					Cleartail Lionfish
+,,,,						{Pterois russelli}
+Y,Y,Y,N,					Gurnard Lionfish
+,,,,						{Parapterois heturura}
+Y,Y,Y,N,					Indian Lionfish
+,,,,						{Pterois miles}
+Y,Y,Y,N,					Red Lionfish
+,,,,						{Pterois volitans}
+,,,,						{Volitans Lionfish}
+Y,Y,Y,N,					Shortfin Dwarf Lionfish
+,,,,						{Dendrochirus brachypterus}
+Y,Y,Y,N,					Spotfin Lionfish
+,,,,						{Pterois antennata}
+Y,Y,Y,N,					Zebra Lionfish
+,,,,						{Dendrochirus zebra}
+Y,Y,Y,N,				Madeira Rockfish
+,,,,					{Scorpaena maderensis}
+Y,Y,Y,N,				Paddle-flap Scorpionfish
+,,,,					{Rhinopias eschmeyeri}
+Y,Y,Y,N,				Poss's Scorpionfish
+,,,,					{Scorpaenopsis possi}
+Y,Y,Y,N,				Raggy Scorpionfish
+,,,,					{Scorpaenopsis venosa}
+Y,Y,Y,N,				Rainbow Scorpionfish
+Y,Y,Y,N,				Reef Scorpionfish
+Y,Y,Y,N,				Small Red Scorpionfish
+,,,,					{Scorpaena notata}
+Y,Y,Y,N,				Spotted Scorpionfish
+Y,Y,Y,N,				Tasseled Scorpionfish
+,,,,					{Scorpaenopsis oxycephala}
+,,,,					{Smallscale Scorpionfish}
+Y,Y,Y,N,				Weedy Scorpionfish
+,,,,					{Rhinopias frondosa}
+Y,Y,N,N,			Sculpins
+,,,,				{Cottidae}
+Y,Y,Y,N,				Cabezon
+,,,,					{Scorpaenichthys marmoratus}
+Y,Y,Y,N,			Searobins
+,,,,				{Triglidae}
+Y,Y,Y,N,				Bandtail Searobin
+,,,,					{Prionotus ophryas}
+Y,Y,Y,N,				Bluewing Searobin
+,,,,					{Prionotus punctatus}
+Y,Y,Y,N,			Stonefishes
+Y,Y,Y,N,				Estuarine Stonefish
+,,,,					{Synanceia horrida}
+Y,Y,Y,N,				Filamented Devilfish
+Y,Y,Y,N,				Spiny Devilfish
+,,,,					{Inimicus didactylus}
+Y,Y,Y,N,				Stonefish
+,,,,					{Synanceia verrucosa}
+Y,Y,N,N,			Velvetfishes
+Y,Y,Y,N,				Crested Velvetfish
+Y,Y,Y,N,				Ghost Velvetfish
+,,,,					{Cocotropus larvatus}
+Y,Y,N,N,			Waspfishes
+,,,,				{Tetrarogidae}
+Y,Y,Y,N,				Cockatoo Waspfish
+,,,,					{Ablabys taenianotus}
+Y,Y,Y,N,				Longspine Waspfish
+,,,,					{Paracentropogon longispinus}
+Y,Y,Y,N,				Spiny Waspfish
+,,,,					{Ablabys macracanthus}
+Y,Y,Y,N,				Unknown Waspfish
+Y,Y,N,N,		Sharks
+Y,Y,Y,N,			Blacktip Reef Shark
+,,,,				{Carcharhinus melanopterus}
+Y,Y,Y,N,			Bull Shark
+,,,,				{Carcharhinus leucas}
+Y,Y,Y,N,			Caribbean Reef Shark
+,,,,				{Carcharhinus perezii}
+Y,Y,Y,N,			Grey Reef Shark
+Y,Y,Y,N,			Hammerhead Shark
+Y,Y,Y,N,			Longimanus
+,,,,				{Carcharhinus longimanus}
+Y,Y,Y,N,			Nurse Shark
+,,,,				{Ginglymostoma cirratum}
+Y,Y,Y,N,			Sand Tiger
+,,,,				{Carcharias taurus}
+Y,Y,Y,N,			Swell Shark
+Y,Y,Y,N,			Whitetip Reef Shark
+,,,,				{Triaenodon obesus}
+Y,Y,N,N,		Silversides
+,,,,			{Atheriniformes}
+Y,Y,Y,N,			Hardyhead Silverside
+,,,,				{Atherinomorus lacunosus}
+Y,Y,Y,N,			Robust Silverside
+,,,,				{Atherinomorus lacunosus}
+Y,Y,Y,N,		Sticklebacks & Sea Moths
+,,,,			{Gasterosteiformes}
+Y,Y,Y,N,			Dragon Sea Moth
+,,,,				{Eurypegasus draconis}
+Y,Y,N,N,		Syngnathiformes
+Y,Y,Y,N,			Ghost Pipefishes
+,,,,				{Solenostomidae}
+Y,Y,Y,N,				Halimeda Ghost Pipefish
+,,,,					{Solenostomus halimeda}
+Y,Y,Y,N,				Ornate Ghost Pipefish
+,,,,					{Solenostomus paradoxus}
+Y,Y,Y,N,				Robust Ghost Pipefish
+,,,,					{Solenostomus cyanopterus}
+Y,Y,Y,N,				Roughsnout Ghost Pipefish
+,,,,					{Solenostomus paegnius}
+Y,Y,N,N,			Pipefishes & Seahorses
+,,,,				{Family Syngnathidae}
+Y,Y,N,N,				Pipefishes
+,,,,					{Subfamily Syngnathinae}
+Y,Y,Y,N,					Broadnosed Pipefish
+Y,Y,Y,N,					Brown-banded Pipefish
+,,,,						{Corythoichthys amplexus}
+Y,Y,Y,N,					Diamond Pipefish
+Y,Y,Y,N,					Double-ended Pipefish
+Y,Y,Y,N,					Harlequin Pipefish
+Y,Y,Y,N,					Network Pipefish
+,,,,						{Corythoichthys flavofasciatus}
+Y,Y,Y,N,					Pygmy PIpefish
+,,,,						{Micrognathus pygmaeus}
+Y,Y,Y,N,					Red Sea Pipefish
+Y,Y,Y,N,					Reeftop Pipefish
+,,,,						{Corythoichthys haematopterus}
+Y,Y,Y,N,					Ringed Pipefish
+,,,,						{Dunckerocampus dactyliophorus}
+Y,Y,Y,N,					Rumengan's Pipehorse
+,,,,						{Kyonemichthys rumengani}
+,,,,						{Lembeh Sea Dragon}
+,,,,						{Thread pipefish}
+Y,Y,Y,N,					Short-tailed Pipefish
+,,,,						{Trachyrhamphus bicoarctatus}
+Y,Y,Y,N,					Shortfin Pipefish
+,,,,						{Cosmocampus elucens}
+Y,Y,Y,N,					Shortnose Pipefish
+,,,,						{Micrognathus andersonii}
+Y,Y,Y,N,					Shortpouch Pygmy Pipehorse
+,,,,						{Acentronura breviperula}
+Y,Y,Y,N,					Slender Pipefish
+,,,,						{Trachyrhamphus longirostris}
+Y,Y,Y,N,					Winged Pipefish
+,,,,						{Halicampus macrorhynchus}
+Y,Y,N,N,				Seahorses
+,,,,					{Subfamily Hippocampinae}
+Y,Y,Y,N,					Common Seahorse
+,,,,						{Hippocampus taeniopterus}
+Y,Y,Y,N,					Denise's Pygmy Seahorse
+,,,,						{Hippocampus denise}
+Y,Y,Y,N,					Egyptian Seahorse
+,,,,						{Hippocampus suezensis}
+Y,Y,Y,N,					Lined Seahorse
+Y,Y,Y,N,					Long-snouted Seahorse
+,,,,						{Hippocampus Hippocampus}
+Y,Y,Y,N,					Longsnout Seahorse
+,,,,						{Hippocampus reidi}
+Y,Y,Y,N,					Pygmy Seahorse
+,,,,						{Hippocampus bargibanti}
+Y,Y,Y,N,					Thorny Seahorse
+,,,,						{Hippocampus hystrix}
+Y,Y,Y,N,					Zebra-snout Seahorse
+,,,,						{Hippocampus barbouri}
+Y,Y,Y,N,			Snipefishes and Shrimpfishes
+,,,,				{Centriscidae}
+Y,Y,Y,N,				Razorfish
+,,,,					{Aeoliscus strigatus}
+Y,Y,Y,N,				Rigid Shrimpfish
+,,,,					{Centriscus scutatus}
+Y,Y,Y,N,			Trumpetfishes
+Y,Y,Y,N,				Atlantic Trumpetfish
+,,,,					{Aulostomus maculatus}
+Y,Y,Y,N,				Smooth Cornetfish
+,,,,					{Fistularia commersonii}
+Y,Y,Y,N,				Trumpetfish
+,,,,					{Aulostomus chinensis}
+Y,Y,Y,N,		Tarpon
+Y,Y,N,N,		Toadfishes
+,,,,			{Batrachoidiformes}
+Y,Y,Y,N,			Large Eye Toadfish
+,,,,				{Batrachoides gilberti}
+Y,Y,Y,N,			Splendid Toadfish
+Y,Y,Y,N,		Trout
+Y,Y,Y,N,		Unknown fish
+Y,Y,Y,N,	Invertebrates
+Y,Y,Y,N,		Arthropods
+Y,Y,N,N,			Arachnids
+Y,Y,N,N,				Scorpions
+Y,Y,Y,N,				Spiders
+Y,Y,Y,N,					Black and Yellow Garden Spider
+,,,,						{Argiope aurantia}
+,,,,						{Yellow Garden Spider}
+Y,Y,Y,N,					Giant Golden Orbweaver
+,,,,						{Nephila pilipes}
+Y,Y,Y,N,					Larinia directa
+Y,Y,Y,N,					Longspinneret Spiders
+,,,,						{Hersiliidae}
+Y,Y,Y,N,					Pamphobeteus sp Tarantula
+Y,Y,Y,N,					Pink-toed Tarantula
+,,,,						{Avicularia avicularia}
+Y,Y,Y,N,			Crustaceans
+Y,Y,Y,N,				Amphipods
+,,,,					{Order Amphipoda}
+Y,Y,Y,N,					Skeleton Shrimp
+,,,,						{Caprella spp}
+Y,Y,N,N,				Decapods
+,,,,					{Order Decapoda}
+Y,Y,Y,N,					Crabs
+Y,Y,Y,N,						Arrowhead Crab
+,,,,							{Huenia heraldica}
+Y,Y,N,N,						Box Crabs
+,,,,							{Family Calappidae}
+Y,Y,Y,N,							Rough Box Crab
+,,,,								{Calappa gallus}
+Y,Y,Y,N,							Spotted Box Crab
+,,,,								{Calappa philargius}
+Y,Y,Y,N,							Two Horn Box Crab
+,,,,								{Calappa bicornis}
+Y,Y,N,N,						Coral Crabs
+,,,,							{Trapeziidae}
+Y,Y,Y,N,							Red-dotted Guard Crab
+,,,,								{Trapezia cymodoce}
+Y,Y,Y,N,							Red-spotted Guard Crab
+,,,,								{Trapezia tigrina}
+Y,Y,Y,N,							Yellow Dot Guard Crab
+,,,,								{Trapezia lutea}
+Y,Y,Y,N,						Cyrique River Crab
+,,,,							{Guinotia dentata}
+Y,Y,Y,N,						Decorator Crabs
+,,,,							{Family Inachidae}
+Y,Y,Y,N,							Achaeus sp.
+Y,Y,Y,N,							Corallimorph Decorator Crab
+,,,,								{Cyclocoeloma tuberculata}
+Y,Y,Y,N,							Oncinopus sp. 2
+Y,Y,Y,N,							Orangutan Crab
+,,,,								{Oncinopus sp.}
+Y,Y,Y,N,							Unknown Decorator Crab
+Y,Y,Y,N,						Elbow Crabs
+,,,,							{Parthenopidae}
+Y,Y,Y,N,							Horrid Elbow Crab
+,,,,								{Daldorfia horrida}
+Y,Y,N,N,						Flat Rock Crabs
+,,,,							{Plagusiidae}
+Y,Y,Y,N,							Flat Rock Crab
+,,,,								{Percnon planissimum}
+Y,Y,N,N,						Ghost & Fiddler Crabs
+,,,,							{Ocypodidae}
+Y,Y,Y,N,							Tufted Ghost Crab
+,,,,								{Ocypode cursor}
+Y,Y,Y,N,						Imitator Crabs
+,,,,							{Family Epialtidae}
+Y,Y,Y,N,							Conical Spider Crab
+,,,,								{Xenocarcinus conicus}
+Y,Y,Y,N,							Halimeda Algae Crab
+,,,,								{Huenia brevifrons}
+Y,Y,Y,N,							Sheep Crab
+,,,,								{Loxorhynchus grandis}
+Y,Y,Y,N,							Soft Coral Crab
+,,,,								{Hoplophrys oatesii}
+Y,Y,Y,N,							Wire Coral Crab
+,,,,								{Xenocarcinus tuberculatus}
+Y,Y,N,N,						Mud Crabs
+,,,,							{Xanthidae}
+Y,Y,Y,N,							Batwing Coral Crab
+,,,,								{Carpilius corallinus}
+Y,Y,Y,N,							Florida Stone Crab
+,,,,								{Menippe mercenaria}
+Y,Y,Y,N,						Purse Crabs
+Y,Y,Y,N,							Bulbous Purse Crab
+,,,,								{Umalana purarensis}
+Y,Y,Y,N,							Four Ring Purse Crab
+,,,,								{Leucosia anatum}
+Y,Y,Y,N,						Redeye Sponge Crab
+Y,Y,Y,N,						Round Crabs
+Y,Y,Y,N,							Mosaic Boxer Crab
+,,,,								{Lybia tesselata}
+Y,Y,Y,N,							Teddy Bear Crab
+,,,,								{Polydectus cupulifer}
+Y,Y,Y,N,						Sesarmid Crabs
+,,,,							{Sesarmidae}
+Y,Y,Y,N,							Squareback Marsh Crab
+,,,,								{Armases cinereum}
+Y,Y,N,N,						Shore Crabs
+,,,,							{Graspidae}
+Y,Y,Y,N,							Common Sally-light-foot
+,,,,								{Grapsus tenuicristatus}
+,,,,								{Surf Rock Crab}
+Y,Y,Y,N,							Nimble Spray Crab
+,,,,								{Percnon gibbesi}
+Y,Y,Y,N,							Tidal Spray Crab
+,,,,								{Plagusia depressa}
+Y,Y,N,N,						Spider Crabs
+Y,Y,Y,N,							Channel Clinging Crab
+,,,,								{Mithrax spinosissimus}
+Y,Y,Y,N,							Cryptic Teardrop Crab
+,,,,								{Pelia mutica}
+Y,Y,Y,N,							Hairy Clinging Crab
+,,,,								{Mithrax pilosus}
+Y,Y,Y,N,							Neck Crab
+,,,,								{Podochela sp.}
+Y,Y,Y,N,							Soft Coral Spider Crab
+,,,,								{Achaeus spinosus}
+Y,Y,Y,N,							Yellowline Arrow Crab
+,,,,								{Stenorhynchus seticornis}
+Y,Y,N,N,						Sumo Crabs
+,,,,							{Ethusidae}
+Y,Y,Y,N,							Jellyfish Carry Crab
+,,,,								{Ethusa sp.}
+Y,Y,Y,N,						Swimming Crabs
+,,,,							{Family Portunidae}
+Y,Y,N,N,							Blue Crabs
+Y,Y,Y,N,							Blue Swimming Crab
+,,,,								{Portunus pelagicus}
+Y,Y,Y,N,							Carupa sp.
+Y,Y,Y,N,							Charybdis sp.
+Y,Y,Y,N,							Harlequin Swimming Crab
+Y,Y,Y,N,							Portunus sp.
+Y,Y,Y,N,							Red Swimming Crab
+,,,,								{Charybdis paucidentata}
+Y,Y,Y,N,							Redhair Swimming Crab
+,,,,								{Portunus ordwayi}
+Y,Y,Y,N,							Scissor Swimming Crab
+,,,,								{Lupocyclus sp. 1}
+Y,Y,Y,N,							Sea Cucumber Swimming Crab
+,,,,								{Lissocarcinus orbicularis}
+Y,Y,Y,N,							Xenia Swimming Crab
+,,,,								{Caphyra sp. 1}
+Y,Y,Y,N,						Unknown Crab
+Y,Y,Y,N,						Unknown Sponge Crab
+Y,Y,N,N,						Urchin & Crinoid Crabs
+,,,,							{Eumedonidae}
+Y,Y,Y,N,							Zebra Urchin Crab
+,,,,								{Zebrida adamsii}
+Y,Y,Y,N,					Hermit Crabs
+Y,Y,Y,N,						Anemone Hermit Crab
+,,,,							{Dardanus pedunculatus}
+Y,Y,Y,N,						Beautiful Hermit Crab
+,,,,							{Calcinus pulcher}
+Y,Y,Y,N,						Blue-eye Hermit
+,,,,							{Paguristes sericeus}
+Y,Y,Y,N,						Coenobita brevimanus
+Y,Y,Y,N,						Dark Knee Hermit Crab
+,,,,							{Dardanus lagopodes}
+Y,Y,Y,N,						Giant Hermit Crab
+,,,,							{Petrochirus diogenes}
+Y,Y,Y,N,						Haig's Hermit Crab
+,,,,							{Calcinus haigae}
+Y,Y,Y,N,						Hermit Crab
+,,,,							{Aniculus Aniculus}
+Y,Y,Y,N,						Orange Hermit Crab
+,,,,							{Pseudopaguristes kuekenthali}
+Y,Y,Y,N,						Pagurus spp
+Y,Y,Y,N,						Red Reef Hermit
+Y,Y,Y,N,						Red Sea Anemone Hermit Crab
+,,,,							{Dardanus tinctor}
+Y,Y,Y,N,						Reef Hermit Crab
+,,,,							{Dardanus lagopodes}
+Y,Y,Y,N,						Small White Hermit Crab
+,,,,							{Calcinus minutus}
+Y,Y,Y,N,						Stareye Hermit
+,,,,							{Dardanus venosus}
+Y,Y,Y,N,						Unknown Hermit Crab
+Y,Y,Y,N,						White Speckled Hermit Crab
+,,,,							{Paguristes punticeps}
+Y,Y,Y,N,						White-spotted Hermit Crab
+,,,,							{Dardanus megistos}
+Y,Y,Y,N,					Lobsters
+Y,Y,N,N,						Crayfish
+Y,Y,Y,N,						Slipper Lobsters
+Y,Y,Y,N,							Fijian Locust Lobster
+,,,,								{Biarctus vitiensis}
+Y,Y,Y,N,							Locust Slipper Lobsters
+Y,Y,Y,N,							Painted Spiny Lobster
+,,,,								{Panulirus versicolor}
+Y,Y,Y,N,							Sculpted Slipper Lobster
+,,,,								{Parribacus antarcticus}
+Y,Y,Y,N,							Spanish Lobster
+,,,,								{Scyllarides aequinoctialis}
+Y,Y,N,N,						Spiny Lobsters
+,,,,							{Palinuridae}
+Y,Y,Y,N,							Caribbean Spiny Lobster
+,,,,								{Panulirus argus}
+Y,Y,Y,N,							Painted Spiny Lobster
+,,,,								{Panulirus versicolor}
+Y,Y,Y,N,					Shrimp
+Y,Y,Y,N,						Banded Coral Shrimp
+,,,,							{Stenopus hispidus}
+Y,Y,N,N,						Broken-back Shrimp
+,,,,							{Hippolytidae}
+Y,Y,Y,N,							Algae Shrimp
+,,,,								{Phycocaris simulans}
+Y,Y,Y,N,							Arrow Shrimp
+,,,,								{Tozeuma carolinense}
+Y,Y,Y,N,							Banded Tozeuma Shrimp
+,,,,								{Tozeuma armatum}
+Y,Y,Y,N,							Bignose Seagrass Shrimp
+,,,,								{Latreutes pymoeus}
+Y,Y,Y,N,							Common Marbled Shrimp
+,,,,								{Saron marmoratus}
+,,,,								{Saron spp.}
+Y,Y,Y,N,							Cryptic Sponge Shrimp
+,,,,								{Gelastocaris paronae}
+,,,,								{Paron Shrimp}
+Y,Y,Y,N,							Latreutes sp. 3
+Y,Y,Y,N,							Squat Anemone Shrimp
+,,,,								{Thor amboinensis}
+Y,Y,Y,N,							White-banded Cleaner Shrimp
+,,,,								{Lysmata amboinensis}
+Y,Y,N,N,						Commensal Shrimp
+,,,,							{Palaemonidae}
+Y,Y,Y,N,							Anker's Whip Coral Shrimp
+,,,,								{Pontonides ankeri}
+Y,Y,Y,N,							Brook's Urchin Shrimp
+,,,,								{Allopontonia brooki}
+Y,Y,Y,N,							Bubble Coral Shrimp
+,,,,								{Vir philippinensis}
+Y,Y,Y,N,							Clear Cleaner Shrimp
+,,,,								{Urocaridella antonbruunii}
+Y,Y,Y,N,							Coleman Shrimp
+,,,,								{Periclimenes colemani}
+Y,Y,Y,N,							Cuapetes sp.
+Y,Y,Y,N,							Donald Duck Shrimp
+,,,,								{Leander plumosus}
+Y,Y,Y,N,							Emperor Shrimp
+,,,,								{Periclimenes imperator}
+Y,Y,Y,N,							Graceful Anemone Shrimp
+,,,,								{Ancylomenes venustus}
+Y,Y,Y,N,							Hidden Corallimorph Shrimp
+,,,,								{Pliopontonia furtiva}
+Y,Y,Y,N,							Holthuis' Anemone Shrimp
+,,,,								{Ancylomenes holthuisi}
+Y,Y,Y,N,							Laomenes sp.
+Y,Y,Y,N,							Magnificent Anemone Shrimp
+,,,,								{Ancylomenes magnificus}
+Y,Y,Y,N,							Mushroom Coral Shrimp
+,,,,								{Periclimenes kororensis}
+Y,Y,Y,N,							Ornate Anemone Shrimp
+,,,,								{Periclimenes ornata}
+Y,Y,Y,N,							Peacock-tail Anemone Shrimp
+,,,,								{Periclimenes brevicarpalis}
+Y,Y,Y,N,							Red Claw Cuapetes Shrimp
+,,,,								{Cuapetes tenuipes}
+,,,,								{Periclimenes tenuipes}
+Y,Y,Y,N,							Sarasvati Anemone Shrimp
+,,,,								{Periclimenes sarasvati}
+Y,Y,Y,N,							Sea Star Shrimp
+,,,,								{Periclimenes soror}
+Y,Y,Y,N,							Zanzibar Whip Coral Shrimp
+,,,,								{Dasycaris zanzibarica}
+Y,Y,Y,N,						Dragon Shrimp
+,,,,							{Miropandalus hardingi}
+Y,Y,Y,N,						Golden Coral Shrimp
+Y,Y,Y,N,						Harlequin Shrimp
+,,,,							{Hymenocera elegans}
+Y,Y,Y,N,						Hinge-beak Shrimp
+,,,,							{Rhynchocinetidae}
+Y,Y,Y,N,							Dancing Shrimp
+,,,,								{Rhynchocinetes durbanensis}
+Y,Y,Y,N,						Inshore Hairy Shrimp
+,,,,							{Neostylodactylus litoralis}
+Y,Y,Y,N,						Long-arm Cleaner Shrimp
+,,,,							{Periclimenes longicarpus}
+Y,Y,Y,N,						Palaemonid Shrimps
+,,,,							{Palaemonida}
+Y,Y,Y,N,							Pederson Cleaner Shrimp
+Y,Y,Y,N,							Spotted Cleaner Shrimp
+,,,,								{Periclimenes rathbunae}
+Y,Y,Y,N,							Striped Bumblebee Shrimp
+,,,,								{Gnathophyllum americanum}
+Y,Y,Y,N,							Sun Anemone Shrimp
+,,,,								{Periclimenes rathbunae}
+Y,Y,Y,N,						Peppermint Shrimp
+Y,Y,Y,N,						Prawns
+,,,,							{Penaeidae}
+Y,Y,Y,N,							Humpback Prawn
+,,,,								{Metapenaeopsis lamellata}
+Y,Y,Y,N,							Long Arm Prawn
+,,,,								{Heteropenaeus longimanus}
+Y,Y,Y,N,						Scarlet-striped Cleaning Shrimp
+Y,Y,Y,N,						Snapping Shrimp
+,,,,							{Alpheidae}
+Y,Y,Y,N,							Algae-tube Snapping Shrimp
+,,,,								{Alpheus frontalis}
+Y,Y,Y,N,							Alpheus sp.
+Y,Y,Y,N,							Randall's Snapping Shrimp
+,,,,								{Alpheus randalli}
+Y,Y,Y,N,							Red Snapping Shrimp
+,,,,								{Alpheus armatus}
+Y,Y,Y,N,							Stimpson's Snapping Shrimp
+,,,,								{Synalpheus stimpsoni}
+Y,Y,Y,N,							Tiger Snapping Shrimp
+,,,,								{Alpheus bellulus}
+Y,Y,Y,N,						Spiny Tiger Shrimp
+,,,,							{Phyllognathia ceratophthalmus}
+Y,Y,Y,N,						Unknown Night Shrimp
+Y,Y,Y,N,						Urocaridella sp.
+Y,Y,Y,N,						Velvet Shrimp
+Y,Y,N,N,					Squat Lobsters & Porcelain Crabs
+Y,Y,Y,N,						Porcelain Crabs
+,,,,							{Family Porcellanidae}
+Y,Y,Y,N,							Aliaporcellana sp.
+,,,,								{Aliaporcellana sp. 5}
+Y,Y,Y,N,							Soft Coral Porcelain Crab
+,,,,								{Lissopocellana nakasonei}
+Y,Y,Y,N,							Spotted Porcelain Crab
+,,,,								{Neopetrolisthes maculatus}
+Y,Y,Y,N,							Three-lobed Porcelain Crab
+,,,,								{Porcellanella triloba}
+Y,Y,Y,N,						Squat Lobsters
+,,,,							{Infraorder Anomura}
+Y,Y,Y,N,							Baba's Crinoid Squat Lobster
+,,,,								{Allogalathea babai}
+Y,Y,Y,N,							Elegant Crinoid Squat Lobster
+,,,,								{Allogalathea elegans}
+Y,Y,Y,N,							Galathea sp.
+Y,Y,Y,N,							Hairy Squat Lobster
+,,,,								{Lauriea siagiani}
+Y,Y,Y,N,							Olivar's Squat Lobster
+,,,,								{Munida olivarae}
+Y,Y,Y,N,							Spider Squat Lobster
+,,,,								{Chirostylus sandyi}
+Y,Y,Y,N,				Mantis Shrimp
+,,,,					{Order Stomatapoda}
+,,,,					{Stomatapoda}
+Y,Y,Y,N,					Blue Spot Mantis
+,,,,						{Haptosquilla stoliura}
+Y,Y,Y,N,					Checkered-eye Mantis
+,,,,						{Pseudosquilla ciliata}
+Y,Y,Y,N,					Ciliated False Squilla
+,,,,						{Pseudosquilla ciliate}
+Y,Y,Y,N,					Dark Mantis
+,,,,						{Neogonodactylus curacaoensis}
+Y,Y,Y,N,					Golden Mantis
+,,,,						{Lysiosquilloides mapia}
+Y,Y,Y,N,					Keel Tail Mantis
+,,,,						{Odontodactylus cultrifer}
+Y,Y,Y,N,					Peacock Mantis
+,,,,						{Odontodactylus scyllarus}
+Y,Y,Y,N,					Pink-eared Mantis
+,,,,						{Odontodactylus latirostris}
+Y,Y,Y,N,					Purple Spot Mantis
+,,,,						{Gonodactylus smithii}
+Y,Y,Y,N,					Short Beak Mantis
+,,,,						{Odontodactylus brevirostris}
+Y,Y,Y,N,					Tiger Mantis
+,,,,						{Lysiosquilla maculata}
+Y,Y,Y,N,				Unknown crustacean
+Y,Y,N,N,			Insects
+Y,Y,Y,N,				Ants
+Y,Y,N,N,				Bees
+Y,N,N,N,					Bumblebees
+,,,,						{Bombus}
+Y,Y,Y,N,				Beetles
+Y,Y,Y,N,				Butterflies and Moths
+Y,Y,Y,N,					Acacia Butterfly
+Y,Y,Y,N,					Glasswing Butterfly
+Y,Y,Y,N,					Leaf Butterfly
+Y,Y,Y,N,					Long-tail Swallowtail
+Y,Y,Y,N,					Sphinx Moths
+Y,Y,Y,N,						Tetrio Sphinx
+,,,,							{Pseudosphinx tetrio}
+Y,Y,Y,N,					Yellow Swallowtail
+Y,Y,Y,N,				Caterpillar
+Y,Y,Y,N,				Damselflies
+Y,Y,N,N,				Dragonflies
+Y,Y,Y,N,				Grasshoppers
+Y,Y,N,N,				Moths
+Y,Y,Y,N,				Praying Mantis
+Y,Y,N,N,			Millipedes
+Y,Y,Y,N,			Sea Spiders
+,,,,				{Pycnogonida}
+Y,Y,N,N,		Bryozoans
+,,,,			{Phylum Ectoprocta}
+Y,Y,Y,N,		Cnidarians
+Y,Y,Y,N,			Anthozoa
+Y,Y,Y,N,				Anemones
+Y,Y,Y,N,					Beaded Anemone
+,,,,						{Heteractis aurora}
+Y,Y,Y,N,					Branching Anemone
+,,,,						{Lebrunia danae}
+Y,Y,Y,N,					Bubble Anemone
+,,,,						{Entacmaea quadricolor}
+Y,Y,Y,N,					Bulb Tentacle Anemone
+,,,,						{Entacmaea quadricolor}
+Y,Y,Y,N,					Corkscrew Anemone
+Y,Y,Y,N,					Corkscrew Tentacle Sea Anemone
+,,,,						{Macrodactyla doreensis}
+Y,Y,Y,N,					Fish-eating Anemone
+,,,,						{Urticina piscivora}
+Y,Y,Y,N,					Giant Anemone
+,,,,						{Condylactis gigantea}
+Y,Y,Y,N,					Haddon's Anemone
+,,,,						{Stichodactyla haddoni}
+Y,Y,Y,N,					Hemprich's Fire Anemone
+,,,,						{Megalactis hemprichii}
+Y,Y,Y,N,					Hermit Crab Anemone
+,,,,						{Calliactis polypus}
+Y,Y,Y,N,					Hermit Crab Anemone (Philippines)
+,,,,						{Calliactis sp.}
+Y,Y,Y,N,					Hidden Anemone
+,,,,						{Lebrunia coralligens}
+Y,Y,Y,N,					Leathery Anemone
+,,,,						{Heteractis crispa}
+Y,Y,Y,N,					Magnificent Anemone
+,,,,						{Heteractis magnifica}
+,,,,						{Ritteri Anemone}
+Y,Y,Y,N,					Merten's Anemone
+,,,,						{Stichodactyla mertensii}
+Y,Y,Y,N,					Orange Ball Corallimorph
+,,,,						{Pseudocorynactis sp.}
+Y,Y,Y,N,					Snake Tentacle Anemone
+,,,,						{Actinostephanus haeckeli}
+Y,Y,Y,N,					Sun Anemone
+,,,,						{Stichodactyla helianthus}
+Y,Y,Y,N,					Unknown anemone
+Y,Y,Y,N,					White-plumed Anemone (Metridium)
+Y,Y,Y,N,				Black Corals
+Y,Y,Y,N,					Branching Black Coral
+Y,Y,Y,N,					Cirrhipathes anguina
+Y,Y,Y,N,					Cirripathes sp.
+Y,Y,Y,N,					Feather Black Coral
+,,,,						{Antipathes pennacea}
+Y,Y,Y,N,				Corallimoprhs
+Y,Y,Y,N,					Florida Corralimorph
+,,,,						{Ricordea florida}
+Y,Y,Y,N,					Rhodactis rhodostoma
+Y,Y,N,N,				Octocorals
+,,,,					{Octocorallia}
+Y,Y,N,N,					Gorgonians
+,,,,						{Gorgonacea}
+Y,Y,Y,N,						Encrusting Gorgorian
+Y,Y,Y,N,						Red Polyp Octocoral
+,,,,							{Swiftia exserta}
+Y,Y,Y,N,						Sea Fans
+Y,Y,Y,N,							Common Sea Fan
+,,,,								{Gorgonia ventalina}
+Y,Y,Y,N,							Giant Sea Fan
+,,,,								{Annella mollis}
+Y,Y,Y,N,							Wide-mesh Sea Fan
+,,,,								{Gorgonia mariae}
+Y,Y,N,N,						Sea Plumes
+Y,Y,N,N,						Sea Rods
+Y,Y,Y,N,							Bent Sea Rod
+,,,,								{Plexaura flexuosa}
+Y,Y,Y,N,							Orange Spiny Sea Rod
+,,,,								{Muricea elongata}
+Y,Y,Y,N,							Swollen-knob Candelabrum
+,,,,								{Eunicea mammosa}
+Y,Y,Y,N,						Sea Whip
+Y,Y,Y,N,						Yellow Sea Whip
+,,,,							{Pterogorgia citrina}
+Y,Y,Y,N,					Sea Pens
+Y,Y,Y,N,						Veretillum sp.
+Y,Y,Y,N,					Soft Corals
+Y,Y,Y,N,						Leather Corals
+Y,Y,Y,N,							Rough Leather Coral
+,,,,								{Sarcophyton glaucum}
+Y,Y,Y,N,							Slimy Leather Coral
+,,,,								{Sarcophyton trocheliophorum}
+Y,Y,N,N,						Nephtheidae
+Y,Y,Y,N,						Pachyclavularia violacea
+Y,Y,Y,N,						Stolonifera
+,,,,							{Stolonifera}
+Y,Y,Y,N,							Daisy Corals
+Y,Y,Y,N,							Organpipe Coral
+,,,,								{Tubipora musica}
+Y,Y,Y,N,						Tree Corals
+Y,Y,Y,N,							Divaricate Tree Coral
+,,,,								{Dendronephthya (Roxasia)}
+Y,Y,Y,N,							Glomerate Tree Coral
+,,,,								{Dendronephthya (Spongodes)}
+Y,Y,Y,N,							Siphonogorgia godeffroyi
+Y,Y,Y,N,						Xenids
+Y,Y,Y,N,							Feathery Xenid
+Y,Y,Y,N,							Heteroxenia sp.
+Y,Y,Y,N,							Pulsating Xenid
+,,,,								{Heteroxenia fuscescens}
+Y,Y,Y,N,							Umbrella xenia
+,,,,								{Xenia umbrellata}
+Y,Y,Y,N,							Xenia sp.
+Y,Y,Y,N,				Stony Corals
+Y,Y,Y,N,					Anacropora forbesi
+Y,Y,Y,N,					Anemone Coral
+Y,Y,Y,N,						Alveopora sp.
+Y,Y,Y,N,						Dome Coral
+,,,,							{Porites nodifera}
+Y,Y,Y,N,						Goniopora columna
+Y,Y,Y,N,						Goniopora sp.
+Y,Y,Y,N,						Mountain Coral
+,,,,							{Porites lutea}
+Y,Y,Y,N,					Brain Corals
+Y,Y,Y,N,						Boulder Brain Coral
+,,,,							{Colpophyllia natans}
+Y,Y,Y,N,						Grooved Brain Coral
+Y,Y,Y,N,						Maze Coral
+,,,,							{Meandrina meandrites}
+Y,Y,Y,N,						Rose Coral
+,,,,							{Manicina areolata}
+Y,Y,Y,N,						Symmetrical Brain Coral
+Y,Y,Y,N,					Bubble Coral
+,,,,						{Plerogyra sinuosa}
+Y,Y,Y,N,					Cactus Coral
+Y,Y,N,N,					Cup Corals
+,,,,						{Dendrophylliidae}
+Y,Y,Y,N,						Orange Cup Coral
+,,,,							{Tubastraea coccinea}
+Y,Y,Y,N,						Tubastraea cf. faulkneri
+Y,Y,Y,N,					Disc Corals
+Y,Y,Y,N,					Euphyllia ancora
+Y,Y,N,N,					Finger Coral
+Y,Y,Y,N,						Pocillopora verrucosa
+Y,Y,Y,N,						Stylophora subseriata
+Y,Y,Y,N,					Fleshy Corals
+Y,Y,Y,N,						Disc corals (Mushroom & Artichoke)
+,,,,							{Scolymia sp.}
+Y,Y,Y,N,						Fungia scutaria
+Y,Y,Y,N,						Knobby Cactus Coral
+,,,,							{Mycetophyllia aliciae}
+Y,Y,Y,N,						Ridged Cactus Coral
+,,,,							{Mycetophyllia lamarckiana}
+Y,Y,Y,N,						Rough Cactus Coral
+,,,,							{Mycetophyllia ferox}
+Y,Y,Y,N,					Goniastrea peresi
+Y,Y,Y,N,					Leaf & Plate & Sheet Corals
+Y,Y,Y,N,						Lettuce Coral
+Y,Y,Y,N,						Pavona cactus
+Y,Y,Y,N,						Sunray Lettuce Coral
+,,,,							{Helioceris cucullata}
+Y,Y,Y,N,						Thin Leaf Lettuce Coral
+,,,,							{Agaricia tenuifolia}
+Y,Y,Y,N,					Leafy Cup Coral
+,,,,						{Turbinaria reniformis}
+Y,Y,Y,N,					Mustard Hill Coral
+,,,,						{Porites astreoides}
+Y,Y,Y,N,					Orange Cup Coral
+Y,Y,Y,N,					Pillar Coral
+,,,,						{Dendrogyra cylindrus}
+Y,Y,Y,N,					Smooth Flower Coral
+Y,Y,Y,N,					Spiny Flower Coral
+Y,Y,N,N,					Staghorn Corals
+Y,Y,Y,N,						Acropora cerealis
+Y,Y,Y,N,						Acropora cervicornis
+Y,Y,Y,N,						Acropora lamarcki
+Y,Y,Y,N,						Acropora microlados
+Y,Y,Y,N,						Acropora pharaonis
+Y,Y,N,N,					Star Corals
+Y,Y,Y,N,						Elliptical Star Coral
+,,,,							{Dichocoenia stokesi}
+Y,Y,Y,N,						Great Star Coral
+,,,,							{Montastraea cavernosa}
+Y,Y,Y,N,						Star Coral
+Y,Y,Y,N,					Stylophora pistillata
+Y,Y,Y,N,					Yellow Pencil Coral
+Y,Y,Y,N,				Tube-dwelling Anemone
+,,,,					{Ceriantharia}
+Y,Y,N,N,				Zoanthids
+Y,Y,Y,N,					Corynactis californica
+Y,Y,Y,N,					Golden Zoanthid
+Y,Y,Y,N,			Hydrocorals
+Y,Y,Y,N,				Fire Coral
+Y,Y,Y,N,					Net Fire Coral
+,,,,						{Millpora dichotoma}
+Y,Y,Y,N,					Plate Fire Coral
+,,,,						{Millepora platyphylla}
+Y,Y,Y,N,				Lace Corals
+Y,Y,Y,N,					Stylaster sp.
+Y,Y,N,N,			Hydroids
+Y,Y,Y,N,			Jellyfishes
+Y,Y,Y,N,				Moon Jelly
+,,,,					{Aurelia aurita}
+Y,Y,Y,N,				Upsidedown Jellyfishes
+Y,Y,Y,N,					Cassiopea andromeda
+Y,Y,Y,N,					Cassiopea frondosa
+Y,Y,Y,N,		Comb Jellies
+,,,,			{Ctenophora}
+Y,Y,Y,N,		Echinoderms
+Y,Y,Y,N,			Brittle and Basket Stars
+Y,Y,N,N,				Basket Stars
+,,,,					{Gorgonocephalidae}
+Y,Y,Y,N,					Giant Basket Star (Atlantic)
+,,,,						{Astrophyton muricatum}
+Y,Y,Y,N,					Giant Basket Star (Pacific)
+,,,,						{Astroboa nuda}
+,,,,						{Gorgon Head}
+Y,Y,Y,N,				Brittle Stars
+,,,,					{Ophiotrichidae}
+Y,Y,Y,N,					Banded-arm Brittle Star
+,,,,						{Ophioderma appressum}
+Y,Y,Y,N,					Dark Red-Spined Brittle Star
+,,,,						{Ophiothrix purpurea}
+Y,Y,Y,N,					Janus' Brittle Star
+,,,,						{Ophiomastix janualis}
+Y,Y,Y,N,					Ophiothrix sp
+,,,,						{Ophiothrix sp}
+Y,Y,Y,N,					Savigny's Brittle Star
+,,,,						{Ophiothrix savignyi}
+Y,Y,Y,N,					Six-arm Brittle Star
+,,,,						{Ophiothela danae}
+Y,Y,Y,N,					Snake Brittle Star
+,,,,						{Ophioderma longicauda}
+Y,Y,Y,N,					Sponge Brittle Star
+,,,,						{Ophiothrix suensonii}
+Y,Y,Y,N,					Spotted-disc Brittle Star
+,,,,						{Ophiomastix caryophyllata}
+Y,Y,Y,N,			Crinoids and Feather Stars
+Y,Y,Y,N,				Chadwick's Feather Star
+,,,,					{Decametra chadwicki}
+Y,Y,Y,N,				Comantheria briareus
+Y,Y,Y,N,				Comaster gracilis
+Y,Y,Y,N,				Golden Crinoid
+,,,,					{Davidaster rubiginosa}
+Y,Y,Y,N,				Klunzinger's Feather Star
+Y,Y,Y,N,				Savigny's Feather Star
+Y,Y,Y,N,				Sawtoothed Feather Star
+,,,,					{Oligometra serripinna}
+Y,Y,Y,N,			Sea Cucumbers
+Y,Y,Y,N,				Amberfish Sea Cucumber
+,,,,					{Thelenota anax}
+Y,Y,Y,N,				Black sea cucumber
+,,,,					{Holothuria atra}
+Y,Y,Y,N,				Blackspotted Sea Cucumber
+,,,,					{Bohadschia graeffei}
+,,,,					{Personothuria graeffei}
+,,,,					{Blackmouth Sea Cucumber}
+Y,Y,Y,N,				Bohadschia sp.
+Y,Y,Y,N,				Conical Sea Cucumber
+,,,,					{Eostichopus amesoni}
+Y,Y,Y,N,				Conspicuous Sea Cucumber
+,,,,					{Opheodesoma spectabilis}
+Y,Y,Y,N,				Creamy Sea Cucumber
+Y,Y,Y,N,				Donkey Dung Sea Cucumber
+Y,Y,Y,N,				Euapta sp
+Y,Y,Y,N,				Five-toothed Sea Cucumber
+,,,,					{Actinopygia agassizii}
+Y,Y,Y,N,				Furry Sea Cucumber
+,,,,					{Astichopus multifidus}
+Y,Y,Y,N,				Greenfish Sea Cucumber
+,,,,					{Stichopus chloronotus}
+Y,Y,Y,N,				Lampert's Sea Cucumber
+,,,,					{Synaptula lamperti}
+Y,Y,Y,N,				Lion's Paw Sea Cucumber
+,,,,					{Euapta godeffroyi}
+Y,Y,Y,N,				Pineapple Sea Cucumber
+,,,,					{Thelenota ananas}
+Y,Y,Y,N,				Prickly Cucumber
+Y,Y,Y,N,				Synaptula reciprocans
+,,,,					{Synaptula reciprocans}
+Y,Y,Y,N,				Three-rowed Sea Cucumber
+,,,,					{Isotichopus badionotus}
+Y,Y,Y,N,				Tiger Tail Sea Cucumber
+Y,Y,Y,N,				Tubercle Cucumber
+,,,,					{Stichopus pseudohorrens}
+Y,Y,Y,N,				Unknown Sea Cucumber
+Y,Y,Y,N,				White Spot Sea Cucumber
+,,,,					{Holothuria poli}
+Y,Y,Y,N,				Whiteline Sea Cucumber
+,,,,					{Synaptula media}
+Y,Y,Y,N,				Worm Cucumber
+,,,,					{Synapta maculata}
+Y,Y,Y,N,				Yellow Sea Cucumber
+,,,,					{Colochirus robustus}
+Y,Y,Y,N,			Sea Stars
+Y,Y,Y,N,				Bat Star
+,,,,					{Asterina miniata}
+Y,Y,Y,N,				Blue Sea Star
+,,,,					{Linckia laevigata}
+Y,Y,Y,N,				Brown Mesh Sea Star
+,,,,					{Nardoa galatheae}
+Y,Y,Y,N,				Bumpy Sea Star
+,,,,					{Gomophia gomophia}
+Y,Y,Y,N,				Chocolate Chip Sea Star
+,,,,					{Protoreaster nodosus}
+Y,Y,Y,N,				Crown-of-Thorns Sea Star
+,,,,					{Acanthaster planci}
+Y,Y,Y,N,				Cushion Sea Star
+,,,,					{Oreaster reticulatus}
+Y,Y,Y,N,				Cushion Star
+,,,,					{Culcita novaeguineae}
+Y,Y,Y,N,				Ghardaqa Sea Star
+Y,Y,Y,N,				Giant Spined Star
+,,,,					{Pisaster giganteus}
+Y,Y,Y,N,				Granular Sea Star
+,,,,					{Choriaster granulatus}
+Y,Y,Y,N,				Honeycomb Sea Star
+,,,,					{Pentaceraster alveolatus}
+Y,Y,Y,N,				Leather Star
+Y,Y,Y,N,				Luzon Sea Star
+,,,,					{Echinaster luzonicus}
+Y,Y,Y,N,				Peppermint Sea Star
+,,,,					{Fromia monilis}
+Y,Y,Y,N,				Red Sea Star
+,,,,					{Mediaster aequalis}
+Y,Y,Y,N,				Red Starfish
+,,,,					{Echinaster sepositus}
+Y,Y,Y,N,				Spiny Sea Star
+,,,,					{Gomophia egeriae}
+Y,Y,Y,N,				Thorny Sea Star
+Y,Y,Y,N,				Warty Mesh Sea Star
+,,,,					{Nardoa tuberculata}
+Y,Y,Y,N,				Warty Sea Star
+,,,,					{Echinaster callosus}
+Y,Y,Y,N,			Sea Urchins
+Y,Y,Y,N,				Bell's Sea Urchin
+,,,,					{Salmacis belli}
+Y,Y,Y,N,				Black Longspine Sea Urchin
+,,,,					{Diadema setosum}
+Y,Y,Y,N,				Black Sea Urchin
+,,,,					{Arbacia lixula}
+Y,Y,Y,N,				Blue-black Urchin
+,,,,					{Echinothrix diadema}
+Y,Y,Y,N,				Cake Urchin
+,,,,					{Collector Urchin}
+,,,,					{Tripneustes gratilla}
+Y,Y,Y,N,				Common Long-spined Urchin
+,,,,					{Diadema paucispinum}
+Y,Y,Y,N,				Double-spined Urchin
+,,,,					{Echinothrix calamaris}
+Y,Y,Y,N,				Heart Urchins
+Y,Y,Y,N,					Hearth Heart Urchin
+,,,,						{Maretia planulata}
+Y,Y,N,N,					Unknown Heart Urchin
+,,,,						{Brissiosis sp. or Metalia sp.}
+Y,Y,Y,N,				Imperial Urchin
+,,,,					{Phyllacanthus imperialis}
+Y,Y,Y,N,				Long-spined Urchin
+,,,,					{Diadema antillarum}
+Y,Y,Y,N,				Purple Sea Urchin
+Y,Y,Y,N,				Radiant Sea Urchin
+,,,,					{Astropyga radiata}
+Y,Y,Y,N,				Red Heart Urchin
+,,,,					{Meoma ventricosa ventricosa}
+Y,Y,Y,N,				Red Sea Urchin
+,,,,					{Strongylocentrotus franciscanus}
+Y,Y,Y,N,				Rock-boring Urchin
+,,,,					{Echinometra lucunter lucunter}
+Y,Y,Y,N,				Sand Dollars
+Y,Y,Y,N,					Inflated Sea Biscuit
+,,,,						{Clypeaster rosaceus}
+Y,Y,Y,N,				Savigny's Longspine Sea Urchin
+,,,,					{Diadema savignyi}
+Y,Y,Y,N,				Six-Keyhole Sand Dollar
+Y,Y,Y,N,				Slate-pencil Urchin
+,,,,					{Heterocentrotus mammillatus}
+Y,Y,Y,N,				Stained Urchin
+,,,,					{Pseudoboletia maculata}
+Y,Y,Y,N,				Variable Fire Urchin
+,,,,					{Asthenosoma varium}
+Y,Y,Y,N,				Variegated Urchin
+,,,,					{Lytechinus variegatus}
+Y,Y,Y,N,				West Indian Sea Egg
+,,,,					{Tripneustes ventricosus}
+Y,Y,Y,N,		Flatworms
+Y,Y,Y,N,			Acanthozoon sp.
+Y,Y,Y,N,			Brilliant Flatworm
+,,,,				{Pseudoceros scintillatus}
+Y,Y,Y,N,			Fuscia Flatworm
+,,,,				{Pseudoceros ferrugineus}
+Y,Y,Y,N,			Gold-dotted Flatworm
+,,,,				{Thysanozoon sp.}
+Y,Y,Y,N,			Gravier's Flatworm
+,,,,				{Pseudoceros gravieri}
+Y,Y,Y,N,			Hancock's Flatworm
+,,,,				{Pseudobiceros hancockanus}
+Y,Y,Y,N,			Laing Island Flatworm
+,,,,				{Pseudoceros laingensis}
+Y,Y,Y,N,			One Tree Island Flatworm
+,,,,				{Pseudobiceros uniarborensis}
+Y,Y,Y,N,			Orange and Gray Margin Flatworm
+,,,,				{Callioplana marginata}
+Y,Y,Y,N,			Persian Carpet Flatworm
+,,,,				{Pseudobiceros bedfordi}
+Y,Y,Y,N,			Prostheceraeus sp. 1
+Y,Y,Y,N,			Pseudoceros sp.
+Y,Y,Y,N,			Pseudoceros sp. 14
+Y,Y,Y,N,			Racing Stripe Flatworm
+,,,,				{Pseudoceros bifurcus}
+Y,Y,Y,N,			Sapphire Flatworm
+,,,,				{Pseudoceros sapphirinus}
+Y,Y,Y,N,			Script Flatworm
+,,,,				{Pseudoceros scriptus}
+Y,Y,Y,N,			Single Stripe Flatworm
+,,,,				{Pseudoceros monostichos}
+Y,Y,Y,N,			Thysanozoon sp.
+Y,Y,Y,N,			Undescribed Polyclad Flatworm
+Y,Y,Y,N,			Unknown Flatworm
+Y,Y,Y,N,			Waminoa sp. 1
+Y,Y,Y,N,		Mollusks
+Y,Y,Y,N,			Bivalves
+Y,Y,Y,N,				Amber Penshell
+,,,,					{Pinna camea}
+Y,Y,Y,N,				Common Giant Clam
+,,,,					{Tridacna maxima}
+Y,Y,Y,N,				Electric Fileclam
+,,,,					{Ctenoides ales}
+Y,Y,Y,N,				Fluted Giant Clam
+,,,,					{Tridacna squamosa}
+Y,Y,Y,N,				Honeycomb Oyster
+,,,,					{Hyoyissa hyotis}
+Y,Y,Y,N,				Iridescent Scallop
+,,,,					{Pedum spondyloideum}
+,,,,					{Coral Scallop}
+Y,Y,N,N,				Pearl Oysters
+,,,,					{Pteriidae}
+Y,Y,Y,N,					Common Wing Oyster
+,,,,						{Pteria penguin}
+Y,Y,Y,N,					Pacific Pearl Oyster
+,,,,						{Pinctada margaritifera}
+Y,Y,Y,N,				Rough Fileclam
+,,,,					{Lima scabra}
+Y,Y,N,N,				Thorny Oysters
+,,,,					{Spondylidae}
+Y,Y,Y,N,					Atlantic Thorny-oyster
+,,,,						{Spondylus americanus}
+Y,Y,Y,N,					Scaly Thorny Oyster
+,,,,						{Spondylus squamosus}
+Y,Y,Y,N,					Variable Thorny Oyster
+,,,,						{Spondylus varians}
+Y,Y,N,N,			Cephalopods
+,,,,				{Class Cephalopoda}
+Y,Y,N,N,				Cuttlefishes
+,,,,					{Order Sepiida}
+Y,Y,Y,N,					Broadclub Cuttlefish
+,,,,						{Sepia latimanus}
+Y,Y,Y,N,					Common Cuttlefish
+Y,Y,Y,N,					Dwarf Cuttlefish
+,,,,						{Sepia bandensis}
+,,,,						{Pygmy Cuttlefish}
+Y,Y,Y,N,					Flamboyant Cuttlefish
+,,,,						{Metasepia pfefferi}
+Y,Y,Y,N,					Golden Cuttlefish
+,,,,						{Sepia esculenta}
+Y,Y,Y,N,					Hooded Cuttlefish
+,,,,						{Sepia prashadi}
+Y,Y,Y,N,					Needle Cuttlefish
+,,,,						{Sepia aculeata}
+Y,Y,Y,N,					Pharaoh Cuttlefish
+,,,,						{Sepia pharaonis}
+Y,Y,N,N,				Octopuses
+,,,,					{Order Octopoda}
+Y,Y,Y,N,					Algae Octopus
+,,,,						{Abdopus aculeatus}
+Y,Y,Y,N,					Atlantic Longarm Octopus
+,,,,						{Octopus defilippi}
+Y,Y,Y,N,					Atlantic Pygmy Octopus
+,,,,						{Octopus joubini}
+Y,Y,Y,N,					Caribbean Reef Octopus
+,,,,						{Octopus briareus}
+Y,Y,Y,N,					Coconut Octopus
+,,,,						{Amphioctopus marginatus}
+Y,Y,Y,N,					Common Octopus
+,,,,						{Octopus vulgaris}
+Y,Y,Y,N,					Day Octopus
+,,,,						{Octopus cyanea}
+Y,Y,Y,N,					Greater Blue-ringed Octopus
+,,,,						{Hapalochlaena lunulata}
+Y,Y,Y,N,					Hapalochlaena sp.
+Y,Y,Y,N,					Mimic Octopus
+,,,,						{Thaumoctopus mimicus}
+Y,Y,Y,N,					Mosaic Octopus
+,,,,						{Abdopus abaculus}
+Y,Y,Y,N,					Poison Ocellate Octopus
+,,,,						{Amphioctopus siamensis}
+Y,Y,Y,N,					White-V Octopus
+,,,,						{Long Arm Octopus}
+,,,,						{Abdopus sp.}
+Y,Y,Y,N,					Wunderpus
+,,,,						{Wunderpus photogenicus}
+Y,Y,N,N,				Pygmy & Bobtail & Bottletail Squids
+,,,,					{Sepiolida}
+Y,Y,N,N,					Bobtail Squids
+,,,,						{Sepiolidae}
+Y,Y,Y,N,						Berry's Bobtail Squid
+,,,,							{Euprymna berryi}
+Y,Y,N,N,					Pygmy Squids
+,,,,						{Idiosepiidae}
+Y,Y,Y,N,						Idiosepius sp.
+Y,Y,Y,N,				Squids
+Y,Y,Y,N,					Bigfin Reef Squid
+,,,,						{Sepioteuthis lessoniana}
+,,,,						{Common Reef Squid}
+Y,Y,Y,N,					Caribbean Reef Squid
+,,,,						{Sepioteuthis sepiodea}
+Y,Y,N,N,			Chitons
+,,,,				{Polyplacophora}
+Y,Y,Y,N,				Gumboot Chiton
+,,,,					{Cryptochiton stelleri}
+Y,Y,Y,N,			Gastropods
+Y,Y,N,N,				Sea Slugs
+,,,,					{Subclass Opisthobranchia}
+Y,Y,Y,N,					Headshield Slugs
+,,,,						{Order Cephalaspidea}
+Y,Y,Y,N,						Chelidonura amoena
+,,,,							{Lovely Headshield Slug}
+Y,Y,Y,N,						Chelidonura hirundinina
+,,,,							{Swallowtail Headshield Slug}
+Y,Y,Y,N,						Chelidonura inornata
+,,,,							{Headband Headshield Slug}
+Y,Y,Y,N,						Chelidonura varians
+,,,,							{Blue Velvet Headshield Slug}
+Y,Y,Y,N,						Micromelo undata
+,,,,							{Miniature Melo}
+Y,Y,Y,N,						Philinopsis speciosa
+,,,,							{Showy Headshield Slug}
+Y,Y,Y,N,						Sagaminopteron nigropunctatum
+Y,Y,Y,N,						Sagaminopteron psychedelicum
+,,,,							{Psychedelic Batwing Slug}
+Y,Y,Y,N,						Yellow Lip Shield Slug
+,,,,							{Chelidonura flavolobata}
+Y,Y,Y,N,					Nudibranchs
+Y,Y,N,N,						Aeolid Nudibranchs
+,,,,							{Suborder Aeolidina}
+Y,Y,Y,N,							Eubranchidae
+Y,Y,Y,N,								Eubranchus mandapamensis
+Y,Y,Y,N,								Eubranchus sp. 22
+Y,Y,Y,N,								Eubranchus sp. 25 (Brown Eubranchus)
+Y,Y,Y,N,							Facelinidae
+Y,Y,Y,N,								Caloria indica
+,,,,									{Indian Caloria}
+Y,Y,Y,N,								Cratena simba
+Y,Y,Y,N,								Facelinid sp. (Red-spotted Facelinid)
+,,,,									{Red-spotted Facelinid}
+Y,Y,Y,N,								Favorinus tsurganus
+,,,,									{Ringed Favorinus}
+Y,Y,Y,N,								Pteraeolidia semperi
+,,,,									{Blue Dragon}
+Y,Y,Y,N,							Fionidae
+Y,Y,Y,N,								Cuthona yamasui
+,,,,									{Yamasu's Cuthona}
+Y,Y,Y,N,							Flabellinidae
+Y,Y,Y,N,								Coryphellina exopata
+,,,,									{Desirable Coryphellina}
+Y,Y,Y,N,								Coryphellina rubrolineata
+,,,,									{Redline Flabellina}
+,,,,									{Redline Coryphellina}
+Y,Y,Y,N,								Coryphellina sp. (Pale Coryphellina)
+Y,Y,Y,N,								Flabellina engeli
+,,,,									{White-patch Aeolid}
+Y,Y,Y,N,								Flabellinopsis iodinea
+Y,Y,Y,N,							Myrrhinidae
+Y,Y,Y,N,								Dondice occidentalis
+,,,,									{Fringe-back Nudibranch}
+Y,Y,Y,N,								Hermissenda crassicornis
+Y,Y,Y,N,								Phyllodesmium briareum
+,,,,									{Yellow-tipped Phyllodesmium}
+Y,Y,Y,N,								Phyllodesmium colemani
+,,,,									{Coleman's Phyllodesmium}
+Y,Y,Y,N,								Phyllodesmium crypticum
+,,,,									{Cryptic Phyllodesmium}
+Y,Y,Y,N,								Phyllodesmium pinnatum
+Y,Y,Y,N,								Phyllodesmium rudmani
+,,,,									{Rudman's Phyllodesmium}
+Y,Y,Y,N,							Samlidae
+Y,Y,Y,N,								Samla bicolor
+Y,Y,Y,N,							Trinchesiidae
+Y,Y,Y,N,								Trinchesia sibogae
+Y,Y,Y,N,								Trinchesia sp. (Orange-body Trinchesia)
+Y,Y,Y,N,								Trinchesia sp. (Ringed Trinchesia)
+Y,Y,Y,N,								Trinchesia sp. (Unknown?)
+Y,Y,N,N,						Arminid Nudibranchs
+,,,,							{Suborder Arminina}
+Y,Y,Y,N,							Armina semperi
+Y,Y,Y,N,							Janolus flavoanulatus
+Y,Y,Y,N,							Janolus savinkini
+Y,Y,Y,N,							Janolus sp. 7
+Y,Y,Y,N,						Dendronotid Nudibranchs
+Y,Y,Y,N,							Doto sp.
+,,,,								{Donut Doto}
+,,,,								{Doto sp. 1}
+Y,Y,Y,N,							Marionia sp.
+Y,Y,Y,N,							Tritonia festiva
+Y,Y,N,N,						Dorid Nudibranchs
+,,,,							{Euctenidiacea}
+Y,Y,Y,N,							Aegiridae
+Y,Y,Y,N,								Aegires albopunctatus
+Y,Y,Y,N,								Aegires villosus
+,,,,									{Hairy Norse God}
+Y,Y,Y,N,								Notodoris serenae
+,,,,									{Gray Norse God}
+,,,,									{Aegires serenae}
+Y,Y,Y,N,							Chromodorididae
+Y,Y,Y,N,								Cadlinella ornatissima
+,,,,									{Ornamental Cadlinella}
+Y,Y,Y,N,								Ceratosoma tenue
+Y,Y,Y,N,								Ceratosoma trilobatum
+,,,,									{Three-lobed T-bar Nudibranch}
+,,,,									{Three-lobed Ceratosoma}
+Y,Y,Y,N,								Chromodoris alcalai
+Y,Y,Y,N,								Chromodoris annae
+,,,,									{Anna's Chromodoris}
+Y,Y,Y,N,								Chromodoris colemani
+Y,Y,Y,N,								Chromodoris dianae
+Y,Y,Y,N,								Chromodoris elisabethina
+Y,Y,Y,N,								Chromodoris joshi
+Y,Y,Y,N,								Chromodoris magnifica
+,,,,									{Magnificent Chromodoris}
+Y,Y,Y,N,								Chromodoris quadricolor
+,,,,									{Pyjama Chromodorid}
+Y,Y,Y,N,								Chromodoris strigata
+Y,Y,Y,N,								Chromodoris willani
+,,,,									{Willan's Chromodoris}
+Y,Y,Y,N,								Diversidoris crocea
+Y,Y,Y,N,								Doriprismatica atromarginata
+,,,,									{Glossodoris astromarginata}
+,,,,									{Black-margined Glossodoris}
+,,,,									{Black-margined Doriprismatica}
+Y,Y,Y,N,								Glossodoris buko
+Y,Y,Y,N,								Glossodoris cincta
+,,,,									{Girdled Glossodoris}
+Y,Y,Y,N,								Glossodoris hikuerensis
+,,,,									{Hikueru Glossodoris}
+Y,Y,Y,N,								Glossodoris rufomarginata
+Y,Y,Y,N,								Goniobranchus albopunctatus
+Y,Y,Y,N,								Goniobranchus annulatus
+Y,Y,Y,N,								Goniobranchus aureopurpureus
+Y,Y,Y,N,								Goniobranchus coi
+Y,Y,Y,N,								Goniobranchus geometricus
+Y,Y,Y,N,								Goniobranchus hintuanensis
+Y,Y,Y,N,								Goniobranchus kuniei
+Y,Y,Y,N,								Goniobranchus leopardus
+Y,Y,Y,N,								Goniobranchus preciosus
+Y,Y,Y,N,								Goniobranchus reticulatus
+Y,Y,Y,N,								Goniobranchus verrieri
+Y,Y,Y,N,								Hypselodoris apolegma
+Y,Y,Y,N,								Hypselodoris bollandi
+Y,Y,Y,N,								Hypselodoris bullockii
+Y,Y,Y,N,								Hypselodoris decorata
+Y,Y,Y,N,								Hypselodoris emma
+Y,Y,Y,N,								Hypselodoris infucata
+,,,,									{Colorful Hypselodoris}
+,,,,									{Painted Hypselodoris}
+Y,Y,Y,N,								Hypselodoris kanga
+,,,,									{Kanga Hypselodoris}
+Y,Y,Y,N,								Hypselodoris krakatoa
+,,,,									{Krakatoa Hypselodoris}
+Y,Y,Y,N,								Hypselodoris maculosa
+,,,,									{Spotted Hypselodoris}
+Y,Y,Y,N,								Hypselodoris pulchella
+,,,,									{Beautiful Risbecia}
+Y,Y,Y,N,								Hypselodoris reidi
+Y,Y,Y,N,								Hypselodoris roo
+Y,Y,Y,N,								Hypselodoris sp. 7
+Y,Y,Y,N,								Hypselodoris sp. 15
+Y,Y,Y,N,								Hypselodoris sp. 17
+Y,Y,Y,N,								Hypselodoris spp.
+Y,Y,Y,N,								Hypselodoris tryoni
+,,,,									{Tryon's Risbecia}
+,,,,									{Tryon's Hypselodoris}
+Y,Y,Y,N,								Hypselodoris whitei
+,,,,									{White's Hypselodoris}
+Y,Y,Y,N,								Hypselodoris zephyra
+,,,,									{West Wind Hypselodoris}
+Y,Y,Y,N,								Mexichromis mariei
+Y,Y,Y,N,								Mexichromis multituberculata
+,,,,									{Multi-pustuled Mexichromis}
+Y,Y,Y,N,								Mexichromis trilineata
+Y,Y,Y,N,								Thorunna cf. purpuropedis
+Y,Y,Y,N,								Thorunna furtiva
+Y,Y,N,N,							Dendrodorididae
+Y,Y,Y,N,								Doriopsilla albopunctata
+Y,Y,Y,N,							Discodorididae
+Y,Y,Y,N,								Carminodoris estrelyado
+Y,Y,Y,N,								Discodoris boholiensis
+,,,,									{Bohol Discodoris}
+,,,,									{Flatworm Discodoris}
+Y,Y,Y,N,								Halgerda batangas
+,,,,									{Batangas Halgerda}
+Y,Y,Y,N,								Halgerda carlsoni
+,,,,									{Carlson's Halgerda}
+Y,Y,Y,N,								Halgerda tessellata
+Y,Y,Y,N,								Halgerda willeyi
+Y,Y,Y,N,								Jorunna funebris
+,,,,									{Funeral Jorunna}
+Y,Y,Y,N,								Jorunna parva
+Y,Y,Y,N,								Jorunna rubescens
+,,,,									{Red-lined Jorunna}
+Y,Y,Y,N,								Peltodoris atromaculata
+Y,Y,Y,N,								Peltodoris nobilis
+,,,,									{Sea Lemon}
+,,,,									{Anisodoris nobilis}
+,,,,									{Diaulula nobilis}
+Y,Y,Y,N,								Platydoris cinerobranchiata
+,,,,									{Grey Gill Platydoris}
+Y,Y,Y,N,							Dorididae
+Y,Y,Y,N,								Doris electra
+Y,Y,Y,N,								Doris montereyensis
+Y,Y,Y,N,								Doris odhneri
+,,,,									{White Knight Dorid}
+Y,Y,Y,N,							Goniodoridae
+Y,Y,Y,N,								Trapania sp. 3 (White-spotted Trapania)
+,,,,									{White-spotted Trapania}
+Y,Y,N,N,							Hexabranchidae
+Y,Y,Y,N,								Hexabranchus sanguineus
+,,,,									{Spanish Dancer}
+Y,Y,Y,N,							Phyllidiidae
+Y,Y,Y,N,								Phyllidia coelestis
+,,,,									{Sky Blue Phyllidia}
+Y,Y,Y,N,								Phyllidia exquisita
+Y,Y,Y,N,								Phyllidia ocellata
+,,,,									{Ocellated Phyllidia}
+Y,Y,Y,N,								Phyllidia picta
+,,,,									{Black-rayed Phyllidia}
+Y,Y,Y,N,								Phyllidia rueppelii
+,,,,									{Rueppell's Wart Slug}
+,,,,									{Fryeria rueppelii}
+Y,Y,Y,N,								Phyllidia varicosa
+,,,,									{Swollen Phyllidia}
+Y,Y,Y,N,								Phyllidiella annulata
+,,,,									{Ringed Phyllidiella}
+Y,Y,Y,N,								Phyllidiella pustulosa
+,,,,									{Pimpled Phyllidiella}
+,,,,									{Pustulose Wart Slug}
+Y,Y,Y,N,								Phyllidiopsis annae
+Y,Y,Y,N,								Phyllidiopsis papilligera
+,,,,									{Black-spotted Nudibranch}
+Y,Y,Y,N,								Phyllidiopsis pipeki
+,,,,									{Pipek's Phyllidiopsis}
+Y,Y,Y,N,								Phyllidiopsis shireenae
+Y,Y,Y,N,							Polyceridae
+Y,Y,Y,N,								Gymnodoris rubropapulosa
+Y,Y,Y,N,								Gymnodoris sp. 44
+Y,Y,Y,N,								Gymnodoris sp. 59
+Y,Y,Y,N,								Kalinga Ornata
+Y,Y,Y,N,								Nembrotha chamberlaini
+,,,,									{Chamberlain's Nembrotha}
+Y,Y,Y,N,								Nembrotha cristata
+,,,,									{Crested Nembrotha}
+Y,Y,Y,N,								Nembrotha kubaryana
+,,,,									{Kubaryana's Nembrotha}
+Y,Y,Y,N,								Nembrotha lineolata
+,,,,									{Lined Nembrotha}
+Y,Y,Y,N,								Nembrotha milleri
+,,,,									{Miller's Nembrotha}
+Y,Y,Y,N,								Nembrotha mullineri
+Y,Y,Y,N,								Polycera abei
+,,,,									{Pale Polycera}
+Y,Y,Y,N,								Roboastra gracilis
+,,,,									{Slender Roboastra}
+Y,Y,Y,N,								Tambja morosa
+,,,,									{Gloomy Tambja}
+Y,Y,Y,N,								Thecacera picta
+Y,Y,Y,N,								Thecacera sp. 7
+,,,,									{Yellow-tip Pikachu}
+Y,Y,Y,N,								Thecacera sp. 8
+,,,,									{Thecacera sp. 8}
+Y,Y,Y,N,					Sapsucking Slugs
+,,,,						{Sacoglossa}
+,,,,						{Order Sacoglossa}
+Y,Y,Y,N,						Costasiella kuroshimae
+,,,,							{Kuro Sapsucking Slug}
+Y,Y,Y,N,						Costasiella usagi
+,,,,							{Rabbit Sapsucking Slug}
+Y,Y,Y,N,						Elysia crispata
+,,,,							{Lettuce Sea Slug}
+Y,Y,Y,N,						Elysia ornata
+,,,,							{Ornate Sapsucking Slug}
+Y,Y,Y,N,						Elysia picta
+,,,,							{Painted Elysia}
+Y,Y,Y,N,						Lobiger viridis
+Y,Y,Y,N,						Oxynoe viridis
+,,,,							{Green Longtail Sapsucking Slug}
+Y,Y,Y,N,						Plakobranchus sp.
+Y,Y,Y,N,						Stiliger ornatus
+Y,Y,Y,N,						Thuridilla albopustulosa
+Y,Y,Y,N,						Thuridilla carlsoni
+,,,,							{Carlson's Sapsucking Slug}
+Y,Y,Y,N,						Thuridilla gracilis
+,,,,							{Slender Sapsucking Slug}
+Y,Y,N,N,					Sea Hares
+,,,,						{Order Anaspidea}
+Y,Y,Y,N,						Aplysia fasciata
+Y,Y,Y,N,						Aplysia parvula
+,,,,							{Freckled Sea Hare}
+Y,Y,Y,N,						Stylocjeilus striatus
+,,,,							{Lined Sea Hare}
+Y,Y,N,N,					Side-gilled Slugs
+,,,,						{Pleurobranchidae}
+Y,Y,Y,N,						Euselenops luniceps
+,,,,							{Moon-headed Sidegill Slug}
+Y,Y,Y,N,						Pleurobranchus forskalii
+Y,Y,Y,N,						Pleurobranchus grandis
+,,,,							{Grand Pleurobranch}
+Y,Y,Y,N,				Slug
+Y,Y,Y,N,				Snails
+Y,Y,Y,N,					Abalone
+,,,,						{Haliotis sp}
+Y,Y,N,N,					Allied Cowries
+,,,,						{Ovulidae}
+Y,Y,Y,N,						Banded Egg Cowrie
+,,,,							{Margovulva bimaculata}
+Y,Y,Y,N,						Black-spotted Egg Cowrie
+,,,,							{Calpumus verrucosus}
+Y,Y,Y,N,						Common Egg Cowrie
+,,,,							{Ovula ovum}
+Y,Y,Y,N,						Cyphoma signatum
+Y,Y,Y,N,						Flamingo Tongue
+,,,,							{Cyphoma gibbosum}
+Y,Y,Y,N,						Formosa Egg Cowrie
+,,,,							{Cuspivolva formosa}
+Y,Y,Y,N,						Margarita Egg Cowrie
+,,,,							{Diminovula margarita}
+Y,Y,Y,N,						Margined Egg Cowrie
+,,,,							{Margovula marginata}
+Y,Y,Y,N,						Poppe's Spindle Cowrie
+,,,,							{Phenacovolva poppei}
+Y,Y,Y,N,						Ridged Egg Cowrie
+,,,,							{Diminovula culmen}
+Y,Y,Y,N,						Rosy Spindle Cowrie
+,,,,							{Phenacovolva rosea}
+Y,Y,Y,N,					Augers
+Y,Y,Y,N,					Bat Volute
+,,,,						{Cymbiola vespertilio}
+Y,Y,Y,N,					Blue Top Snail
+,,,,						{Calliostoma ligatum}
+Y,Y,Y,N,					Channeled Top Snail
+,,,,						{Calliostoma canaliculatum}
+Y,Y,Y,N,					Common Hairy Triton
+,,,,						{Cymatium pileare}
+Y,Y,Y,N,					Conchs
+,,,,						{Strombidae}
+Y,Y,Y,N,						Milk Conch
+,,,,							{Strombus costatus}
+Y,Y,Y,N,						Queen Conch
+,,,,							{Strombus gigas}
+Y,Y,Y,N,						Toothed Conch
+,,,,							{Strombus dentatus}
+Y,Y,N,N,					Cone Shells
+,,,,						{Conidae}
+Y,Y,Y,N,						Striated Cone
+,,,,							{Conus striatus}
+Y,Y,N,N,					Cowries
+,,,,						{Cypraeidae}
+Y,Y,Y,N,						Atlantic Deer Cowrie
+,,,,							{Cypraea cervus}
+Y,Y,Y,N,						Panther Cowrie
+,,,,							{Cypraea pantherina}
+Y,Y,Y,N,						Sieve Cowrie
+,,,,							{Cypraea bribraria}
+Y,Y,Y,N,						Tiger Cowrie
+,,,,							{Cypraea tigris}
+Y,Y,Y,N,						Unknown cowrie
+Y,Y,Y,N,						Zigzag Cowrie
+,,,,							{Cypraea ziczac}
+Y,Y,Y,N,					Fire Urchin Snail
+,,,,						{Luetzenia asthenosomae}
+Y,Y,Y,N,					Giant Keyhole Limpet
+Y,Y,Y,N,					Hooked Slipper Snail
+,,,,						{Crepidula adunca}
+Y,Y,Y,N,					Lewis' Moon Snail
+,,,,						{Polinices lewisii}
+Y,Y,Y,N,					Lined Nassa
+,,,,						{Nassarious glans}
+Y,Y,Y,N,					Lip Triton
+Y,Y,N,N,					Mitres
+,,,,						{Mitridae}
+Y,Y,Y,N,						File Mitre
+,,,,							{Cancilla filaris}
+Y,Y,Y,N,					Murex
+,,,,						{Muricidae}
+Y,Y,Y,N,						Ramose Murex
+,,,,							{Chicoreus ramosus}
+Y,Y,Y,N,						Snipe's Bill Murex
+,,,,							{Haustellum haustellum}
+Y,Y,Y,N,					Red Sea Topshell
+,,,,						{Tectus dentatus}
+Y,Y,Y,N,					Ringed Olive
+,,,,						{Oliva annulata}
+Y,Y,Y,N,					Sundials
+,,,,						{Architectonicidae}
+Y,Y,Y,N,						Clear Sundial
+,,,,							{Architectonica perspectiva}
+Y,Y,Y,N,						Variegated Sundial
+,,,,							{Heliacus variegatus}
+Y,Y,Y,N,					Tapestry Turban
+,,,,						{Turbo petholatus}
+Y,Y,Y,N,					Tulip Shells
+,,,,						{Fasciolariidae}
+Y,Y,Y,N,						True Tulip
+,,,,							{Fasciolaria tulipa}
+Y,Y,N,N,					Whelks
+,,,,						{Buccinidae}
+Y,Y,Y,N,						Kellet's whelk
+,,,,							{Kelletia kelletii}
+Y,Y,Y,N,				Unknown gastropod
+Y,Y,Y,N,		Myzostomid Worms
+,,,,			{Myzostomidae}
+Y,Y,Y,N,		Segmented Worms
+Y,Y,Y,N,			Bearded Fireworm
+,,,,				{Hermodice carunculata}
+Y,Y,Y,N,			Bobbit Worm
+,,,,				{Eunice aphroditois}
+Y,Y,Y,N,			Calcareous Tube Worms
+Y,Y,Y,N,				Christmas Tree Worm
+,,,,					{Spirobranchus giganteus}
+Y,Y,Y,N,				Magnificent Tube Worm
+,,,,					{Protula magnifica}
+Y,Y,Y,N,				Star Horseshoe Worm
+Y,Y,Y,N,			Darklined Fire Worm
+,,,,				{Chloeia fusca}
+Y,Y,N,N,			Feather Duster Worms
+Y,Y,Y,N,				Bispira sp.
+Y,Y,Y,N,				Chone infundibuliformis
+Y,Y,Y,N,				Ghost Feather Duster
+Y,Y,Y,N,				Magnificent Feather Duster
+,,,,					{Sabellastarte magnifica}
+Y,Y,Y,N,				Sabellastarte indica
+Y,Y,Y,N,				Shy Feather Duster
+Y,Y,Y,N,				Social Feather Duster
+,,,,					{Bispira brunnea}
+Y,Y,Y,N,				Split-crown Feather Duster
+,,,,					{Anamobaea orstedii}
+Y,Y,Y,N,				Variegated Feather Duster
+,,,,					{Bispira variegata}
+Y,Y,Y,N,			Paddle Worms
+,,,,				{Phyllodocidae}
+Y,Y,Y,N,			Scale Worm
+Y,Y,Y,N,			Sea Cucumber Scale Worm
+,,,,				{Gastrolepidia clavigera}
+Y,Y,Y,N,			Spaghetti Worm
+Y,Y,Y,N,		Sponges
+Y,Y,Y,N,			Amphimedon sp.
+,,,,				{Vase Sponges}
+Y,Y,Y,N,			Azure Vase Sponge
+,,,,				{Callyspongia plicifera}
+Y,Y,Y,N,			Barrel Sponge (Indo-Pacific)
+,,,,				{Xestospongia testudinaria}
+Y,Y,Y,N,			Black Ball Sponge
+,,,,				{Ircinia strobilina}
+Y,Y,Y,N,			Branching Tube Sponge
+Y,Y,Y,N,			Branching Vase Sponge
+Y,Y,Y,N,			Brown Bowl Sponge
+,,,,				{Cribrochalina vasculum}
+Y,Y,Y,N,			Brown Tube Sponge
+,,,,				{Agelas conifera}
+Y,Y,Y,N,			Brown Variable Sponge
+,,,,				{Anthosigmella varians}
+Y,Y,Y,N,			Convoluted Barrel Sponge
+,,,,				{Aplysina lacunosa}
+Y,Y,Y,N,			Convoluted Orange Sponge
+,,,,				{Myrmekioderma styx}
+Y,Y,Y,N,			Giant Barrel Sponge
+,,,,				{Xestospongia muta}
+Y,Y,Y,N,			Green Finger Sponge
+,,,,				{Iotrochota birotulata}
+Y,Y,Y,N,			Orange Elephant Ear Sponge
+,,,,				{Agelas clathrodes}
+Y,Y,Y,N,			Orange Sieve Encrusting Sponge
+,,,,				{Diplastrella sp.}
+Y,Y,Y,N,			Orange Veined Encrusting Sponge
+Y,Y,Y,N,			Peach Encrusting Sponge
+Y,Y,Y,N,			Pericharax sp.
+Y,Y,Y,N,			Pink Vase Sponge
+Y,Y,Y,N,			Prickly Tube Sponge
+Y,Y,Y,N,			Rope Sponges
+Y,Y,Y,N,			Row Pore Rope Sponge
+,,,,				{Aplysina caulifornis}
+Y,Y,Y,N,			Scattered Pore Rope Sponge
+,,,,				{Aplysina fulva}
+Y,Y,Y,N,			Star Encrusting Sponge
+Y,Y,Y,N,			Stovepipe Sponge
+Y,Y,Y,N,			Swinhoe's Sponge
+Y,Y,Y,N,			Thin Rope Sponge
+,,,,				{Rhaphidophlus juniperinus}
+Y,Y,Y,N,			Variable Boring Sponge
+,,,,				{Siphonodictyon coralliphagum}
+Y,Y,Y,N,			Yellow Tube Sponge
+,,,,				{Aplysina fistularis}
+Y,Y,Y,N,		Tunicates
+Y,Y,Y,N,			Bluebell Tunicate
+,,,,				{Clavelina moluccensis}
+Y,Y,Y,N,			Clavelina caerulea
+Y,Y,Y,N,			Clavelina sp
+,,,,				{Bulb Tunicates}
+Y,Y,Y,N,			Eusynstyela misakiensis
+Y,Y,Y,N,			Herdman's Ascidian
+Y,Y,Y,N,			Nephtheis fascicularis
+,,,,				{Oxycorynia fascicularis}
+,,,,				{Lollipop tunicate}
+Y,Y,Y,N,			Painted Tunicate
+,,,,				{Clavelina picta}
+Y,Y,Y,N,			Pelagic Tunicate
+Y,Y,Y,N,			Perophora modificata
+Y,Y,Y,N,			Polycarpa aurata
+Y,Y,Y,N,			Rhopalaea sp.
+Y,Y,Y,N,	Livestock
+Y,Y,Y,N,		Alpaca
+,,,,			{Lama pacos}
+Y,Y,Y,N,		Camel
+Y,Y,N,N,		Cattle
+Y,Y,Y,N,		Chicken
+Y,Y,Y,N,		Donkey
+Y,Y,N,N,		Ducks
+Y,Y,N,N,		Geese
+Y,Y,Y,N,		Goat
+Y,Y,Y,N,		Horse
+Y,Y,Y,N,		Llama
+,,,,			{Lama glama}
+Y,Y,Y,N,		Sheep
+Y,Y,Y,N,	Mammals
+Y,Y,Y,N,		Afrotheria
+Y,Y,Y,N,			African Elephant
+,,,,				{Loxodonta africana}
+Y,Y,Y,N,			Black-necked Rock Hyrax
+,,,,				{Procavia johnstoni}
+Y,Y,Y,N,			Yellow-spotted Hyrax
+,,,,				{Heterohyrax brucei}
+Y,Y,Y,N,		Bats
+Y,Y,Y,N,			Leaf-nosed Bats
+Y,Y,Y,N,			Proboscis Bat
+,,,,				{Rhynchonycteris naso}
+Y,Y,Y,N,		Carnivores
+Y,Y,Y,N,			Canines
+Y,Y,Y,N,				Bat-eared Fox
+,,,,					{Otocyon megalotis}
+Y,Y,Y,N,				Coyote
+Y,Y,Y,N,				Jackals
+Y,Y,Y,N,					Black-backed Jackal
+,,,,						{Canis mesomalis}
+Y,Y,Y,N,					Common (Golden) Jackal
+,,,,						{Canis aureus}
+Y,Y,Y,N,					Side-striped Jackal
+,,,,						{Canis adustus}
+Y,Y,Y,N,				Wild Dog
+,,,,					{Lycaon pictus}
+Y,Y,Y,N,			Cats
+Y,Y,N,N,				Cheetah
+Y,Y,Y,N,				Leopard
+,,,,					{Panthera pardus}
+Y,Y,Y,N,				Lion
+,,,,					{Panthera Leo}
+Y,Y,Y,N,				Serval
+,,,,					{Felis serval}
+Y,Y,Y,N,			Common Genet
+Y,Y,Y,N,			Giant River Otter
+Y,Y,N,N,			Hyenas
+Y,Y,Y,N,				Spotted Hyena
+,,,,					{Crocuta crocuta}
+Y,Y,Y,N,				Striped Hyena
+Y,Y,N,N,			Mongooses
+Y,Y,Y,N,				Banded Mongoose
+,,,,					{Mungos mungo}
+Y,Y,Y,N,				Dwarf Mongoose
+,,,,					{Helogale parvula}
+Y,Y,Y,N,				Slender Mongoose
+,,,,					{Galerella sanguinea}
+Y,Y,N,N,			Seals & Walruses
+Y,Y,Y,N,				California Sea Lion
+N,N,N,N,			[Skunks]
+Y,Y,Y,N,				Striped Skunk
+,,,,					{Mephitis mephitis}
+Y,Y,N,N,		Dolphins & Whales
+Y,Y,Y,N,			Atlantic Bottlenose Dolphin
+,,,,				{Tursiops truncatus}
+Y,Y,N,N,			Dolphins
+Y,Y,Y,N,			Humpback Whale
+Y,Y,Y,N,			Little Bottlenose Dolphin
+Y,Y,Y,N,			Sperm Whale
+Y,Y,Y,N,		Even Toed Ungulates
+Y,Y,Y,N,			Bovids
+Y,Y,Y,N,				African Buffalo
+,,,,					{Syncerus caffer}
+Y,Y,N,N,				Alcelaphines
+Y,Y,Y,N,					Hartebeest
+,,,,						{Alcelaphus buselaphus}
+Y,Y,Y,N,					Topi
+,,,,						{Damaliscus lunatus jimela}
+Y,Y,Y,N,					Tsessebe
+,,,,						{Damaliscus lunatus lunatus}
+Y,Y,Y,N,				American Bison
+Y,Y,Y,N,				Antelope
+Y,Y,Y,N,					Dwarf Antelope
+Y,Y,Y,N,						Klipspringer
+,,,,							{Oreotragus oreotragus}
+Y,Y,Y,N,						Steinbuck
+,,,,							{Raphicerus campestris}
+,,,,							{Steenbok}
+Y,Y,N,N,					Gazelles
+Y,Y,Y,N,						Gerenuk
+Y,Y,Y,N,						Grant's Gazelle
+,,,,							{Gazella granti}
+Y,Y,Y,N,						Springbok
+,,,,							{Antidorcas marsupialis}
+Y,Y,Y,N,						Thompson's Gazelle
+,,,,							{Gazella rufifrons}
+Y,Y,N,N,					Gnus
+Y,Y,Y,N,						Brindled Gnu
+,,,,							{Connochaetes taurinus}
+Y,Y,N,N,					Horse-like Antelope
+,,,,						{Hippotraginae}
+Y,Y,Y,N,						Beisa Oryx
+Y,Y,Y,N,						Roan Antelope
+,,,,							{Hippotragus equinus}
+Y,Y,Y,N,						Sable Antelope
+,,,,							{Hippotragus niger}
+Y,Y,Y,N,					Impala
+,,,,						{Aepyceros melampus}
+Y,Y,Y,N,					Kirk's Dik Dik
+,,,,						{Madoqua kirkii}
+Y,Y,N,N,					Kobs
+,,,,						{Kobus}
+Y,Y,Y,N,						Kob
+Y,Y,Y,N,						Lechwe
+,,,,							{Kobus leche}
+Y,Y,Y,N,						Waterbuck
+,,,,							{Kobus ellipsiprymnus}
+Y,Y,Y,N,					Reedbucks
+Y,Y,Y,N,						Bohor Reedbuck
+,,,,							{Redunca redunca}
+Y,Y,Y,N,				Common Duiker
+,,,,					{Bush Duiker}
+,,,,					{Sylvicapra grimmia}
+Y,Y,Y,N,				Spiral-horned Bovines
+Y,Y,Y,N,					Bushbuck
+,,,,						{Tragelaphus scriptus}
+Y,Y,Y,N,					Eland
+,,,,						{Taurotragus oryx}
+Y,Y,Y,N,					Greater Kudu
+,,,,						{Tragelaphus strepsiceros}
+Y,Y,Y,N,					Lesser Kudu
+Y,Y,N,N,			Deer
+Y,Y,Y,N,				Gray Brocket
+,,,,					{Mazama gouazoubira}
+Y,Y,Y,N,				Moose
+Y,Y,Y,N,				White-tailed Deer
+,,,,					{Odocoileus virginianus}
+Y,Y,Y,N,			Giraffes
+Y,Y,Y,N,				Masai Giraffe
+,,,,					{Giraffa tippelskirchi}
+Y,Y,Y,N,				Northern Giraffe
+,,,,					{Giraffa camelopardalis}
+,,,,					{Nubian Giraffe}
+Y,Y,Y,N,				Reticulated Giraffe
+,,,,					{Giraffa reticulata}
+Y,Y,Y,N,				Southern Giraffe
+,,,,					{Giraffa giraffa}
+Y,Y,Y,N,			Hippopotamus
+,,,,				{Hippopotamus amphibius}
+Y,Y,Y,N,			Peccaries
+Y,Y,Y,N,				Collared Peccary
+,,,,					{Dicotyles tajacu)}
+Y,Y,Y,N,			Pigs
+Y,Y,Y,N,				Giant Hog
+Y,Y,Y,N,				Warthog
+,,,,					{Phacochoerus africanus}
+Y,Y,Y,N,		Hoffman's Two-toed Sloth
+Y,Y,Y,N,		Lagomorphs
+,,,,			{Lagomorpha}
+Y,Y,N,N,			Hares & Rabbits
+Y,Y,Y,N,				Eastern Cottontail
+Y,Y,Y,N,				European Rabbit
+,,,,					{Oryctolagus cuniculus}
+Y,Y,Y,N,				Scrub Hare
+Y,Y,Y,N,		Marsupials
+Y,Y,Y,N,			Opossum
+Y,Y,Y,N,				Virginia Opossum
+,,,,					{Didelphis virginiana}
+Y,Y,Y,N,			Sulawesi Bear Cuscus
+,,,,				{Ailurops ursinus}
+Y,Y,Y,N,		Odd Toed Ungulates
+Y,Y,Y,N,			Horses & Asses
+Y,Y,Y,N,				Common Zebra
+,,,,					{Equus quagga}
+Y,Y,Y,N,				Grevy's Zebra
+Y,Y,N,N,			Rhinoceros
+Y,Y,Y,N,				Black Rhinoceros
+,,,,					{Diceros bicornis}
+Y,Y,Y,N,				White Rhinoceros
+Y,Y,Y,N,		Pangolins
+Y,Y,Y,N,			Ground Pangolin
+,,,,				{Manis temminckii}
+Y,Y,Y,N,		Primates
+Y,Y,N,N,			Apes
+Y,Y,Y,N,				Chimpanzee
+Y,Y,Y,N,				Mountain Gorilla
+,,,,					{Gorilla beringei}
+Y,Y,Y,N,				Orang Utan
+Y,Y,Y,N,			Galagos
+Y,Y,Y,N,				Southern Lesser Galago
+,,,,					{Galago moholi}
+Y,Y,Y,N,			New World Monkeys
+Y,Y,Y,N,				Brown-mantled Tamarin
+,,,,					{Saguinus fuscicollis}
+Y,Y,Y,N,				Colombian Red Howler
+,,,,					{Alouatta seniculus}
+Y,Y,Y,N,				Common Marmoset
+Y,Y,Y,N,				Common squirrel monkey
+,,,,					{Saimiri sciureus}
+Y,Y,Y,N,				Howler Monkey
+Y,Y,Y,N,				Tufted Capuchin
+,,,,					{Sapajus apella}
+Y,Y,N,N,			Old World Monkeys
+,,,,				{Cercopithecidae}
+Y,Y,N,N,				Cheek-pouch Monkeys
+Y,Y,Y,N,					Blue Monkey
+,,,,						{Cercopithecus mitis}
+Y,Y,Y,N,					Celebes Crested Macaque
+,,,,						{Macaca nigra}
+Y,Y,Y,N,					Chacma Baboon
+,,,,						{Papio ursinus}
+Y,Y,Y,N,					Crab-eating Macaque
+,,,,						{Macaca fascicularis}
+Y,Y,Y,N,					Grey-cheeked Mangabey
+,,,,						{Lophocebus albigena}
+Y,Y,Y,N,					Olive Baboon
+,,,,						{Papio anubis}
+Y,Y,Y,N,					Vervet Monkey
+,,,,						{Cercopithecus pygerythrus}
+Y,Y,Y,N,					Yellow Baboon
+Y,Y,N,N,				Colobid Monkeys
+Y,Y,Y,N,					Central African Red Colobus
+Y,Y,Y,N,					Guereza Colobus
+Y,Y,Y,N,			Tarsiers
+Y,Y,Y,N,				Spectral Tarsier
+,,,,					{Tarsius spectrum}
+Y,Y,N,N,		Rodents
+Y,Y,Y,N,			Central American Agouti
+,,,,				{Dasyprocta punctata}
+Y,Y,Y,N,			Guinea Pig
+,,,,				{Cavia porcellus}
+Y,Y,Y,N,			Long-tailed Chinchilla
+,,,,				{Chinchilla lanigera}
+Y,Y,N,N,			Mice and Rats
+Y,Y,Y,N,				Grass Rat
+Y,Y,Y,N,			Muskrat
+Y,Y,Y,N,			South African Springhare
+,,,,				{Pedetes capensis}
+Y,Y,N,N,			Squirrels
+Y,Y,Y,N,				American Red Squirrel
+,,,,					{Tamiasciurus hudsonicus}
+Y,Y,Y,N,				Eastern Chipmunk
+,,,,					{Tamias striatus}
+Y,Y,Y,N,				Eastern Gray Squirrel
+Y,Y,Y,N,				Fox Squirrel
+,,,,					{Sciurus niger}
+Y,Y,Y,N,				Golden-mantled Ground Squirrel
+Y,Y,Y,N,				Prevost’s Squirrel
+,,,,					{Callosciurus prevostii}
+Y,Y,Y,N,				Smith's Bush Squirrel
+,,,,					{Paraxerus cepapi}
+Y,Y,N,N,		Sea Cows
+Y,Y,Y,N,			West Indian Manatee
+,,,,				{Trichechus manatus}
+Y,Y,N,N,	Pets
+Y,Y,N,N,		Cats
+Y,Y,Y,N,			Fluffy
+Y,Y,N,N,		Dogs
+Y,Y,N,N,			Amber
+Y,Y,N,N,			Memphis
+Y,Y,N,N,			Shadow
+Y,Y,N,N,			Zero
+Y,Y,Y,N,	Reptiles
+Y,Y,Y,N,		Crocodilians
+Y,Y,Y,N,			American Alligator
+,,,,				{Alligator mississippiensis}
+Y,Y,Y,N,			American Crocodile
+Y,Y,Y,N,			Black Caiman
+Y,Y,Y,N,			Dwarf Caiman
+,,,,				{Paleosuchus palpebrosus}
+Y,Y,Y,N,			Nile Crocodile
+,,,,				{Crocodylus niloticus}
+Y,Y,Y,N,			Spectacled caiman
+,,,,				{Caiman crocodilus}
+,,,,				{Common Caiman}
+,,,,				{White Caiman}
+Y,Y,Y,N,			Yacare Caiman
+,,,,				{Caiman yacare}
+Y,Y,Y,N,		Lizards
+Y,Y,Y,N,			Agama Agama
+Y,Y,Y,N,			Bonaire Whiptail Lizard
+,,,,				{Cnemidophorus murinus}
+Y,Y,Y,N,			Brown basilisk
+Y,Y,Y,N,			Cuban Rock Iguana
+,,,,				{Cyclura nubila}
+Y,Y,Y,N,			Giant Plated Lizard
+,,,,				{Gerrhosaurus validus}
+Y,Y,Y,N,			Green Iguana
+Y,Y,Y,N,			Ground Agama
+,,,,				{Agama aculeata}
+Y,Y,Y,N,			Mwanza Flat-headed Rock Agama
+,,,,				{Agama mwanzae}
+Y,Y,Y,N,			Nile Monitor
+,,,,				{Varanus niloticus}
+Y,Y,Y,N,			Rock Monitor
+,,,,				{Varanus albigularis}
+Y,Y,Y,N,			Rough-scaled Plated Lizard
+,,,,				{Broadleysaurus major}
+Y,Y,Y,N,			Silver Key Anole
+,,,,				{Anolis scriptus}
+Y,Y,Y,N,			Spiny Whorltail Iguana
+,,,,				{Stenocercus crassicaudatus}
+Y,Y,Y,N,			Spiny-tailed Iguana
+,,,,				{Ctenosaura oedirhina}
+Y,Y,Y,N,			Turner's Thick-toed Gecko
+,,,,				{Chondrodactylus turneri}
+Y,Y,Y,N,		Snakes
+Y,Y,Y,N,			Banded Sea Krait
+,,,,				{Laticauda colubrina}
+Y,Y,Y,N,			Coral Snake (Micrurus sp.)
+Y,Y,Y,N,			Eastern Hognose Snake
+,,,,				{Heterodon platirhinos}
+Y,Y,Y,N,			Mussurana
+,,,,				{Clelia clelia}
+Y,Y,Y,N,			Striped Belly Sand Snake
+,,,,				{Psammophis subtaeniatus}
+Y,Y,Y,N,			Urutu Pit Viper
+Y,Y,Y,N,		Turtles and Tortoises
+Y,Y,Y,N,			Common Map Turtle
+Y,Y,Y,N,			Gopher Tortoise
+,,,,				{Gopherus polyphemus}
+Y,Y,Y,N,			Leopard Tortoise
+,,,,				{Stigmochelys pardalis}
+Y,Y,Y,N,			Loggerhead Musk Turtle
+,,,,				{Sternotherus minor}
+Y,Y,Y,N,			Painted Turtle
+Y,Y,Y,N,			Red-eared Slider
+Y,Y,Y,N,			Sea Turtles
+Y,Y,Y,N,				Green Turtle
+,,,,					{Chelonia mydas}
+Y,Y,Y,N,				Hawksbill Turtle
+,,,,					{Eretmochelys imbriocota}
+Y,Y,Y,N,				Loggerhead Turtle
+,,,,					{Caretta caretta}
+Y,Y,Y,N,			Snapping Turtle
+,,,,				{Chelydra serpentina}
+Y,Y,Y,N,			Spiny Softshell Turtle
+,,,,				{Apalone spinifera}
+Y,Y,Y,N,			Yellow-spotted Amazon River Turtle
+,,,,				{Podocnemis unifilis}
+,,,,				{Yellow-headed Sideneck Turtle}
+Y,Y,Y,N,Art
+Y,Y,N,N,	Ancient manuscript
+Y,Y,Y,N,	Carpet
+Y,Y,Y,N,	Drawing
+Y,Y,Y,N,	Graffiti
+Y,Y,Y,N,	Interior art
+Y,Y,Y,N,	Modern art
+Y,Y,Y,N,	Mosaic
+Y,Y,Y,N,	Ornament
+Y,Y,Y,N,	Painting
+Y,Y,N,N,		Cave painting
+Y,Y,Y,N,		Mural
+Y,Y,Y,N,	Pottery
+Y,Y,Y,N,	Sculpture
+Y,Y,Y,N,	Stained glass
+Y,Y,Y,N,	Statue
+Y,Y,Y,N,	Wallpaper
+Y,Y,Y,N,Body parts
+Y,Y,Y,N,	Animal detail
+Y,Y,Y,N,	Ankle
+Y,Y,Y,N,	Anther
+Y,Y,Y,N,	Antler
+Y,Y,Y,N,	Arm
+Y,Y,Y,N,	Beak
+Y,Y,Y,N,	Bone
+Y,Y,Y,N,	Brain
+Y,Y,Y,N,	Branch
+Y,Y,Y,N,	Breast
+Y,Y,Y,N,	Cheek
+Y,Y,Y,N,	Chest
+Y,Y,Y,N,	Claw
+Y,Y,Y,N,	Ear
+Y,Y,Y,N,	Earlobe
+Y,Y,Y,N,	Elbow
+Y,Y,Y,N,	Elephant trunk
+,,,,		{Proboscis}
+,,,,		{Trunk}
+Y,Y,Y,N,	Eye
+Y,Y,Y,N,	Eyebrow
+Y,Y,Y,N,	Eyelash
+Y,Y,Y,N,	Fang
+Y,Y,Y,N,	Feather
+Y,Y,Y,N,	Fin
+Y,Y,Y,N,	Finger
+Y,Y,Y,N,		Index finger
+Y,Y,Y,N,		Little finger
+Y,Y,Y,N,		Middle finger
+Y,Y,Y,N,		Ring finger
+Y,Y,Y,N,		Thumb
+Y,Y,Y,N,	Fingernail
+,,,,		{Nail}
+Y,Y,Y,N,	Flower bud
+Y,Y,Y,N,	Foot
+Y,Y,Y,N,	Fur
+Y,Y,Y,N,	Hair
+Y,Y,Y,N,	Hand
+Y,Y,Y,N,	Head
+Y,Y,Y,N,	Heart
+Y,Y,Y,N,	Hoof
+Y,Y,Y,N,	Horn
+Y,Y,Y,N,	Leaf
+Y,Y,Y,N,	Leaf bud
+Y,Y,Y,N,	Leg
+Y,Y,Y,N,	Lips
+Y,Y,Y,N,	Mane
+Y,Y,Y,N,	Mouth
+Y,Y,Y,N,	Neck
+Y,Y,Y,N,	Nipple
+Y,Y,Y,N,	Nose
+Y,Y,Y,N,	Nostril
+Y,Y,Y,N,	Paw
+Y,Y,Y,N,	Petal
+Y,Y,Y,N,	Pistil
+Y,Y,Y,N,	Root
+Y,Y,Y,N,	Seed
+Y,Y,Y,N,	Sepal
+Y,Y,Y,N,	Shell
+Y,Y,Y,N,	Skeleton
+Y,Y,Y,N,	Skin
+Y,Y,Y,N,	Skull
+Y,Y,Y,N,	Snout
+Y,Y,Y,N,	Stamen
+Y,Y,Y,N,	Stem
+Y,Y,Y,N,	Stemen
+Y,Y,Y,N,	Stigma
+Y,Y,Y,N,	Sting
+Y,Y,Y,N,	Tail
+Y,Y,Y,N,	Tentacle
+Y,Y,Y,N,	Thorn
+Y,Y,Y,N,	Toe
+Y,Y,Y,N,	Toenail
+,,,,		{Nail}
+Y,Y,Y,N,	Tongue
+Y,Y,Y,N,	Tooth
+Y,Y,Y,N,	Tree trunk
+,,,,		{Trunk}
+Y,Y,Y,N,	Tusk
+Y,Y,Y,N,	Whisker
+Y,Y,Y,N,	Wing
+Y,Y,Y,N,Celestial body
+Y,Y,Y,N,	Comet
+Y,Y,Y,N,	Constellation
+Y,Y,Y,N,	Galaxy
+Y,Y,Y,N,	Meteor
+Y,Y,Y,N,		Meteor shower
+Y,Y,Y,N,	Moon
+Y,Y,Y,N,	Nebula
+Y,Y,Y,N,	Planet
+Y,Y,Y,N,	Star
+Y,Y,Y,N,	Sun
+Y,Y,Y,N,Client Name
+Y,Y,Y,N,	Diveheart.org
+Y,Y,Y,N,	Name
+Y,Y,Y,N,Colors
+Y,Y,Y,N,	Beige
+Y,Y,Y,N,	Blue
+Y,Y,Y,N,	Brown
+Y,Y,Y,N,	Green
+Y,Y,Y,N,	Shades of blue
+Y,Y,Y,N,		Air force blue
+Y,Y,Y,N,		Air superiority blue
+Y,Y,Y,N,		Alice blue
+Y,Y,Y,N,		Azure
+Y,Y,Y,N,		Baby blue
+Y,Y,Y,N,		Bleu de france
+Y,Y,Y,N,		Blue
+Y,Y,Y,N,		Blue-gray
+Y,Y,Y,N,		Bondi blue
+Y,Y,Y,N,		Brandeis blue
+Y,Y,Y,N,		Cambridge blue
+Y,Y,Y,N,		Carolina blue
+Y,Y,Y,N,		Cobalt blue
+Y,Y,Y,N,		Columbia blue
+Y,Y,Y,N,		Cornflower blue
+Y,Y,Y,N,		Dark blue
+Y,Y,Y,N,		Deep sky blue
+Y,Y,Y,N,		Dodger blue
+Y,Y,Y,N,		Duke blue
+Y,Y,Y,N,		Egyptian blue
+Y,Y,Y,N,		Electric blue
+Y,Y,Y,N,		Electric indigo
+Y,Y,Y,N,		Eton blue
+Y,Y,Y,N,		Federal blue
+Y,Y,Y,N,		Glaucous
+Y,Y,Y,N,		International klein blue
+Y,Y,Y,N,		Iris
+Y,Y,Y,N,		Light blue
+Y,Y,Y,N,		Majorelle blue
+Y,Y,Y,N,		Maya blue
+Y,Y,Y,N,		Midnight blue
+Y,Y,Y,N,		Navy blue
+Y,Y,Y,N,		Non-photo blue
+Y,Y,Y,N,		Oxford blue
+Y,Y,Y,N,		Palatinate blue
+Y,Y,Y,N,		Periwinkle
+Y,Y,Y,N,		Persian blue
+Y,Y,Y,N,		Phthalo blue
+Y,Y,Y,N,		Powder blue
+Y,Y,Y,N,		Prussian blue
+Y,Y,Y,N,		Royal blue
+Y,Y,Y,N,		Sapphire
+Y,Y,Y,N,		Sky blue
+Y,Y,Y,N,		Steel blue
+Y,Y,Y,N,		Tiffany blue
+Y,Y,Y,N,		Tufts blue
+Y,Y,Y,N,		Ultramarine
+Y,Y,Y,N,		Yale blue
+Y,Y,Y,N,		Zaffre
+Y,Y,Y,N,	Shades of brown
+Y,Y,Y,N,		Auburn
+Y,Y,Y,N,		Beaver
+Y,Y,Y,N,		Beige
+Y,Y,Y,N,		Bistre
+Y,Y,Y,N,		Bole
+Y,Y,Y,N,		Bronze
+Y,Y,Y,N,		Brown
+Y,Y,Y,N,		Burgundy
+Y,Y,Y,N,		Burnt sienna
+Y,Y,Y,N,		Burnt umber
+Y,Y,Y,N,		Camel
+Y,Y,Y,N,		Chamoisee
+Y,Y,Y,N,		Chestnut
+Y,Y,Y,N,		Chocolate
+Y,Y,Y,N,		Citrine
+Y,Y,Y,N,		Coffee
+Y,Y,Y,N,		Copper
+Y,Y,Y,N,		Cordovan
+Y,Y,Y,N,		Desert sand
+Y,Y,Y,N,		Earth yellow
+Y,Y,Y,N,		Ecru
+Y,Y,Y,N,		Fallow
+Y,Y,Y,N,		Fawn
+Y,Y,Y,N,		Field drab
+Y,Y,Y,N,		Fulvous
+Y,Y,Y,N,		Lion
+Y,Y,Y,N,		Liver
+Y,Y,Y,N,		Mahogany
+Y,Y,Y,N,		Maroon
+Y,Y,Y,N,		Ochre
+Y,Y,Y,N,		Raw umber
+Y,Y,Y,N,		Redwood
+Y,Y,Y,N,		Rufous
+Y,Y,Y,N,		Russet
+Y,Y,Y,N,		Sand
+Y,Y,Y,N,		Sandy brown
+Y,Y,Y,N,		Seal brown
+Y,Y,Y,N,		Sepia
+Y,Y,Y,N,		Sienna
+Y,Y,Y,N,		Sinopia
+Y,Y,Y,N,		Tan
+Y,Y,Y,N,		Tawny
+Y,Y,Y,N,		Umber
+Y,Y,Y,N,		Wenge
+Y,Y,Y,N,		Wheat
+Y,Y,Y,N,	Shades of cyan
+Y,Y,Y,N,		Aqua
+Y,Y,Y,N,		Aquamarine
+Y,Y,Y,N,		Celeste
+Y,Y,Y,N,		Cerulean
+Y,Y,Y,N,		Cyan
+Y,Y,Y,N,		Magic mint
+Y,Y,Y,N,		Robin egg blue
+Y,Y,Y,N,		Skobeloff
+Y,Y,Y,N,		Teal
+Y,Y,Y,N,		Turquoise
+Y,Y,Y,N,	Shades of gray
+Y,Y,Y,N,		Ash gray
+Y,Y,Y,N,		Battleship gray
+Y,Y,Y,N,		Black
+Y,Y,Y,N,		Cadet gray
+Y,Y,Y,N,		Charcoal
+Y,Y,Y,N,		Cool gray
+Y,Y,Y,N,		Davy's gray
+Y,Y,Y,N,		Gray
+Y,Y,Y,N,		Gunmetal
+Y,Y,Y,N,		Medium taupe
+Y,Y,Y,N,		Payne's gray
+Y,Y,Y,N,		Purple taupe
+Y,Y,Y,N,		Rose quartz
+Y,Y,Y,N,		Silver
+Y,Y,Y,N,		Slate gray
+Y,Y,Y,N,		Taupe
+Y,Y,Y,N,		Taupe gray
+Y,Y,Y,N,		Timberwolf
+Y,Y,Y,N,		White
+Y,Y,Y,N,	Shades of green
+Y,Y,Y,N,		Apple green
+Y,Y,Y,N,		Asparagus
+Y,Y,Y,N,		Bright green
+Y,Y,Y,N,		Cal poly
+Y,Y,Y,N,		Chartreuse
+Y,Y,Y,N,		Dark olive green
+Y,Y,Y,N,		Dark spring green
+Y,Y,Y,N,		Dartmouth green
+Y,Y,Y,N,		Fern green
+Y,Y,Y,N,		Forest green
+Y,Y,Y,N,		Green
+Y,Y,Y,N,		Harlequin
+Y,Y,Y,N,		Honeydew
+Y,Y,Y,N,		Hunter green
+Y,Y,Y,N,		India green
+Y,Y,Y,N,		Islamic green
+Y,Y,Y,N,		Jungle green
+Y,Y,Y,N,		Lawn green
+Y,Y,Y,N,		Lime
+Y,Y,Y,N,		Lime green
+Y,Y,Y,N,		Mantis
+Y,Y,Y,N,		Mint
+Y,Y,Y,N,		Mint cream
+Y,Y,Y,N,		Office green
+Y,Y,Y,N,		Olive
+Y,Y,Y,N,		Olive drab
+Y,Y,Y,N,		Pakistan green
+Y,Y,Y,N,		Paris green
+Y,Y,Y,N,		Persian green
+Y,Y,Y,N,		Phthalo green
+Y,Y,Y,N,		Pigment green
+Y,Y,Y,N,		Pine green
+Y,Y,Y,N,		Pistachio
+Y,Y,Y,N,		Sea green
+Y,Y,Y,N,		Shamrock green
+Y,Y,Y,N,		Spring bud
+Y,Y,Y,N,		Spring green
+Y,Y,Y,N,		Yellow-green
+Y,Y,Y,N,	Shades of orange
+Y,Y,Y,N,		Amber
+Y,Y,Y,N,		Atomic tangerine
+Y,Y,Y,N,		Bittersweet
+Y,Y,Y,N,		Burnt orange
+Y,Y,Y,N,		Carrot orange
+Y,Y,Y,N,		Champagne
+Y,Y,Y,N,		Coral
+Y,Y,Y,N,		Dark salmon
+Y,Y,Y,N,		Deep carrot orange
+Y,Y,Y,N,		Flame
+Y,Y,Y,N,		Gamboge
+Y,Y,Y,N,		International orange
+Y,Y,Y,N,		Old gold
+Y,Y,Y,N,		Orange
+Y,Y,Y,N,		Orange peel
+Y,Y,Y,N,		Orange-red
+Y,Y,Y,N,		Papaya whip
+Y,Y,Y,N,		Peach
+Y,Y,Y,N,		Peach-orange
+Y,Y,Y,N,		Peach-yellow
+Y,Y,Y,N,		Persian orange
+Y,Y,Y,N,		Portland orange
+Y,Y,Y,N,		Princeton orange
+Y,Y,Y,N,		Pumpkin
+Y,Y,Y,N,		Rust
+Y,Y,Y,N,		Safety orange
+Y,Y,Y,N,		Salmon
+Y,Y,Y,N,		Satin sheen gold
+Y,Y,Y,N,		Sunset
+Y,Y,Y,N,		Tangelo
+Y,Y,Y,N,		Tangerine
+Y,Y,Y,N,		Tea rose
+Y,Y,Y,N,		Tenne
+Y,Y,Y,N,		Tomato
+Y,Y,Y,N,		Vermilion
+Y,Y,Y,N,	Shades of pink
+Y,Y,Y,N,		Amaranth
+Y,Y,Y,N,		Amaranth pink
+Y,Y,Y,N,		Brink pink
+Y,Y,Y,N,		Carnation pink
+Y,Y,Y,N,		Cerise
+Y,Y,Y,N,		Coral pink
+Y,Y,Y,N,		Deep carmine
+Y,Y,Y,N,		Deep pink
+Y,Y,Y,N,		French rose
+Y,Y,Y,N,		Hollywood cerise
+Y,Y,Y,N,		Hot magenta
+Y,Y,Y,N,		Hot pink
+Y,Y,Y,N,		Lavender pink
+Y,Y,Y,N,		Persian rose
+Y,Y,Y,N,		Pink
+Y,Y,Y,N,		Puce
+Y,Y,Y,N,		Rose pink
+Y,Y,Y,N,		Ruby
+Y,Y,Y,N,		Salmon pink
+Y,Y,Y,N,		Shocking pink
+Y,Y,Y,N,		Thulian pink
+Y,Y,Y,N,		Ultra pink
+Y,Y,Y,N,	Shades of red
+Y,Y,Y,N,		Cardinal
+Y,Y,Y,N,		Carmine
+Y,Y,Y,N,		Crimson
+Y,Y,Y,N,		Dark red
+Y,Y,Y,N,		Electric crimson
+Y,Y,Y,N,		Fire brick
+Y,Y,Y,N,		Folly
+Y,Y,Y,N,		Lust
+Y,Y,Y,N,		Raspberry
+Y,Y,Y,N,		Red
+Y,Y,Y,N,		Rosewood
+Y,Y,Y,N,		Scarlet
+Y,Y,Y,N,		Terra cotta
+Y,Y,Y,N,		Tuscan red
+Y,Y,Y,N,		Wine
+Y,Y,Y,N,	Shades of violet
+Y,Y,Y,N,		Amethyst
+Y,Y,Y,N,		Byzantium
+Y,Y,Y,N,		Eggplant
+Y,Y,Y,N,		Fandango
+Y,Y,Y,N,		Fuchsia
+Y,Y,Y,N,		Heliotrope
+Y,Y,Y,N,		Indigo
+Y,Y,Y,N,		Lavender blush
+Y,Y,Y,N,		Lavender floral
+Y,Y,Y,N,		Magenta
+Y,Y,Y,N,		Orchid
+Y,Y,Y,N,		Plum
+Y,Y,Y,N,		Purple
+Y,Y,Y,N,		Red-violet
+Y,Y,Y,N,		Rose
+Y,Y,Y,N,		Thistle
+Y,Y,Y,N,		Violet
+Y,Y,Y,N,		Violet-blue
+Y,Y,Y,N,		Wisteria
+Y,Y,Y,N,	Shades of yellow
+Y,Y,Y,N,		Amber
+Y,Y,Y,N,		Apricot
+Y,Y,Y,N,		Buff
+Y,Y,Y,N,		Cream
+Y,Y,Y,N,		Dark goldenrod
+Y,Y,Y,N,		Gold
+Y,Y,Y,N,		Gold metallic
+Y,Y,Y,N,		Goldenrod
+Y,Y,Y,N,		Green-yellow
+Y,Y,Y,N,		Jasmine
+Y,Y,Y,N,		Jonquil
+Y,Y,Y,N,		Khaki
+Y,Y,Y,N,		Lemon chiffon
+Y,Y,Y,N,		Light yellow
+Y,Y,Y,N,		Maize
+Y,Y,Y,N,		Mikado yellow
+Y,Y,Y,N,		Naples yellow
+Y,Y,Y,N,		Navajo white
+Y,Y,Y,N,		Saffron
+Y,Y,Y,N,		School bus yellow
+Y,Y,Y,N,		Selective yellow
+Y,Y,Y,N,		Stil de grain yellow
+Y,Y,Y,N,		Sunglow
+Y,Y,Y,N,		Vanilla
+Y,Y,Y,N,		Yellow
+Y,Y,Y,N,Concept
+Y,Y,Y,N,	Animal
+Y,Y,Y,N,	Armed forces
+Y,Y,Y,N,		Airforce
+Y,Y,Y,N,		Army
+Y,Y,Y,N,		Navy
+Y,Y,Y,N,	Birth
+Y,Y,Y,N,	Body building
+Y,Y,Y,N,	Body piercing
+Y,Y,Y,N,	Broken heart
+Y,Y,Y,N,	Business
+Y,Y,Y,N,	Captivity
+Y,Y,Y,N,	Dark
+Y,Y,Y,N,	Death
+Y,Y,Y,N,	Derelict
+Y,Y,Y,N,	Disaster
+Y,Y,Y,N,	Education
+Y,Y,Y,N,	Faith
+Y,Y,Y,N,	Freedom
+Y,Y,Y,N,	Friendship
+Y,Y,Y,N,	Hard
+Y,Y,Y,N,	Hate
+Y,Y,Y,N,	Healthcare
+Y,Y,Y,N,	Heaven
+Y,Y,Y,N,	Hell
+Y,Y,Y,N,	Help
+Y,Y,Y,N,	Homeless
+Y,Y,N,N,	Idea
+Y,Y,Y,N,	Industrial
+Y,Y,Y,N,	Law enforcement
+Y,Y,Y,N,		Police
+Y,Y,Y,N,	Life
+Y,Y,Y,N,	Light
+Y,Y,Y,N,	Loneliness
+Y,Y,Y,N,	Love
+Y,Y,Y,N,	Luck
+Y,Y,Y,N,	Motion
+Y,Y,Y,N,	Number
+Y,Y,Y,N,	Offering
+Y,Y,Y,N,	Paradise
+Y,Y,Y,N,	Peace
+Y,Y,Y,N,	People
+Y,Y,Y,N,	Photography
+Y,Y,Y,N,	Religion
+Y,Y,Y,N,	Romance
+Y,Y,Y,N,	Sacred
+Y,Y,N,N,	Science
+Y,Y,N,N,		High Energy Physics
+Y,Y,Y,N,	Shadows
+Y,Y,Y,N,	Smooth
+Y,Y,Y,N,	Soft
+Y,Y,Y,N,	Speed
+Y,Y,Y,N,	Stillness
+Y,Y,Y,N,	Structure
+Y,Y,Y,N,	Tatoo
+Y,Y,Y,N,	Tension
+Y,Y,Y,N,	Time
+Y,Y,Y,N,	Tranquility
+Y,Y,Y,N,	Transportation
+Y,Y,Y,N,	Travel
+Y,Y,Y,N,	Vacation
+Y,Y,Y,N,	War
+Y,Y,Y,N,	Work
+Y,Y,Y,N,Dive Sites
+Y,Y,N,N,	Bahamas
+Y,Y,N,N,		Bimini
+Y,Y,N,N,			Big Greenie
+Y,Y,N,N,			Buddha's Belly
+Y,Y,N,N,			Bull Run
+Y,Y,N,N,			Hesperus Wreck
+Y,Y,N,N,			Krispy Kreme
+Y,Y,N,N,			Little Cayman
+Y,Y,N,N,			Moxon (Crotch) Rocks
+Y,Y,N,N,			North Turtle
+Y,Y,N,N,			Piquet Rocks
+Y,Y,N,N,			Riding Rocks Reef
+Y,Y,N,N,			Sapona Wreck
+Y,Y,N,N,			South Turtle
+Y,Y,N,N,			Tuna Alley
+Y,Y,N,N,		Grand Bahama
+Y,Y,N,N,			Ann's Paradise
+Y,Y,N,N,			Blair House
+Y,Y,N,N,			Shark Junction
+N,N,N,N,		[Nassau]
+Y,Y,Y,N,			Mike's Reef
+Y,Y,Y,N,			Runway Wall
+Y,Y,N,N,		Orange Caye
+Y,Y,N,N,			Antlers
+Y,Y,N,N,			Lurkenhead
+Y,Y,N,N,		Snorkeling
+Y,Y,Y,N,	Belize
+Y,Y,Y,N,		Boca del Rio
+Y,Y,Y,N,		Buena Vista Canyons
+Y,Y,Y,N,		Dardanello's Canyons
+Y,Y,Y,N,		Esmerelda
+Y,Y,Y,N,		Happy Hour
+Y,Y,Y,N,		Hol Chan
+Y,Y,Y,N,		Mayan Princess
+Y,Y,Y,N,		Mermaid's Lair
+Y,Y,Y,N,		Paradise Canyons
+Y,Y,Y,N,		Shark Ray Alley (snorkel)
+Y,Y,Y,N,		Tackle Box
+Y,Y,Y,N,		Tuffy Canyons
+Y,Y,Y,N,		Tunnel of Love
+Y,Y,N,N,	Bonaire
+Y,Y,N,N,		Alice in Wonderland
+Y,Y,N,N,		Andrea I
+Y,Y,N,N,		Angel City
+Y,Y,N,N,		Aquarius
+Y,Y,N,N,		Bachelor's Beach
+Y,Y,N,N,		Bari Reef
+Y,Y,N,N,		BelMar Reef
+Y,Y,N,N,		Buddy's Reef
+Y,Y,N,N,		Hilma Hooker
+Y,Y,N,N,		Invisibles
+Y,Y,N,N,		Jeannie's Glory
+Y,Y,Y,N,		Karpata
+Y,Y,Y,N,		Keepsake
+Y,Y,Y,N,		Kite City - Te Amo Beach
+Y,Y,N,N,		La Dania's Leap
+Y,Y,N,N,		Larry's Lair
+Y,Y,N,N,		Mi Casa (Sailboat Harbor)
+Y,Y,N,N,		Oil Slick
+Y,Y,Y,N,		Pink Beach
+Y,Y,N,N,		Punt Vierkant
+Y,Y,Y,N,		Rock Pile
+Y,Y,N,N,		Salt Pier
+Y,Y,N,N,		Something Special
+Y,Y,N,N,		The Lake
+Y,Y,N,N,		Tolo
+Y,Y,N,N,		Tori's Reef
+Y,Y,N,N,		Weber's Joy
+Y,Y,N,N,		Windsock
+Y,Y,N,N,	California
+Y,Y,Y,N,		Monterey
+Y,Y,Y,N,			Aquarium Reef
+Y,Y,Y,N,			Chase Reef
+Y,Y,Y,N,		San Diego
+Y,Y,N,N,			Point Loma Kelp Beds
+Y,Y,N,N,			Ruby E
+Y,Y,N,N,			Yukon
+Y,Y,N,N,	Cozumel
+Y,Y,Y,N,		Chankanap
+Y,Y,N,N,		Columbia Reef
+Y,Y,Y,N,		Delilah
+Y,Y,N,N,		Palancar Bricks
+Y,Y,N,N,		Palancar Caves
+Y,Y,N,N,		Palancar Gardens
+Y,Y,Y,N,		Paradise Reef
+Y,Y,N,N,		Paso del Cedral
+Y,Y,N,N,		Paso del Cedral Shallows
+Y,Y,Y,N,		Punta Dalila
+Y,Y,N,N,		Punta Tunich
+Y,Y,N,N,		San Francisco Wall
+Y,Y,N,N,		Santa Rosa
+Y,Y,Y,N,		Scuba Club Cozumel
+Y,Y,N,N,		Spanish Galleon
+Y,Y,Y,N,		Tormentos
+Y,Y,Y,N,		Villa Blanca
+Y,Y,N,N,		Xhanah
+Y,Y,Y,N,		Yucab
+Y,Y,N,N,	Dominica
+Y,Y,N,N,		Castle Comfort Reef
+Y,Y,N,N,		Champagne
+Y,Y,N,N,		Coral Gardens
+Y,Y,N,N,		Crater's Edge
+Y,Y,N,N,		Dangleben's North
+Y,Y,N,N,		Dangleben's Pinnacle
+Y,Y,N,N,		Scott's Head Dropoff
+Y,Y,N,N,		Scott's Head Point
+Y,Y,N,N,		Soufriere Pinnacle
+Y,Y,N,N,		The Suburbs
+Y,Y,N,N,		The Wall
+Y,Y,N,N,		Witches Point
+Y,Y,Y,N,	Dominican Republic
+Y,Y,Y,N,		The Park
+Y,Y,Y,N,	Florida
+Y,Y,Y,N,		Florida Atlantic Coast
+Y,Y,Y,N,			Ana Cecilia
+Y,Y,Y,N,			Blue Heron Bridge
+Y,Y,N,N,			Corridor Wrecks
+,,,,				{Mizpah Corridor}
+Y,Y,N,N,			Juno Ledge
+,,,,				{Monkey's Ledge}
+Y,Y,Y,N,			MG-111
+Y,Y,Y,N,			Split Reef
+Y,Y,Y,N,			Toybox & Playpen
+Y,Y,Y,N,			West Palm Beach Deep Ledge
+Y,Y,N,N,		Florida Keys
+Y,Y,N,N,			Banana Reef (Grecian Rocks)
+Y,Y,N,N,			Betty's Reef
+Y,Y,N,N,			Carysfort Lighthouse
+Y,Y,N,N,			Carysfort South
+Y,Y,N,N,			Christ of the Deep
+Y,Y,N,N,			City of Washington Wreck
+Y,Y,N,N,			Eagle Wreck
+Y,Y,N,N,			Fingers & Mike's Wreck
+Y,Y,N,N,			French Reef
+Y,Y,N,N,			Grecian Rocks
+Y,Y,N,N,			Hen and Chickens
+Y,Y,N,N,			North North Dry Rocks
+Y,Y,Y,N,			Pillar Coral
+Y,Y,N,N,			PT's Ledge
+Y,Y,N,N,			S.S. Duane Wreck
+Y,Y,N,N,			Spanky's Reef
+Y,Y,Y,N,		Interior
+Y,Y,Y,N,			Blue Grotto
+Y,Y,Y,N,			Devil's Den
+Y,Y,Y,N,			Rainbow River
+Y,Y,Y,N,	Grenada
+Y,Y,Y,N,		Anina Reef
+Y,Y,Y,N,		Bianca C
+Y,Y,Y,N,		Black Forest Reef
+Y,Y,Y,N,		Dr. Groom's Reef
+Y,Y,Y,N,		Purple Rain
+Y,Y,Y,N,		Quarrantine Point
+Y,Y,Y,N,		Quarter Wreck
+Y,Y,Y,N,		Spice Island Reef
+Y,Y,Y,N,		Spotter's Reef
+Y,Y,Y,N,		Tyrrel Bay
+Y,Y,Y,N,		Veronica L
+Y,Y,N,N,	Haigh Quarry
+Y,Y,Y,N,	Indonesia
+Y,Y,Y,N,		Bali
+Y,Y,Y,N,			Pemuteran
+Y,Y,Y,N,				Anchor Wreck
+Y,Y,Y,N,				Bio Wreck
+Y,Y,Y,N,				Coral Garden
+Y,Y,Y,N,				Eel Garden
+Y,Y,Y,N,				Mangrove Point
+Y,Y,Y,N,				Napolean
+Y,Y,Y,N,				Nudi Garden
+Y,Y,Y,N,				Pemuteran Jetty
+Y,Y,Y,N,				Sandy Slope
+Y,Y,Y,N,				Secret Bay
+Y,Y,Y,N,				Temple Wall
+Y,Y,Y,N,			Tulamben
+Y,Y,Y,N,				Batuniti
+Y,Y,Y,N,				Coral Gardens
+Y,Y,Y,N,				Dropoff
+Y,Y,Y,N,				Liberty Wreck
+Y,Y,Y,N,				Melasti North
+Y,Y,Y,N,				Melasti South
+Y,Y,Y,N,				Noisy Reef
+Y,Y,Y,N,				Seraya Secrets
+Y,Y,Y,N,				Two Trees
+Y,Y,Y,N,		Gili Islands
+Y,Y,Y,N,			Bounty Wreck
+Y,Y,Y,N,			Deep Turbo
+Y,Y,Y,N,			Geoffrey's
+Y,Y,Y,N,			Gili Air Harbor
+Y,Y,Y,N,			Halik
+Y,Y,Y,N,			Han's Reef
+Y,Y,Y,N,			Mantigi Bay
+Y,Y,Y,N,			Shark Point
+Y,Y,Y,N,			Sunset Reef
+Y,Y,Y,N,		Nusa Penida
+Y,Y,Y,N,			Buyak Point
+Y,Y,Y,N,			Crystal Bay
+Y,Y,Y,N,			Manta Point
+Y,Y,Y,N,			Pura Ped
+Y,Y,N,N,	Lake Michigan
+Y,Y,N,N,		Buccaneer
+Y,Y,N,N,		Car Ferry #2
+Y,Y,Y,N,		Dredge 906
+Y,Y,N,N,		Fin Seeker
+Y,Y,Y,N,		George W Morley
+Y,Y,N,N,		Illinois Dredge & Holly Barge
+Y,Y,N,N,		Lady Elgin
+Y,Y,N,N,		Louisville
+Y,Y,Y,N,		Lumberman
+Y,Y,Y,N,		Mahoning
+Y,Y,N,N,		Material Service Barge
+Y,Y,N,N,		Milwaukee Car Ferry
+Y,Y,N,N,		Niagara
+Y,Y,N,N,		Northerner
+Y,Y,Y,N,		Prins Willem V
+Y,Y,N,N,		Rotarian
+Y,Y,N,N,		Seabird
+Y,Y,N,N,		St. Mary
+Y,Y,N,N,		Straights of Mackinac
+Y,Y,N,N,		Tacoma
+Y,Y,N,N,		Wells Burt
+Y,Y,N,N,		Wings of the Wind
+Y,Y,N,N,		Wisconsin Car Ferry
+Y,Y,N,N,	Malta
+Y,Y,N,N,		Blue Lagoon
+Y,Y,N,N,		Cirkewwa North Arch
+Y,Y,N,N,		Cirkewwa South Arch
+Y,Y,N,N,		P29 Wreck
+Y,Y,N,N,		Rozi Wreck
+Y,Y,N,N,		Santa Maria Caves
+Y,Y,N,N,		Soltan Rock
+Y,Y,N,N,		St. George Bay
+Y,Y,N,N,		Um El Faroud (tanker) Wreck
+Y,Y,Y,N,	North Carolina
+Y,Y,Y,N,		Aeolus
+Y,Y,Y,N,		Carib Sea
+Y,Y,Y,N,		Hutton
+Y,Y,Y,N,		Indra
+Y,Y,Y,N,		U-352
+Y,Y,Y,N,	Philippines
+Y,Y,Y,N,		Anilao
+Y,Y,Y,N,			Aiyanar House Reef
+Y,Y,Y,N,			Aphol's Point
+Y,Y,Y,N,			Aqua Garden
+Y,Y,Y,N,			Bethlehem
+Y,Y,Y,N,			Cathedral
+Y,Y,Y,N,			Coconuts
+Y,Y,Y,N,			Daryl Laut
+Y,Y,Y,N,			Dead Palm
+Y,Y,Y,N,			Devil's Point
+Y,Y,Y,N,			Hydee's Point
+Y,Y,Y,N,			Kieser Point
+Y,Y,Y,N,			Kirby's Rock
+Y,Y,Y,N,			Koala
+Y,Y,Y,N,			Matu
+Y,Y,Y,N,			Mini Log
+Y,Y,Y,N,			Onad's Point
+Y,Y,Y,N,			Red Rock
+Y,Y,Y,N,			Secret Garden
+Y,Y,Y,N,			The Pier
+Y,Y,Y,N,		Dumaguete
+Y,Y,Y,N,			Apo Island
+Y,Y,Y,N,				Chapel
+Y,Y,Y,N,				Coconut Point
+Y,Y,Y,N,				Largahan
+Y,Y,Y,N,				Rock Point East
+Y,Y,Y,N,				Rock Point West
+Y,Y,Y,N,			Bancawreck
+Y,Y,Y,N,			Bonet's Corner
+Y,Y,Y,N,			Car Wreck
+Y,Y,Y,N,			Dauin South
+Y,Y,Y,N,			Ginama Point
+Y,Y,Y,N,			Luca Sanctuary
+Y,Y,Y,N,			Masaplod
+Y,Y,Y,N,			Pura Vida House Reef
+Y,Y,Y,N,			Rock Pile
+Y,Y,Y,N,			San Miguel
+Y,Y,Y,N,			Sarah's Place
+Y,Y,Y,N,		Moalboal
+Y,Y,Y,N,			Copton Point
+Y,Y,Y,N,			Fish Feeding Area
+Y,Y,Y,N,			Kasai Village Reef
+Y,Y,Y,N,			Moalboal Bay
+Y,Y,Y,N,			Panagsama Beach
+Y,Y,Y,N,			Pescador Island
+Y,Y,Y,N,			Rondo Bay
+Y,Y,Y,N,			Saavedra Marine Sanctuary
+Y,Y,Y,N,			Sampguita Point
+Y,Y,Y,N,			Talisay Point
+Y,Y,Y,N,			Tongo Sanctuary
+Y,Y,Y,N,			Tuble Point
+Y,Y,Y,N,			White Beach
+Y,Y,Y,N,		Puerta Galera
+Y,Y,Y,N,			Alma Jane
+Y,Y,Y,N,			Boatyard
+Y,Y,Y,N,			Canyons
+Y,Y,Y,N,			Coral Cove
+Y,Y,Y,N,			Dungon Wall
+Y,Y,Y,N,			Fantasea Reef
+Y,Y,Y,N,			Giant Clam
+Y,Y,Y,N,			Hole in the Wall
+Y,Y,Y,N,			Kilima Steps
+Y,Y,Y,N,			Manila Channel
+Y,Y,Y,N,			Monkey Beach
+Y,Y,Y,N,			Montani
+Y,Y,Y,N,			Sabang Wrecks
+Y,Y,Y,N,			Secret Bay
+Y,Y,Y,N,			Sinandigan Wall
+Y,Y,Y,N,			The Boulders
+Y,Y,Y,N,			West Escarceo
+Y,Y,Y,N,	Puerto Rico
+Y,Y,Y,N,		Vieques
+Y,Y,Y,N,			El Faro
+Y,Y,Y,N,			Mosquito Pier
+Y,Y,Y,N,			Tindo's Drift
+Y,Y,N,N,	Red Sea
+Y,Y,N,N,		Dahab
+Y,Y,N,N,			Canyon
+Y,Y,N,N,			Canyon Coral Gardens
+Y,Y,N,N,			Eel Garden
+Y,Y,N,N,			Gabr El Bint North
+Y,Y,N,N,			Lighthouse Reef
+Y,Y,N,N,			Moray Garden
+Y,Y,N,N,			The Bells
+Y,Y,N,N,			The Blue Hole
+Y,Y,N,N,			The Islands
+Y,Y,N,N,			Um El Sid
+Y,Y,Y,N,		Hurghada
+Y,Y,N,N,			Balena
+Y,Y,N,N,			El Fanous
+Y,Y,N,N,			Sabina
+Y,Y,N,N,			Shaab Torfa
+Y,Y,Y,N,		Southern Red Sea
+Y,Y,Y,N,			Abu Dabab II
+Y,Y,Y,N,			Abu Dabab III
+Y,Y,Y,N,			Abu Galawa Soghayr
+Y,Y,N,N,			Abu Ramada
+Y,Y,N,N,			Abu Ramada Plateau
+Y,Y,Y,N,			Dahra Wadi Elgemal
+Y,Y,Y,N,			Elphinstone South Plateau
+Y,Y,N,N,			Gota El Ghadir
+Y,Y,N,N,			Rocky Island
+Y,Y,N,N,			Shaab Claude
+Y,Y,N,N,			Shaab Marsa Alam
+Y,Y,N,N,			Shaab Moksor N
+Y,Y,N,N,			Shaab Sataia SW
+Y,Y,N,N,			Shaab Sharm
+Y,Y,Y,N,			Shaab Shuna
+Y,Y,Y,N,			Shaab Suleiman
+Y,Y,N,N,			Shilineat
+Y,Y,N,N,			Zabargad SW/E?
+Y,Y,Y,N,		St. Johns
+Y,Y,N,N,			Big Gota
+Y,Y,N,N,			Big Habili
+Y,Y,N,N,			Small Gota
+Y,Y,Y,N,			Small Habili
+Y,Y,N,N,			Umm Erug
+Y,Y,N,N,			Umm Hararim
+Y,Y,Y,N,	Roatan
+Y,Y,Y,N,		Calvin's Crack
+Y,Y,Y,N,		CoCo View Bay
+Y,Y,Y,N,		CoCo View Wall
+Y,Y,Y,N,		First Bight
+Y,Y,Y,N,		Gold Chain Reef
+Y,Y,Y,N,		Harold's Hotel
+Y,Y,Y,N,		Iron Shore
+Y,Y,Y,N,		Mary's Place
+Y,Y,Y,N,		Mr. Bud Wreck
+Y,Y,Y,N,		Neverstain Bight
+Y,Y,Y,N,		Newman's Wall
+Y,Y,Y,N,		Prince Albert
+Y,Y,Y,N,		Tulio's Reef
+Y,Y,Y,N,	Turks and Caicos
+Y,Y,Y,N,		Providenciales
+Y,Y,Y,N,			Cathedral
+Y,Y,Y,N,			Chimney
+Y,Y,Y,N,			Eel Garden
+Y,Y,Y,N,			Pinnacles
+Y,Y,Y,N,			Rugged Ledge
+Y,Y,Y,N,			Tons of Sponge
+Y,Y,Y,N,Element
+Y,Y,Y,N,	Air
+Y,Y,Y,N,	Ash
+Y,Y,Y,N,	Dirt
+Y,Y,Y,N,	Dust
+Y,Y,Y,N,	Earth
+Y,Y,Y,N,	Fire
+Y,Y,Y,N,	Lava
+Y,Y,Y,N,	Liquid
+Y,Y,Y,N,	Mud
+Y,Y,Y,N,	Sky
+Y,Y,Y,N,	Smoke
+Y,Y,Y,N,	Tephra
+,,,,		{Volcanic ash}
+Y,Y,Y,N,	Water
+Y,Y,Y,N,Event
+Y,Y,Y,N,	Accident
+Y,Y,Y,N,	Birthday
+Y,Y,Y,N,	Celebration
+Y,Y,Y,N,	Christening
+Y,Y,Y,N,	Concert
+Y,Y,Y,N,	Conference
+Y,Y,N,N,	Dinner
+Y,Y,Y,N,	Exhibition
+Y,Y,N,N,		CSM Photo Contests
+Y,Y,N,N,		CSM Workshops
+Y,Y,N,N,		Facebook National Photo Month 2010
+Y,Y,N,N,		Facebook National Photo Month 2011
+Y,Y,N,N,		Facebook National Photo Month 2012
+Y,Y,N,N,		Fermilab Employee Art Shows
+Y,Y,Y,N,	Fair
+Y,Y,Y,N,	Feast
+,,,,		{Banquet}
+Y,Y,Y,N,	Festival
+Y,Y,Y,N,	Gig
+Y,Y,Y,N,	Graduation
+Y,Y,Y,N,	Halloween
+Y,Y,Y,N,	Happening
+Y,Y,N,N,	Holiday
+Y,Y,N,N,		Christmas
+Y,Y,N,N,		Halloween
+Y,Y,N,N,		St. Patricks Day
+Y,Y,Y,N,	Honeymoon
+Y,Y,Y,N,	Marriage
+Y,Y,N,N,	Parade
+Y,Y,Y,N,	Party
+Y,Y,Y,N,	Reunion
+Y,Y,Y,N,	Symposium
+N,N,N,N,[ID-Hierarchy]
+Y,Y,Y,N,	ID-Activity
+N,N,N,N,	[ID-Animal]
+Y,Y,Y,N,		ID-Amphibean
+Y,Y,Y,N,		ID-Bird
+Y,Y,Y,N,			ID-BustardOstrich
+Y,Y,Y,N,			ID-Crane
+Y,Y,Y,N,			ID-Dove
+Y,Y,Y,N,			ID-DuckGoose
+Y,Y,Y,N,			ID-Groundfowl
+Y,Y,Y,N,			ID-Heron
+Y,Y,Y,N,			ID-Hornbill
+Y,Y,Y,N,			ID-Ibis
+Y,Y,Y,N,			ID-Kingfisher
+Y,Y,Y,N,			ID-Pelican
+Y,Y,Y,N,			ID-Raptor
+Y,Y,Y,N,			ID-ShoreBird
+Y,Y,Y,N,			ID-Songbird
+Y,Y,Y,N,			ID-StorkFlamingo
+Y,Y,Y,N,			ID-Vulture
+Y,Y,Y,N,		ID-Fish
+Y,Y,Y,N,			ID-Barracuda
+Y,Y,Y,N,			ID-Bass-Grouper
+Y,Y,Y,N,				ID-Anthias
+Y,Y,Y,N,				ID-Hamlet
+Y,Y,Y,N,			ID-Batfish
+Y,Y,Y,N,			ID-Butterfly-Angel
+Y,Y,Y,N,			ID-Cardinal
+Y,Y,Y,N,			ID-Catfish
+Y,Y,Y,N,			ID-Damsel
+Y,Y,Y,N,				ID-AnemoneFish
+Y,Y,Y,N,			ID-Drum
+Y,Y,Y,N,			ID-Eel
+Y,Y,Y,N,			ID-Flounder-Sole
+Y,Y,Y,N,			ID-Goatfish
+Y,Y,Y,N,			ID-Goby-Blennie
+Y,Y,Y,N,				ID-Blenny
+Y,Y,Y,N,				ID-Goby
+Y,Y,Y,N,				ID-Jawfish
+Y,Y,Y,N,				ID-ShrimpGoby
+Y,Y,Y,N,			ID-GruntSweetlips
+Y,Y,Y,N,			ID-Hawkfish
+Y,Y,Y,N,			ID-Jack
+Y,Y,Y,N,			ID-Lizardfish
+Y,Y,Y,N,			ID-Parrotfish
+Y,Y,Y,N,			ID-PufferTriggerFile
+Y,Y,Y,N,				ID-BoxCow
+Y,Y,Y,N,				ID-Filefish
+Y,Y,Y,N,				ID-Puffer
+Y,Y,Y,N,				ID-Trigger
+Y,Y,Y,N,			ID-Rabbitfish
+Y,Y,Y,N,			ID-Razorfish
+Y,Y,Y,N,			ID-ScorpLike
+Y,Y,Y,N,				ID-Flathead
+Y,Y,Y,N,				ID-Frogfish
+Y,Y,Y,N,				ID-LeafScorp
+Y,Y,Y,N,				ID-Lionfish
+Y,Y,Y,N,				ID-Rhinopias
+Y,Y,Y,N,				ID-Scorpionfish
+Y,Y,Y,N,				ID-Toadfish
+Y,Y,Y,N,				ID-Waspfish
+Y,Y,Y,N,			ID-Seahorse
+Y,Y,Y,N,				ID-GhostPipe
+Y,Y,Y,N,				ID-Pipefish
+Y,Y,Y,N,				ID-Pygmy
+Y,Y,Y,N,			ID-Shark Ray
+Y,Y,Y,N,			ID-ShrimpFish
+Y,Y,Y,N,			ID-Spadefish
+Y,Y,Y,N,			ID-Squirrelfish
+Y,Y,Y,N,			ID-SurgeonTang
+Y,Y,Y,N,			ID-Sweeper
+Y,Y,Y,N,			ID-TrumpetFish
+Y,Y,Y,N,			ID-Wrasse
+Y,Y,Y,N,		ID-Invert
+Y,Y,Y,N,			ID-Anemone
+Y,Y,Y,N,			ID-Coral
+Y,Y,Y,N,				ID-Black Coral
+Y,Y,Y,N,				ID-Gorgonian
+Y,Y,Y,N,					ID-SeaFan
+Y,Y,Y,N,					ID-SeaRod
+Y,Y,Y,N,					ID-Soft Coral
+Y,Y,Y,N,				ID-Sponge
+Y,Y,Y,N,				ID-Stony Coral
+Y,Y,Y,N,					ID-Brain
+Y,Y,Y,N,					ID-Lettuce
+Y,Y,Y,N,					ID-Maze
+Y,Y,Y,N,			ID-Corallimorph
+Y,Y,Y,N,			ID-Crustacean
+Y,Y,Y,N,				ID-Amphipod
+Y,Y,Y,N,				ID-Crab
+Y,Y,Y,N,				ID-HermitCrab
+Y,Y,Y,N,				ID-Lobster
+Y,Y,Y,N,				ID-Mantis
+Y,Y,Y,N,				ID-Shrimp
+Y,Y,Y,N,				ID-SlipperLobster
+Y,Y,Y,N,				ID-Squat
+Y,Y,Y,N,			ID-Echinoderm
+Y,Y,Y,N,				ID-BasketStar
+Y,Y,Y,N,				ID-BrittleStar
+Y,Y,Y,N,				ID-Crinoid
+Y,Y,Y,N,				ID-SeaCucumber
+Y,Y,Y,N,				ID-SeaStar
+Y,Y,Y,N,				ID-Urchin
+Y,Y,Y,N,			ID-Insect
+Y,Y,Y,N,			ID-Jelly
+Y,Y,Y,N,			ID-Mollusc
+Y,Y,Y,N,				ID-Bivalve
+Y,Y,Y,N,				ID-Cephelopod
+Y,Y,Y,N,					ID-Cuttlefish
+Y,Y,Y,N,					ID-Octopus
+Y,Y,Y,N,					ID-Squid
+Y,Y,Y,N,				ID-Slug-Nudi
+Y,Y,Y,N,					ID-Aeolid
+Y,Y,Y,N,					ID-Arminid
+Y,Y,Y,N,					ID-Chromodoris
+Y,Y,Y,N,					ID-Dorid
+Y,Y,Y,N,					ID-HeadShield
+Y,Y,Y,N,					ID-Hypselodoris
+Y,Y,Y,N,					ID-Nembrotha
+Y,Y,Y,N,					ID-Slug
+Y,Y,Y,N,				ID-Snail
+Y,Y,Y,N,			ID-Tunicate
+Y,Y,Y,N,			ID-Worm
+Y,Y,Y,N,		ID-Mammal
+Y,Y,Y,N,			ID-Afro
+Y,Y,Y,N,			ID-Bat
+Y,Y,Y,N,			ID-Carnivore
+Y,Y,Y,N,				ID-Cat
+Y,Y,Y,N,				ID-Dog
+Y,Y,Y,N,				ID-Hyena
+Y,Y,Y,N,				ID-Mongoose
+Y,Y,Y,N,			ID-Primate
+Y,Y,Y,N,			ID-Rodent
+Y,Y,Y,N,			ID-Ungalate
+Y,Y,Y,N,				ID-Antelope
+Y,Y,Y,N,				ID-Bovid
+Y,Y,Y,N,				ID-Deer
+Y,Y,Y,N,				ID-Giraffe
+Y,Y,Y,N,				ID-Pig
+Y,Y,Y,N,				ID-Zebra
+Y,Y,Y,N,		ID-Reptile
+Y,Y,Y,N,	ID-Huh
+Y,Y,Y,N,	ID-Known
+Y,Y,Y,N,	ID-More
+Y,Y,Y,N,	ID-NotNeeded
+Y,Y,Y,N,	ID-People
+Y,Y,Y,N,	ID-Plant
+Y,Y,Y,N,		ID-Algae
+Y,Y,Y,N,		ID-Tree
+Y,Y,Y,N,	ID-Scenery
+Y,Y,Y,N,	ID-Structure
+N,N,N,N,	[ID-Uncertain]
+Y,Y,Y,N,	ID-Vehicle
+Y,Y,Y,N,Land
+Y,Y,Y,N,	Arete
+Y,Y,Y,N,	Beach
+Y,Y,Y,N,	Bluff
+Y,Y,Y,N,	Canyon
+,,,,		{Gorge}
+Y,Y,Y,N,	Cave
+,,,,		{Cavern}
+Y,Y,Y,N,	Cliff
+Y,Y,Y,N,	Coast
+,,,,		{Coastline}
+,,,,		{Seashore}
+Y,Y,Y,N,	Crater
+Y,Y,Y,N,	Desert
+Y,Y,Y,N,		Dune
+Y,Y,Y,N,		Oasis
+Y,Y,Y,N,		Sandhill
+Y,Y,Y,N,	Dry lake
+,,,,		{Alkali flat}
+Y,Y,Y,N,		Mudflat
+Y,Y,Y,N,		Salt pan
+,,,,			{Salt flat}
+Y,Y,Y,N,	Esker
+Y,Y,Y,N,	Farm
+Y,Y,Y,N,	Field
+Y,Y,Y,N,	Floodplain
+Y,Y,Y,N,	Forest
+,,,,		{Woods}
+Y,Y,Y,N,	Glacier
+Y,Y,Y,N,	Hill
+Y,Y,Y,N,		Kopje
+Y,Y,Y,N,	Island
+Y,Y,Y,N,	Isthmus
+Y,Y,Y,N,	Levee
+,,,,		{Dike}
+,,,,		{Embankment}
+,,,,		{Floodbank}
+Y,Y,Y,N,	Meadow
+,,,,		{Prairie}
+Y,Y,Y,N,	Mountain
+Y,Y,Y,N,	Plain
+Y,Y,Y,N,	Plateau
+Y,Y,Y,N,	Rainforest
+Y,Y,Y,N,	Rice paddy
+Y,Y,Y,N,	Riverbank
+Y,Y,N,N,	Rock formation
+Y,Y,N,N,		Natural arch
+Y,Y,Y,N,	Savanna
+Y,Y,Y,N,	Shore
+,,,,		{Shoreline}
+Y,Y,Y,N,	Steppe
+Y,Y,Y,N,	Tundra
+Y,Y,Y,N,	Valley
+Y,Y,Y,N,	Veld
+Y,Y,Y,N,	Vineyard
+Y,Y,Y,N,	Volcano
+Y,Y,Y,N,		Caldera
+Y,Y,Y,N,		Geyser
+Y,Y,Y,N,		Volcanic crater
+Y,Y,Y,N,		Volcanic plug
+Y,Y,N,N,	Waterfront
+Y,Y,Y,N,Material
+Y,Y,Y,N,	Adobe
+Y,Y,Y,N,	Asphalt
+Y,Y,Y,N,	Bamboo
+Y,Y,Y,N,	Brick
+Y,Y,Y,N,	Cement
+Y,Y,Y,N,	Ceramic
+Y,Y,Y,N,	Clay
+Y,Y,Y,N,	Cloth
+Y,Y,Y,N,	Concrete
+Y,Y,Y,N,	Cotton
+Y,Y,Y,N,	Fabric
+Y,Y,Y,N,	Felt
+Y,Y,Y,N,	Gemstone
+,,,,		{Gem}
+Y,Y,Y,N,		Alexandrite
+Y,Y,Y,N,		Andalusite
+Y,Y,Y,N,		Aquamarine
+Y,Y,Y,N,		Axinite
+Y,Y,Y,N,		Benitoite
+Y,Y,Y,N,		Bixbite
+,,,,			{Red beryl}
+Y,Y,Y,N,		Cassiterite
+Y,Y,Y,N,		Chrysocolla
+Y,Y,Y,N,		Chrysoprase
+Y,Y,Y,N,		Clinohumite
+Y,Y,Y,N,		Danburite
+Y,Y,Y,N,		Diamond
+Y,Y,Y,N,		Diopside
+Y,Y,Y,N,		Dioptase
+Y,Y,Y,N,		Dumortierite
+Y,Y,Y,N,		Emerald
+Y,Y,Y,N,		Feldspar
+Y,Y,Y,N,		Garnet
+Y,Y,Y,N,		Hambergite
+Y,Y,Y,N,		Hematite
+Y,Y,Y,N,		Iolite
+Y,Y,Y,N,		Jade
+Y,Y,Y,N,			Jadeite
+Y,Y,Y,N,			Nephrite
+Y,Y,Y,N,		Jasper
+Y,Y,Y,N,		Kornerupine
+Y,Y,Y,N,		Kunzite
+Y,Y,Y,N,		Lapis lazuli
+Y,Y,Y,N,		Malachite
+Y,Y,Y,N,		Natural moissanite
+Y,Y,Y,N,		Obsidian
+Y,Y,Y,N,		Olivine
+,,,,			{Peridot}
+Y,Y,Y,N,		Opal
+,,,,			{Girasol}
+Y,Y,Y,N,		Pyrite
+Y,Y,Y,N,		Quartz
+Y,Y,Y,N,			Agate
+Y,Y,Y,N,			Amethyst
+,,,,				{Cardinal gem}
+Y,Y,Y,N,			Chalcedony (bloodstone)
+Y,Y,Y,N,			Citrine
+Y,Y,Y,N,			Onyx
+Y,Y,Y,N,			Tiger's-eye
+Y,Y,Y,N,		Ruby
+Y,Y,Y,N,		Sapphire
+Y,Y,Y,N,		Spinel
+Y,Y,Y,N,		Sugilite
+Y,Y,Y,N,		Tanzanite
+Y,Y,Y,N,		Topaz
+Y,Y,Y,N,		Tourmaline
+Y,Y,Y,N,		Turquoise
+Y,Y,Y,N,		Variscite
+Y,Y,Y,N,		Zeolite
+Y,Y,Y,N,		Zircon
+Y,Y,Y,N,	Glass
+Y,Y,Y,N,	Granite
+Y,Y,Y,N,	Gravel
+Y,Y,Y,N,	Marble
+Y,Y,Y,N,	Metal
+Y,Y,Y,N,		Aluminium
+Y,Y,Y,N,		Copper
+Y,Y,Y,N,			Brass
+Y,Y,Y,N,			Bronze
+Y,Y,Y,N,		Gold
+Y,Y,Y,N,			Rhodite
+Y,Y,Y,N,			Rose gold
+Y,Y,Y,N,			White gold
+Y,Y,Y,N,		Iron
+Y,Y,Y,N,			Stainless steel
+,,,,				{Inox}
+Y,Y,Y,N,			Steel
+Y,Y,Y,N,		Lead
+Y,Y,Y,N,		Mercury
+Y,Y,Y,N,		Nickel
+Y,Y,Y,N,		Silver
+Y,Y,Y,N,		Tin
+Y,Y,Y,N,		Titanium
+Y,Y,Y,N,		Zinc
+Y,Y,Y,N,	Paper
+Y,Y,Y,N,	Plaster
+Y,Y,Y,N,	Plastic
+Y,Y,Y,N,		Nylon
+Y,Y,Y,N,		Polystyrene
+Y,Y,Y,N,		Rubber
+Y,Y,Y,N,		Vinyl
+,,,,			{Pvc}
+Y,Y,Y,N,	Sand
+Y,Y,Y,N,	Stone
+,,,,		{Rock}
+Y,Y,Y,N,	Velvet
+Y,Y,Y,N,	Wax
+Y,Y,Y,N,	Wood
+Y,Y,Y,N,	Wool
+Y,Y,Y,N,Natural phenomenon
+Y,Y,Y,N,	Aurora
+Y,Y,Y,N,		Aurora australis
+,,,,			{Southern lights}
+Y,Y,Y,N,		Aurora borealis
+,,,,			{Northern lights}
+Y,Y,Y,N,	Avalanche
+,,,,		{Snowslide}
+,,,,		{Snowslip}
+Y,Y,Y,N,	Earthquake
+,,,,		{Quake}
+Y,Y,Y,N,	Flood
+Y,Y,Y,N,	Landslide
+Y,Y,N,N,	Rainbow
+Y,Y,Y,N,	Sinkhole
+,,,,		{Swallet}
+,,,,		{Swallow hole}
+Y,Y,Y,N,	Sunrise
+Y,Y,Y,N,	Sunset
+Y,Y,Y,N,	Tsunami
+Y,Y,Y,N,	Volcanic eruption
+Y,Y,Y,N,	Vortex
+Y,Y,Y,N,	Weather
+Y,Y,Y,N,		Blizzard
+Y,Y,Y,N,		Cloud
+Y,Y,Y,N,		Cyclone
+Y,Y,Y,N,		Drought
+Y,Y,Y,N,		Fog
+Y,Y,Y,N,		Hailstorm
+Y,Y,Y,N,			Hail
+Y,Y,Y,N,			Hailstone
+Y,Y,Y,N,		Haze
+Y,Y,Y,N,		Ice
+Y,Y,Y,N,			Frost
+Y,Y,Y,N,		Mist
+Y,Y,Y,N,		Overcast
+Y,Y,Y,N,		Rain
+Y,Y,Y,N,		Snow
+Y,Y,Y,N,		Storm
+Y,Y,Y,N,		Sunny
+Y,Y,Y,N,		Thunderstorm
+,,,,			{Lightning storm}
+Y,Y,Y,N,		Tornado
+,,,,			{Twister}
+Y,Y,Y,N,		Windy
+Y,Y,Y,N,	Whirlpool
+Y,Y,Y,N,	Wildfire
+Y,Y,Y,N,Number
+Y,Y,Y,N,	Four people
+Y,Y,Y,N,	Group of animals
+Y,Y,Y,N,		Clowder
+Y,Y,Y,N,		Flock
+Y,Y,Y,N,		Herd
+Y,Y,Y,N,		Pack
+Y,Y,Y,N,		Shoal
+Y,Y,Y,N,	Group of objects
+Y,Y,Y,N,	Group of people
+Y,Y,N,N,		Crowd
+Y,Y,Y,N,		Gang
+Y,Y,Y,N,		Mob
+Y,Y,Y,N,		Small group
+Y,Y,Y,N,		Squad
+Y,Y,Y,N,		Team
+Y,Y,Y,N,	One animal
+Y,Y,Y,N,	One person
+Y,Y,Y,N,	Three animals
+Y,Y,Y,N,	Three people
+Y,Y,Y,N,	Two animals
+Y,Y,Y,N,	Two people
+Y,Y,Y,N,Object
+Y,Y,Y,N,	Aiguillette
+,,,,		{Aiglet}
+Y,Y,Y,N,	Air condition
+Y,Y,Y,N,	Anchor
+Y,Y,Y,N,	Animal skin
+Y,Y,Y,N,	Artifact
+Y,Y,Y,N,	Axle
+Y,Y,Y,N,	Bag
+Y,Y,Y,N,		Bin bag
+,,,,			{Garbage bag}
+,,,,			{Trash bag}
+Y,Y,Y,N,		Diplomatic bag
+,,,,			{Diplomatic pouch}
+Y,Y,Y,N,		Duffel bag
+,,,,			{Gym bag}
+Y,Y,Y,N,		Handbag
+Y,Y,Y,N,		Messenger bag
+,,,,			{Sack}
+Y,Y,Y,N,		Paper bag
+Y,Y,Y,N,		Plastic bag
+Y,Y,Y,N,		Purse
+Y,Y,Y,N,		Satchel
+Y,Y,Y,N,		Shopping bag
+Y,Y,Y,N,		Sling bag
+Y,Y,Y,N,		Suitcase
+,,,,			{Luggage}
+,,,,			{Travel bag}
+Y,Y,Y,N,		Thermal bag
+Y,Y,Y,N,	Bearing
+Y,Y,Y,N,	Belt
+Y,Y,N,N,	Bird nest
+Y,Y,Y,N,	Board game
+Y,Y,Y,N,		Backgammon
+Y,Y,Y,N,		Card
+Y,Y,Y,N,		Chess
+Y,Y,Y,N,			Bishop
+Y,Y,Y,N,			Chess board
+Y,Y,Y,N,			King
+Y,Y,Y,N,			Knight
+Y,Y,Y,N,			Pawn
+Y,Y,Y,N,			Queen
+Y,Y,Y,N,			Rook
+Y,Y,Y,N,		Dice
+Y,Y,Y,N,		Gameboard
+,,,,			{Board}
+Y,Y,Y,N,		Gamepiece
+,,,,			{Game piece}
+Y,Y,Y,N,	Bottle
+Y,Y,Y,N,	Boutonniere
+Y,Y,Y,N,	Bow tie
+Y,Y,Y,N,	Box
+Y,Y,Y,N,	Camera
+Y,Y,Y,N,	Cane
+Y,Y,Y,N,	Carpet
+Y,Y,Y,N,	Casino token
+,,,,		{Checks}
+,,,,		{Cheques}
+,,,,		{Chip}
+Y,Y,Y,N,	Chain
+Y,Y,Y,N,	Cigarette case
+Y,Y,Y,N,	Cleaning tool
+Y,Y,Y,N,		Broom
+Y,Y,Y,N,		Brush
+Y,Y,Y,N,		Bucket
+Y,Y,Y,N,		Feather dust
+Y,Y,Y,N,		Floor buffer
+Y,Y,Y,N,		Mop
+Y,Y,Y,N,		Sponge
+Y,Y,Y,N,		Vacuum cleaner
+Y,Y,Y,N,	Clock
+Y,Y,Y,N,		Alarm clock
+Y,Y,Y,N,		Analog clock
+Y,Y,Y,N,		Cuckoo clock
+Y,Y,Y,N,		Digital clock
+Y,Y,Y,N,		Hourglass
+Y,Y,Y,N,		Sun dial
+Y,Y,Y,N,	Clothes dryer
+Y,Y,Y,N,	Clothing
+Y,Y,Y,N,		Button
+Y,Y,Y,N,		Costume
+Y,Y,Y,N,		Dress
+Y,Y,Y,N,		Jeans
+Y,Y,Y,N,		Robe
+Y,Y,Y,N,		Shirt
+Y,Y,Y,N,		Shorts
+Y,Y,Y,N,		Skirt
+Y,Y,Y,N,		Sock
+Y,Y,Y,N,		Sweater
+Y,Y,Y,N,		T-shirt
+Y,Y,Y,N,		Trouser
+Y,Y,Y,N,		Uniform
+Y,Y,Y,N,		Vest
+Y,Y,Y,N,	Collar pin
+Y,Y,Y,N,	Computing
+Y,Y,Y,N,		Computer
+,,,,			{Pc}
+Y,Y,Y,N,		Desktop
+Y,Y,Y,N,		Floppy drive
+Y,Y,Y,N,		Hard drive
+Y,Y,Y,N,		Laptop
+Y,Y,Y,N,		Memory card
+Y,Y,Y,N,		Modem
+Y,Y,Y,N,		Monitor
+Y,Y,Y,N,		Mouse keyboard
+Y,Y,Y,N,		Mousepad
+Y,Y,Y,N,		Tablet
+Y,Y,Y,N,		Thumb drive
+Y,Y,Y,N,	Cooking plate
+Y,Y,Y,N,	Corsage
+Y,Y,Y,N,	Coupling
+Y,Y,Y,N,	Credit card
+Y,Y,Y,N,	Cuff link
+Y,Y,Y,N,	Cummerbund
+Y,Y,Y,N,	Curtain
+Y,Y,Y,N,	Dental braces
+,,,,		{Braces}
+Y,Y,Y,N,	Doorbell
+Y,Y,Y,N,	Drive belt
+Y,Y,Y,N,	Drive chain
+,,,,		{Roller chain}
+Y,Y,Y,N,	Dvd player
+Y,Y,Y,N,	Electronics
+Y,Y,Y,N,	Epaulette
+Y,Y,Y,N,	Eyewear
+Y,Y,Y,N,		3D glasses
+Y,Y,Y,N,		Blindfold
+Y,Y,Y,N,		Contact lenses
+Y,Y,Y,N,		Eyeglasses
+,,,,			{Specs}
+,,,,			{Spectacles}
+Y,Y,Y,N,		Monocle
+Y,Y,Y,N,		Safety glasses
+,,,,			{Goggles}
+Y,Y,Y,N,		Sunglasses
+Y,Y,Y,N,	Fastener
+Y,Y,Y,N,		Bolt
+Y,Y,Y,N,		Nail
+Y,Y,Y,N,		Rivet
+Y,Y,Y,N,		Screw
+Y,Y,Y,N,		Split pin
+Y,Y,Y,N,	Feather boa
+Y,Y,Y,N,	Fireplace
+Y,Y,Y,N,	Firework
+Y,Y,Y,N,	Fishing rod
+,,,,		{Fishing pole}
+Y,Y,Y,N,	Flag
+Y,Y,Y,N,	Food and drink
+Y,Y,Y,N,		Beer
+Y,Y,Y,N,		Bread
+Y,Y,Y,N,		Cake
+Y,Y,Y,N,		Cheese
+Y,Y,Y,N,		Cocktail
+Y,Y,Y,N,		Fruit
+Y,Y,Y,N,		Wine
+Y,Y,Y,N,	Food preparation
+Y,Y,Y,N,		Appliances
+Y,Y,Y,N,			Coffeemaker
+Y,Y,Y,N,			Dishwasher
+Y,Y,Y,N,			Freezer
+Y,Y,Y,N,			Kitchen stove
+,,,,				{Oven}
+,,,,				{Stove}
+Y,Y,Y,N,			Microwave oven
+Y,Y,Y,N,			Oven
+Y,Y,Y,N,			Refrigerator
+Y,Y,Y,N,			Sink
+Y,Y,Y,N,		Cookware
+Y,Y,Y,N,			Baking pan
+Y,Y,Y,N,			Beanpot
+Y,Y,Y,N,			Casserole pan
+Y,Y,Y,N,			Chip pan
+Y,Y,Y,N,			Cookie sheet
+Y,Y,Y,N,			Cooking pot
+Y,Y,Y,N,			Crepe pan
+Y,Y,Y,N,			Double boiler
+Y,Y,Y,N,			Frying pan
+,,,,				{Skillet}
+Y,Y,Y,N,			Griddle
+Y,Y,Y,N,			Karahi
+Y,Y,Y,N,			Kettle
+Y,Y,Y,N,			Pressure cooker
+Y,Y,Y,N,			Ramekin
+Y,Y,Y,N,			Roasting pan
+Y,Y,Y,N,			Saucepan
+Y,Y,Y,N,			Saucier
+Y,Y,Y,N,			Saute pan
+Y,Y,Y,N,			Springform pan
+Y,Y,Y,N,			Stockpot
+Y,Y,Y,N,			Tajine
+Y,Y,Y,N,			Wok
+Y,Y,Y,N,		Glassware
+Y,Y,Y,N,			Beaker
+Y,Y,Y,N,			Beer stein
+Y,Y,Y,N,			Coffee cup
+Y,Y,Y,N,			Cup
+Y,Y,Y,N,			Mug
+Y,Y,Y,N,			Paper cup
+Y,Y,Y,N,			Quaich
+Y,Y,Y,N,			Sake cup
+Y,Y,Y,N,			Stemware
+Y,Y,Y,N,				Chalice
+Y,Y,Y,N,				Champagne coupe
+Y,Y,Y,N,				Champagne flute
+Y,Y,Y,N,				Coctail glass
+Y,Y,Y,N,				Goblet
+Y,Y,Y,N,				Rummer
+Y,Y,Y,N,				Wine glass
+Y,Y,Y,N,			Tankard
+Y,Y,Y,N,			Teacup
+Y,Y,Y,N,			Tumbler
+Y,Y,Y,N,				Shot glass
+Y,Y,Y,N,				Water glass
+Y,Y,Y,N,		Kitchen utensil
+Y,Y,Y,N,			Biscuit cutter
+Y,Y,Y,N,			Chopstick
+Y,Y,Y,N,			Drinking straw
+Y,Y,Y,N,			Fork
+Y,Y,Y,N,			Funnel
+Y,Y,Y,N,			Grater
+Y,Y,Y,N,			Knife
+Y,Y,Y,N,			Lemon squeezer
+Y,Y,Y,N,			Nutcracker
+Y,Y,Y,N,			Scoop
+Y,Y,Y,N,			Sieve
+Y,Y,Y,N,			Skewer
+Y,Y,Y,N,			Spatula
+Y,Y,Y,N,			Spoon
+Y,Y,Y,N,			Tin opener
+,,,,				{Can opener}
+Y,Y,Y,N,			Toothpick
+Y,Y,Y,N,		Kitchenware
+Y,Y,Y,N,		Tableware
+Y,Y,Y,N,			Bowl
+Y,Y,Y,N,			Coffeepot
+Y,Y,Y,N,			Jug
+Y,Y,Y,N,			Pitcher
+Y,Y,Y,N,			Plate
+Y,Y,Y,N,			Platter
+Y,Y,Y,N,			Saucer
+Y,Y,Y,N,			Teapot
+Y,Y,Y,N,			Tureen
+Y,Y,N,N,	Footprint
+Y,Y,Y,N,	Fossil
+Y,Y,Y,N,	Furniture
+Y,Y,Y,N,		Bean bag
+,,,,			{Beanbag}
+Y,Y,Y,N,		Bed
+Y,Y,Y,N,		Bench
+Y,Y,Y,N,		Bookcase
+,,,,			{Bookshelf}
+Y,Y,Y,N,		Cabinet
+Y,Y,Y,N,		Chair
+Y,Y,Y,N,			Rocking chair
+,,,,				{Rocker}
+Y,Y,Y,N,		Chaise longue
+Y,Y,Y,N,		Chest
+Y,Y,Y,N,		Chest of drawers
+,,,,			{Dresser}
+Y,Y,Y,N,		Closet
+Y,Y,Y,N,		Couch
+,,,,			{Sofa}
+Y,Y,Y,N,		Desk
+Y,Y,Y,N,		Drawing board
+Y,Y,Y,N,		Hutch
+Y,Y,Y,N,		Nightstand
+,,,,			{Bedside table}
+Y,Y,Y,N,		Pew
+Y,Y,Y,N,		Pouffe
+,,,,			{Hassock}
+,,,,			{Tuffet}
+Y,Y,Y,N,		Stool
+Y,Y,Y,N,			Bar stool
+Y,Y,Y,N,			Footstool
+,,,,				{Footrest}
+Y,Y,Y,N,		Table
+Y,Y,Y,N,			Coffee table
+Y,Y,Y,N,			Kitchen & dining room table
+Y,Y,Y,N,			Picnic table
+Y,Y,Y,N,		Throne
+Y,Y,Y,N,		Wardrobe
+Y,Y,Y,N,		Workbench
+Y,Y,Y,N,	Garter
+Y,Y,Y,N,	Gear
+Y,Y,Y,N,	Gear box
+Y,Y,Y,N,	Glove
+Y,Y,Y,N,	Hair pin
+,,,,		{Hair stick}
+Y,Y,Y,N,		Bobby pin
+Y,Y,Y,N,	Hairnet
+,,,,		{Caul}
+Y,Y,Y,N,	Handkerchief
+Y,Y,Y,N,	Hi-fi
+,,,,		{Hifi}
+Y,Y,Y,N,	Home cinema
+Y,Y,Y,N,	Jewellery
+Y,Y,Y,N,		Anklet
+,,,,			{Ankle chain}
+Y,Y,Y,N,		Armlet
+Y,Y,Y,N,		Body piercing jewellery
+Y,Y,Y,N,		Bracelet
+Y,Y,Y,N,		Brooch
+Y,Y,Y,N,		Crown
+Y,Y,Y,N,		Earring
+Y,Y,Y,N,		Necklace
+Y,Y,Y,N,		Ring
+Y,Y,Y,N,		Tiara
+Y,Y,Y,N,		Waist chain
+,,,,			{Belly chain}
+Y,Y,Y,N,	Key
+Y,Y,Y,N,		Card key
+Y,Y,Y,N,	Knob
+Y,Y,Y,N,	Lapel pin
+Y,Y,Y,N,	Laundry
+Y,Y,Y,N,	Lever
+Y,Y,Y,N,	Lighting
+Y,Y,Y,N,		Blacklight
+Y,Y,Y,N,		Candle
+Y,Y,Y,N,		Chandelier
+Y,Y,Y,N,		Headlamp
+Y,Y,Y,N,		Lamp
+Y,Y,Y,N,		Luminaire
+,,,,			{Light fitting}
+,,,,			{Light fixture}
+Y,Y,Y,N,		Nightlight
+Y,Y,Y,N,		Recessed light
+Y,Y,Y,N,		Sconce
+Y,Y,Y,N,		Street lamp
+Y,Y,Y,N,		Street light
+Y,Y,Y,N,		Strobe light
+Y,Y,Y,N,		Table lamp
+Y,Y,Y,N,		Torch lamp
+Y,Y,Y,N,		Traffic light
+Y,Y,Y,N,	Lock
+Y,Y,Y,N,		Combination lock
+Y,Y,Y,N,		Padlock
+Y,Y,Y,N,	Machine
+Y,Y,Y,N,	Manequin
+Y,Y,Y,N,	Map
+Y,Y,Y,N,	Microphone
+Y,Y,Y,N,	Mirror
+Y,Y,Y,N,	Money
+Y,Y,Y,N,		Banknote
+,,,,			{Bill}
+Y,Y,Y,N,		Coin
+Y,Y,Y,N,	Money pin
+Y,Y,Y,N,	Mp3 player
+Y,Y,Y,N,	Musical instrument
+Y,Y,Y,N,		Accordion
+Y,Y,Y,N,		Bagpipe
+Y,Y,Y,N,		Banjo
+Y,Y,Y,N,		Bass drum
+Y,Y,Y,N,		Bouzouki
+Y,Y,Y,N,		Cello
+Y,Y,Y,N,		Clarinet
+Y,Y,Y,N,		Cornett
+,,,,			{Cornetto}
+Y,Y,Y,N,		Drum
+Y,Y,Y,N,		Drum kit
+Y,Y,Y,N,		Flute
+Y,Y,Y,N,		Gaida
+Y,Y,Y,N,		Guitar
+Y,Y,Y,N,			Acoustic guitar
+Y,Y,Y,N,			Bass guitar
+Y,Y,Y,N,			Classical guitar
+Y,Y,Y,N,			Electric guitar
+Y,Y,Y,N,		Guitar pick
+Y,Y,Y,N,		Harmonica
+Y,Y,Y,N,		Harp
+Y,Y,Y,N,		Lyra
+Y,Y,Y,N,		Mandolin
+Y,Y,Y,N,		Oboe
+Y,Y,Y,N,		Ocarina
+Y,Y,Y,N,		Pan flute
+,,,,			{Pan pipe}
+Y,Y,Y,N,		Piano
+Y,Y,Y,N,			Grand piano
+Y,Y,Y,N,			Upright piano
+Y,Y,Y,N,		Pipe organ
+Y,Y,Y,N,		Saxophone
+Y,Y,Y,N,		Sitar
+Y,Y,Y,N,		Steel drum
+Y,Y,Y,N,		Street organ
+Y,Y,Y,N,		Tabla
+Y,Y,Y,N,		Triangle
+Y,Y,Y,N,		Trumpet
+Y,Y,Y,N,		Ukulele
+Y,Y,Y,N,		Violin
+Y,Y,Y,N,		Whistle
+Y,Y,Y,N,		Xylophone
+Y,Y,Y,N,	Photo gear
+Y,Y,Y,N,		Filter
+Y,Y,Y,N,		Flash
+Y,Y,Y,N,		Lens cap
+Y,Y,Y,N,		Lens hood
+Y,Y,Y,N,		Still camera
+Y,Y,Y,N,			Analog camera
+Y,Y,Y,N,			Box camera
+Y,Y,Y,N,			Compact camera
+,,,,				{Point and shoot camera}
+Y,Y,Y,N,			Digital camera
+Y,Y,Y,N,			Disposable camera
+Y,Y,Y,N,			Field camera
+Y,Y,Y,N,			Pinhole camera
+Y,Y,Y,N,			Polaroid
+,,,,				{Instant camera}
+Y,Y,Y,N,			Single lens reflex camera
+,,,,				{Slr}
+Y,Y,Y,N,			Twin lens reflex camera
+Y,Y,Y,N,			View camera
+Y,Y,Y,N,		Tripod
+Y,Y,Y,N,	Pin
+Y,Y,Y,N,	Playing card
+,,,,		{Card}
+Y,Y,Y,N,		Deck of cards
+Y,Y,Y,N,	Pulley
+Y,Y,Y,N,	Push button
+,,,,		{Button}
+Y,Y,Y,N,	Push pin
+Y,Y,Y,N,	Razor
+Y,Y,Y,N,	Rim
+Y,Y,Y,N,	Robot
+Y,Y,Y,N,	Rock
+Y,Y,Y,N,	Roulette
+Y,Y,Y,N,	Safety belt
+Y,Y,Y,N,	Safety pin
+Y,Y,Y,N,	Scientific instrument
+Y,Y,N,N,	SCUBA gear
+Y,Y,Y,N,	Shaft
+Y,Y,Y,N,	Shampoo
+Y,Y,N,N,	Shipwreck
+Y,Y,Y,N,	Shoe
+Y,Y,Y,N,		Athletic
+Y,Y,Y,N,		Ballet flat
+Y,Y,Y,N,		Boot
+Y,Y,Y,N,		Casual shoe
+Y,Y,Y,N,		Clog
+Y,Y,Y,N,		Dress shoe
+Y,Y,Y,N,		High heel
+Y,Y,Y,N,		Mule
+Y,Y,Y,N,		Sandal
+,,,,			{Flip flop}
+Y,Y,Y,N,		Slipper
+Y,Y,Y,N,		Sneaker
+Y,Y,Y,N,		Stilletto heel
+Y,Y,Y,N,	Sign
+Y,Y,Y,N,		Announcement
+Y,Y,Y,N,		Billboard
+Y,Y,Y,N,		Humorous
+Y,Y,Y,N,		Informative
+Y,Y,N,N,		Lighted sign
+Y,Y,N,N,		Plaque
+Y,Y,Y,N,	Soap
+Y,Y,Y,N,	Speaker
+Y,Y,Y,N,	Stationery
+Y,Y,Y,N,		Binder clip
+Y,Y,Y,N,		Brass fastener
+,,,,			{Split pin}
+Y,Y,Y,N,		Business card
+Y,Y,Y,N,		Clipboard
+Y,Y,Y,N,		Correction fluid
+Y,Y,Y,N,		Crayon
+Y,Y,Y,N,		Diary
+Y,Y,Y,N,		Envelope
+Y,Y,Y,N,		Eraser
+Y,Y,Y,N,		File folder
+Y,Y,Y,N,		Highlighter
+Y,Y,Y,N,		Letter
+Y,Y,Y,N,		Marker
+,,,,			{Felt-tip pen}
+,,,,			{Marker pen}
+Y,Y,Y,N,		Notebook
+Y,Y,Y,N,		Paper
+Y,Y,Y,N,		Paper cutter
+Y,Y,Y,N,		Pen
+Y,Y,Y,N,		Pencil
+Y,Y,Y,N,		Post-it note
+Y,Y,Y,N,		Postal stationery
+Y,Y,Y,N,		Ruler
+Y,Y,Y,N,		Sheet of paper
+Y,Y,Y,N,		Spindle
+Y,Y,Y,N,		Stapler
+Y,Y,Y,N,	Steering wheel
+Y,Y,Y,N,	Suspender
+Y,Y,Y,N,	Sword
+Y,Y,Y,N,	Taser
+Y,Y,Y,N,	Telephone
+,,,,		{Phone}
+Y,Y,Y,N,		Answering machine
+Y,Y,Y,N,		Cell phone
+,,,,			{Mobile phone}
+Y,Y,Y,N,		Landline
+Y,Y,Y,N,	Television
+,,,,		{Tv}
+Y,Y,Y,N,	Termite mound
+Y,Y,Y,N,	Thumbtack
+,,,,		{Drawing pin}
+Y,Y,Y,N,	Tie
+Y,Y,Y,N,	Tire
+Y,Y,Y,N,	Tool
+Y,Y,Y,N,		Anvil
+Y,Y,Y,N,		Axe
+Y,Y,Y,N,		Blow torch
+Y,Y,Y,N,		Chisel
+Y,Y,Y,N,		Compass
+Y,Y,Y,N,		Crowbar
+Y,Y,Y,N,		Drill
+Y,Y,Y,N,		Flashlight
+Y,Y,Y,N,		Garden fork
+,,,,			{Digging fork}
+,,,,			{Graip}
+,,,,			{Spading fork}
+Y,Y,Y,N,		Hammer
+Y,Y,Y,N,		Ladder
+Y,Y,Y,N,		Lawn mower
+Y,Y,Y,N,		Leaf blower
+Y,Y,Y,N,		Paintbrush
+Y,Y,Y,N,		Sandpaper
+Y,Y,Y,N,		Saw
+Y,Y,Y,N,			Chainsaw
+Y,Y,Y,N,			Hand saw
+Y,Y,Y,N,		Scalpel
+Y,Y,Y,N,		Scissor
+Y,Y,Y,N,		Screwdriver
+Y,Y,Y,N,		Sledgehammer
+Y,Y,Y,N,		Spirit level
+Y,Y,Y,N,		Tape measure
+Y,Y,Y,N,		Toolbox
+Y,Y,Y,N,		Weighing scale
+Y,Y,Y,N,		Wrench
+Y,Y,Y,N,	Towel
+Y,Y,Y,N,		Bath towel
+Y,Y,Y,N,		Beach towel
+Y,Y,Y,N,		Flannel
+Y,Y,Y,N,		Foot towel
+Y,Y,Y,N,		Hand towel
+Y,Y,Y,N,		Paper towel
+Y,Y,Y,N,		Tea towel
+Y,Y,Y,N,	Toy
+Y,Y,Y,N,		Action figure
+Y,Y,Y,N,		Building block
+Y,Y,Y,N,		Doll
+Y,Y,Y,N,		Puppet
+Y,Y,Y,N,	Tropical aquarium
+Y,Y,Y,N,	Tyre
+Y,Y,Y,N,	Umbrella
+Y,Y,Y,N,	Vending machine
+Y,Y,Y,N,	Video camera
+,,,,		{Camcorder}
+Y,Y,Y,N,	Wallet
+Y,Y,Y,N,	Washing machine
+Y,Y,Y,N,	Watch
+Y,Y,Y,N,	Water heater
+Y,Y,Y,N,	Weapon
+Y,Y,Y,N,		Cannon
+Y,Y,Y,N,		Grenade
+Y,Y,Y,N,		Gun
+Y,Y,Y,N,		Handgun
+Y,Y,Y,N,		Machine gun
+Y,Y,Y,N,		Musket
+Y,Y,Y,N,		Paintball gun
+Y,Y,Y,N,		Pistol
+Y,Y,Y,N,		Revolver
+Y,Y,Y,N,		Rifle
+Y,Y,Y,N,		Shotgun
+Y,Y,Y,N,	Wedge
+Y,Y,Y,N,	Wheel
+Y,Y,Y,N,	Wire rope
+Y,Y,Y,N,People
+Y,Y,Y,N,	Aquaintances
+Y,Y,Y,Y,		Anna Stenson
+Y,Y,Y,Y,		Christy Gutowski
+Y,Y,Y,Y,		Chuck Miller
+Y,Y,Y,Y,		Cindy Jones
+Y,Y,Y,Y,		David Rowe
+Y,Y,Y,Y,		George Veldman
+Y,Y,Y,Y,		Irina
+Y,Y,Y,Y,		Jennifer Smith Richards
+Y,Y,Y,Y,		Jodi Cohen
+Y,Y,Y,Y,		John Bell
+Y,Y,Y,Y,		Kathleen Kennedy
+Y,Y,Y,Y,		Kevin VU
+Y,Y,Y,Y,		Kirsten Dunne
+Y,Y,Y,Y,		Kurt Reiselmann
+Y,Y,Y,Y,		Lisa Reisselman
+Y,Y,Y,Y,		Mia Fedanzo
+Y,Y,Y,Y,		Norma Gelderloos
+Y,Y,Y,Y,		Pamela Hewitt
+Y,Y,Y,Y,		Ron Volkers
+Y,Y,Y,Y,		Stewart Leiwakabessy
+Y,Y,Y,N,	Argonne
+Y,Y,Y,Y,		David Rainwater
+Y,Y,Y,Y,		Eugene
+Y,Y,Y,Y,		Gloria Ramos
+Y,Y,Y,Y,		Jenny Thompson
+Y,Y,Y,Y,		Pamela Dake
+Y,Y,Y,Y,		Petra
+Y,Y,Y,Y,		Taliver Heath
+Y,Y,Y,N,	Celebrities
+Y,Y,Y,Y,		Buddy Guy
+Y,Y,Y,Y,		Christiane Amanpour
+Y,Y,Y,Y,		Emmylou Harris
+Y,Y,Y,Y,		Francine Reed
+Y,Y,Y,Y,		John Kasich
+Y,Y,Y,Y,		Lyle Lovett
+Y,Y,Y,Y,		Temple Grandin
+Y,Y,Y,Y,		Tony Bennet
+Y,Y,Y,Y,	Classmates
+Y,Y,Y,Y,		Adam Prince
+Y,Y,Y,Y,		April R
+Y,Y,Y,Y,		Bradley Borgman
+Y,Y,Y,Y,		Craig De Young
+Y,Y,Y,Y,		David Slater
+Y,Y,Y,Y,		Dean Johnson
+Y,Y,Y,Y,		Kara Koster
+Y,Y,Y,Y,		Kari Wolfiss
+Y,Y,Y,Y,		Marcia Holwerda
+Y,Y,Y,Y,		Matt Holtrop
+Y,Y,Y,Y,		Matt Vanderkoi
+Y,Y,Y,Y,		Mike Osborne
+Y,Y,Y,Y,		Sara Van Toll
+Y,Y,Y,Y,		Scott Vanderploeg
+Y,Y,Y,Y,		Tim Koens
+Y,Y,Y,Y,		Todd Alexander
+Y,Y,Y,N,	CMS Collaborators
+Y,Y,Y,Y,		Anzar Afaq
+Y,Y,Y,Y,		Bo Jayatilaka
+Y,Y,Y,Y,		Brian Bockelman
+Y,Y,Y,Y,		Charles Plager
+Y,Y,Y,Y,		Chih-Hao
+Y,Y,N,Y,		Chris Jones
+Y,Y,Y,Y,		Christoph Paus
+Y,Y,Y,Y,		Daniele Spiga
+Y,Y,Y,Y,		Dave Evans
+Y,Y,N,Y,		David Lange
+Y,Y,Y,Y,		Dirk Hufnagel
+Y,Y,Y,Y,		Eduardo Ramirez
+Y,Y,N,Y,		Eric Brownson
+Y,Y,Y,Y,		Federica Fanzago
+Y,Y,Y,Y,		Hassen Riahi
+Y,Y,N,Y,		Ian Fisk
+Y,Y,Y,Y,		Jacob Linacre
+Y,Y,Y,Y,		Jose Hernandez
+Y,Y,Y,Y,		Katy Ellis
+Y,Y,Y,Y,		Keith Ulmer
+Y,Y,Y,Y,		Ken Bloom
+Y,Y,Y,Y,		Kenyi Anampa
+Y,Y,Y,Y,		Kevin Lannon
+Y,Y,Y,Y,		Lisa Giachetti
+Y,Y,Y,Y,		Liz Ramirez
+Y,Y,N,Y,		Liz Sexton-Kennedy
+Y,Y,N,Y,		Lorenzo Agostino
+Y,Y,Y,Y,		Lothar Bauerdick
+Y,Y,Y,Y,		Manuel
+Y,Y,Y,Y,		Manuel Giffels
+Y,Y,Y,Y,		Marco Mascheroni
+Y,Y,Y,Y,		Maria Girone
+Y,Y,Y,Y,		Matt Norman
+Y,Y,Y,Y,		Matteo CMS
+Y,Y,Y,Y,		Mattia Cinquilli
+Y,Y,N,Y,		Mike Hildreth
+Y,Y,Y,Y,		Natalia Ratnikova
+Y,Y,Y,Y,		Nicolo
+Y,Y,Y,Y,		Oliver Gutsche
+Y,Y,Y,Y,		Patrick Gartung
+Y,Y,Y,Y,		Petar Maksimovic
+Y,Y,N,Y,		Phillipe Canal
+Y,Y,Y,N,		Rich Wilkenson
+Y,Y,Y,Y,		Rick Wilkinson
+Y,Y,Y,Y,		Robert Harris
+Y,Y,Y,Y,		Sal Rappacio
+Y,Y,Y,Y,		Seangchan Ryu
+Y,Y,N,Y,		Simon Metson
+Y,Y,Y,Y,		Slava
+Y,Y,Y,Y,		Stephan Lammel
+Y,Y,Y,Y,		Stephen Gowdy
+Y,Y,N,Y,		Steve Foulkes
+Y,Y,N,Y,		Stuart Wakefield
+Y,Y,Y,Y,		Sudhir Malik
+Y,Y,Y,Y,		Tommaso Boccali
+Y,Y,Y,Y,		Tony Wildish
+Y,Y,Y,Y,		Valentin Kuznetzov
+Y,Y,Y,Y,		Yuyi Guo
+Y,Y,Y,N,	Diveheart
+Y,Y,Y,Y,		Andrew
+Y,Y,Y,Y,		Andy Ferraro
+Y,Y,Y,Y,		Ariana
+Y,Y,Y,Y,		August
+Y,Y,Y,Y,		Blake
+Y,Y,Y,Y,		Bradley
+Y,Y,Y,Y,		Conner
+Y,Y,Y,Y,		Dan
+Y,Y,Y,Y,		Dave
+Y,Y,Y,Y,		Dave Zigman
+Y,Y,Y,Y,		Duncan
+Y,Y,Y,N,		Dylan
+Y,Y,Y,Y,		Erin
+Y,Y,Y,Y,		Estaban E.
+Y,Y,Y,Y,		Gene Hasiak
+Y,Y,Y,Y,		Gian Seeto
+Y,Y,Y,Y,		Glenn
+Y,Y,Y,Y,		Howard Oestry
+Y,Y,Y,Y,		Jack
+Y,Y,Y,Y,		James
+Y,Y,Y,Y,		Jerry
+Y,Y,Y,Y,		Jim Elliot
+Y,Y,Y,Y,		Jim Flory
+Y,Y,Y,Y,		Jodi Santeford
+Y,Y,Y,Y,		Julio
+Y,Y,Y,Y,		Karen Repsys
+Y,Y,Y,Y,		Keith
+Y,Y,Y,N,		Kelly
+Y,Y,Y,Y,		Marcia Weflen
+Y,Y,Y,N,		Matt M
+Y,Y,Y,Y,		Max
+Y,Y,Y,Y,		Melonie Middleton
+Y,Y,Y,Y,		Mike Brutlag
+Y,Y,Y,N,		Mike F
+Y,Y,Y,Y,		Mike Weflen
+Y,Y,Y,Y,		Nick
+Y,Y,Y,Y,		Oswaldo
+Y,Y,Y,N,		Patrick
+Y,Y,Y,N,		Rick
+Y,Y,Y,Y,		Ron Rispoli
+Y,Y,Y,Y,		Ruth Magnus
+Y,Y,Y,Y,		Ryan
+Y,Y,Y,Y,		Scott
+Y,Y,Y,Y,		Scott Alm
+Y,Y,Y,Y,		Serene
+Y,Y,Y,Y,		Shane Muellner
+Y,Y,Y,Y,		Sharon
+Y,Y,Y,Y,		Todd
+Y,Y,Y,Y,		Zack Bunda
+Y,Y,Y,Y,	Eric Vaandering
+Y,Y,N,N,	Family
+Y,Y,Y,Y,		Ad Vaandering
+Y,Y,Y,Y,		Agnes Hoeksema
+Y,Y,Y,Y,		Amy Huizenga
+Y,Y,Y,Y,		AnneMarie Wilderom-Rangitsch
+Y,Y,Y,Y,		Annette Huizenga
+Y,Y,Y,Y,		Arnold Vaandering
+Y,Y,Y,Y,		Avery Miedema
+Y,Y,Y,Y,		Ben van Rooijen
+Y,Y,Y,Y,		Beth Miedema
+Y,Y,Y,Y,		Betty Vaandering
+Y,Y,Y,Y,		Bettylene Schaub
+Y,Y,Y,Y,		Brian Huizenga
+Y,Y,Y,Y,		Bridgette St. Clair
+Y,Y,Y,Y,		Caleb Keehan
+Y,Y,Y,Y,		Carolyn Gorry
+Y,Y,Y,Y,		Carson Natte
+Y,Y,N,Y,		Case Vaandering
+Y,Y,Y,Y,		Cathy Miedema
+Y,Y,Y,Y,		Cheryl Natte
+Y,Y,Y,Y,		Chrisinta Meyer
+Y,Y,Y,Y,		Collin Craft
+Y,Y,Y,Y,		Conner Gorry
+Y,Y,Y,Y,		Dave Miedema
+Y,Y,Y,Y,		Dini Vaandering
+Y,Y,Y,Y,		Donna Huizenga
+Y,Y,N,N,		Ed Huizenga
+Y,Y,Y,Y,		Edward Huizenga
+Y,Y,Y,Y,		Elizabeth Huizenga
+Y,Y,Y,Y,		Emilia Craft
+Y,Y,Y,Y,		Garret St. Clair
+Y,Y,Y,Y,		GiGi St. Clair
+Y,Y,Y,Y,		Halie Keehan
+Y,Y,Y,Y,		Jack Huizenga
+Y,Y,Y,Y,		Jackie Huizenga
+Y,Y,Y,Y,		Jen St. Clair
+Y,Y,Y,Y,		Jeremiah Rosario
+Y,Y,N,Y,		Jerry Huizenga
+Y,Y,Y,Y,		Jim Miedema
+Y,Y,Y,Y,		Jim Vaandering
+Y,Y,Y,Y,		John Fabien
+Y,Y,Y,Y,		John Tilburt
+Y,Y,Y,Y,		Jonathon Nickens
+Y,Y,Y,Y,		Jonna Normington
+Y,Y,N,Y,		Joyce Huizenga
+Y,Y,N,Y,		Judy Vaandering
+Y,Y,Y,Y,		Kaeyley Osterman
+Y,Y,Y,Y,		Kaitlyn St. Clair
+Y,Y,Y,Y,		Kara Craft
+Y,Y,Y,Y,		Karen Osterman
+Y,Y,Y,Y,		Kassidy St. Clair
+Y,Y,Y,Y,		Kelly Van Dross
+Y,Y,Y,Y,		Ken Huizenga
+Y,Y,Y,Y,		Kiara St. Clair
+Y,Y,Y,Y,		Kris Huizenga
+Y,Y,Y,Y,		Krista Jewell
+Y,Y,Y,Y,		Larry Meyer
+Y,Y,N,Y,		Laura Huizenga
+Y,Y,Y,Y,		Leanne Nickens
+Y,Y,Y,Y,		Leeling Yuen
+Y,Y,Y,Y,		Lena Vaandering
+Y,Y,Y,Y,		Leslie Huizenga
+Y,Y,Y,Y,		Lucas Miedema
+Y,Y,N,Y,		Marion Huizenga
+Y,Y,Y,Y,		Mark Huizenga
+Y,Y,Y,Y,		Megan Craft Keehan
+Y,Y,Y,Y,		Mein Wilderom
+Y,Y,Y,Y,		Melissa Natte
+Y,Y,Y,Y,		Mellisa Zeier
+Y,Y,Y,Y,		Mia van Rooijen
+Y,Y,Y,Y,		Michelle St. Clair
+Y,Y,Y,Y,		Mike Luce
+Y,Y,Y,Y,		Missy Zeier
+Y,Y,Y,Y,		Nancy Craft
+Y,Y,Y,Y,		Nanda Wilderom
+Y,Y,Y,Y,		Pearl Huizenga
+Y,Y,Y,Y,		Peter Gorry
+Y,Y,Y,Y,		Robert Huizenga
+Y,Y,Y,Y,		Robert Osterman II
+Y,Y,Y,Y,		Robert Osterman III
+Y,Y,Y,Y,		Scott St. Clair
+Y,Y,Y,Y,		Sean St. Clair
+Y,Y,Y,Y,		Shannon St. Clair
+Y,Y,Y,Y,		Sophia Rodriguez
+Y,Y,Y,Y,		Stacy St. Clair
+Y,Y,Y,Y,		Steve Bearer
+Y,Y,Y,Y,		Steve Miedema
+Y,Y,Y,Y,		Steve Schaub
+Y,Y,Y,Y,		Ted Huizenga
+Y,Y,Y,Y,		Tim Normington
+Y,Y,Y,Y,		Trent Miedema
+Y,Y,Y,Y,		Tricia Huizenga
+Y,Y,Y,Y,		Wayne St. Clair
+Y,Y,Y,Y,		Zonna Hoffman
+Y,Y,Y,N,	Fermilab
+Y,Y,Y,Y,		Brandon White
+Y,Y,Y,Y,		Heidi S
+Y,Y,Y,Y,		Igor M
+Y,Y,Y,Y,		Ken Herner
+Y,Y,Y,Y,		Steve Timm
+Y,Y,N,N,	FOCUS Collaborators
+Y,Y,N,Y,		Alberto Reis
+Y,Y,Y,Y,		Angel Lopez
+Y,Y,Y,Y,		Carla Gobel
+Y,Y,N,Y,		Cecilia Uribe
+Y,Y,Y,Y,		Christina Riccardi
+Y,Y,N,Y,		Daniele Pedrini
+Y,Y,Y,Y,		David Lopez
+Y,Y,N,N,		Edgar Casimiro
+Y,Y,N,Y,		Eduardo Luiggi
+Y,Y,Y,Y,		Erik Gottschalk
+Y,Y,Y,Y,		Franco Fabbri
+Y,Y,N,Y,		Franco Fabri
+Y,Y,N,Y,		Gianluigi Boca
+Y,Y,N,Y,		Iuri Pepe
+Y,Y,Y,Y,		Jim Wiss
+Y,Y,Y,Y,		Joao Anjos
+Y,Y,Y,Y,		Joel Butler
+Y,Y,N,Y,		John Cumalat
+Y,Y,Y,Y,		John Cumulat
+Y,Y,N,Y,		Jon Link
+Y,Y,N,Y,		Luigi Moroni
+Y,Y,Y,Y,		Lynn Garren
+Y,Y,N,Y,		Marleigh Sheaff
+Y,Y,N,Y,		Phil Yager
+Y,Y,N,Y,		Silvano Sala
+Y,Y,Y,Y,		Stefano Bianco
+Y,Y,Y,Y,		Vincenzo
+Y,Y,N,N,	Friends
+Y,Y,N,Y,		Abhishek Agarwal
+Y,Y,N,N,		Adam Schumaker
+Y,Y,Y,Y,		Alex Rose
+Y,Y,Y,Y,		Alexandra Sala
+Y,Y,Y,Y,		Allison Kendall
+Y,Y,Y,Y,		Alyssa DeWall
+Y,Y,Y,Y,		Amanda Kaschube
+Y,Y,Y,Y,		Amanda Spake
+Y,Y,Y,Y,		Amy Admiraal
+Y,Y,Y,Y,		Andreas K
+Y,Y,Y,Y,		Andrew Johnson
+Y,Y,N,Y,		Andrew Melo
+Y,Y,Y,Y,		Andy Orr
+Y,Y,N,Y,		Anna Saunders
+Y,Y,Y,Y,		Anne Halston
+Y,Y,N,Y,		Ash Fedanzo
+Y,Y,Y,Y,		Ben Jones
+Y,Y,Y,Y,		Bill Buckzinski
+Y,Y,Y,Y,		Bill DeWall
+Y,Y,Y,Y,		Bob Storrs
+Y,Y,Y,Y,		Brian Cassella
+Y,Y,N,Y,		Brian O'Reilly
+Y,Y,Y,Y,		Burt Holzman
+Y,Y,N,Y,		Chris Jacobsen
+Y,Y,N,Y,		Christine Buckley
+Y,Y,Y,Y,		Connie Nichols
+Y,Y,N,Y,		Cynthia
+Y,Y,Y,Y,		Cynthia Coutre
+Y,Y,Y,Y,		Dan Hinkel
+Y,Y,Y,Y,		Dan Mihalopous
+Y,Y,Y,Y,		Dario Sala
+Y,Y,Y,Y,		David Heinzmann
+Y,Y,Y,Y,		David Schwartz
+Y,Y,Y,Y,		Deb Finken
+Y,Y,Y,Y,		Diana Bessler
+Y,Y,Y,Y,		Diana Wallace
+Y,Y,Y,Y,		Eric Libolt
+Y,Y,N,Y,		Erin Gill
+Y,Y,Y,Y,		Francesca Sala
+Y,Y,Y,Y,		Gigi Seng
+Y,Y,Y,Y,		Gina Hunter
+Y,Y,Y,Y,		Greg Pratt
+Y,Y,Y,Y,		Hana
+Y,Y,N,Y,		Harry Cheung
+Y,Y,N,Y,		Heather Robinson
+Y,Y,Y,Y,		Holly Jacobsen
+Y,Y,Y,Y,		Jackson Finken
+Y,Y,Y,Y,		Jared Rutecki
+Y,Y,Y,Y,		Jeff Coen
+Y,Y,N,Y,		Jeff Schumaker
+Y,Y,Y,Y,		Jennifer F
+Y,Y,N,Y,		Jennifer Johnson
+Y,Y,Y,Y,		Jennifer Jones
+Y,Y,Y,Y,		Jeremy Gorner
+Y,Y,Y,Y,		Joan Marler
+Y,Y,N,Y,		John Admiraal
+Y,Y,Y,Y,		John Chase
+Y,Y,N,Y,		Josephine O'Shea
+Y,Y,Y,Y,		Julliana Mihalopous
+Y,Y,Y,Y,		Kaarin Tisue
+Y,Y,Y,Y,		Kara Spak
+Y,Y,Y,Y,		Karen Eizenga
+Y,Y,Y,Y,		Kelly DeWall
+Y,Y,N,Y,		Kevin Stenson
+Y,Y,N,Y,		Kimberly Myles
+Y,Y,Y,Y,		Krista Majewski
+Y,Y,Y,Y,		Kristen Mack
+Y,Y,Y,Y,		Kristen Sikkenga
+Y,Y,Y,Y,		Kyle Stenson
+Y,Y,Y,Y,		Lewis Vissia
+Y,Y,Y,Y,		Lindsey Nordmark
+Y,Y,Y,Y,		Lisabeth Kochanski
+Y,Y,N,Y,		Luca Cinquini
+Y,Y,Y,Y,		Margot Sala
+Y,Y,Y,Y,		Marilyn Admiraal
+Y,Y,Y,Y,		Mary Admiraal
+Y,Y,Y,Y,		Matt Vanderwel
+Y,Y,Y,Y,		Matti K
+Y,Y,N,Y,		Maya Agostino
+Y,Y,Y,Y,		Megan Crepeau
+Y,Y,Y,Y,		Michelle Daniel
+Y,Y,Y,Y,		Mike Joyce
+Y,Y,Y,Y,		Mike Kirby
+Y,Y,Y,Y,		Mike Spake
+Y,Y,N,N,		Mu-Chun Chen
+Y,Y,Y,Y,		Nancy Visser
+Y,Y,Y,Y,		Nathan Enns
+Y,Y,Y,Y,		Nirmal Seenu
+Y,Y,Y,Y,		Nora Kaschube
+Y,Y,Y,Y,		Pam Admiraal
+Y,Y,N,Y,		Paul Sheldon
+Y,Y,N,N,		Paul Steinbrueck
+Y,Y,Y,Y,		Peg Rob
+Y,Y,N,Y,		Penny Kasper
+Y,Y,N,Y,		Peter Kasper
+Y,Y,Y,Y,		Peter Kendall
+Y,Y,Y,Y,		Phil Jurik
+Y,Y,Y,Y,		Quinn Ruff
+Y,Y,Y,Y,		Rev. John Oliver
+Y,Y,Y,Y,		Rex Chekal
+Y,Y,Y,Y,		Rick Neighbor
+Y,Y,Y,Y,		Ron Friday
+Y,Y,N,Y,		Rory Myles
+Y,Y,Y,Y,		Ross Drever
+Y,Y,Y,Y,		Sally Stein
+Y,Y,Y,Y,		Sandy Volkers
+Y,Y,Y,Y,		Sara Drever
+Y,Y,Y,Y,		Sarah Repka
+Y,Y,Y,Y,		Sarah Shepard
+Y,Y,Y,Y,		Satu K
+Y,Y,Y,Y,		Scott Majewski
+Y,Y,Y,Y,		Scott Moorehouse
+Y,Y,Y,Y,		Shawn Keehan
+Y,Y,Y,Y,		Shia Kapos
+Y,Y,Y,Y,		Sloane Coen
+Y,Y,Y,Y,		Steve Hoffman
+Y,Y,Y,Y,		Steve Warmbier
+Y,Y,N,Y,		Sue Sheldon
+Y,Y,Y,Y,		Tinamarie Hernandez
+Y,Y,Y,Y,		Tracy Schwartz
+Y,Y,Y,Y,		Tracy Van Moorlehem
+Y,Y,Y,Y,		Tricia Wake
+Y,Y,Y,Y,		Valentina Sala
+Y,Y,N,Y,		Will Johns
+Y,Y,N,Y,		Yvonne Palmer
+Y,Y,Y,Y,		Zach Finken
+Y,Y,Y,N,	Gender
+Y,Y,Y,N,		Female
+Y,Y,Y,N,		Male
+Y,Y,N,N,	Identity
+Y,Y,Y,N,		Datooga
+Y,Y,Y,N,		Ethiopians
+Y,Y,Y,N,		Hadzabe
+Y,Y,N,N,		Masai
+Y,Y,N,N,		Turkana
+Y,Y,Y,N,		Ugandans
+Y,Y,Y,N,	Name
+Y,Y,Y,N,		Names
+Y,Y,Y,N,	Relationship
+Y,Y,Y,N,		Aunt
+Y,Y,Y,N,		Brother
+Y,Y,Y,N,		Businnes relationship
+Y,Y,Y,N,		Colleague
+Y,Y,Y,N,		Cousin
+Y,Y,Y,N,		Family
+Y,Y,Y,N,		Father
+,,,,			{Dad}
+Y,Y,Y,N,		Friend
+Y,Y,Y,N,		Grandfather
+,,,,			{Grandad}
+Y,Y,Y,N,		Grandmother
+,,,,			{Grandma}
+Y,Y,Y,N,		Mother
+,,,,			{Mum}
+Y,Y,Y,N,		Other
+Y,Y,Y,N,		Sister
+Y,Y,Y,N,		Son
+Y,Y,Y,N,		Uncle
+Y,Y,Y,N,	Santa Claus
+Y,Y,Y,N,	Travel companions
+Y,Y,N,N,		Africa 2002 companions
+Y,Y,Y,Y,			Bernard Kihunghi
+Y,Y,Y,Y,			Edward the Masaii
+Y,Y,Y,Y,			Peterson
+Y,Y,N,N,		Africa 2007 companions
+Y,Y,Y,Y,			Alan
+Y,Y,Y,N,		Africa 2012 companions
+Y,Y,Y,Y,			Angela
+Y,Y,N,Y,			Brian
+Y,Y,N,N,			Chris
+Y,Y,Y,Y,			Dani Winter
+Y,Y,Y,Y,			Frank
+Y,Y,Y,Y,			Greg
+Y,Y,Y,Y,			Greg F
+Y,Y,Y,Y,			Javier
+Y,Y,Y,Y,			Jolanda Winter
+Y,Y,Y,N,			Manuel Graf
+Y,Y,Y,Y,			Max
+Y,Y,Y,Y,			Stephan
+Y,Y,Y,Y,			Yolanda Winter
+N,N,N,N,		[Africa 2019 companions]
+Y,Y,Y,Y,			Angelena McCurry
+Y,Y,Y,Y,			Denise Fisher
+Y,Y,Y,Y,			Jonathon Smith
+Y,Y,Y,Y,			Katie Knoll
+Y,Y,Y,Y,			Lori Smith
+Y,Y,Y,Y,			Matumbo
+Y,Y,Y,Y,			Nora Bolke
+Y,Y,Y,Y,			Sam
+Y,Y,Y,Y,			Steph Stengaard
+Y,Y,N,N,		Bahamas 2006 companions
+Y,Y,N,N,		Bahamas 2008 companions
+Y,Y,N,N,		Belize 2005 companions
+Y,Y,Y,N,		Costa Rica Companions
+Y,Y,Y,Y,			Graham
+Y,Y,Y,Y,			Laurel Creech
+Y,Y,Y,Y,			Pam
+Y,Y,Y,Y,			Ron
+Y,Y,Y,Y,			Stefan
+Y,Y,Y,Y,		Danny
+Y,Y,Y,Y,		Edwin Huaman
+Y,Y,Y,Y,		Faly
+Y,Y,Y,Y,		George Athens
+Y,Y,N,N,		Golden Dolphin Companions
+Y,Y,N,N,			Daniele Hazard
+Y,Y,Y,Y,			Essam Rose
+Y,Y,Y,N,			George
+Y,Y,Y,Y,			Nicole Lindegger
+Y,Y,Y,Y,		Nina Athens
+Y,Y,Y,N,		SCUBA Divers
+Y,Y,Y,Y,			Adelfa
+Y,Y,Y,Y,			Aileen
+Y,Y,Y,Y,			Alice Hadac
+Y,Y,N,Y,			Beth Plotner
+Y,Y,Y,Y,			Bianca Schumann
+Y,Y,N,Y,			Bill King
+Y,Y,Y,Y,			Bob Sieloff
+Y,Y,Y,Y,			Brian Siegel
+Y,Y,Y,Y,			Buna
+Y,Y,N,Y,			Carol Haack
+Y,Y,Y,Y,			Carol Sommers
+Y,Y,Y,Y,			Chris Newman
+Y,Y,Y,Y,			Christine Labaza
+Y,Y,N,Y,			Craig Stenson
+Y,Y,Y,Y,			Daniel Hazard
+Y,Y,Y,Y,			Dave Lent
+Y,Y,N,Y,			David Lent
+Y,Y,N,Y,			Dean Nolan
+Y,Y,N,Y,			Deana Pillard
+Y,Y,Y,N,			Dee
+Y,Y,N,Y,			Gary Stenson
+Y,Y,Y,Y,			Gina Castro
+Y,Y,Y,Y,			Gloria CSM
+Y,Y,N,Y,			Gordon Maney
+Y,Y,Y,Y,			Heather Sieloff
+Y,Y,N,Y,			Jackie Rae
+Y,Y,Y,Y,			Jeff Karr
+Y,Y,Y,N,			Jeff Springer
+Y,Y,Y,Y,			Jody Russell
+Y,Y,Y,Y,			Johan
+Y,Y,Y,Y,			Joli Riley
+Y,Y,Y,Y,			Joni Gilbert
+Y,Y,Y,Y,			Kathyrn Ellis
+Y,Y,N,Y,			Katie Wolfe
+Y,Y,Y,Y,			Kelo
+Y,Y,Y,Y,			Leandro Blanco
+Y,Y,Y,Y,			Ludo
+Y,Y,Y,Y,			Lynn Funkhouser
+Y,Y,Y,Y,			Maha
+Y,Y,Y,N,			Mark
+Y,Y,N,Y,			Michelle Hartzler
+Y,Y,N,Y,			Mike Bartenfelder
+Y,Y,Y,Y,			Mike Tapper
+Y,Y,Y,Y,			Nelson
+Y,Y,Y,Y,			Nope
+Y,Y,Y,Y,			Obet Corpuz
+Y,Y,Y,Y,			Opo
+Y,Y,Y,Y,			Pam McPherson
+Y,Y,Y,Y,			Patricia Hewitt
+Y,Y,Y,Y,			Paul Linden
+Y,Y,Y,Y,			Randy Kettering
+Y,Y,Y,Y,			Renee
+Y,Y,Y,Y,			Richard Delany
+Y,Y,Y,Y,			Rio
+Y,Y,Y,Y,			Risman
+Y,Y,Y,Y,			Robert CSM
+Y,Y,Y,Y,			Ryan CSM
+Y,Y,Y,Y,			Scott Reimer
+Y,Y,N,Y,			Steve James
+Y,Y,N,Y,			Steve Wilkinson
+Y,Y,N,Y,			Sue Momsen
+Y,Y,N,Y,			Tabitha Schneider
+Y,Y,Y,Y,			Tae
+Y,Y,Y,Y,			Tanya Lape
+Y,Y,Y,Y,			Tommy
+Y,Y,Y,Y,			Tommy Co
+Y,Y,N,Y,			Tonya Wegner
+Y,Y,N,Y,			Tracy Kittrell
+Y,Y,N,Y,			YiChung Law
+Y,Y,Y,N,		Tonga companions
+Y,Y,Y,N,	University of Colorado
+Y,Y,Y,Y,		Brian King
+Y,Y,Y,Y,		Jake Roberts
+Y,Y,Y,Y,		Jason
+Y,Y,Y,Y,		Kerstin Rowe
+Y,Y,Y,Y,		Kimberly King
+Y,Y,Y,Y,		Kristan Corwin
+Y,Y,Y,Y,		Mu-Chen Chun
+Y,Y,Y,Y,		Orion Poplowski
+Y,Y,Y,Y,		Sarah Roberts
+Y,Y,Y,N,	Valpo
+Y,Y,Y,Y,		David Nelson
+Y,Y,Y,Y,		Jay Schroeder
+Y,Y,Y,Y,		Julie Sturm
+Y,Y,Y,Y,		Kevin Siek
+Y,Y,Y,Y,		Kimberly Faulstich
+Y,Y,Y,Y,		Nancy
+Y,Y,Y,Y,		Paul Blumka
+Y,Y,Y,Y,		Paul Steinbreuk
+Y,Y,Y,Y,		Topher
+Y,Y,Y,Y,		Tripp
+Y,Y,Y,N,Photography
+Y,Y,Y,N,	Angle of view
+Y,Y,N,N,		Aerial
+Y,Y,Y,N,		Back view
+Y,Y,N,N,		From overlook
+Y,Y,Y,N,		Front view
+Y,Y,Y,N,		Profile
+Y,Y,Y,N,		Side view
+Y,Y,Y,N,	Effect
+Y,Y,Y,N,		Bokeh
+Y,Y,Y,N,		Cathedral lighting
+Y,Y,Y,N,		Lens zoom
+Y,Y,Y,N,		Light trail
+Y,Y,Y,N,		Long exposure
+Y,Y,Y,N,		Panning
+Y,Y,Y,N,		Panorama
+Y,Y,Y,N,		Reflection
+Y,Y,Y,N,		Silhouette
+Y,Y,Y,N,		Star trail
+Y,Y,Y,N,		Vignette
+Y,Y,Y,N,	Framing
+Y,Y,Y,N,		Close-up
+Y,Y,Y,N,		Environmental
+Y,Y,Y,N,		Full body
+Y,Y,Y,N,		Headshot
+Y,Y,Y,N,		Upper body
+Y,Y,Y,N,	Orientation
+Y,Y,Y,N,		Landscape
+Y,Y,Y,N,		Portrait
+Y,Y,Y,N,	Setting
+Y,Y,Y,N,		Exterior
+Y,Y,Y,N,		In-car
+Y,Y,Y,N,		Interior
+Y,Y,Y,N,		Studio
+Y,Y,Y,N,	Treatment
+Y,Y,Y,N,		Black and white
+,,,,			{B&w}
+Y,Y,Y,N,		Color image
+,,,,			{Colour image}
+Y,Y,Y,N,		Daguerreotype
+Y,Y,Y,N,		Duotone
+,,,,			{Split toning}
+Y,Y,Y,N,		Monotone
+Y,Y,Y,N,		Platinotype
+Y,Y,Y,N,		Selenium toning
+Y,Y,Y,N,		Sepia toning
+Y,Y,Y,N,	Type of photography
+Y,Y,Y,N,		Abstract photography
+Y,Y,Y,N,			Patterns
+Y,Y,N,N,		Aquascape photography
+Y,Y,Y,N,		Architectural detail
+Y,Y,Y,N,		Architecture photography
+Y,Y,Y,N,		Astrophotography
+Y,Y,Y,N,		Candid shot
+Y,Y,Y,N,		City view
+Y,Y,Y,N,		Food photography
+Y,Y,Y,N,		Glamour photography
+Y,Y,Y,N,		Landscape photography
+Y,Y,Y,N,			Featured Element
+Y,Y,Y,N,				Sky
+Y,Y,Y,N,		Macro photography
+Y,Y,Y,N,		Pet photography
+Y,Y,Y,N,		Portrait photography
+Y,Y,Y,N,		Rural photography
+Y,Y,N,N,			Developing country
+Y,Y,Y,N,		Sport photography
+Y,Y,Y,N,		Still life photography
+Y,Y,Y,N,		Street photography
+Y,Y,Y,N,		Timelapse photography
+Y,Y,Y,N,		Underwater photography
+Y,Y,Y,N,		Urban photgraphy
+Y,Y,Y,N,		Wildlife photography
+Y,Y,Y,N,Places
+Y,Y,Y,N,	Town
+Y,Y,Y,N,Plants
+Y,Y,N,N,	Algae
+Y,Y,Y,N,		Blue Crust Weed
+Y,Y,Y,N,		Brown Algae
+Y,Y,Y,N,			Funnelweed
+,,,,				{Padina gymnospora}
+Y,Y,Y,N,			Glob Weed
+,,,,				{Colpomenia sinuosa}
+Y,Y,N,N,			Kelp
+Y,Y,N,N,		Coralline Algaes
+Y,Y,Y,N,			Fragile Coral Weed
+,,,,				{Amphiroa fagilissima}
+Y,Y,Y,N,			Plocamium cartilagineum
+Y,Y,N,N,		Green Algae
+Y,Y,Y,N,			Bristle Ball Brush
+,,,,				{Penicillus dumetosus}
+Y,Y,Y,N,			Small-leaf Hanging Vine
+,,,,				{Halimeda goreaui}
+Y,Y,Y,N,			Watercress Alga
+,,,,				{Halimeda opuntia}
+Y,Y,Y,N,		Sea Pearl
+Y,Y,N,N,	Cactus
+Y,Y,Y,N,	Ferns
+Y,Y,Y,N,	Flowers
+Y,Y,Y,N,		Cut flowers
+Y,Y,Y,N,		Orchids
+,,,,			{Orchidaceae}
+Y,Y,Y,N,			Pink Lady's Slipper
+,,,,				{Cypripedium acaule}
+Y,Y,Y,N,			Sobralia dichotoma
+Y,Y,Y,N,		Tulip
+Y,Y,N,N,	Grasses & Sedges & Cattails & Allies
+Y,Y,Y,N,		Grass
+Y,Y,Y,N,		Tillandsia fendleri
+Y,Y,Y,N,	Moss
+Y,Y,N,N,	Mushrooms
+Y,Y,Y,N,	Nightshades
+,,,,		{Solanaceae}
+Y,Y,Y,N,		Angel's Trumpet
+,,,,			{Brugmansia arborea}
+Y,Y,Y,N,	Spanish Moss
+,,,,		{Tillandsia usneoides}
+Y,Y,Y,N,	Trees and Bushes
+Y,Y,Y,N,		Acacia tree
+Y,Y,Y,N,		African Baobab
+,,,,			{Adansonia digitata}
+Y,Y,Y,N,		Coffee plant
+Y,Y,Y,N,		Desert Rose
+,,,,			{Adenium obesum}
+Y,Y,Y,N,		Olive Tree
+,,,,			{Olea europaea}
+Y,Y,Y,N,		Palm tree
+Y,Y,Y,N,		Red Mangrove
+,,,,			{Rhizophora mangle}
+Y,Y,Y,N,		Sausage Tree
+,,,,			{Kigelia africana}
+Y,Y,Y,N,		Stump
+Y,Y,N,N,	Water Plants
+Y,Y,Y,N,		Duckweed
+Y,Y,N,N,	Wild Fruit
+Y,Y,Y,N,Profession
+Y,Y,Y,N,	Accountant
+Y,Y,Y,N,	Acrobat
+Y,Y,Y,N,	Architect
+Y,Y,Y,N,	Artist
+Y,Y,Y,N,		Performance artist
+Y,Y,Y,N,	Athlete
+Y,Y,Y,N,		Boxer
+Y,Y,Y,N,		Golfer
+Y,Y,Y,N,		Jockey
+Y,Y,Y,N,		Player
+Y,Y,Y,N,		Runner
+Y,Y,Y,N,		Skier
+Y,Y,Y,N,	Baker
+Y,Y,Y,N,	Band
+Y,Y,Y,N,	Barber
+Y,Y,Y,N,	Clown
+Y,Y,Y,N,	Doctor
+Y,Y,Y,N,		Dentist
+Y,Y,Y,N,		Surgeon
+Y,Y,Y,N,		Veterinarian
+Y,Y,Y,N,	Driver
+Y,Y,Y,N,		Chauffeur
+Y,Y,Y,N,		Racing driver
+Y,Y,Y,N,	Engineer
+Y,Y,Y,N,	Firefighter
+,,,,		{Fireman}
+Y,Y,Y,N,	Guard
+Y,Y,Y,N,	Guide
+Y,Y,N,N,	Journalist
+Y,Y,Y,N,	Journastist
+Y,Y,Y,N,	Lawyer
+Y,Y,Y,N,	Military officer
+Y,Y,Y,N,	Nurse
+Y,Y,Y,N,	Pharmacist
+Y,Y,Y,N,	Photographer
+Y,Y,Y,N,	Pilot
+Y,Y,Y,N,	Police officer
+,,,,		{Policeman}
+Y,Y,Y,N,	Professor
+Y,Y,Y,N,	Psychologist
+Y,Y,N,N,	Religious
+Y,Y,N,N,		Orthodox Christian Monk
+Y,Y,Y,N,	Scientist
+Y,Y,Y,N,	Soldier
+Y,Y,Y,N,	Teacher
+Y,Y,Y,N,	Vendor
+Y,Y,Y,N,	Worker
+Y,Y,Y,N,	Writer
+Y,Y,Y,N,Sport
+Y,Y,Y,N,	Aerobatics
+Y,Y,Y,N,	Archery
+Y,Y,Y,N,	Badminton
+Y,Y,Y,N,	Baseball
+Y,Y,Y,N,	Basketball
+Y,Y,Y,N,	Beach volleyball
+Y,Y,Y,N,	Bicycle racing
+Y,Y,Y,N,	Boating
+Y,Y,Y,N,	Bocce ball
+Y,Y,Y,N,	Bowling
+Y,Y,Y,N,	Boxing
+,,,,		{Boxing}
+Y,Y,Y,N,	Bungee Jumping
+Y,Y,Y,N,	Camping
+Y,Y,Y,N,	Canoeing
+Y,Y,Y,N,	Cricket
+Y,Y,Y,N,	Cycling
+Y,Y,Y,N,	Diving
+Y,Y,Y,N,	Falconry
+Y,Y,Y,N,	Football
+Y,Y,Y,N,	Golf
+Y,Y,Y,N,	Gymnastics
+Y,Y,Y,N,		Artistic gymnastics
+Y,Y,Y,N,			Balance beam
+Y,Y,Y,N,			Horizontal bar
+,,,,				{High bar}
+Y,Y,Y,N,			Parallel bar
+Y,Y,Y,N,			Pommel horse
+Y,Y,Y,N,			Rings
+,,,,				{Steady rings}
+Y,Y,Y,N,			Uneven bars
+Y,Y,Y,N,			Vault
+Y,Y,Y,N,		Rythmic gymnastics
+Y,Y,Y,N,		Trampoline
+Y,Y,Y,N,	Handball
+Y,Y,Y,N,	Hanggliding
+Y,Y,Y,N,	Hiking
+Y,Y,Y,N,	Hockey
+Y,Y,Y,N,		Ice hockey
+Y,Y,Y,N,		Street hockey
+Y,Y,Y,N,	Horse racing
+Y,Y,N,N,	Horse riding
+Y,Y,Y,N,	Hurdles
+Y,Y,Y,N,	Ice skating
+Y,Y,Y,N,	Jousting
+Y,Y,Y,N,	Kayaking
+Y,Y,Y,N,	Marathon
+Y,Y,Y,N,	Martial art
+Y,Y,Y,N,	Motorsport
+Y,Y,Y,N,		Drag racing
+Y,Y,Y,N,		Drifting
+Y,Y,Y,N,		Formula racing
+Y,Y,Y,N,		Kart racing
+Y,Y,Y,N,		Motocross
+Y,Y,Y,N,		Rally racing
+Y,Y,Y,N,		Touring car racing
+Y,Y,N,N,	Mountaineering
+Y,Y,Y,N,	Paddle boarding
+Y,Y,Y,N,	Paragliding
+Y,Y,Y,N,	Parkour
+Y,Y,Y,N,	Ping pong
+,,,,		{Table tennis}
+Y,Y,Y,N,	Polo
+Y,Y,Y,N,	Pool billiard
+,,,,		{Pocket billiard}
+Y,Y,Y,N,	Rafting
+Y,Y,Y,N,	Rock climbing
+Y,Y,Y,N,	Rowing
+Y,Y,Y,N,	Sailing
+Y,Y,Y,N,	SCUBA Diving
+Y,Y,Y,N,	Skating
+Y,Y,Y,N,		Figure skating
+Y,Y,Y,N,		Roller skating
+Y,Y,Y,N,		Skateboarding
+Y,Y,Y,N,		Speed skating
+Y,Y,Y,N,	Skiing
+Y,Y,Y,N,	Snooker
+Y,Y,Y,N,	Snowboarding
+Y,Y,Y,N,	Soccer
+Y,Y,Y,N,	Softball
+Y,Y,Y,N,	Sprint
+Y,Y,Y,N,	Squash
+Y,Y,Y,N,	Swimming
+Y,Y,Y,N,		Back crawl
+Y,Y,Y,N,		Breaststroke
+Y,Y,Y,N,		Butterfly
+Y,Y,Y,N,		Freestyle
+Y,Y,Y,N,		Synchronized swimming
+Y,Y,Y,N,	Tennis
+Y,Y,Y,N,	Track and field
+Y,Y,Y,N,	Underwater diving
+,,,,		{Diving}
+Y,Y,Y,N,		Freediving
+Y,Y,Y,N,		Night Dive
+Y,Y,Y,N,		Snorkeling
+Y,Y,Y,N,	Volleyball
+Y,Y,Y,N,	Water polo
+Y,Y,Y,N,	Water sports
+Y,Y,Y,N,	Weightlifting
+Y,Y,N,N,	Whirlyball
+Y,Y,Y,N,	Ziplining
+Y,Y,Y,N,Structures & architecture
+Y,Y,Y,N,	Architectural element
+Y,Y,Y,N,		Aisle
+Y,Y,N,N,		Altar
+Y,Y,Y,N,		Antefix
+Y,Y,Y,N,		Arbor
+Y,Y,Y,N,		Arcade
+Y,Y,Y,N,		Arch
+Y,Y,Y,N,		Atrium
+Y,Y,Y,N,		Balcony
+Y,Y,N,N,		Bell
+Y,Y,Y,N,		Bird bath
+Y,Y,Y,N,		Ceiling
+Y,Y,Y,N,		Chimney
+Y,Y,Y,N,		Church bell
+Y,Y,Y,N,		Colonnade
+Y,Y,Y,N,		Column
+,,,,			{Pillar}
+Y,Y,Y,N,		Cornerstone
+,,,,			{Foundation stone}
+Y,Y,Y,N,		Cornice
+Y,Y,Y,N,		Cupola
+Y,Y,Y,N,		Dome
+Y,Y,Y,N,		Door
+Y,Y,Y,N,			Arched doorway
+Y,Y,Y,N,			Door knob
+,,,,				{Door handle}
+Y,Y,Y,N,			Door knocker
+Y,Y,Y,N,		Eaves
+Y,Y,Y,N,		Epistlye
+,,,,			{Architrave}
+Y,Y,Y,N,		Escalator
+Y,Y,Y,N,		Facade
+Y,Y,Y,N,		Floor
+Y,Y,Y,N,			Mosaic floor
+Y,Y,Y,N,		Fountain
+Y,Y,Y,N,		Garden
+Y,Y,Y,N,		Gargoyle
+Y,Y,Y,N,		Gate
+Y,Y,Y,N,		Gutter
+Y,Y,Y,N,		Handrail
+Y,Y,Y,N,		Landscaping
+Y,Y,Y,N,		Minaret
+Y,Y,Y,N,		Obelisk
+Y,Y,Y,N,		Oculus
+Y,Y,Y,N,		Patio
+Y,Y,Y,N,		Pedestal
+Y,Y,Y,N,		Pediment
+Y,Y,Y,N,		Pend
+Y,Y,Y,N,		Pergola
+,,,,			{Arbor}
+,,,,			{Arbour}
+Y,Y,Y,N,		Pinnacle
+Y,Y,Y,N,		Porch
+Y,Y,Y,N,		Pylon
+Y,Y,Y,N,		Roof
+Y,Y,Y,N,		Spire
+Y,Y,Y,N,		Stair
+,,,,			{Staircase}
+,,,,			{Stairway}
+Y,Y,Y,N,		Steeple
+Y,Y,Y,N,		Steps
+Y,Y,Y,N,		Stoa
+Y,Y,Y,N,		Swimming pool
+Y,Y,Y,N,		Templon
+Y,Y,Y,N,		Terrace
+Y,Y,Y,N,		Turet
+Y,Y,Y,N,		Wall
+Y,Y,Y,N,			Brick wall
+Y,Y,Y,N,			Stone wall
+Y,Y,Y,N,		Window
+Y,Y,Y,N,	Place
+Y,Y,Y,N,		Camp
+Y,Y,Y,N,		Cemetery
+,,,,			{Graveyard}
+Y,Y,Y,N,		Courtyard
+,,,,			{Patio}
+Y,Y,Y,N,		Grave
+Y,Y,N,N,		Market
+Y,Y,N,N,		Mountain town
+Y,Y,Y,N,		Park
+Y,Y,Y,N,		Playground
+Y,Y,Y,N,		Resort
+Y,Y,Y,N,		Schoolyard
+Y,Y,N,N,		Shopping district
+Y,Y,Y,N,		Town square
+,,,,			{Piazza}
+,,,,			{Square}
+,,,,			{Plaza}
+Y,Y,Y,N,	Room
+Y,Y,Y,N,		Aerary
+Y,Y,Y,N,		Attic
+Y,Y,Y,N,		Ballroom
+Y,Y,Y,N,		Basement
+Y,Y,Y,N,		Bathroom
+Y,Y,Y,N,		Bedroom
+Y,Y,Y,N,		Cellar
+Y,Y,Y,N,			Root cellar
+Y,Y,Y,N,			Storm cellar
+Y,Y,Y,N,			Wine cellar
+Y,Y,Y,N,		Classroom
+,,,,			{Class}
+Y,Y,Y,N,		Darkroom
+Y,Y,Y,N,		Dining room
+Y,Y,Y,N,		Garage
+Y,Y,Y,N,		Hallway
+Y,Y,Y,N,		Kitchen
+Y,Y,Y,N,		Living room
+Y,Y,Y,N,		Lobby
+Y,Y,Y,N,		Lounge
+Y,Y,Y,N,		Office
+Y,Y,Y,N,		Pantry
+Y,Y,Y,N,		Suite
+Y,Y,Y,N,	Structure
+Y,Y,Y,N,		Amphitheater
+Y,Y,Y,N,		Apartment
+Y,Y,Y,N,		Apartment block
+Y,Y,Y,N,		Arena
+Y,Y,Y,N,		Art gallery
+Y,Y,Y,N,		Asylum
+Y,Y,Y,N,		Bakery
+Y,Y,Y,N,		Bank
+Y,Y,Y,N,		Bar
+Y,Y,Y,N,		Barn
+Y,Y,Y,N,		Barrack
+Y,Y,Y,N,		Basilica
+Y,Y,Y,N,		Bathhouse
+Y,Y,Y,N,		Blockhouse
+Y,Y,Y,N,		Bookstore
+Y,Y,Y,N,		Brewery
+Y,Y,Y,N,		Bridge
+Y,Y,Y,N,		Bunker
+Y,Y,Y,N,		Cabin
+Y,Y,N,N,		Cafe
+Y,Y,Y,N,		Capitol
+Y,Y,Y,N,		Casino
+Y,Y,Y,N,		Castle
+Y,Y,Y,N,		Cathedral
+Y,Y,Y,N,		Chapel
+Y,Y,Y,N,		Chicken coop
+Y,Y,Y,N,		Church
+Y,Y,Y,N,		Cinema
+Y,Y,Y,N,		Cistern
+Y,Y,Y,N,		Citadel
+Y,Y,Y,N,		City hall
+Y,Y,Y,N,		Clinic
+Y,Y,Y,N,		Coffee house
+Y,Y,Y,N,		College
+Y,Y,Y,N,		Community center
+Y,Y,Y,N,		Concert hall
+Y,Y,Y,N,		Consulate
+Y,Y,Y,N,		Convention center
+Y,Y,Y,N,		Courthouse
+Y,Y,Y,N,		Defensive wall
+Y,Y,Y,N,		Department store
+Y,Y,Y,N,		Dock
+Y,Y,Y,N,		Dormitory
+,,,,			{Dorm}
+Y,Y,Y,N,		Eatery
+Y,Y,Y,N,		Embassy
+Y,Y,Y,N,		Excavation
+Y,Y,Y,N,		Factory
+Y,Y,Y,N,		Farmhouse
+Y,Y,Y,N,		Fast-food restaurant
+Y,Y,Y,N,		Fence
+Y,Y,Y,N,		Ferris wheel
+Y,Y,Y,N,		Fire station
+Y,Y,Y,N,		Florist shop
+Y,Y,Y,N,		Food court
+Y,Y,Y,N,		Forge
+Y,Y,Y,N,		Fort
+Y,Y,Y,N,		Fortification
+Y,Y,Y,N,		Foundry
+Y,Y,Y,N,		Fusegate
+Y,Y,Y,N,		Gas station
+Y,Y,Y,N,		Gazebo
+Y,Y,Y,N,		Granary
+Y,Y,Y,N,		Greenhouse
+Y,Y,Y,N,		Grocery store
+Y,Y,Y,N,		Gurdwara
+Y,Y,Y,N,		Gymnasium
+Y,Y,Y,N,		Hospital
+Y,Y,Y,N,		Hostel
+Y,Y,Y,N,		Hotel
+Y,Y,N,N,		House
+Y,Y,Y,N,		Hut
+Y,Y,Y,N,		Hypermarket
+Y,Y,Y,N,		Jazz club
+Y,Y,Y,N,		Kiosk
+Y,Y,Y,N,		Library
+Y,Y,N,N,		Lighthouse
+Y,Y,Y,N,		Lodge
+Y,Y,Y,N,		Mansion
+Y,Y,Y,N,		Market house
+Y,Y,Y,N,		Martyrium
+Y,Y,Y,N,		Mausoleum
+Y,Y,N,N,		Memorial
+Y,Y,Y,N,		Mill
+Y,Y,Y,N,			Horse mill
+Y,Y,Y,N,			Tide mill
+Y,Y,Y,N,			Watermill
+Y,Y,Y,N,			Wind mill
+Y,Y,Y,N,		Monastery
+Y,Y,Y,N,		Mosque
+Y,Y,Y,N,		Motel
+Y,Y,Y,N,		Museum
+Y,Y,N,N,		My House
+Y,Y,Y,N,		Nightclub
+Y,Y,Y,N,		Nursing home
+,,,,			{Rest home}
+Y,Y,Y,N,		Observatory
+Y,Y,Y,N,		Office building
+Y,Y,Y,N,		Oil rig
+Y,Y,Y,N,		Opera house
+Y,Y,Y,N,		Oratory
+Y,Y,Y,N,		Pagoda
+Y,Y,Y,N,		Palace
+Y,Y,Y,N,		Parliament
+Y,Y,Y,N,		Pier
+Y,Y,Y,N,		Pigsty
+,,,,			{Pigpen}
+,,,,			{Sty}
+Y,Y,Y,N,		Plant nursery
+Y,Y,Y,N,		Police station
+Y,Y,Y,N,		Post office
+Y,Y,Y,N,		Power plant
+Y,Y,Y,N,		Prison
+Y,Y,Y,N,		Pub
+Y,Y,Y,N,		Pyramid
+Y,Y,Y,N,		Refinery
+Y,Y,Y,N,		Restaurant
+Y,Y,Y,N,		Retail store
+Y,Y,Y,N,		Sarcophagus
+Y,Y,Y,N,		School
+Y,Y,Y,N,		Shed
+Y,Y,Y,N,		Shop
+Y,Y,Y,N,		Shopping mall
+Y,Y,Y,N,		Shrine
+Y,Y,Y,N,		Silo
+Y,Y,N,N,		Skyline
+Y,Y,Y,N,		Skyscraper
+Y,Y,Y,N,		Spa
+Y,Y,Y,N,		Stable
+Y,Y,Y,N,		Stadium
+Y,Y,Y,N,		Stall
+Y,Y,Y,N,		Stock exchange
+Y,Y,Y,N,		Supermarket
+Y,Y,Y,N,		Synagogue
+Y,Y,Y,N,		Tavern
+Y,Y,Y,N,		Temple
+Y,Y,N,N,			Ancient Temple
+Y,Y,N,N,			Buddhist Temple
+Y,Y,N,N,			Jewish Temple
+Y,Y,N,N,			Taoist Temple
+Y,Y,N,N,		Tent
+Y,Y,Y,N,		Theater
+Y,Y,Y,N,		Tomb
+Y,Y,Y,N,		Tower
+Y,Y,N,N,			Bell Tower
+Y,Y,Y,N,			Clock Tower
+Y,Y,Y,N,		University
+Y,Y,Y,N,		Villa
+Y,Y,Y,N,		Walkway
+Y,Y,Y,N,		Warehouse
+Y,Y,Y,N,		Workshop
+Y,Y,Y,N,	Transit station
+Y,Y,Y,N,		Airport
+Y,Y,Y,N,			Airport terminal
+Y,Y,Y,N,			Control tower
+Y,Y,Y,N,			Hangar
+Y,Y,Y,N,			Runway
+Y,Y,Y,N,		Bus station
+Y,Y,Y,N,		Harbor
+,,,,			{Harbour}
+,,,,			{Haven}
+Y,Y,Y,N,		Heliport
+Y,Y,Y,N,		Marina
+Y,Y,Y,N,		Metro station
+Y,Y,Y,N,		Port
+Y,Y,Y,N,		Train station
+,,,,			{Railroad station}
+,,,,			{Railway station}
+Y,Y,Y,N,	Type of structure
+Y,Y,Y,N,		Agricultural structure
+Y,Y,Y,N,		Civic structure
+Y,Y,Y,N,		Commercial structure
+Y,Y,Y,N,		Educational structure
+Y,Y,Y,N,		Government structure
+Y,Y,Y,N,		Industrial structure
+Y,Y,Y,N,		Military structure
+Y,Y,N,N,		Modern architecture
+Y,Y,Y,N,		Monument
+Y,Y,Y,N,		Religious structure
+Y,Y,Y,N,		Residential structure
+Y,Y,N,N,		Ruins
+Y,Y,Y,N,Technical Specs
+Y,Y,N,N,	Accessories
+Y,Y,Y,N,		+8 wet lens (Fit Pro)
+Y,Y,N,N,		Extension Tubes
+Y,Y,Y,N,	Process Tags
+Y,Y,Y,N,		B&W virtual
+Y,Y,Y,N,		Check GPS
+Y,Y,Y,N,		Check ID
+Y,Y,N,N,		Check location
+Y,Y,Y,N,		Check noise reduction
+Y,Y,Y,N,		For reel
+N,N,N,N,		[ID Uncertain]
+Y,Y,N,N,		More WB correction
+Y,Y,Y,N,		Need for ID
+Y,Y,Y,N,		Need more 7D NR
+Y,Y,Y,N,		Needs ID
+Y,Y,N,N,		Relocate
+Y,Y,N,N,		Rename
+Y,Y,N,N,		Set Date
+Y,Y,N,N,		Stitch
+N,N,N,N,		[Try new masking]
+Y,Y,Y,N,	Scans
+Y,Y,N,N,		35mm negative
+Y,Y,N,N,		35mm print
+Y,Y,Y,N,		35mm transparency
+Y,Y,N,N,		Unknown
+Y,Y,Y,N,Thoroughfare
+Y,Y,Y,N,	Avenue
+Y,Y,Y,N,	Bikeway
+Y,Y,Y,N,	Boulevard
+Y,Y,Y,N,	Bridle path
+,,,,		{Bridle road}
+,,,,		{Bridleway}
+Y,Y,Y,N,	Dead end
+,,,,		{Cul-de-sac}
+Y,Y,Y,N,	Dirt road
+Y,Y,Y,N,	Driveway
+Y,Y,Y,N,	Highway
+Y,Y,Y,N,	Lane
+Y,Y,Y,N,	Path
+Y,Y,Y,N,	Pedestrian street
+Y,Y,Y,N,	Railway
+Y,Y,Y,N,	Road
+Y,Y,Y,N,	Sidewalk
+,,,,		{Pavement}
+Y,Y,Y,N,	Street
+Y,Y,Y,N,	Street scene
+Y,Y,Y,N,	Trail
+Y,Y,N,N,	Tunnel
+Y,Y,Y,N,Time
+Y,Y,Y,N,	Season
+Y,Y,Y,N,		Autumn
+,,,,			{Fall}
+Y,Y,Y,N,		Spring
+Y,Y,Y,N,		Summer
+Y,Y,Y,N,		Winter
+Y,Y,Y,N,	Time of day
+Y,Y,Y,N,		Afternoon
+Y,Y,Y,N,		Blue hour
+Y,Y,N,N,		Dawn
+Y,Y,Y,N,		Daytime
+Y,Y,N,N,		Dusk
+Y,Y,Y,N,		Early morning
+Y,Y,Y,N,		Evening
+Y,Y,Y,N,		Morning
+Y,Y,Y,N,		Night
+Y,Y,Y,N,		Noon
+Y,Y,Y,N,		Sunrise
+,,,,			{Dawn}
+Y,Y,Y,N,		Sunset
+,,,,			{Dusk}
+Y,Y,Y,N,Transportation
+Y,Y,Y,N,	By air
+Y,Y,Y,N,		Aircraft
+Y,Y,Y,N,			Airplane
+,,,,				{Aeroplane}
+,,,,				{Plane}
+Y,Y,N,N,				Antique aircraft
+Y,Y,Y,N,				Bomber
+Y,Y,N,N,				Commercial airplane
+Y,Y,N,N,				Experimental aircraft
+Y,Y,Y,N,				Fighter
+Y,Y,Y,N,				Jet aircraft
+Y,Y,Y,N,				Military airplane
+Y,Y,Y,N,					Bomber
+Y,Y,Y,N,					Cargo plane
+Y,Y,Y,N,					Fighter
+Y,Y,Y,N,					Surveillance aircraft
+Y,Y,Y,N,				Other airplane
+Y,Y,Y,N,				Propeler plane
+Y,Y,Y,N,			Glider
+Y,Y,Y,N,			Helicopter
+,,,,				{Chopper}
+Y,Y,Y,N,			Seaplane
+,,,,				{Hydroplane}
+Y,Y,Y,N,		Airship
+Y,Y,Y,N,		Bomb
+Y,Y,Y,N,		Hot air balloon
+Y,Y,Y,N,		Missle
+Y,Y,N,N,		Spacecraft
+Y,Y,Y,N,			Satellite
+Y,Y,Y,N,	By land
+Y,Y,Y,N,		Ambulance
+Y,Y,Y,N,		Bicycle
+,,,,			{Bike}
+Y,Y,Y,N,			Bmx bicycle
+Y,Y,Y,N,			Cruiser bicycle
+Y,Y,Y,N,			Hybrid bicycle
+Y,Y,Y,N,			Mountain bicycle
+Y,Y,Y,N,			Tandem bicycle
+Y,Y,Y,N,			Touring bicycle
+Y,Y,Y,N,			Utility bicycle
+Y,Y,Y,N,		Bus
+Y,Y,Y,N,		Car
+,,,,			{Automobile}
+Y,Y,Y,N,			Bubble car
+Y,Y,Y,N,			City car
+Y,Y,Y,N,			Convertible
+Y,Y,Y,N,			Executive car
+Y,Y,Y,N,			Grand tourer
+Y,Y,Y,N,			Large family car
+Y,Y,Y,N,			Luxury car
+Y,Y,Y,N,			Multi purpose vehicle
+Y,Y,Y,N,			Off road
+Y,Y,Y,N,			Pickup
+Y,Y,Y,N,			Roadster
+Y,Y,Y,N,			Small family car
+Y,Y,Y,N,			Sports car
+Y,Y,Y,N,			Super mini
+Y,Y,Y,N,			Supercar
+Y,Y,N,N,			Taxi
+Y,Y,Y,N,		Cart
+Y,Y,N,N,		Construction equipment
+Y,Y,Y,N,		Firetruck
+Y,Y,Y,N,		Golf Cart
+Y,Y,N,N,		Gondola
+Y,Y,Y,N,		Motorcycle
+,,,,			{Bike}
+,,,,			{Motorbike}
+Y,Y,Y,N,			Off road motorcycle
+Y,Y,Y,N,				Enduro
+Y,Y,Y,N,				Motocross
+Y,Y,Y,N,			Street motorcycle
+Y,Y,Y,N,				Bobber
+Y,Y,Y,N,				Chopper
+Y,Y,Y,N,				Cruiser
+Y,Y,Y,N,				Naked bike
+Y,Y,Y,N,				Scooter
+Y,Y,Y,N,				Sport bike
+Y,Y,Y,N,				Sport touring
+Y,Y,Y,N,				Touring
+Y,Y,Y,N,		Police car
+Y,Y,Y,N,		Subway
+,,,,			{Metro}
+Y,Y,Y,N,		Train
+Y,Y,Y,N,			Freight train
+Y,Y,Y,N,			Locomotive
+Y,Y,Y,N,			Passenger train
+Y,Y,Y,N,		Tram
+Y,Y,Y,N,		Truck
+Y,Y,Y,N,			Ballast tracktor
+Y,Y,Y,N,			Box truck
+Y,Y,Y,N,			Concrete trasport track
+Y,Y,Y,N,			Crane truck
+Y,Y,Y,N,			Dump truck
+Y,Y,Y,N,			Flatbed truck
+Y,Y,Y,N,			Garbage truck
+Y,Y,Y,N,			Log carrier
+Y,Y,Y,N,			Platform truck
+Y,Y,Y,N,			Refrigerator truck
+Y,Y,Y,N,			Semi trailer truck
+Y,Y,Y,N,			Tank truck
+Y,Y,Y,N,			Van
+Y,Y,Y,N,		Unicycle
+Y,Y,Y,N,	By water
+Y,Y,Y,N,		Barge
+Y,Y,Y,N,		Boat
+Y,Y,Y,N,		Bulk carrier
+Y,Y,Y,N,		Canoe
+Y,Y,Y,N,		Catamaran
+Y,Y,Y,N,		Catboat
+Y,Y,Y,N,		Container ship
+Y,Y,Y,N,		Cruise ship
+Y,Y,Y,N,		Cutter
+Y,Y,Y,N,		Dhoni
+Y,Y,Y,N,		Dinghy
+Y,Y,Y,N,		Dry cargo
+,,,,			{Freighter}
+Y,Y,Y,N,		Ferry
+Y,Y,Y,N,		Fishing boat
+Y,Y,Y,N,		Fractional rig sloop
+Y,Y,Y,N,		Freighter
+Y,Y,Y,N,		Gondola
+Y,Y,Y,N,		Hovercraft
+Y,Y,Y,N,		Kayak
+Y,Y,Y,N,		Ketch
+Y,Y,Y,N,		Military ship
+Y,Y,Y,N,		Motorboat
+Y,Y,Y,N,		Naval vessel
+Y,Y,Y,N,			Aircraft carrier
+Y,Y,Y,N,			Corvette
+Y,Y,Y,N,			Cruiser
+Y,Y,Y,N,			Destroyer
+Y,Y,Y,N,			Frigate
+Y,Y,Y,N,			Minesweeper
+Y,Y,Y,N,			Patrol vessel
+Y,Y,Y,N,			Submarine
+Y,Y,Y,N,		Passenger ship
+Y,Y,Y,N,		Pirogue
+Y,Y,Y,N,		Punt
+Y,Y,Y,N,		Raft
+Y,Y,Y,N,		Riverboat
+Y,Y,Y,N,		Sail ship
+,,,,			{Sailing ship}
+Y,Y,Y,N,		Sailboat
+,,,,			{Sailing boat}
+Y,Y,Y,N,		Schooner
+Y,Y,Y,N,		Ship
+Y,Y,Y,N,		Sloop
+Y,Y,Y,N,		Tanker
+Y,Y,Y,N,		Tugboat
+Y,Y,Y,N,		Yacht
+Y,Y,Y,N,		Yawl
+Y,Y,Y,N,	Human Powered
+Y,Y,Y,N,Water
+Y,Y,Y,N,	Bayou
+Y,Y,Y,N,	Billabong
+Y,Y,Y,N,	Breaking wave
+Y,Y,Y,N,	Canal
+,,,,		{Channel}
+Y,Y,Y,N,	Coral reef
+Y,Y,Y,N,	Cove
+Y,Y,Y,N,	Fjord
+Y,Y,N,N,	Flowing water
+Y,Y,Y,N,	Lagoon
+Y,Y,Y,N,	Lake
+Y,Y,Y,N,	Marsh
+Y,Y,N,N,	Natural pool
+Y,Y,Y,N,	Ocean
+Y,Y,Y,N,	Pond
+Y,Y,Y,N,	Puddle
+Y,Y,Y,N,	River
+Y,Y,Y,N,	Sea
+Y,Y,Y,N,	Spring
+Y,Y,Y,N,	Strait
+Y,Y,Y,N,	Stream
+,,,,		{Brook}
+,,,,		{Creek}
+,,,,		{Rivulet}
+Y,Y,Y,N,	Swamp
+Y,Y,Y,N,	Tarn
+,,,,		{Corrie loch}
+Y,Y,N,N,	Underwater cave
+Y,Y,Y,N,	Waterfall
+Y,Y,Y,N,	Wave
+Y,Y,Y,N,		Breaking wave

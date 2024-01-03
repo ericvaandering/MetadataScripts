@@ -88,6 +88,7 @@
 			ID-Crustacean
 				ID-Amphipod
 				ID-Crab
+				ID-HermitCrab
 				ID-Lobster
 				ID-Mantis
 				ID-Shrimp
@@ -115,7 +116,7 @@
 					ID-Dorid
 					ID-HeadShield
 					ID-Hypselodoris
-					ID-Nemobratha
+					ID-Nembrotha
 					ID-Slug
 				ID-Snail
 			ID-Tunicate
@@ -134,9 +135,9 @@
 				ID-Antelope
 				ID-Bovid
 				ID-Deer
-				[ID-Giraffe]
+				ID-Giraffe
 				ID-Pig
-				[ID-Zebra]
+				ID-Zebra
 		ID-Reptile
 	ID-Huh
 	ID-Known
