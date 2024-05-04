@@ -28,6 +28,7 @@ Y,Y,Y,N,	Burning
 Y,Y,Y,N,	Chopping
 Y,Y,Y,N,	Climbing
 Y,Y,Y,N,	Clothes making
+Y,Y,Y,N,	Cooking
 Y,Y,Y,N,	Creating art
 Y,Y,Y,N,		Drawing
 Y,Y,Y,N,		Glass blowing
@@ -670,7 +671,7 @@ Y,Y,Y,N,				Shortnose Batfish
 Y,Y,N,N,			Frogfishes
 Y,Y,Y,N,				Freckled Frogfish
 ,,,,					{Scarlet Frogfish}
-,,,,					{Antennatus coccineus}
+,,,,					{Antennarius coccineus}
 Y,Y,Y,N,				Giant Frogfish
 ,,,,					{Antennarius commersoni}
 Y,Y,Y,N,				Longlure Frogfish
@@ -679,6 +680,8 @@ Y,Y,Y,N,				Ocellated Frogfish
 ,,,,					{Antennarius sp.}
 Y,Y,Y,N,				Painted Frogfish
 ,,,,					{Antennarius pictus}
+Y,Y,Y,N,				Rosy Frogfish
+,,,,					{Antennatus rosaceus}
 Y,Y,Y,N,				Sargassumfish
 ,,,,					{Histrio histrio}
 Y,Y,Y,N,				Spotfin Frogfish
@@ -1426,6 +1429,9 @@ Y,Y,Y,N,				African Pompano
 Y,Y,Y,N,				Almaco Jack
 ,,,,					{Seriola rivoliana}
 Y,Y,Y,N,				Bar Jack
+Y,Y,Y,N,				Blue Trevally
+,,,,					{Barred Trevally}
+,,,,					{Carangoides ferdau}
 Y,Y,Y,N,				Bluefin Trevally
 ,,,,					{Caranx melampygus}
 Y,Y,Y,N,				Horse-eye Jack
@@ -1508,6 +1514,8 @@ Y,Y,Y,N,				Sheepshead Porgy
 ,,,,					{Calamus penna}
 Y,Y,Y,N,				White Sea Bream
 Y,Y,Y,N,			Rabbitfishes
+Y,Y,Y,N,				Coral Rabbitfish
+,,,,					{Siganus corallinus}
 Y,Y,Y,N,				Foxface Rabbitfish
 ,,,,					{Siganus vulpinus}
 Y,Y,Y,N,				Golden Rabbitfish
@@ -1855,6 +1863,8 @@ Y,Y,Y,N,				Bristle-tailed Filefish
 ,,,,					{Acreichthys tomentosus}
 Y,Y,Y,N,				Diamond Filefish
 ,,,,					{Rudarius excelsus}
+Y,Y,Y,N,				Fan-bellied Filefish
+,,,,					{Monacanthus chinensis}
 Y,Y,Y,N,				Fringed Filefish
 ,,,,					{Monacanthus ciliatus}
 Y,Y,Y,N,				Honeycomb filefish
@@ -1864,6 +1874,8 @@ Y,Y,Y,N,				Orangetail Filefish
 ,,,,					{Pervagor aspricaudus}
 Y,Y,Y,N,				Planehead Filefish
 ,,,,					{Stephanolepsis hispidus}
+Y,Y,Y,N,				Puffer Filefish
+,,,,					{Brachaluteres taylori}
 Y,Y,Y,N,				Pygmy Filefish
 ,,,,					{Stephanolepis setifer}
 Y,Y,Y,N,				Scrawled Filefish
@@ -1872,6 +1884,8 @@ Y,Y,Y,N,				Shortsnout Filefish
 ,,,,					{Paramonacanthus curtothynchos}
 Y,Y,Y,N,				Slender Filefish
 ,,,,					{Monacanthus tuckeri}
+Y,Y,Y,N,				Spectacled Filefish
+,,,,					{Cantherines fronticinctus}
 Y,Y,Y,N,				Strapweed Filefish
 ,,,,					{Pseudomonacanthus macrurus}
 Y,Y,Y,N,				Whitebar Filefish
@@ -1916,11 +1930,15 @@ Y,Y,Y,N,				Star Puffer
 ,,,,					{Arothron stellatus}
 Y,Y,Y,N,				Striped Puffer
 ,,,,					{Arothron manilensis}
-Y,Y,Y,N,				Whitespotted Puffer
+Y,Y,Y,N,				White-spotted Puffer
+,,,,					{Arothron hispidus}
+Y,Y,Y,N,				Whitebelly Toby
+,,,,					{Canthigaster bennetti}
 Y,Y,Y,N,			Triggerfishes
 Y,Y,Y,N,				Black Durgon
 ,,,,					{Melichthys niger}
 Y,Y,Y,N,				Bluethroat Triggerfish
+,,,,					{Sufflamen albicaudatus}
 Y,Y,Y,N,				Clown Triggerfish
 ,,,,					{Balistoides conspicillum}
 Y,Y,Y,N,				Flagtail Triggerfish
@@ -2005,6 +2023,8 @@ Y,Y,Y,N,				Ambon Scorpionfish
 ,,,,					{Pteroidichthys amboinensis}
 Y,Y,Y,N,				Bandtail Scorpionfish
 ,,,,					{Scorpaenopsis neglecta}
+Y,Y,Y,N,				Barchin Scorpionfish
+,,,,					{Sebastapistes strongia}
 Y,Y,Y,N,				Black Rockfish
 ,,,,					{Sebastes melanops}
 Y,Y,Y,N,				Black Scorpionfish
@@ -2089,6 +2109,8 @@ Y,Y,Y,N,				Longspine Waspfish
 Y,Y,Y,N,				Spiny Waspfish
 ,,,,					{Ablabys macracanthus}
 Y,Y,Y,N,				Unknown Waspfish
+Y,Y,Y,N,				Whiteface Waspfish
+,,,,					{Richardsonichthys leucogaster}
 Y,Y,N,N,		Sharks
 Y,Y,Y,N,			Blacktip Reef Shark
 ,,,,				{Carcharhinus melanopterus}
@@ -2222,6 +2244,7 @@ Y,Y,Y,N,					Pink-toed Tarantula
 Y,Y,Y,N,			Crustaceans
 Y,Y,Y,N,				Amphipods
 ,,,,					{Order Amphipoda}
+Y,Y,Y,N,					Lysianassidae sp.
 Y,Y,Y,N,					Skeleton Shrimp
 ,,,,						{Caprella spp}
 Y,Y,N,N,				Decapods
@@ -2391,8 +2414,6 @@ Y,Y,Y,N,						Slipper Lobsters
 Y,Y,Y,N,							Fijian Locust Lobster
 ,,,,								{Biarctus vitiensis}
 Y,Y,Y,N,							Locust Slipper Lobsters
-Y,Y,Y,N,							Painted Spiny Lobster
-,,,,								{Panulirus versicolor}
 Y,Y,Y,N,							Sculpted Slipper Lobster
 ,,,,								{Parribacus antarcticus}
 Y,Y,Y,N,							Spanish Lobster
@@ -2423,6 +2444,8 @@ Y,Y,Y,N,							Cryptic Sponge Shrimp
 ,,,,								{Gelastocaris paronae}
 ,,,,								{Paron Shrimp}
 Y,Y,Y,N,							Latreutes sp. 3
+Y,Y,Y,N,							Ocellated Tozeuma Shrimp
+,,,,								{Tozeuma lanceolatum}
 Y,Y,Y,N,							Squat Anemone Shrimp
 ,,,,								{Thor amboinensis}
 Y,Y,Y,N,							White-banded Cleaner Shrimp
@@ -2442,6 +2465,8 @@ Y,Y,Y,N,							Coleman Shrimp
 Y,Y,Y,N,							Cuapetes sp.
 Y,Y,Y,N,							Donald Duck Shrimp
 ,,,,								{Leander plumosus}
+Y,Y,Y,N,							Egg Shell Shrimp
+,,,,								{Hamopontonia corallicola}
 Y,Y,Y,N,							Emperor Shrimp
 ,,,,								{Periclimenes imperator}
 Y,Y,Y,N,							Graceful Anemone Shrimp
@@ -2462,10 +2487,14 @@ Y,Y,Y,N,							Peacock-tail Anemone Shrimp
 Y,Y,Y,N,							Red Claw Cuapetes Shrimp
 ,,,,								{Cuapetes tenuipes}
 ,,,,								{Periclimenes tenuipes}
+Y,Y,Y,N,							Rounded Sea Star Shrimp
+,,,,								{Zenopontonia noverca}
 Y,Y,Y,N,							Sarasvati Anemone Shrimp
 ,,,,								{Periclimenes sarasvati}
 Y,Y,Y,N,							Sea Star Shrimp
 ,,,,								{Periclimenes soror}
+Y,Y,Y,N,							Yellow-spotted Anemone Shrimp
+,,,,								{Ancylomenes luteomaculatus}
 Y,Y,Y,N,							Zanzibar Whip Coral Shrimp
 ,,,,								{Dasycaris zanzibarica}
 Y,Y,Y,N,						Dragon Shrimp
@@ -2727,13 +2756,13 @@ Y,Y,Y,N,						Orange Cup Coral
 ,,,,							{Tubastraea coccinea}
 Y,Y,Y,N,						Tubastraea cf. faulkneri
 Y,Y,Y,N,					Disc Corals
-Y,Y,Y,N,					Euphyllia ancora
 Y,Y,N,N,					Finger Coral
 Y,Y,Y,N,						Pocillopora verrucosa
 Y,Y,Y,N,						Stylophora subseriata
 Y,Y,Y,N,					Fleshy Corals
 Y,Y,Y,N,						Disc corals (Mushroom & Artichoke)
 ,,,,							{Scolymia sp.}
+Y,Y,Y,N,							Heliofungia actiniformis
 Y,Y,Y,N,						Fungia scutaria
 Y,Y,Y,N,						Knobby Cactus Coral
 ,,,,							{Mycetophyllia aliciae}
@@ -2742,6 +2771,10 @@ Y,Y,Y,N,						Ridged Cactus Coral
 Y,Y,Y,N,						Rough Cactus Coral
 ,,,,							{Mycetophyllia ferox}
 Y,Y,Y,N,					Goniastrea peresi
+Y,Y,Y,N,					Hammer Coral
+,,,,						{Anchor Coral}
+,,,,						{Euphyllia ancora}
+,,,,						{Fimbriaphyllia sp.}
 Y,Y,Y,N,					Leaf & Plate & Sheet Corals
 Y,Y,Y,N,						Lettuce Coral
 Y,Y,Y,N,						Pavona cactus
@@ -2771,6 +2804,7 @@ Y,Y,Y,N,						Great Star Coral
 ,,,,							{Montastraea cavernosa}
 Y,Y,Y,N,						Star Coral
 Y,Y,Y,N,					Stylophora pistillata
+Y,Y,Y,N,					Table Coral
 Y,Y,Y,N,					Yellow Pencil Coral
 Y,Y,Y,N,				Tube-dwelling Anemone
 ,,,,					{Ceriantharia}
@@ -2794,6 +2828,8 @@ Y,Y,Y,N,					Cassiopea andromeda
 Y,Y,Y,N,					Cassiopea frondosa
 Y,Y,Y,N,		Comb Jellies
 ,,,,			{Ctenophora}
+Y,Y,Y,N,			Creeping Comb Jelly
+,,,,				{Coeloplana astericola}
 Y,Y,Y,N,		Echinoderms
 Y,Y,Y,N,			Brittle and Basket Stars
 Y,Y,N,N,				Basket Stars
@@ -3001,7 +3037,7 @@ Y,Y,Y,N,			Script Flatworm
 ,,,,				{Pseudoceros scriptus}
 Y,Y,Y,N,			Single Stripe Flatworm
 ,,,,				{Pseudoceros monostichos}
-Y,Y,Y,N,			Thysanozoon sp.
+Y,Y,Y,N,			Thysanozoon nigropapillosum
 Y,Y,Y,N,			Undescribed Polyclad Flatworm
 Y,Y,Y,N,			Unknown Flatworm
 Y,Y,Y,N,			Waminoa sp. 1
@@ -3108,25 +3144,27 @@ Y,Y,Y,N,				Gumboot Chiton
 Y,Y,Y,N,			Gastropods
 Y,Y,N,N,				Sea Slugs
 ,,,,					{Subclass Opisthobranchia}
+Y,Y,Y,N,					Bubble Snails
+,,,,						{Acteonoidea}
+Y,Y,Y,N,						Micromelo undatus
+,,,,							{Miniature Melo}
 Y,Y,Y,N,					Headshield Slugs
 ,,,,						{Order Cephalaspidea}
 Y,Y,Y,N,						Chelidonura amoena
 ,,,,							{Lovely Headshield Slug}
+Y,Y,Y,N,						Chelidonura flavolobata
+,,,,							{Yellow Lip Shield Slug}
 Y,Y,Y,N,						Chelidonura hirundinina
 ,,,,							{Swallowtail Headshield Slug}
 Y,Y,Y,N,						Chelidonura inornata
 ,,,,							{Headband Headshield Slug}
 Y,Y,Y,N,						Chelidonura varians
 ,,,,							{Blue Velvet Headshield Slug}
-Y,Y,Y,N,						Micromelo undata
-,,,,							{Miniature Melo}
 Y,Y,Y,N,						Philinopsis speciosa
 ,,,,							{Showy Headshield Slug}
 Y,Y,Y,N,						Sagaminopteron nigropunctatum
 Y,Y,Y,N,						Sagaminopteron psychedelicum
 ,,,,							{Psychedelic Batwing Slug}
-Y,Y,Y,N,						Yellow Lip Shield Slug
-,,,,							{Chelidonura flavolobata}
 Y,Y,Y,N,					Nudibranchs
 Y,Y,N,N,						Aeolid Nudibranchs
 ,,,,							{Suborder Aeolidina}
@@ -3349,6 +3387,7 @@ Y,Y,Y,N,								Nembrotha kubaryana
 ,,,,									{Kubaryana's Nembrotha}
 Y,Y,Y,N,								Nembrotha lineolata
 ,,,,									{Lined Nembrotha}
+Y,Y,Y,N,								Nembrotha livingstonei
 Y,Y,Y,N,								Nembrotha milleri
 ,,,,									{Miller's Nembrotha}
 Y,Y,Y,N,								Nembrotha mullineri
@@ -3366,26 +3405,31 @@ Y,Y,Y,N,								Thecacera sp. 8
 Y,Y,Y,N,					Sapsucking Slugs
 ,,,,						{Sacoglossa}
 ,,,,						{Order Sacoglossa}
-Y,Y,Y,N,						Costasiella kuroshimae
-,,,,							{Kuro Sapsucking Slug}
-Y,Y,Y,N,						Costasiella usagi
-,,,,							{Rabbit Sapsucking Slug}
-Y,Y,Y,N,						Elysia crispata
-,,,,							{Lettuce Sea Slug}
-Y,Y,Y,N,						Elysia ornata
-,,,,							{Ornate Sapsucking Slug}
-Y,Y,Y,N,						Elysia picta
-,,,,							{Painted Elysia}
-Y,Y,Y,N,						Lobiger viridis
-Y,Y,Y,N,						Oxynoe viridis
-,,,,							{Green Longtail Sapsucking Slug}
-Y,Y,Y,N,						Plakobranchus sp.
-Y,Y,Y,N,						Stiliger ornatus
-Y,Y,Y,N,						Thuridilla albopustulosa
-Y,Y,Y,N,						Thuridilla carlsoni
-,,,,							{Carlson's Sapsucking Slug}
-Y,Y,Y,N,						Thuridilla gracilis
-,,,,							{Slender Sapsucking Slug}
+Y,Y,Y,N,						Limapontiidae
+Y,Y,Y,N,							Costasiella kuroshimae
+,,,,								{Kuro Sapsucking Slug}
+Y,Y,Y,N,							Costasiella sp. (Yellow Costasiella)
+,,,,								{Yellow Costasiella}
+Y,Y,Y,N,							Ercolania sp (White Ercolania)
+,,,,								{White Ercolania}
+Y,Y,Y,N,							Stiliger ornatus
+Y,Y,Y,N,						Oxynoidae
+Y,Y,Y,N,							Lobiger viridis
+Y,Y,Y,N,							Oxynoe viridis
+,,,,								{Green Longtail Sapsucking Slug}
+Y,Y,Y,N,						Plakobranchidae
+Y,Y,Y,N,							Elysia crispata
+,,,,								{Lettuce Sea Slug}
+Y,Y,Y,N,							Elysia ornata
+,,,,								{Ornate Sapsucking Slug}
+Y,Y,Y,N,							Elysia picta
+,,,,								{Painted Elysia}
+Y,Y,Y,N,							Plakobranchus sp.
+Y,Y,Y,N,							Thuridilla albopustulosa
+Y,Y,Y,N,							Thuridilla carlsoni
+,,,,								{Carlson's Sapsucking Slug}
+Y,Y,Y,N,							Thuridilla gracilis
+,,,,								{Slender Sapsucking Slug}
 Y,Y,N,N,					Sea Hares
 ,,,,						{Order Anaspidea}
 Y,Y,Y,N,						Aplysia fasciata
@@ -3400,6 +3444,7 @@ Y,Y,Y,N,						Euselenops luniceps
 Y,Y,Y,N,						Pleurobranchus forskalii
 Y,Y,Y,N,						Pleurobranchus grandis
 ,,,,							{Grand Pleurobranch}
+Y,Y,Y,N,						Pleurobranchus weberi
 Y,Y,Y,N,				Slug
 Y,Y,Y,N,				Snails
 Y,Y,Y,N,					Abalone
@@ -3505,8 +3550,6 @@ Y,Y,Y,N,				Unknown gastropod
 Y,Y,Y,N,		Myzostomid Worms
 ,,,,			{Myzostomidae}
 Y,Y,Y,N,		Segmented Worms
-Y,Y,Y,N,			Bearded Fireworm
-,,,,				{Hermodice carunculata}
 Y,Y,Y,N,			Bobbit Worm
 ,,,,				{Eunice aphroditois}
 Y,Y,Y,N,			Calcareous Tube Worms
@@ -3515,8 +3558,6 @@ Y,Y,Y,N,				Christmas Tree Worm
 Y,Y,Y,N,				Magnificent Tube Worm
 ,,,,					{Protula magnifica}
 Y,Y,Y,N,				Star Horseshoe Worm
-Y,Y,Y,N,			Darklined Fire Worm
-,,,,				{Chloeia fusca}
 Y,Y,N,N,			Feather Duster Worms
 Y,Y,Y,N,				Bispira sp.
 Y,Y,Y,N,				Chone infundibuliformis
@@ -3531,6 +3572,14 @@ Y,Y,Y,N,				Split-crown Feather Duster
 ,,,,					{Anamobaea orstedii}
 Y,Y,Y,N,				Variegated Feather Duster
 ,,,,					{Bispira variegata}
+Y,Y,Y,N,			Fire Worms
+,,,,				{Amphinomidae}
+Y,Y,Y,N,				Bearded Fireworm
+,,,,					{Hermodice carunculata}
+Y,Y,Y,N,				Darklined Fire Worm
+,,,,					{Chloeia fusca}
+Y,Y,Y,N,				Golden Fire Worm
+,,,,					{Chloeia flava}
 Y,Y,Y,N,			Paddle Worms
 ,,,,				{Phyllodocidae}
 Y,Y,Y,N,			Scale Worm
@@ -4534,9 +4583,11 @@ Y,Y,Y,N,			Ana Cecilia
 Y,Y,Y,N,			Blue Heron Bridge
 Y,Y,N,N,			Corridor Wrecks
 ,,,,				{Mizpah Corridor}
+Y,Y,Y,N,			Elevator Shaft
 Y,Y,N,N,			Juno Ledge
 ,,,,				{Monkey's Ledge}
 Y,Y,Y,N,			MG-111
+Y,Y,Y,N,			Ron's Reef
 Y,Y,Y,N,			Split Reef
 Y,Y,Y,N,			Toybox & Playpen
 Y,Y,Y,N,			West Palm Beach Deep Ledge
@@ -4589,15 +4640,24 @@ Y,Y,Y,N,				Sandy Slope
 Y,Y,Y,N,				Secret Bay
 Y,Y,Y,N,				Temple Wall
 Y,Y,Y,N,			Tulamben
+Y,Y,Y,N,				Amed Beach Resort
+Y,Y,Y,N,				Batu Belah
 Y,Y,Y,N,				Batuniti
 Y,Y,Y,N,				Coral Gardens
 Y,Y,Y,N,				Dropoff
+Y,Y,Y,N,				Jemeluk Fish Pyramids
+Y,Y,Y,N,				Jemeluk Wall
 Y,Y,Y,N,				Liberty Wreck
 Y,Y,Y,N,				Melasti North
 Y,Y,Y,N,				Melasti South
 Y,Y,Y,N,				Noisy Reef
 Y,Y,Y,N,				Seraya Secrets
+Y,Y,Y,N,				Sidem
 Y,Y,Y,N,				Two Trees
+Y,Y,Y,N,		Bangka
+Y,Y,Y,N,			Batu Mandi
+Y,Y,Y,N,			Sahaung
+Y,Y,Y,N,			Tanjung Usi
 Y,Y,Y,N,		Gili Islands
 Y,Y,Y,N,			Bounty Wreck
 Y,Y,Y,N,			Deep Turbo
@@ -4608,11 +4668,32 @@ Y,Y,Y,N,			Han's Reef
 Y,Y,Y,N,			Mantigi Bay
 Y,Y,Y,N,			Shark Point
 Y,Y,Y,N,			Sunset Reef
+Y,Y,Y,N,		Lembeh
+Y,Y,Y,N,			Aer Bajo 1
+Y,Y,Y,N,			Aer Bajo 2
+Y,Y,Y,N,			Aer Bajo 3
+Y,Y,Y,N,			Aer Prang 2
+Y,Y,Y,N,			Bianca
+Y,Y,Y,N,			Critter Hunt
+Y,Y,Y,N,			Goby @ Crab
+Y,Y,Y,N,			Jahir 1
+Y,Y,Y,N,			Kapal Indah
+Y,Y,Y,N,			Kareko Pasir
+Y,Y,Y,N,			Makawidey 2
+Y,Y,Y,N,			Nudi Falls
+Y,Y,Y,N,			Nudi Retreat
+Y,Y,Y,N,			Pante Abo
+Y,Y,Y,N,			Pante Parigi 2
+Y,Y,Y,N,			Pulau Abadi 2
+Y,Y,Y,N,			Rojos
+Y,Y,Y,N,			Sarena Patah
+Y,Y,Y,N,			TK 3
 Y,Y,Y,N,		Nusa Penida
 Y,Y,Y,N,			Buyak Point
 Y,Y,Y,N,			Crystal Bay
 Y,Y,Y,N,			Manta Point
 Y,Y,Y,N,			Pura Ped
+Y,Y,Y,N,			SD Point
 Y,Y,N,N,	Lake Michigan
 Y,Y,N,N,		Buccaneer
 Y,Y,N,N,		Car Ferry #2
@@ -5028,6 +5109,7 @@ Y,Y,Y,N,	Hill
 Y,Y,Y,N,		Kopje
 Y,Y,Y,N,	Island
 Y,Y,Y,N,	Isthmus
+Y,Y,Y,N,	Jungle
 Y,Y,Y,N,	Levee
 ,,,,		{Dike}
 ,,,,		{Embankment}
@@ -5388,6 +5470,7 @@ Y,Y,Y,N,		Bread
 Y,Y,Y,N,		Cake
 Y,Y,Y,N,		Cheese
 Y,Y,Y,N,		Cocktail
+Y,Y,Y,N,		Food
 Y,Y,Y,N,		Fruit
 Y,Y,Y,N,		Wine
 Y,Y,Y,N,	Food preparation
@@ -5834,6 +5917,7 @@ Y,Y,Y,Y,		Pamela Dake
 Y,Y,Y,Y,		Petra
 Y,Y,Y,Y,		Taliver Heath
 Y,Y,Y,N,	Celebrities
+Y,Y,Y,Y,		Adam Clayton
 Y,Y,Y,Y,		Buddy Guy
 Y,Y,Y,Y,		Christiane Amanpour
 Y,Y,Y,Y,		Emmylou Harris
@@ -5891,6 +5975,7 @@ Y,Y,Y,Y,		Lothar Bauerdick
 Y,Y,Y,Y,		Manuel
 Y,Y,Y,Y,		Manuel Giffels
 Y,Y,Y,Y,		Marco Mascheroni
+Y,Y,Y,Y,		Marguerite Tonjes
 Y,Y,Y,Y,		Maria Girone
 Y,Y,Y,Y,		Matt Norman
 Y,Y,Y,Y,		Matteo CMS
@@ -5906,6 +5991,7 @@ Y,Y,Y,N,		Rich Wilkenson
 Y,Y,Y,Y,		Rick Wilkinson
 Y,Y,Y,Y,		Robert Harris
 Y,Y,Y,Y,		Sal Rappacio
+Y,Y,Y,Y,		Scarlet Norberg
 Y,Y,Y,Y,		Seangchan Ryu
 Y,Y,N,Y,		Simon Metson
 Y,Y,Y,Y,		Slava
@@ -6034,6 +6120,7 @@ Y,Y,Y,Y,		Leslie Huizenga
 Y,Y,Y,Y,		Lucas Miedema
 Y,Y,N,Y,		Marion Huizenga
 Y,Y,Y,Y,		Mark Huizenga
+Y,Y,Y,Y,		Matthew
 Y,Y,Y,Y,		Megan Craft Keehan
 Y,Y,Y,Y,		Mein Wilderom
 Y,Y,Y,Y,		Melissa Natte
@@ -6465,6 +6552,7 @@ Y,Y,Y,N,		Portrait photography
 Y,Y,Y,N,		Rural photography
 Y,Y,N,N,			Developing country
 Y,Y,Y,N,		Sport photography
+Y,Y,Y,N,		Staged
 Y,Y,Y,N,		Still life photography
 Y,Y,Y,N,		Street photography
 Y,Y,Y,N,		Timelapse photography
@@ -6744,6 +6832,7 @@ Y,Y,Y,N,		Spire
 Y,Y,Y,N,		Stair
 ,,,,			{Staircase}
 ,,,,			{Stairway}
+Y,Y,Y,N,		Stairs
 Y,Y,Y,N,		Steeple
 Y,Y,Y,N,		Steps
 Y,Y,Y,N,		Stoa

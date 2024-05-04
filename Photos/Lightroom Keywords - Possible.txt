@@ -27,6 +27,7 @@ Action
 	Chopping
 	Climbing
 	Clothes making
+	Cooking
 	Creating art
 		Drawing
 		Glass blowing
@@ -669,7 +670,7 @@ Animals
 			Frogfishes
 				Freckled Frogfish
 					{Scarlet Frogfish}
-					{Antennatus coccineus}
+					{Antennarius coccineus}
 				Giant Frogfish
 					{Antennarius commersoni}
 				Longlure Frogfish
@@ -678,6 +679,8 @@ Animals
 					{Antennarius sp.}
 				Painted Frogfish
 					{Antennarius pictus}
+				Rosy Frogfish
+					{Antennatus rosaceus}
 				Sargassumfish
 					{Histrio histrio}
 				Spotfin Frogfish
@@ -1425,6 +1428,9 @@ Animals
 				Almaco Jack
 					{Seriola rivoliana}
 				Bar Jack
+				Blue Trevally
+					{Barred Trevally}
+					{Carangoides ferdau}
 				Bluefin Trevally
 					{Caranx melampygus}
 				Horse-eye Jack
@@ -1507,6 +1513,8 @@ Animals
 					{Calamus penna}
 				White Sea Bream
 			Rabbitfishes
+				Coral Rabbitfish
+					{Siganus corallinus}
 				Foxface Rabbitfish
 					{Siganus vulpinus}
 				Golden Rabbitfish
@@ -1854,6 +1862,8 @@ Animals
 					{Acreichthys tomentosus}
 				Diamond Filefish
 					{Rudarius excelsus}
+				Fan-bellied Filefish
+					{Monacanthus chinensis}
 				Fringed Filefish
 					{Monacanthus ciliatus}
 				Honeycomb filefish
@@ -1863,6 +1873,8 @@ Animals
 					{Pervagor aspricaudus}
 				Planehead Filefish
 					{Stephanolepsis hispidus}
+				Puffer Filefish
+					{Brachaluteres taylori}
 				Pygmy Filefish
 					{Stephanolepis setifer}
 				Scrawled Filefish
@@ -1871,6 +1883,8 @@ Animals
 					{Paramonacanthus curtothynchos}
 				Slender Filefish
 					{Monacanthus tuckeri}
+				Spectacled Filefish
+					{Cantherines fronticinctus}
 				Strapweed Filefish
 					{Pseudomonacanthus macrurus}
 				Whitebar Filefish
@@ -1915,11 +1929,15 @@ Animals
 					{Arothron stellatus}
 				Striped Puffer
 					{Arothron manilensis}
-				Whitespotted Puffer
+				White-spotted Puffer
+					{Arothron hispidus}
+				Whitebelly Toby
+					{Canthigaster bennetti}
 			Triggerfishes
 				Black Durgon
 					{Melichthys niger}
 				Bluethroat Triggerfish
+					{Sufflamen albicaudatus}
 				Clown Triggerfish
 					{Balistoides conspicillum}
 				Flagtail Triggerfish
@@ -2004,6 +2022,8 @@ Animals
 					{Pteroidichthys amboinensis}
 				Bandtail Scorpionfish
 					{Scorpaenopsis neglecta}
+				Barchin Scorpionfish
+					{Sebastapistes strongia}
 				Black Rockfish
 					{Sebastes melanops}
 				Black Scorpionfish
@@ -2088,6 +2108,8 @@ Animals
 				Spiny Waspfish
 					{Ablabys macracanthus}
 				Unknown Waspfish
+				Whiteface Waspfish
+					{Richardsonichthys leucogaster}
 		Sharks
 			Blacktip Reef Shark
 				{Carcharhinus melanopterus}
@@ -2221,6 +2243,7 @@ Animals
 			Crustaceans
 				Amphipods
 					{Order Amphipoda}
+					Lysianassidae sp.
 					Skeleton Shrimp
 						{Caprella spp}
 				Decapods
@@ -2390,8 +2413,6 @@ Animals
 							Fijian Locust Lobster
 								{Biarctus vitiensis}
 							Locust Slipper Lobsters
-							Painted Spiny Lobster
-								{Panulirus versicolor}
 							Sculpted Slipper Lobster
 								{Parribacus antarcticus}
 							Spanish Lobster
@@ -2422,6 +2443,8 @@ Animals
 								{Gelastocaris paronae}
 								{Paron Shrimp}
 							Latreutes sp. 3
+							Ocellated Tozeuma Shrimp
+								{Tozeuma lanceolatum}
 							Squat Anemone Shrimp
 								{Thor amboinensis}
 							White-banded Cleaner Shrimp
@@ -2441,6 +2464,8 @@ Animals
 							Cuapetes sp.
 							Donald Duck Shrimp
 								{Leander plumosus}
+							Egg Shell Shrimp
+								{Hamopontonia corallicola}
 							Emperor Shrimp
 								{Periclimenes imperator}
 							Graceful Anemone Shrimp
@@ -2461,10 +2486,14 @@ Animals
 							Red Claw Cuapetes Shrimp
 								{Cuapetes tenuipes}
 								{Periclimenes tenuipes}
+							Rounded Sea Star Shrimp
+								{Zenopontonia noverca}
 							Sarasvati Anemone Shrimp
 								{Periclimenes sarasvati}
 							Sea Star Shrimp
 								{Periclimenes soror}
+							Yellow-spotted Anemone Shrimp
+								{Ancylomenes luteomaculatus}
 							Zanzibar Whip Coral Shrimp
 								{Dasycaris zanzibarica}
 						Dragon Shrimp
@@ -2726,13 +2755,13 @@ Animals
 							{Tubastraea coccinea}
 						Tubastraea cf. faulkneri
 					Disc Corals
-					Euphyllia ancora
 					Finger Coral
 						Pocillopora verrucosa
 						Stylophora subseriata
 					Fleshy Corals
 						Disc corals (Mushroom & Artichoke)
 							{Scolymia sp.}
+							Heliofungia actiniformis
 						Fungia scutaria
 						Knobby Cactus Coral
 							{Mycetophyllia aliciae}
@@ -2741,6 +2770,10 @@ Animals
 						Rough Cactus Coral
 							{Mycetophyllia ferox}
 					Goniastrea peresi
+					Hammer Coral
+						{Anchor Coral}
+						{Euphyllia ancora}
+						{Fimbriaphyllia sp.}
 					Leaf & Plate & Sheet Corals
 						Lettuce Coral
 						Pavona cactus
@@ -2770,6 +2803,7 @@ Animals
 							{Montastraea cavernosa}
 						Star Coral
 					Stylophora pistillata
+					Table Coral
 					Yellow Pencil Coral
 				Tube-dwelling Anemone
 					{Ceriantharia}
@@ -2793,6 +2827,8 @@ Animals
 					Cassiopea frondosa
 		Comb Jellies
 			{Ctenophora}
+			Creeping Comb Jelly
+				{Coeloplana astericola}
 		Echinoderms
 			Brittle and Basket Stars
 				Basket Stars
@@ -3000,7 +3036,7 @@ Animals
 				{Pseudoceros scriptus}
 			Single Stripe Flatworm
 				{Pseudoceros monostichos}
-			Thysanozoon sp.
+			Thysanozoon nigropapillosum
 			Undescribed Polyclad Flatworm
 			Unknown Flatworm
 			Waminoa sp. 1
@@ -3107,25 +3143,27 @@ Animals
 			Gastropods
 				Sea Slugs
 					{Subclass Opisthobranchia}
+					Bubble Snails
+						{Acteonoidea}
+						Micromelo undatus
+							{Miniature Melo}
 					Headshield Slugs
 						{Order Cephalaspidea}
 						Chelidonura amoena
 							{Lovely Headshield Slug}
+						Chelidonura flavolobata
+							{Yellow Lip Shield Slug}
 						Chelidonura hirundinina
 							{Swallowtail Headshield Slug}
 						Chelidonura inornata
 							{Headband Headshield Slug}
 						Chelidonura varians
 							{Blue Velvet Headshield Slug}
-						Micromelo undata
-							{Miniature Melo}
 						Philinopsis speciosa
 							{Showy Headshield Slug}
 						Sagaminopteron nigropunctatum
 						Sagaminopteron psychedelicum
 							{Psychedelic Batwing Slug}
-						Yellow Lip Shield Slug
-							{Chelidonura flavolobata}
 					Nudibranchs
 						Aeolid Nudibranchs
 							{Suborder Aeolidina}
@@ -3348,6 +3386,7 @@ Animals
 									{Kubaryana's Nembrotha}
 								Nembrotha lineolata
 									{Lined Nembrotha}
+								Nembrotha livingstonei
 								Nembrotha milleri
 									{Miller's Nembrotha}
 								Nembrotha mullineri
@@ -3365,26 +3404,31 @@ Animals
 					Sapsucking Slugs
 						{Sacoglossa}
 						{Order Sacoglossa}
-						Costasiella kuroshimae
-							{Kuro Sapsucking Slug}
-						Costasiella usagi
-							{Rabbit Sapsucking Slug}
-						Elysia crispata
-							{Lettuce Sea Slug}
-						Elysia ornata
-							{Ornate Sapsucking Slug}
-						Elysia picta
-							{Painted Elysia}
-						Lobiger viridis
-						Oxynoe viridis
-							{Green Longtail Sapsucking Slug}
-						Plakobranchus sp.
-						Stiliger ornatus
-						Thuridilla albopustulosa
-						Thuridilla carlsoni
-							{Carlson's Sapsucking Slug}
-						Thuridilla gracilis
-							{Slender Sapsucking Slug}
+						Limapontiidae
+							Costasiella kuroshimae
+								{Kuro Sapsucking Slug}
+							Costasiella sp. (Yellow Costasiella)
+								{Yellow Costasiella}
+							Ercolania sp (White Ercolania)
+								{White Ercolania}
+							Stiliger ornatus
+						Oxynoidae
+							Lobiger viridis
+							Oxynoe viridis
+								{Green Longtail Sapsucking Slug}
+						Plakobranchidae
+							Elysia crispata
+								{Lettuce Sea Slug}
+							Elysia ornata
+								{Ornate Sapsucking Slug}
+							Elysia picta
+								{Painted Elysia}
+							Plakobranchus sp.
+							Thuridilla albopustulosa
+							Thuridilla carlsoni
+								{Carlson's Sapsucking Slug}
+							Thuridilla gracilis
+								{Slender Sapsucking Slug}
 					Sea Hares
 						{Order Anaspidea}
 						Aplysia fasciata
@@ -3399,6 +3443,7 @@ Animals
 						Pleurobranchus forskalii
 						Pleurobranchus grandis
 							{Grand Pleurobranch}
+						Pleurobranchus weberi
 				Slug
 				Snails
 					Abalone
@@ -3504,8 +3549,6 @@ Animals
 		Myzostomid Worms
 			{Myzostomidae}
 		Segmented Worms
-			Bearded Fireworm
-				{Hermodice carunculata}
 			Bobbit Worm
 				{Eunice aphroditois}
 			Calcareous Tube Worms
@@ -3514,8 +3557,6 @@ Animals
 				Magnificent Tube Worm
 					{Protula magnifica}
 				Star Horseshoe Worm
-			Darklined Fire Worm
-				{Chloeia fusca}
 			Feather Duster Worms
 				Bispira sp.
 				Chone infundibuliformis
@@ -3530,6 +3571,14 @@ Animals
 					{Anamobaea orstedii}
 				Variegated Feather Duster
 					{Bispira variegata}
+			Fire Worms
+				{Amphinomidae}
+				Bearded Fireworm
+					{Hermodice carunculata}
+				Darklined Fire Worm
+					{Chloeia fusca}
+				Golden Fire Worm
+					{Chloeia flava}
 			Paddle Worms
 				{Phyllodocidae}
 			Scale Worm
@@ -4533,9 +4582,11 @@ Dive Sites
 			Blue Heron Bridge
 			Corridor Wrecks
 				{Mizpah Corridor}
+			Elevator Shaft
 			Juno Ledge
 				{Monkey's Ledge}
 			MG-111
+			Ron's Reef
 			Split Reef
 			Toybox & Playpen
 			West Palm Beach Deep Ledge
@@ -4588,15 +4639,24 @@ Dive Sites
 				Secret Bay
 				Temple Wall
 			Tulamben
+				Amed Beach Resort
+				Batu Belah
 				Batuniti
 				Coral Gardens
 				Dropoff
+				Jemeluk Fish Pyramids
+				Jemeluk Wall
 				Liberty Wreck
 				Melasti North
 				Melasti South
 				Noisy Reef
 				Seraya Secrets
+				Sidem
 				Two Trees
+		Bangka
+			Batu Mandi
+			Sahaung
+			Tanjung Usi
 		Gili Islands
 			Bounty Wreck
 			Deep Turbo
@@ -4607,11 +4667,32 @@ Dive Sites
 			Mantigi Bay
 			Shark Point
 			Sunset Reef
+		Lembeh
+			Aer Bajo 1
+			Aer Bajo 2
+			Aer Bajo 3
+			Aer Prang 2
+			Bianca
+			Critter Hunt
+			Goby @ Crab
+			Jahir 1
+			Kapal Indah
+			Kareko Pasir
+			Makawidey 2
+			Nudi Falls
+			Nudi Retreat
+			Pante Abo
+			Pante Parigi 2
+			Pulau Abadi 2
+			Rojos
+			Sarena Patah
+			TK 3
 		Nusa Penida
 			Buyak Point
 			Crystal Bay
 			Manta Point
 			Pura Ped
+			SD Point
 	Lake Michigan
 		Buccaneer
 		Car Ferry #2
@@ -4874,6 +4955,7 @@ Land
 		Kopje
 	Island
 	Isthmus
+	Jungle
 	Levee
 		{Dike}
 		{Embankment}
@@ -5234,6 +5316,7 @@ Object
 		Cake
 		Cheese
 		Cocktail
+		Food
 		Fruit
 		Wine
 	Food preparation
@@ -5680,6 +5763,7 @@ People
 		Petra
 		Taliver Heath
 	Celebrities
+		Adam Clayton
 		Buddy Guy
 		Christiane Amanpour
 		Emmylou Harris
@@ -5737,6 +5821,7 @@ People
 		Manuel
 		Manuel Giffels
 		Marco Mascheroni
+		Marguerite Tonjes
 		Maria Girone
 		Matt Norman
 		Matteo CMS
@@ -5752,6 +5837,7 @@ People
 		Rick Wilkinson
 		Robert Harris
 		Sal Rappacio
+		Scarlet Norberg
 		Seangchan Ryu
 		Simon Metson
 		Slava
@@ -5880,6 +5966,7 @@ People
 		Lucas Miedema
 		Marion Huizenga
 		Mark Huizenga
+		Matthew
 		Megan Craft Keehan
 		Mein Wilderom
 		Melissa Natte
@@ -6311,6 +6398,7 @@ Photography
 		Rural photography
 			Developing country
 		Sport photography
+		Staged
 		Still life photography
 		Street photography
 		Timelapse photography
@@ -6590,6 +6678,7 @@ Structures & architecture
 		Stair
 			{Staircase}
 			{Stairway}
+		Stairs
 		Steeple
 		Steps
 		Stoa
