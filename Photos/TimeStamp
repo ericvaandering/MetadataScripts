@@ -8,9 +8,9 @@ import optparse
 import re
 import time
 
-outMap = {'xmp': 'x', 'jpeg': 'j', 'jpg': 'j', 'cr2': 'c', 'crw': 'w', 'mov': 'm', 'tif': 't', 'png': 'p', 'cr3': '3',
+outMap = {'xmp': 'x', 'jpeg': 'j', 'jpg': 'j', 'cr2': 'c', 'crw': '1', 'mov': 'm', 'tif': 't', 'png': 'p', 'cr3': '3',
           'pcd': 'k', 'mpg': 'm', 'cbz2': 'b', 'dng': 'd', 'ojpg': 'o', 'ufraw': 'u', 'avi': 'a', 'orf': 'o',
-          'mp4': 'm', 'm4v': 'v', 'heic': 'h'}
+          'mp4': 'm', 'm4v': 'v', 'heic': 'h', 'wav': 'w'}
 
 parser = optparse.OptionParser(usage="usage: %prog [options]")
 
@@ -152,7 +152,7 @@ for infile in sorted(filenames):
             sys.exit()
     sideExts = []
     if not options.jpeg:
-        sideExts = ['xmp', 'jpg', 'JPG', 'png', 'PNG', 'cbz2', 'ojpg', 'ufraw', 'pcd']
+        sideExts = ['xmp', 'jpg', 'JPG', 'png', 'PNG', 'cbz2', 'ojpg', 'ufraw', 'pcd', 'WAV', 'wav']
     fullExt = '.' + extension
     for ext in sideExts:
         oldXMP = inString + '.' + ext
