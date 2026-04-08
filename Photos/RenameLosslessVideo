@@ -1,0 +1,166 @@
+#!/usr/bin/env python3
+"""
+Rename timestamped segment video files produced by LosslessCut
+
+This code was originally generated with Claude on April 7, 2026
+with a prompt approximately the same as the description below
+
+File name format:
+  <8-char-hex-encoded>-<timestamp>[-<timestamp>][-seg<N>].<ext>
+
+The 8 characters use a-p to represent hex digits 0-f.
+Non-segment files are renamed to just <8chars>.<ext>.
+Segment files are grouped by their 8-char base; the lowest segment number
+becomes the base name, and each successive segment increments the 8-char
+value by 1.
+"""
+
+import argparse
+import os
+import re
+import sys
+from collections import defaultdict
+
+# Encoding helpers
+
+CHARS = "abcdefghijklmnop"  # a=0 … p=15
+
+
+def decode(name8: str) -> int:
+    """Convert 8-char encoded string to an integer."""
+    val = 0
+    for ch in name8:
+        val = val * 16 + CHARS.index(ch)
+    return val
+
+
+def encode(val: int) -> str:
+    """Convert an integer back to an 8-char encoded string."""
+    chars = []
+    for _ in range(8):
+        chars.append(CHARS[val & 0xF])
+        val >>= 4
+    return "".join(reversed(chars))
+
+
+def increment(name8: str, by: int = 1) -> str:
+    return encode(decode(name8) + by)
+
+
+# Filename parsing
+
+PATTERN = re.compile(
+    r'^([a-p]{8})'  # 8-char encoded prefix
+    r'(?:-[\d.]+){1,2}'  # one or two timestamp fields
+    r'(?:-seg(\d+))?'  # optional segment number
+    r'\.([a-zA-Z0-9]+)$'  # extension
+)
+
+
+def parse(filename: str):
+    """Return (base8, seg_num_or_None, ext) or None if no match."""
+    m = PATTERN.match(filename)
+    if not m:
+        return None
+    base8, seg, ext = m.group(1), m.group(2), m.group(3)
+    return base8, (int(seg) if seg else None), ext
+
+
+# Main logic
+
+def collect_renames(directory: str):
+    """
+    Scan *directory* and return a list of (old_path, new_name) tuples.
+    Warnings are printed for files that can't be parsed.
+    """
+    # Separate plain files from segment files
+    plain = []  # (base8, ext, filename)
+    segments = defaultdict(list)  # base8 -> [(seg_num, ext, filename)]
+
+    for fname in os.listdir(directory):
+        if not os.path.isfile(os.path.join(directory, fname)):
+            continue
+        result = parse(fname)
+        if result is None:
+            # Not a matching file — silently skip
+            continue
+        base8, seg_num, ext = result
+        if seg_num is None:
+            plain.append((base8, ext, fname))
+        else:
+            segments[base8].append((seg_num, ext, fname))
+
+    renames = []
+
+    # Plain (no segment) files
+    for base8, ext, fname in plain:
+        new_name = f"{base8}.{ext}"
+        renames.append((fname, new_name))
+
+    # Segment files: sort by segment number, assign incremented names
+    for base8, entries in segments.items():
+        entries.sort(key=lambda t: t[0])  # sort by seg number
+        for offset, (seg_num, ext, fname) in enumerate(entries):
+            new_base = increment(base8, offset)
+            new_name = f"{new_base}.{ext}"
+            renames.append((fname, new_name))
+
+    return renames
+
+
+def apply_renames(directory: str, renames: list, dry_run: bool = False):
+    """Perform (or preview) the renames, skipping conflicts with a warning."""
+    for old_name, new_name in sorted(renames):
+        old_path = os.path.join(directory, old_name)
+        new_path = os.path.join(directory, new_name)
+
+        if old_name == new_name:
+            print(f" Skipping {old_name} (already correctly named)")
+            continue
+
+        if os.path.exists(new_path):
+            print(f" WARNING {old_name} -> {new_name} skipped, target already exists")
+            continue
+
+        if dry_run:
+            print(f" Dry-run {old_name} -> {new_name}")
+        else:
+            os.rename(old_path, new_path)
+            print(f" Renamed {old_name} -> {new_name}")
+
+
+def main():
+    parser = argparse.ArgumentParser(description="Rename timestamped segment files.")
+    parser.add_argument(
+        "directory",
+        nargs="?",
+        default=".",
+        help="Directory to process (default: current directory)",
+    )
+    parser.add_argument(
+        "--dry-run",
+        action="store_true",
+        help="Show what would be renamed without actually renaming",
+    )
+    args = parser.parse_args()
+
+    directory = os.path.abspath(args.directory)
+    if not os.path.isdir(directory):
+        print(f"Error: '{directory}' is not a directory.", file=sys.stderr)
+        sys.exit(1)
+
+    print(f"Processing: {directory}")
+    if args.dry_run:
+        print(" (dry-run mode — no files will be changed)\n")
+
+    renames = collect_renames(directory)
+    if not renames:
+        print(" No matching files found.")
+        return
+
+    apply_renames(directory, renames, dry_run=args.dry_run)
+    print(f"Done. {len(renames)} file(s) processed.")
+
+
+if __name__ == "__main__":
+    main()
