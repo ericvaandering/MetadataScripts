@@ -1,0 +1,123 @@
+#!/usr/bin/env python3
+"""
+Recursively finds files whose names encode a pixel count after a trailing
+underscore, e.g.:
+
+    ./C/CA0B/CA0B6167-7074-42C5-9F03-A778CB6A1560-2096d7e49ee4a4715d8fe11fdbaf48ec_3840
+
+Deletes files that exceed BOTH:
+  - a maximum age (in days, based on last-modified time), AND
+  - a maximum pixel count (parsed from the filename suffix)
+
+Usage:
+    python CleanupPreviews [root_dir] <max_age_days> <max_pixels> [--dry-run]
+
+    root_dir defaults to the current working directory if omitted.
+
+Examples:
+    python cleanup_by_age_and_pixels.py 30 4096 --dry-run
+    python cleanup_by_age_and_pixels.py ./cache 30 4096 --dry-run
+"""
+
+import argparse
+import os
+import re
+import sys
+import time
+
+# Matches a trailing "_<digits>" right before an optional extension, e.g.
+# "..._3840" or "..._3840.jpg"
+PIXEL_PATTERN = re.compile(r"_(\d+)(?:\.[A-Za-z0-9]+)?$")
+
+
+def parse_pixels(filename: str):
+    """Extract the pixel count from a filename. Returns int or None if no match."""
+    match = PIXEL_PATTERN.search(filename)
+    if match:
+        return int(match.group(1))
+    return None
+
+
+def file_age_days(path: str, now: float) -> float:
+    """Return the file's age in days based on last-modified time."""
+    mtime = os.path.getmtime(path)
+    return (now - mtime) / 86400.0
+
+
+def find_and_clean(root_dir: str, max_age_days: float, max_pixels: int, dry_run: bool = False):
+    now = time.time()
+    total_scanned = 0
+    total_matched = 0
+    total_deleted = 0
+    total_bytes_freed = 0
+
+    for dirpath, _dirnames, filenames in os.walk(root_dir):
+        for filename in filenames:
+            full_path = os.path.join(dirpath, filename)
+            total_scanned += 1
+
+            pixels = parse_pixels(filename)
+            if pixels is None:
+                continue  # doesn't match expected naming format, skip
+
+            total_matched += 1
+
+            try:
+                age_days = file_age_days(full_path, now)
+            except OSError as e:
+                print(f"WARN: could not stat {full_path}: {e}", file=sys.stderr)
+                continue
+
+            exceeds_age = age_days > max_age_days
+            exceeds_pixels = pixels > max_pixels
+
+            if exceeds_age and exceeds_pixels:
+                try:
+                    size = os.path.getsize(full_path)
+                except OSError:
+                    size = 0
+
+                if dry_run:
+                    print(f"[DRY RUN] Would delete: {full_path} "
+                          f"(age={age_days:.1f}d, pixels={pixels})")
+                else:
+                    try:
+                        os.remove(full_path)
+                        print(f"Deleted: {full_path} "
+                              f"(age={age_days:.1f}d, pixels={pixels})")
+                    except OSError as e:
+                        print(f"ERROR: could not delete {full_path}: {e}", file=sys.stderr)
+                        continue
+
+                total_deleted += 1
+                total_bytes_freed += size
+
+    print("\n--- Summary ---")
+    print(f"Scanned:  {total_scanned} files")
+    print(f"Matched:  {total_matched} files (recognized naming format)")
+    print(f"{'Would delete' if dry_run else 'Deleted'}: {total_deleted} files")
+    print(f"{'Would free' if dry_run else 'Freed'}: {total_bytes_freed / (1024**2):.2f} MB")
+
+
+def main():
+    parser = argparse.ArgumentParser(
+        description="Delete files older than max-age AND larger than max-pixels (both must be exceeded)."
+    )
+    parser.add_argument("root_dir", nargs="?", default=".",
+                         help="Root directory to recursively search (default: current working directory)")
+    parser.add_argument("max_age_days", type=float, help="Maximum age in days")
+    parser.add_argument("max_pixels", type=int, help="Maximum pixel count")
+    parser.add_argument("--dry-run", action="store_true",
+                         help="Print what would be deleted without actually deleting")
+
+    args = parser.parse_args()
+
+    if not os.path.isdir(args.root_dir):
+        print(f"Error: {args.root_dir} is not a valid directory", file=sys.stderr)
+        sys.exit(1)
+
+    find_and_clean(args.root_dir, args.max_age_days, args.max_pixels, dry_run=args.dry_run)
+
+
+if __name__ == "__main__":
+    main()
