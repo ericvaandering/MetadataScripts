@@ -10,13 +10,13 @@ Deletes files that exceed BOTH:
   - a maximum pixel count (parsed from the filename suffix)
 
 Usage:
-    python CleanupPreviews [root_dir] <max_age_days> <max_pixels> [--dry-run]
+    python CleanupPreviews [root_dir] -d <max_age_days> -p <max_pixels> [--dry-run]
 
     root_dir defaults to the current working directory if omitted.
 
 Examples:
-    python cleanup_by_age_and_pixels.py 30 4096 --dry-run
-    python cleanup_by_age_and_pixels.py ./cache 30 4096 --dry-run
+    python CleanupPreviews -d 30 -p 4096 --dry-run
+    python CleanupPreviews ./cache -d 30 -p 4096 --dry-run
 """
 
 import argparse
@@ -105,8 +105,10 @@ def main():
     )
     parser.add_argument("root_dir", nargs="?", default=".",
                          help="Root directory to recursively search (default: current working directory)")
-    parser.add_argument("max_age_days", type=float, help="Maximum age in days")
-    parser.add_argument("max_pixels", type=int, help="Maximum pixel count")
+    parser.add_argument("-d", "--max-age-days", type=float, required=True,
+                         dest="max_age_days", help="Maximum age in days")
+    parser.add_argument("-p", "--max-pixels", type=int, required=True,
+                         dest="max_pixels", help="Maximum pixel count")
     parser.add_argument("--dry-run", action="store_true",
                          help="Print what would be deleted without actually deleting")
 
